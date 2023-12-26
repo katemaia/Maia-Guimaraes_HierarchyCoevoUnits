@@ -25,15 +25,53 @@ sp_struct$IntType <- dataset[match(sp_struct$ID, dataset$ID), "IntType"]
 
 path <- "./Data/Matrices/"; net_names <- dir(path)
 
-# REMOVING multLC & starLC & TOO-LARGE (multiple largest components, star-shaped largest components)
+# REMOVING multLC & starLC (multiple largest components, star-shaped largest components)
 multLC <- c("Herb_CuevasReyes", "IZ_PA_DIM100", "IZ_PA_PAcamp", "M_AF_002_02", "M_AF_002_11")
 starLC <- c("IZ_PA_DIM10", "IZ_PA_PA10", "M_AF_002_07", "M_AF_002_16", "M_PL_061_33")
-too_large <- "M_PL_062" # it was not possible to profile this matrix
-net_names <- net_names[-grep(paste(c(multLC, starLC, too_large), collapse = "|"), net_names)] # N = 365
+net_names <- net_names[-grep(paste(c(multLC, starLC), collapse = "|"), net_names)] # N = 366
 
 net_list <- lapply(paste(path, net_names, sep = ""), read.table, header = TRUE, sep = "\t", check.names = FALSE)
 
+# ------------------ Adding subgraph to node-level data ------------------
+
+# Takes a long time as it uses a jack-knifing procedure.
+
+sp_struct$m6 <- NA
+for (i in 1:length(net_names)) {
+  
+  print(i); M <- net_list[[i]]; ID <- str_sub(net_names[i], end = -5)
+  
+  sp_M <- sp_struct[sp_struct$ID == ID, c("ID", "Species", "MDim", "Fiedler", "GC_Aff", "Mod_Aff")]
+  sp_M <- sp_M[!is.na(sp_M$GC_Aff) & sp_M$GC_Aff == 1,]
+  sp_M$Mod_Aff <- sp_M$Mod_Aff + 1
+  
+  M <- as.matrix(M[rownames(M) %in% sp_M$Species, colnames(M) %in% sp_M$Species])
+  if (any(c(rownames(M), colnames(M)) != sp_M$Species)) {print("ERROR")}
+  
+  # motif count in complete network (largest component)
+  nm6_M <- mcount(M, FALSE, FALSE, FALSE, FALSE)[6, "frequency"]
+  
+  sp_nm6 <- c()
+  if (nrow(M) > 2) {
+    for (j in 1:nrow(M)) {sp_nm6 <- c(sp_nm6, nm6_M - mcount(M[-j,], F, F, F, F)[6,"frequency"])}
+  } else {sp_nm6 <- c(sp_nm6, rep(nm6_M, nrow(M)))} # if nrow <= 2, nrow sp will be in nm6_M
+  if (ncol(M) > 2) {
+    for (j in 1:ncol(M)) {sp_nm6 <- c(sp_nm6, nm6_M - mcount(M[,-j], F, F, F, F)[6,"frequency"])}
+  } else {sp_nm6 <- c(sp_nm6, rep(nm6_M, ncol(M)))} # if ncol <= 2, ncol sp will be in nm6_M
+  
+  if (any(sp_struct[!is.na(sp_struct$GC_Aff) & sp_struct$GC_Aff == 1 & sp_struct$ID == ID, "Species"] != 
+          c(rownames(M), colnames(M)))) {print("ERROR")}
+  sp_struct[!is.na(sp_struct$GC_Aff) & sp_struct$GC_Aff == 1 & sp_struct$ID == ID, "m6"] <- sp_nm6
+}
+
+sp_struct <- sp_struct[, -8] # removes interaction type
+#write.table(sp_struct, "./Outputs/04_Node-Level_Struct.txt", sep = "\t", row.names = FALSE)
+
 # ----------------- Adding subgraph to network-level data -----------------
+
+too_large <- "M_PL_062"; too_large_posit <- grep("M_PL_062", net_names) # it was not possible to profile this matrix
+net_names <- net_names[-too_large_posit] # N = 365
+net_list <- net_list[-too_large_posit]
 
 # ----- subgraph in module and sector -----
 
@@ -202,37 +240,3 @@ head(net_struct); dim(net_struct)
 
 #write.table(net_struct, "./Outputs/04_Net-Level_Struct.txt", sep = "\t", row.names = FALSE)
 
-# ------------------ Adding subgraph to node-level data ------------------
-
-# Takes a long time as it uses a jack-knifing procedure.
-
-sp_struct$m6 <- NA
-for (i in 1:length(net_names)) {
-  
-  print(i); M <- net_list[[i]]; ID <- str_sub(net_names[i], end = -5)
-
-  sp_M <- sp_struct[sp_struct$ID == ID, c("ID", "Species", "MDim", "Fiedler", "GC_Aff", "Mod_Aff")]
-  sp_M <- sp_M[!is.na(sp_M$GC_Aff) & sp_M$GC_Aff == 1,]
-  sp_M$Mod_Aff <- sp_M$Mod_Aff + 1
-  
-  M <- as.matrix(M[rownames(M) %in% sp_M$Species, colnames(M) %in% sp_M$Species])
-  if (any(c(rownames(M), colnames(M)) != sp_M$Species)) {print("ERROR")}
-  
-  # motif count in complete network (largest component)
-  nm6_M <- mcount(M, FALSE, FALSE, FALSE, FALSE)[6, "frequency"]
-  
-  sp_nm6 <- c()
-  if (nrow(M) > 2) {
-    for (j in 1:nrow(M)) {sp_nm6 <- c(sp_nm6, nm6_M - mcount(M[-j,], F, F, F, F)[6,"frequency"])}
-  } else {sp_nm6 <- c(sp_nm6, rep(nm6_M, nrow(M)))} # if nrow <= 2, nrow sp will be in nm6_M
-  if (ncol(M) > 2) {
-    for (j in 1:ncol(M)) {sp_nm6 <- c(sp_nm6, nm6_M - mcount(M[,-j], F, F, F, F)[6,"frequency"])}
-  } else {sp_nm6 <- c(sp_nm6, rep(nm6_M, ncol(M)))} # if ncol <= 2, ncol sp will be in nm6_M
-  
-  if (any(sp_struct[!is.na(sp_struct$GC_Aff) & sp_struct$GC_Aff == 1 & sp_struct$ID == ID, "Species"] != 
-    c(rownames(M), colnames(M)))) {print("ERROR")}
-  sp_struct[!is.na(sp_struct$GC_Aff) & sp_struct$GC_Aff == 1 & sp_struct$ID == ID, "m6"] <- sp_nm6
-}
-
-sp_struct <- sp_struct[, -8] # removes interaction type
-#write.table(sp_struct, "./Outputs/04_Node-Level_Struct.txt", sep = "\t", row.names = FALSE)
