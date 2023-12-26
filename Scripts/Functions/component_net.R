@@ -1,17 +1,16 @@
-# --------------------- component structure --------------------
+# ------ component_net - network-level component structure -----
 
 # Author: Kate P Maia
-# Date: 06/2020 (Checked: 12/2023)
+# Checked: 12/2023
 
-# component_str: creates dataframe with information on the network-level component structure. 
-# input: M (incidence interaction matrix [I, J])
+# Creates dataframe with information on the network-level component structure. 
 # output: df with number of components (NComp), size of the largest component (CSize) and number of components with the largest size (nLarge).
 
 library(igraph)
 
 # --------------------------------------------------------------
 
-component_str <- function(M) {
+component_net <- function(M) {
   
   # Adjacency from incidence matrix
   nA <- nrow(M); nP <- ncol(M)

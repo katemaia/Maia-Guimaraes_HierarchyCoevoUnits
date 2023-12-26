@@ -8,6 +8,8 @@
 # NODE AFFILIATION TO COMPONENTS AND SECTORS (prints LC matrices)
 # NODE AFFILIATION TO MODULES
 
+# output: df with network network ID, species' name, species' MDim (matrix dimension to identify whether a consumer or resource species), species' degree, largest component affiliation (GC_Aff), sector affiliation (Fiedler), and module affiliation (Mod_Aff).
+
 # --------------------- Loading library, code and data --------------------
 
 library(tidyverse)
