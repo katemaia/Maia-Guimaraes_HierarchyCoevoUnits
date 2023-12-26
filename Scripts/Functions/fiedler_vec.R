@@ -1,16 +1,16 @@
-# ------------------------- fiedler_GC -------------------------
+# --------- fiedler_vec - species affiliation to sector --------
 
 # Author: Kate P Maia
 # Checked: 12/2023
 
-# fiedler_GC: calculates the fiedler vector of networks'largest components. 
-# output: list with one df for each largest component; with the name of each node in the component and its fiedler value
+# fiedler_vec: calculates the fiedler vector of networks' largest components. 
+# output: list with one df for each largest component; with the name of each compoentn node (sp) and its fiedler value.
 
 library(igraph)
 
 # --------------------------------------------------------------
 
-fiedler_GC <- function(M) {
+fiedler_vec <- function(M) {
   
   # Adjacency from incidence matrix
   nA <- nrow(M); nP <- ncol(M)
@@ -27,9 +27,8 @@ fiedler_GC <- function(M) {
   largclu <- which(clu$csize == max(clu$csize)) # largest component(s)
   comp.sp <- groups(clu) # species affiliation to each component
   
-  # For each largest component
   fiedler_GC <- list()
-  for (i in 1:length(largclu)) {
+  for (i in 1:length(largclu)) { # foor networks with multiple largest components
     lc <- largclu[i] 
     lcsp <- comp.sp[[lc]]
     glc <- induced_subgraph(g, lcsp)
