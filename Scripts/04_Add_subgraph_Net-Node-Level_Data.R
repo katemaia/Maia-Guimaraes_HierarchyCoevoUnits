@@ -69,10 +69,6 @@ sp_struct <- sp_struct[, -8] # removes interaction type
 
 # ----------------- Adding subgraph to network-level data -----------------
 
-too_large <- "M_PL_062"; too_large_posit <- grep("M_PL_062", net_names) # it was not possible to profile this matrix
-net_names <- net_names[-too_large_posit] # N = 365
-net_list <- net_list[-too_large_posit]
-
 # ----- subgraph in module and sector -----
 
 net_m6 <- data.frame(ID = str_sub(net_names, end = -5), n_m6 = NA, n_m6_mod = NA, mean_m6_mod = NA, sd_m6_mod = NA, p_m6_mod = NA, n_m6_sect = NA, mean_m6_sect = NA, sd_m6_sect = NA, p_m6_sect = NA)
@@ -157,6 +153,11 @@ net_struct <- cbind(net_struct[,-18], net_m6[match(net_struct$ID, net_m6$ID), -1
 
 # ----- subgraph in module-sector (double hierarchy) -----
 
+# remove as it was not possible to profile this matrix
+too_large <- "M_PL_062"; too_large_posit <- grep("M_PL_062", net_names) 
+net_names <- net_names[-too_large_posit] # N = 365
+net_list <- net_list[-too_large_posit]
+
 path <- "./Outputs/m6-Profiles/"; prf_names <- dir(path)
 path <- "./Data/Matrices/"; net_names <- dir(path)
 net_names <- net_names[net_names %in% gsub("prf_", "", prf_names)]
@@ -239,4 +240,3 @@ net_struct <- cbind(net_struct, net_m6[match(net_struct$ID, net_m6$ID), -1])
 head(net_struct); dim(net_struct)
 
 #write.table(net_struct, "./Outputs/04_Net-Level_Struct.txt", sep = "\t", row.names = FALSE)
-
