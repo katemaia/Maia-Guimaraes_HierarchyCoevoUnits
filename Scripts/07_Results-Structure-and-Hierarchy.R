@@ -1,4 +1,4 @@
-# --------------- Manuscript figures: groups and hierarchy ----------------
+# --------------- Manuscript results: groups and hierarchy ----------------
 
 # Author: Kate P Maia
 # Checked: 12/2023
