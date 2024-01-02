@@ -73,12 +73,9 @@ for (i in 1:length(net_names)) {
   nempty2 <- unlist(lapply(TElist, function(x) sum(x == 0))) # empty in TE
   if (any(c(nempty1 + nS) != nempty2)) {print("ERROR in DIAG")}
   
-  teffsum <- unlist(lapply(TElist, sum)); deffsum <- unlist(lapply(Qlist, sum)) # TE* and Q matrix sum
-  
   # Creates list of indirect effects: removes Q (ieffsum), then zeroes cells of direct effects (partition) 
   INDlist <- mapply(function(X, Y) {X[Y != 0] <- 0; return(X)}, X = TElist, Y = Qlist, SIMPLIFY = FALSE)
   if (any(c(nempty2 + nlink) != unlist(lapply(INDlist, function(x) sum(x == 0))))) {print("ERROR in IND")}
-  ieffsum <- unlist(lapply(INDlist, sum)) # IND* matrix sum
   
   # Starts to partition effects into groups: inin, inbet, betin, betbet
   sp_df <- sp_struct[sp_struct$ID == ID,] # CHECKED - matches dim of effect matrices
@@ -101,7 +98,7 @@ for (i in 1:length(net_names)) {
   # Partitions effects in inSinM, inSbetM, betSinM, betSbetM per m
   teff <- partition_eff(teff); deff <- partition_eff(deff); ieff <- partition_eff(ieff)
   
-  effects_df <- rbind(teff, deff, ieff); effects_df <- cbind(effects_df, sum = c(teffsum, deffsum, ieffsum))
+  effects_df <- rbind(teff, deff, ieff)
   effects_df <- cbind(ID = ID, IntType = type, effmeasure = rep(c("teff", "deff", "ieff"), each = length(m_vec)), effects_df)
   
   partition_df <- rbind(partition_df, effects_df)
