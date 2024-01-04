@@ -43,20 +43,6 @@ net_names <- net_names[-grep(paste(c(multLC, starLC, too_large), collapse = "|")
 
 prf_names <- dir("./Outputs/m6-Profiles"); length(net_names) == length(prf_names)
 
-# ---------- CROPPING TO RUN ----------
-
-crop <- net_struct[!net_struct$ID %in% c(multLC, starLC, "M_PL_062"),]
-dim(crop); any(is.na(crop$n_m6))
-
-crop[crop$n_m6 >= 100000,] # 3 - MISSING Pearse&Alterm
-#crop_names <- crop[crop$n_m6 >= 50000, "ID"][2]; length(crop_names) # ***** CROP *****
-
-#crop[crop$n_m6 <= 100,] # 3 - MISSING Pearse&Alterm
-crop_names <- crop[crop$n_m6 > 100000, "ID"]; length(crop_names) # ***** CROP *****
-
-net_names <-  grep(paste(crop_names, collapse = "|"), net_names, value = TRUE) # ***** CROP *****
-prf_names <-  grep(paste(crop_names, collapse = "|"), prf_names, value = TRUE) # ***** CROP *****
-
 prf_list <- lapply(paste("./Outputs/m6-Profiles/", prf_names, sep = ""), read.table, header = TRUE, sep = "\t")
 
 all(str_sub(net_names, end = -5) == str_sub(prf_names, start = 5, end = -5))
