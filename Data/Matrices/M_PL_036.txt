@@ -1,0 +1,11 @@
+"Unidentified_sp1_M_PL_036"	"Unidentified_sp2_M_PL_036"	"Unidentified_sp3_M_PL_036"	"Apis_mellifera"	"Bombus_sp1_M_PL_036"	"Unidentified_sp4_M_PL_036"	"Lucilia_sp1_M_PL_036"	"Calliphora_sp1_M_PL_036"	"Moth_sp1_M_PL_036"	"Unidentified_sp5_M_PL_036"	"Unidentified_sp6_M_PL_036"	"Unidentified_sp7_M_PL_036"
+"Azorina_vidalii"	1	1	1	1	1	1	0	1	0	0	0	1
+"Crithmum_maritimum"	0	1	1	0	0	0	1	0	0	0	1	0
+"Daucus_carota"	1	1	0	0	0	0	1	0	0	0	0	0
+"Leucanthemum_vulgare"	1	1	0	0	0	0	0	0	0	1	0	0
+"Lotus_corniculatus"	0	0	0	1	1	1	0	0	0	0	0	0
+"Freesia_sp1_M_PL_036"	0	0	0	0	1	1	0	0	0	0	0	0
+"Reseada_luteola"	1	0	0	1	0	0	0	0	0	0	0	0
+"Silene_vulgaris"	1	0	1	0	0	0	0	0	0	0	0	0
+"Solidago_sempervirens"	1	0	0	0	0	0	0	0	1	0	0	0
+"Beta_maritima"	0	0	1	0	0	0	0	0	0	0	0	0

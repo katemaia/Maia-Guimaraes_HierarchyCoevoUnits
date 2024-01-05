@@ -1,0 +1,8 @@
+"Lasioglossum_mahense"	"Apis_mellifera"	"Ornidia_obesa"	"Parasarcophaga_hirticeps"	"Unidentified_sp1_M_PL_109"	"Xylocopa_caffra"	"Hemipyrellia_germana"	"Pachycerina_seychellensis"	"Dichaetomyia_fasciculifera"	"Hemipyrellia_sp1_M_PL_109"	"Lygistorrhina_sp1_M_PL_109"	"Plagiostenopterina_cyanosoma"	"Simosyrphus_aegyptius"
+"Canthium_bibracteatum"	18	9	2	0	0	0	4	0	0	0	0	0	0
+"Psidium_cattleianum"	0	20	3	5	0	1	0	0	0	0	0	0	0
+"Premna_serratifolia"	4	0	4	3	6	0	1	2	2	1	0	0	0
+"Erythroxylum_sechellarum"	13	3	0	0	0	0	0	1	0	0	2	0	0
+"Cinnamomum_verum"	13	0	1	1	0	0	0	0	0	1	0	2	0
+"Ochna_kirkii"	0	0	0	0	0	5	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	2	0	0	0	0	0	0	0	0	0	0	1

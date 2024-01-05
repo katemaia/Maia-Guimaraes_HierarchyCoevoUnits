@@ -1,0 +1,19 @@
+"Apis_mellifera"	"Chaetocnema_sp1_M_PL_078"	"Villa_unifasciata"	"Pachycerina_crinicornis"	"Musca_domestica"	"Chrysomya_megacephala"	"Technomyrmex_albipes"	"Cerambycidae_sp1_M_PL_078"	"Stomorhina_lunata"	"Dysauxes_florida"	"Lygaeidae_sp1_M_PL_078"	"Pelecophora_intemipta"	"Scolia_carniflex"
+"Sideroxylon_puberulum"	24	0	0	0	0	1	0	0	0	0	0	0	0
+"Psiadia_terebinthina"	8	0	3	0	0	0	1	2	1	0	1	0	1
+"Psidium_cattleianum"	4	0	6	0	0	0	0	0	0	0	0	0	0
+"Helichrysum_proteoides"	0	2	0	1	3	2	0	0	0	1	0	0	0
+"Stillingia_lineata"	0	3	0	6	0	0	0	0	0	0	0	0	0
+"Grangeria_borbonica"	3	2	0	0	1	0	0	0	1	0	0	0	0
+"Antidesma_madagascariense"	0	2	1	1	0	0	2	0	0	0	0	0	0
+"Labourdonnaisia_callophylloides"	2	2	0	1	0	0	0	0	0	0	0	1	0
+"Olea_lancea"	0	3	1	0	0	0	0	0	0	0	0	0	0
+"Euodia_obtusifolia"	0	3	0	0	0	0	0	0	0	0	0	0	0
+"Warneckea_trinervis"	3	0	0	0	0	0	0	0	0	0	0	0	0
+"Homalanthus_populifolius"	0	2	0	0	0	0	0	0	0	0	0	0	0
+"Phyllanthus_phillyreifolius"	0	2	0	0	0	0	0	0	0	0	0	0	0
+"Wikstroemia_indica"	0	2	0	0	0	0	0	0	0	0	0	0	0
+"Badula_platiphylla"	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Eugenia_orbiculata"	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Euodia_chapelieri"	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Gaertnera_sp1_M_PL_078"	0	0	1	0	0	0	0	0	0	0	0	0	0

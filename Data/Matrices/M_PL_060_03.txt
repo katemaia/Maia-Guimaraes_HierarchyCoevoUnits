@@ -1,0 +1,14 @@
+"Stomorhina_lunata"	"Pachycerina_crinicornis"	"Apis_mellifera"	"Brachymyrmex_sp1_M_PL_062"	"Fannia_pusio"	"Technomyrmex_albipes"	"Chaetocnema_sp1_M_PL_062"	"Chrysomya_megacephala"	"Eristalinus_flaveolus"	"Musca_domestica"	"Allograpta_nasuta"	"Syritta_nigrofemorata"	"Phorinia_sp1_M_PL_062"	"Leptotes_pirithous"	"Lygaeidae_sp1_M_PL_062"	"Lygistorrhina_sp1_M_PL_062"	"Nacoleia_sp1_M_PL_062"	"Polistes_hebraeus"	"Psilopa_iceryae"	"Diptera_sp1_M_PL_062"	"Paragus_borbonicus"	"Stomoxys_niger"	"Episyrphus_sp1_M_PL_062"	"Unidentified_sp7_M_PL_062"	"Graphomya_maculata"	"Sepsis_lateralis"	"Acalyptrate_sp1_M_PL_062"	"Homoneura_sp1_M_PL_062"	"Limnophora_quaterna"	"Pelecophora_intemipta"	"Stomoxys_calcitrans"	"Villa_unifasciata"	"Zosterops_mauritianus"	"Dioxyna_sororcula"	"Henotesia_narcissus"	"Phelsuma_cepediana"	"Pteromalidae_sp1_M_PL_062"	"Tarundia_servillei"	"Cheloninae_sp1_M_PL_062"	"Hyadina_sp1_M_PL_062"	"Ischiodon_aegyptius"	"Mauritiborium_undulatus"	"Panara_naso"	"Pterophoridae_sp1_M_PL_062"	"Sarcophaga_arno"
+"Toddalia_asiatica"	23	57	0	3	5	11	0	1	1	2	1	3	7	1	0	0	0	0	8	0	0	1	0	0	0	4	0	0	0	3	0	0	0	2	2	0	0	0	1	0	0	0	0	0	0
+"Molinaea_alternifolia"	19	2	18	11	30	7	0	6	2	2	0	0	0	3	0	0	5	0	0	0	5	3	0	0	2	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Aphloia_theiformis"	23	2	46	13	0	0	0	0	6	0	1	2	0	0	0	0	3	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psiadia_terebinthina"	23	2	8	22	0	0	0	2	2	1	2	3	3	0	8	0	0	1	0	0	1	1	0	5	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Stillingia_lineata"	0	15	0	1	7	3	11	0	0	2	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0
+"Croton_fothergillifolius"	8	9	0	1	0	0	7	2	1	7	0	1	0	2	0	0	0	0	0	0	1	2	1	1	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Roussea_simplex"	0	6	12	4	1	0	0	0	0	1	7	0	0	0	0	8	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	2	0	0	0	0	0	0	0	0	0
+"Erythroxylum_macrocarpum"	7	1	0	0	0	0	1	2	3	0	2	3	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+"Chassalia_coriacea"	3	2	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0
+"Bertiera_zaluzania"	1	0	0	0	0	0	0	6	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dodonaea_viscosa"	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Antirhea_borbonica"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Claoxylon_linostachys"	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

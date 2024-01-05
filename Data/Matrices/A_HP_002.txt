@@ -1,0 +1,19 @@
+"Megabothris_walkeri"	"Ctenophthalmus_breviatus"	"Citellophilus_tesquorum"	"Ctenophthalmus_assimilis"	"Neopsylla_pleskei"	"Amalaraeus_penicilliger"	"Neopsylla_setosa"	"Oropsylla_silantiewi"	"Frontopsylla_elata"	"Stenoponia_ivanovi"	"Amphipsylla_sibirica"	"Amphipsylla_rossica"	"Mesopsylla_hebes"	"Palaeopsylla_soricis"	"Hystrichopsylla_talpae"	"Peromyscopsylla_bidentata"	"Amphipsylla_kuznetzovi"	"Amphipsylla_prima"	"Pectinoctenus_pavlovskii"	"Oropsylla_ilovaiskii"	"Corrodopsylla_birulai"	"Amphipsylla_dumalis"	"Frontopsylla_elatoides"	"Leptopsylla_segnis"
+"Arvicola_terrestris"	449	107	26	82	40	2	0	0	6	0	0	6	0	0	5	0	0	0	6	0	0	0	0	0
+"Lagurus_lagurus"	0	159	106	4	44	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0
+"Clethrionomys_glareolus"	4	0	0	46	3	132	9	0	8	0	20	0	0	0	10	11	0	0	0	0	0	0	0	0
+"Cricetus_cricetus"	18	94	19	7	38	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0
+"Microtus_oeconomus"	31	18	0	12	6	0	0	0	2	25	2	8	0	0	0	2	4	0	0	0	0	0	0	0
+"Microtus_gregalis"	7	30	16	27	12	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Spermophilus_pygmaeus"	0	41	16	0	0	0	3	0	0	0	0	0	2	0	0	0	0	2	0	5	0	0	2	0
+"Marmota_bobak"	0	0	2	0	0	0	10	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Allocricetulus_eversmanni"	0	22	7	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neomys_fodiens"	11	2	0	15	2	0	0	0	2	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0
+"Sorex_araneus"	2	3	0	6	2	2	0	0	2	0	0	0	0	11	0	0	0	0	0	0	4	0	0	0
+"Cricetulus_migratorius"	2	7	3	0	2	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Microtus_arvalis"	4	20	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+"Allactaga_major"	0	2	2	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0
+"Apodemus_uralensis"	0	6	2	3	0	2	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Spermophilus_major"	2	11	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sicista_subtilis"	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+"Ellobius_talpinus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0

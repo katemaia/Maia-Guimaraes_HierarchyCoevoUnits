@@ -1,0 +1,9 @@
+"Citellophilus_tesquorum"	"Megabothris_advenarius"	"Catallagia_ioffi"	"Amphipsylla_primaris"	"Catallagia_dacenkoi"	"Frontopsylla_luculenta"	"Amalaraeus_penicilliger"	"Megabothris_calcarifer"	"Ceratophyllus_indages"	"Corrodopsylla_birulai"	"Megabothris_rectangulatus"	"Oropsylla_alaskensis"	"Ceratophyllus_paradoxus"	"Amphipsylla_marikovskii"	"Neopsylla_mana"	"Rhadinopsylla_dahurica"	"Rhadinopsylla_pseudodahurica"
+"Clethrionomys_rutilus"	0	101	95	24	70	2	35	0	2	7	8	0	9	3	0	2	2
+"Spermophilus_undulatus"	149	0	0	0	0	38	0	0	0	6	2	13	0	0	0	0	0
+"Microtus_gregalis"	0	26	11	49	0	16	9	21	0	0	13	0	0	0	3	0	0
+"Tamias_sibiricus"	0	0	2	0	0	0	0	3	34	6	2	0	0	0	0	0	0
+"Microtus_oeconomus"	0	8	2	4	0	0	4	18	0	0	2	0	0	0	0	0	0
+"Myopus_schisticolor"	0	0	0	0	5	0	0	0	0	5	0	0	0	0	0	0	0
+"Sorex_araneus"	4	0	0	0	0	0	0	0	0	3	0	3	0	0	0	0	0
+"Sciurus_vulgaris"	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0

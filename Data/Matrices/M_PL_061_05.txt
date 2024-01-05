@@ -1,0 +1,13 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Ornidia_obesa"	"Nectarinia_dussumieri"	"Phelsuma_sp1_M_PL_088"	"Neophyllomyza_approximatonervis"	"Hemipyrellia_germana"	"Megachile_seychellensis"	"Geron_seychellarum"	"Unidentified_sp2_M_PL_088"	"Mabuya_sechellensis"	"Musca_domestica"	"Parasarcophaga_hirticeps"	"Rhiparida_seychellensis"	"Rhynchium_brunneum"	"Cratopus_aurostriatus"	"Eristalinus_vicarians"	"Hemipyrellia_sp1_M_PL_088"	"Lampides_boeticus"	"Lygistorrhina_sp1_M_PL_088"	"Scaptodrosophila_sp1_M_PL_088"	"Unidentified_sp1_M_PL_088"
+"Medusagyne_oppositifolia"	36	0	10	0	0	0	5	0	0	0	0	2	1	0	2	0	1	1	0	0	1	0
+"Nephrosperma_vanhoutteanum"	11	20	3	0	2	5	2	4	2	3	0	0	1	0	0	0	0	0	0	1	0	1
+"Deckenia_nobilis"	40	4	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psychotria_pervillei"	20	0	2	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phoenicophorium_borsigianum"	5	7	0	0	2	2	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	8	7	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Syzygium_wrightii"	0	0	0	10	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+"Diospyros_seychellarum"	6	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mimusops_sechellarum"	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Canthium_bibracteatum"	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Timonius_sechellensis"	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

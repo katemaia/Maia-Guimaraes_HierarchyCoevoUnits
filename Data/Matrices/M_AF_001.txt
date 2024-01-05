@@ -1,0 +1,11 @@
+"Amphiprion_clarkii"	"Amphiprion_akindynos"	"Amphiprion_chrysopterus"	"Amphiprion_chrysogaster"	"Amphiprion_bicinctus"	"Amphiprion_tricinctus"	"Amphiprion_perideraion"	"Amphiprion_allardi"	"Amphiprion_melanopus"	"Amphiprion_ocellaris"	"Amphiprion_percula"	"Amphiprion_leucokranos"	"Amphiprion_polymnus"	"Amphiprion_omanensis"	"Amphiprion_rubrocinctus"	"Amphiprion_sandaracinos"	"Amphiprion_akallopisos"	"Amphiprion_ephippium"	"Amphiprion_frenatus"	"Amphiprion_fuscocaudatus"	"Amphiprion_latezonatus"	"Amphiprion_latifasciatus"	"Amphiprion_mccullochi"	"Amphiprion_nigripes"	"Amphiprion_sebae"	"Premnas_biaculeatus"
+"Heteractis_crispa"	1	1	1	0	1	1	1	0	1	0	1	1	1	1	0	1	0	1	0	0	1	0	0	0	0	0
+"Entacmaea_quadricolor"	1	1	1	0	1	1	0	1	1	0	0	0	0	1	1	0	0	1	1	0	0	0	1	0	0	1
+"Heteractis_magnifica"	1	1	1	1	1	0	1	0	1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+"Stichodactyla_mertensii"	1	1	1	1	1	1	0	1	0	1	0	1	0	0	0	1	1	0	0	1	0	1	0	0	0	0
+"Heteractis_aurora"	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Stichodactyla_gigantea"	1	1	0	0	1	0	1	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Stichodactyla_haddoni"	1	1	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0
+"Macrodactyla_doreensis"	1	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Heteractis_malu"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cryptodendrum_adhaesivum"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

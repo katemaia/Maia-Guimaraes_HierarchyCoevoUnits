@@ -1,0 +1,7 @@
+"Tetraonchus_monenteron"	"Discocotyle_sagittata"	"Crepidostomum_farionis"	"Crepidostomum_cooperi"	"Phyllodistomum_coregoni"	"Phyllodistomum_lachancei"	"Triaenophorus_crassus"	"Triaenophorus_crassus_(L)"	"Eubothrium_salvelini"	"Diphyllobothrium_sp._(L)"	"Proteocephalus_pinguis"	"Proteocephalus_tumidocollus"	"Proteocephalus_sp.1"	"Proteocephalus_sp.2"	"Raphidascaris_sp."	"Raphidascaris_canadensis"	"Capillaria_salvelini"	"Metabronema_salvelini"	"Metechinorhynchus_lateralis"	"Neoechinorhynchus_crassus"	"Ergasilus_caeruleus"	"Salmincola_extumescens"	"Salmincola_coregonorum"	"Salmincola_edwardsii"	"Salmincola_siscowet"
+"Salmo_salar"	0	1	0	1	0	1	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+"Salvelinus_fontinalis"	0	1	1	0	0	1	0	0	1	1	0	1	1	1	1	0	1	1	1	0	0	0	0	1	0
+"Salvelinus_namaycush"	1	0	1	1	0	1	0	1	1	1	0	1	1	1	1	0	1	0	0	0	0	0	0	0	1
+"Coregonus_clupeaformis"	0	1	1	1	1	0	0	1	0	1	0	1	1	1	1	0	1	0	0	0	0	1	1	0	0
+"Esox_lucius"	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+"Catostomus_catostomus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0

@@ -1,0 +1,27 @@
+"Capitophorus_carduinis"	"Aphis_fabae"	"Uroleucon_cirsii"	"Microlophium_carnosum"	"Aphis_urticata"	"Cavariella_pastinacae"	"Myzus_persicae"	"Brachycaudus_sp._A"	"Acyrthosiphon_pisum"	"Macrosiphun_funestum"	"Amphorophora_rubi"	"Aphis_ruborum"	"Aphis_rumicis"	"Metopolophium_albidum"	"Sitobion_fragariae"	"Sitobion_avenae"	"Megoura_viciae"	"Aphis_epilobii"	"Aphis_grossulariae"	"Sitobion_ptericolens"	"Ovatus_glechomae"	"Aphis_jacobaea"	"Aphis_salicariae"	"Brachycaudus_sp._B"	"Aphis_sarothamni"
+"Agrostis_stolonifera"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+"Angelica_sylvestris"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Anthoxanthum_odoratum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+"Arrhenatherum_elatius"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Chamerion_angustifolium"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"Cirsium_arvense"	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cirsium_palustre"	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cytisus_scoparius"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Dactylis_glomerata"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+"Deschampsia_cespitosa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+"Epilobium_ciliatum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+"Epilobium_montanum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+"Glechoma_hederaceae"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Holcus_lanatus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+"Holcus_mollis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+"Lathyrus_pratensis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"Lotus_ulginosus"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Poa_pratensis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+"Poa_trivialis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+"Pteridium_aquilinum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Ranunculus_repens"	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rubus_sp."	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Rumex_crispus"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Rumex_obtusifolius"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Senecio_jacobaea"	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+"Urtica_dioica"	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

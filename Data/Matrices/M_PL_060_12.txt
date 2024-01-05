@@ -1,0 +1,12 @@
+"Apis_mellifera"	"Stomorhina_lunata"	"Musca_domestica"	"Chrysomya_megacephala"	"Ophyra_capensis"	"Paragus_borbonicus"	"Eristalinus_flaveolus"	"Ornidia_obesa"	"Phelsuma_cepediana"	"Polistes_hebraeus"	"Phorinia_sp1_M_PL_071"	"Trirhithrum_sp1_M_PL_071"	"Sepsis_lateralis"	"Episyrphus_sp1_M_PL_071"	"Graphomya_maculata"	"Lygistorrhina_sp1_M_PL_071"	"Syritta_sp1_M_PL_071"	"Lecithoceridae_sp1_M_PL_071"	"Nacoleia_sp1_M_PL_071"	"Pachycerina_crinicornis"	"Paleorhiza_sp1_M_PL_071"	"Scolia_carniflex"	"Simulium_sp1_M_PL_071"	"Simulium_sp2_M_PL_071"	"Zizeeria_knysa"	"Zosterops_mauritianus"
+"Syzygium_glomeratum"	0	4	6	7	0	1	3	0	0	0	5	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0
+"Stillingia_lineata"	0	0	5	4	4	0	0	0	0	0	0	3	4	0	3	0	0	0	0	1	0	0	0	1	0	0
+"Badula_insularis"	1	9	1	1	0	0	1	5	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Aphloia_theiformis"	3	5	2	1	2	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Syzygium_petrinese"	5	0	0	0	0	0	0	0	5	6	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Diospyros_revaughanii"	13	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"Pleurostylia_leucocarpa"	0	1	3	0	1	5	0	0	0	0	0	1	0	0	0	2	2	0	0	0	0	0	1	0	0	0
+"Calophyllum_eputamen"	3	2	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pandanus_rigidifolius"	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Turraea_rigida"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Xyris_sp1_M_PL_071"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

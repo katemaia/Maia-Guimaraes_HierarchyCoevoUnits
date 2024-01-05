@@ -1,0 +1,14 @@
+"Centris_aenea"	"Centris_fuscata"	"Centris_caxiensis"	"Centris_tarsata"	"Centris_flavifrons"	"Centris_trigonoides"	"Centris_obsoleta"	"Epicharis_sp1_M_PL_059"	"Apis_mellifera"	"Centris_sp1_M_PL_059"	"Centris_sp2_M_PL_059"	"Xylocopa_sp1_M_PL_059"	"Xylocopa_grisescens"
+"Diplopterys_pubipetala"	1368	1364	740	460	416	256	0	328	364	368	0	0	0
+"Byrsonima_gardnerana"	924	320	2108	464	284	0	0	0	28	0	0	0	0
+"Banisteriopsis_muricata"	396	468	108	140	272	652	912	364	44	0	368	164	84
+"Heteropterys_sp1_M_PL_059"	764	680	528	308	404	300	0	28	0	0	0	76	0
+"Heteropterys_sp2_M_PL_059"	740	656	528	332	0	324	0	116	116	0	0	0	0
+"Dicella_bracteosa"	556	512	356	132	524	0	0	0	0	0	0	0	0
+"Carolus_chasei"	604	452	432	200	0	0	0	0	0	0	0	0	0
+"Stigmaphyllon_paralias"	504	816	0	0	0	0	0	0	0	0	0	0	0
+"Banisteriopsis_stellaris"	292	300	244	116	0	0	0	0	0	0	0	0	0
+"Banisteriopsis_schizoptera"	228	224	124	120	0	0	0	0	0	0	0	0	0
+"Stigmaphyllon_auriculatum"	240	164	68	0	196	0	0	0	0	0	0	0	0
+"Stigmaphyllon_ciliatum"	268	196	0	0	164	0	0	0	0	0	0	0	0
+"Janusia_anisandra"	188	244	0	96	0	0	0	0	0	0	0	0	0

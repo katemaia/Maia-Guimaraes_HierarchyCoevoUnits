@@ -1,0 +1,15 @@
+"Artibeus_lituratus"	"Carollia_perspicillata"	"Chiroderma_doriae"	"Glossophaga_soricina"	"Platyrrhinus_lineatus"	"Phyllostomus_discolor"	"Pygoderma_bilabiatum"	"Sturnira_lilium"
+"Cecropia_hololeuca"	1	0	0	1	0	0	0	0
+"Cecropia_pachystachia"	1	0	0	0	1	0	0	0
+"Muntingia_calabura"	0	0	0	1	0	0	0	1
+"Ficus_enormis"	1	0	0	0	1	0	1	1
+"Ficus_cf_insipida"	1	0	0	0	1	0	0	0
+"Ficus_luschnatiana"	1	0	0	0	1	0	0	0
+"Ficus_sp_1"	1	0	1	0	1	0	0	1
+"Ficus_sp_2"	1	0	0	0	0	0	0	0
+"Maclura_tinctoria"	0	0	0	0	0	0	1	0
+"Piper_amalago"	0	1	0	0	0	0	0	1
+"Piper_arboreum"	1	1	0	0	0	0	0	1
+"Piper_sp_2"	1	1	0	0	0	0	0	1
+"Solanum_granuloso-leprosum"	1	1	0	0	1	1	1	1
+"Solanum_inaequale"	0	0	0	0	0	0	0	1

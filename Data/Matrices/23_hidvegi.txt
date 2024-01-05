@@ -1,0 +1,13 @@
+"Diplostomum_spathaceum"	"Argulus_foliaceus"	"Tylodelphis_clavata"	"Myxobolus_pseudodispar"	"Paradiplozoon_homoion"	"Anodonta_sp."	"Hoferellus_carassii"	"Myxobolus_anurum"	"Myxobolus_bramae"	"Myxobolus_cyprini"	"Myxobolus_dispar"	"Henneguya_oviperda"	"Dactylogyrus_auriculatus"	"Dactylogyrus_crucifer"	"Dactylogyrus_vistulae"	"Dactylogyrus_extensus"	"Tetraonchus_monenteron"	"Diplozoon_paradoxum"	"Diplozoon_scardinii"	"Eudiplozoon_nipponicum"	"Khawia_sp."	"Proteocephalus_cernuae"	"Proteocephalus_percae"	"Proteocephalus_torulosus"	"Echinostomum_sp."	"Posthodiplostomum_cuticola"	"Skrjabillanus_scardinii"	"Skrjabillanus_tincae"	"Skrjabillanus_cyprini"	"Molnaria_intestinalis"	"Skrjabillanida_sp."	"Philometroides_sanguinea"	"Piscicola_geometra"	"Ergasilus_sieboldi"
+"Scardinius_erythrophthalmus"	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0
+"Rutilus_rutilus"	1	0	1	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cyprinus_carpio"	1	1	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Esox_lucius"	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+"Abramis_brama"	1	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Alburnus_alburnus"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Carassius_auratus_gibelio"	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"Stizostedion_lucioperca"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+"Gymnocephalus_cernuus"	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Tinca_tinca"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Blicca_bjoerkna"	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Perca_fluviatilis"	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

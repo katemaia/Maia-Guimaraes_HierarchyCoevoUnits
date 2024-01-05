@@ -1,0 +1,23 @@
+"Amorbia_emigratella"	"Croesia_zimmermani"	"Schreckensteinia_festaliella"	"Spheterista_pleonectes"	"Udea_ommatias"	"Omiodes_antidoxa"	"Casposina_sp._2"	"Scotorythra_complex"	"Thyrocopa_complex"	"Udea_pyranthes"	"Eupithecia_sp._2"	"Eupithecia_rhodopyra"	"Udea_constricta"	"Udea_sp._1"	"Carposina_graminis"	"Eccoptocera_sp._1"	"Eupithecia_monticolans"	"Eupithecia_orichloris"	"Fletcherana_leucoxyla"	"Hyles_calida"	"Paralopostega_sp._1"	"Agrotis_hephaestaea"	"Haliophyle_euclidias"
+"Alyxia_oliviformis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Cheirodendron_trigynum"	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dubautia_raillardioides"	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Carex"	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Elaeocarpus_bifidus"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Styphelia_tameiameiae"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Vaccinium_calycinum"	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Acacia__melanoxylon"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dicranopteris_linearis"	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	1
+"Scaevola_procera"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Stenogyne_purpurea"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"Dianella_sandwicianaum"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Metrosideros_polymorpha"	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	1	1	1	0	0	0	0	0
+"Syzygium_sandwicensis"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rubus_argutus"	0	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Coprosma_kauensis"	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+"Hedyotis_terminalis"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Melicope_anisata"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"Cryptomeria_japonica"	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Wilkstroemia_oahuensis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Athyrium_microphyllum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Hedychium_gardinerianum"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

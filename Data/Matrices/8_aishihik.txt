@@ -1,0 +1,8 @@
+"Anonchohaptor_anomalus"	"Dactylogyrus_buddi"	"Discocotyle_sagittata"	"Tetraonchus_borealis"	"Tetraonchus_monenteron"	"Tetraonchus_variabilis"	"Allocreadium_isosporum"	"Crepidostomum_farionis"	"Diplostomum_spathaceum_(L)"	"Heterophyid_meta_(L)"	"Neascus_sp._(L)"	"Tetracotyle_sp._(L)"	"Cyathocephalus_truncatus"	"Diphyllobothrium_sp._(L)"	"Eubothrium_salvelini"	"Glaridacris_catostomi"	"Proteocephalus_tumidocollus"	"Schistocephalus_solidus_(L)"	"Triaenophorus_crassus"	"Triaenophorus_crassus_(L)"	"Capillaria_salvelini"	"Cystidicola_farionis"	"Raphidascaris_acus"	"Raphidascaris_acus_(L)"	"Neoechinorhynchus_tumidus"	"Piscicola_milneri"	"Salmincola_extensus"	"Salmincola_edwardsii"	"Salmincola_thymalli"
+"Catostomus_catostomus"	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+"Coregonus_clupeaformis"	0	0	1	0	0	0	0	1	1	0	0	1	1	1	1	0	1	0	0	1	0	1	0	1	1	1	1	0	0
+"Cottus_cognatus"	0	1	0	0	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0
+"Esox_lucius"	0	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1	1	0	0	0
+"Prosopium_cylindraceum"	0	0	1	0	0	1	0	1	1	0	0	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	0	0	0
+"Salvelinus_namaycush"	0	0	1	0	0	0	0	1	1	0	0	1	1	1	1	0	1	0	0	1	1	1	0	0	1	1	0	1	0
+"Thymallus_arcticus"	0	0	1	1	0	0	1	1	1	0	0	1	0	1	1	0	1	0	0	1	1	1	0	1	1	0	0	0	1

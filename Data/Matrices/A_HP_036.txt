@@ -1,0 +1,9 @@
+"Amalaraeus_penicilliger"	"Megabothris_calcarifer"	"Ctenophthalmus_assimilis"	"Frontopsylla_luculenta"	"Catallagia_dacenkoi"	"Oropsylla_alaskensis"	"Megabothris_rectangulatus"	"Neopsylla_bidentatiformis"	"Amphipsylla_vinogradovi"	"Peromyscopsylla_ostsibirica"	"Amphipsylla_sibirica"	"Leptopsylla_segnis"	"Rhadinopsylla_rothschildi"
+"Microtus_maximowiczii"	412	242	35	0	14	0	0	0	0	0	0	0	0
+"Clethrionomys_rutilus"	155	18	11	3	8	0	6	0	0	0	0	0	2
+"Microtus_oeconomus"	7	41	0	0	0	0	3	0	0	2	0	0	0
+"Spermophilus_undulatus"	0	0	0	22	0	14	0	4	0	0	0	0	0
+"Clethrionomys_rufocanus"	3	0	2	0	3	0	2	0	0	2	2	2	0
+"Cricetulus_barabensis"	0	0	0	2	0	0	0	4	5	0	0	0	0
+"Micromys_minutus"	0	6	0	0	0	0	0	0	0	0	0	0	0
+"Apodemus_peninsulae"	0	0	0	0	0	0	0	0	2	0	0	0	0

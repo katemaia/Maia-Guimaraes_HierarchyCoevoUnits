@@ -1,0 +1,11 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Lygistorrhina_sp1_M_PL_105"	"Unidentified_sp2_M_PL_105"	"Unidentified_sp4_M_PL_105"	"Ornidia_obesa"	"Eristalinus_vicarians"	"Forcipomyia_sp1_M_PL_105"	"Cratopus_aurostriatus"	"Hemipyrellia_germana"	"Neophyllomyza_approximatonervis"	"Unidentified_sp3_M_PL_105"	"Nectarinia_dussumieri"	"Phelsuma_sp1_M_PL_105"	"Rhiparida_seychellensis"	"Simosyrphus_aegyptius"	"Unidentified_sp1_M_PL_105"	"Xylocopa_caffra"
+"Dillenia_ferruginea"	16	3	0	0	0	2	0	0	2	0	0	0	0	0	1	0	0	1
+"Erythroxylum_sechellarum"	14	7	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0
+"Nephrosperma_vanhoutteanum"	2	16	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Excoecaria_benthiamiana"	0	0	11	0	5	0	0	1	0	0	0	0	0	0	0	1	0	0
+"Psychotria_pervillei"	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Roscheria_melanochaetes"	0	0	0	12	0	0	0	2	0	0	2	2	0	0	0	0	0	0
+"Memecylon_eleagni"	3	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+"Aphloia_theiformis"	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+"Soulamea_terminaloides"	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Syzygium_wrightii"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0

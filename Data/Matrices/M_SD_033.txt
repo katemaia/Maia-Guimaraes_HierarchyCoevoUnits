@@ -1,0 +1,14 @@
+"Pipra_mentalis"	"Pipra_coronata"	"Catharus_ustulatus"	"Manacus_vitellinus"	"Catharus_fuscescens"	"Catharus_minimus"	"Habia_fuscicauda"	"Schiffornis_turdinus"	"Empidonax_virescens"	"Mionectes_oleagineus"	"Trogon_rufus"
+"Psychotria_hoffmannseggiana"	52	7	3	1	1	3	0	1	0	0	0
+"Psychotria_marginata"	18	16	3	10	7	0	0	1	0	0	1
+"Psychotria_acuminata"	26	7	13	0	1	3	0	0	0	0	0
+"Psychotria_deflexa"	9	11	5	0	0	0	3	0	0	0	0
+"Psychotria_horizontalis"	13	2	6	2	2	1	0	0	1	1	0
+"Psychotria_limonensis"	21	0	1	1	2	0	0	0	0	0	0
+"Psychotria_poeppigiana"	6	3	1	1	0	0	2	0	0	0	0
+"Psychotria_emetica"	0	0	3	0	0	4	0	0	0	0	0
+"Psychotria_psychotrifolia"	3	2	0	0	0	0	0	0	0	0	0
+"Psychotria_brachybotrya"	1	2	1	0	0	0	0	0	0	0	0
+"Psychotria_pittieri"	0	1	0	2	0	0	0	0	0	0	0
+"Psychotria_racemosa"	1	1	0	1	0	0	0	0	0	0	0
+"Psychotria_grandis"	2	0	0	0	0	0	0	0	0	0	0

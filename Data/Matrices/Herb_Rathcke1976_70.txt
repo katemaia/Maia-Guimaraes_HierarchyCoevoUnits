@@ -1,0 +1,8 @@
+"Hippopsis_lemniscata"	"Mecas_sp."	"Apion_sp."	"Curculionidae_12"	"Mordellistena"	"Mordellidae_23"	"Thomasiniana"	"Tephritidae"	"Epiblema_sp."	"Family_unkn_46"
+"Ambrosia_trifida"	1	0	1	0	1	1	1	0	0	0
+"Coreopsis_tripteris"	1	0	0	0	0	1	0	0	1	0
+"Helianthis_rigidus"	1	0	0	1	1	1	1	1	0	0
+"Monarda_fistulosa"	0	1	1	0	1	0	0	0	0	0
+"Silphium_laciniatum"	0	0	0	1	0	1	0	0	0	0
+"Solidago_altissima"	0	1	0	1	0	0	0	0	0	0
+"Veronicastrum_virginicum"	0	0	0	0	0	0	0	0	0	1

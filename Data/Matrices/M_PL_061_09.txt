@@ -1,0 +1,7 @@
+"Lasioglossum_mahense"	"Unidentified_sp4_M_PL_092"	"Unidentified_sp1_M_PL_092"	"Apis_mellifera"	"Lygistorrhina_sp1_M_PL_092"	"Amblypsilopus_sp1_M_PL_092"	"Cratopus_aurostriatus"	"Eristalinus_vicarians"	"Unidentified_sp2_M_PL_092"	"Unidentified_sp3_M_PL_092"
+"Erythroxylum_sechellarum"	8	2	4	0	1	0	0	0	0	0
+"Cinnamomum_verum"	0	8	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	2	0	0	3	0	0	1	1	0	1
+"Soulamea_terminaloides"	0	0	0	0	1	1	0	0	1	0
+"Dillenia_ferruginea"	0	0	0	2	0	0	0	0	0	0
+"Roscheria_melanochaetes"	0	0	2	0	0	0	0	0	0	0

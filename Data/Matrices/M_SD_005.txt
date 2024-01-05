@@ -1,0 +1,26 @@
+"Loxigilla_portoricensis"	"Margarops_fuscatus"	"Columba_squamosa"	"Turdus_plumbeus"	"Vireo_altiloquous"	"Spindalis_portoricensis"	"Euphonia_musica"	"Tyrannus_caudifasciatus"	"Tyrannus_dominicensis"	"Molothrus_bonariensis"	"Myarchus_antillarum"	"Coereba_flaveola"	"Vireo_latimeri"
+"Guarea_guidonia"	13	11	0	4	1	0	0	4	0	0	1	0	0
+"Clusia_rosea"	3	3	0	0	5	0	0	0	0	2	1	1	1
+"Ocotea_coriacea"	0	6	3	4	0	0	0	0	2	0	0	0	0
+"Roystonea_borinquena"	0	0	11	2	0	0	0	0	0	0	0	0	0
+"Cupania_americana"	6	0	0	4	0	0	0	0	2	0	0	0	0
+"Cecropia_schreberiana"	1	0	2	1	0	0	0	0	0	0	0	0	0
+"Clusia_gundlachi"	1	2	1	0	0	0	0	0	0	0	0	0	0
+"Hyeronima_clusioides"	0	0	0	0	0	3	0	0	0	0	0	0	0
+"Ficus_sp1_M_SD_005"	1	1	0	0	0	0	0	0	0	0	0	0	0
+"Margravia_rectiflora"	0	1	0	1	0	0	0	0	0	0	0	0	0
+"Persea_americana"	0	1	0	0	0	1	0	0	0	0	0	0	0
+"Phoradendron_sp1_M_SD_005"	0	0	0	0	0	0	2	0	0	0	0	0	0
+"Alchornea_latifolia"	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Anthurium_scandens"	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Ardisia_obovata"	0	0	0	0	0	1	0	0	0	0	0	0	0
+"Bursera_simaruba"	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Chrysophyllum_argenteum"	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Comocladia_glabra"	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Dendropemon_bicolor"	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Guapira_fragrans"	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Petitia_dominguensis"	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Syzigium_malaccensis"	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_SD_005"	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_SD_005"	0	0	0	1	0	0	0	0	0	0	0	0	0
+"Zanthoxylum_martinicensis"	0	1	0	0	0	0	0	0	0	0	0	0	0

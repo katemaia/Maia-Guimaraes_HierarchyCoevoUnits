@@ -1,0 +1,16 @@
+"Citellophilus_trispinus"	"Neopsylla_setosa"	"Oropsylla_ilovaiskii"	"Citellophilus_lebedewi"	"Nosopsyllus_aralis"	"Rhadinopsylla_li"	"Oropsylla_silantiewi"	"Neopsylla_teratura"	"Frontopsylla_elata"	"Amphipsylla_schelkovnikovi"	"Pectinoctenus_nemorosa"	"Rhadinopsylla_bivirgis"	"Mesopsylla_hebes"	"Callopsylla_caspia"	"Nosopsyllus_fidus"	"Amphipsylla_rossica"	"Rhadinopsylla_angusta"	"Amphipsylla_asiatica"	"Frontopsylla_macrophthalma"	"Amphipsylla_anceps"	"Ctenophthalmus_assimilis"	"Neopsylla_pleskei"	"Amalaraeus_penicilliger"	"Neopsylla_meridiana"	"Amphipsylla_primaris"	"Ctenophthalmus_golovi"	"Frontopsylla_protera"	"Amphipsylla_sibirica"	"Peromyscopsylla_bidentata"	"Amphipsylla_dumalis"	"Frontopsylla_ornata"	"Rhadinopsylla_cedestis"	"Frontopsylla_ambigua"	"Neopsylla_mana"
+"Spermophilus_fulvus"	1879	1367	1184	0	18	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+"Marmota_caudata"	0	0	0	1154	0	516	321	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0
+"Meriones_tamariscinus"	3	0	7	0	709	0	0	7	3	0	0	4	10	0	7	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cricetulus_migratorius"	0	0	0	0	4	0	0	198	4	193	0	120	2	21	8	0	0	0	0	17	0	22	0	9	0	0	0	0	0	2	0	0	0	0
+"Microtus_gregalis"	0	0	0	0	0	0	0	5	200	0	3	0	0	64	0	0	39	24	0	2	21	0	8	2	0	0	0	0	0	0	0	0	0	0
+"Apodemus_uralensis"	0	0	0	0	0	2	0	2	3	0	129	0	0	7	4	40	0	0	0	0	0	0	0	0	0	10	0	0	0	0	2	0	3	2
+"Allactaga_elater"	0	0	2	0	2	0	0	0	0	0	0	0	78	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Allactaga_major"	0	0	0	0	30	0	0	0	0	0	0	4	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Marmota_baibacina"	0	0	0	0	0	0	51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Alticola_argentatus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	5	7	0	6	0	2	0	2	0	0	0
+"Microtus_socialis"	0	0	0	0	2	0	0	9	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	3	0	0	0	0	0	0
+"Apodemus_agrarius"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+"Microtus_kirgisorum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0
+"Clethrionomys_centralis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	0	0	0
+"Ellobius_talpinus"	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0

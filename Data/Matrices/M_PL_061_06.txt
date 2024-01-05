@@ -1,0 +1,12 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Megachile_seychellensis"	"Rhiparida_seychellensis"	"Unidentified_sp2_M_PL_089"	"Hemipyrellia_germana"	"Rhynchium_brunneum"	"Unidentified_sp4_M_PL_089"	"Nectarinia_dussumieri"	"Ceratina_tabescens"	"Lygistorrhina_sp1_M_PL_089"	"Unidentified_sp5_M_PL_089"	"Dichaetomyia_fasciculifera"	"Neophyllomyza_approximatonervis"	"Mabuya_sechellensis"	"Phelsuma_sp1_M_PL_089"	"Chalcidoma_disjunctum"	"Cratopus_aurostriatus"	"Eagris_sabadius"	"Ornidia_obesa"	"Polistes_olivaceus"	"Unidentified_sp1_M_PL_089"	"Unidentified_sp3_M_PL_089"	"Unidentified_sp6_M_PL_089"
+"Nephrosperma_vanhoutteanum"	33	34	3	9	13	0	0	2	0	0	4	0	0	2	0	0	0	0	0	0	0	0	1	0
+"Deckenia_nobilis"	24	5	0	0	0	4	0	0	0	0	0	4	0	0	0	0	0	0	0	0	1	0	0	0
+"Diospyros_seychellarum"	27	3	4	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phoenicophorium_borsigianum"	12	14	0	2	0	1	0	5	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0
+"Premna_serratifolia"	10	7	2	0	0	3	9	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Canthium_bibracteatum"	9	1	10	0	0	1	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psychotria_pervillei"	9	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Syzygium_wrightii"	3	0	0	0	0	1	0	0	4	0	0	0	0	0	2	2	0	0	1	0	0	0	0	0
+"Dillenia_ferruginea"	5	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Erythroxylum_sechellarum"	3	2	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+"Memecylon_eleagni"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0

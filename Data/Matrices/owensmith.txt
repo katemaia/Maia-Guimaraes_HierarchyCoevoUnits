@@ -1,0 +1,23 @@
+"Lion"	"spotted_hyena"	"Chettah"	"Leopard"	"wild_dog"
+"Elephant"	1	0	0	0	0
+"Rhinoceros"	1	0	0	0	0
+"Hippopotamus"	1	0	0	0	1
+"Giraffe"	1	1	0	1	1
+"Buffalo"	1	1	0	0	1
+"Eland"	1	1	0	0	1
+"Zebra"	1	1	1	1	1
+"Roan"	1	0	0	1	1
+"Sable"	1	1	0	1	0
+"Wildebeest"	1	1	1	1	1
+"Waterbuck"	1	1	1	1	1
+"Kudu"	1	1	1	1	1
+"Tsessebe"	1	1	1	1	1
+"Nyala"	1	1	1	1	1
+"Warthog"	1	1	1	1	1
+"Reedbuck"	1	1	1	1	1
+"Impala"	1	1	1	1	1
+"Bushbuck"	1	1	1	1	1
+"Duiker"	1	1	1	1	1
+"Klipsringer"	1	1	1	0	0
+"Steenbok"	1	1	1	1	1
+"Grysbok"	1	1	1	1	1

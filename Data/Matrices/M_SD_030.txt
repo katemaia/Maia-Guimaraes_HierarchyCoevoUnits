@@ -1,0 +1,6 @@
+"Turdus_torquatus"	"Turdus_viscivorus"	"Turdus_iliacus"	"Turdus_merula"
+"Berberis_vulgaris"	1	1	1	1
+"Juniperus_sabina"	1	1	1	1
+"Daphne_oleoides"	0	1	0	0
+"Juniperus_communis"	1	0	0	0
+"Rosa_canina"	1	0	0	0

@@ -1,0 +1,19 @@
+"Clytolaema_rubricauda"	"Thalurania_glaucopis"	"Phaethornis_eurynome"	"Amazilia_fimbriata"	"Amazilia_versicolor"	"Ramphodon_naevius"
+"Fuchsia_regia"	208	63	0	0	0	0
+"Justicia_brasiliana"	0	0	71	0	0	0
+"Hippeastrum_aulicum"	0	3	32	0	0	0
+"Heliconia_farinosa"	0	33	1	0	0	0
+"Nematanthus_australis"	6	26	0	0	0	0
+"Psychotria_suterella"	0	32	0	0	0	0
+"Nidularium_inocentii"	0	0	17	0	0	0
+"Ipomea_sp1_M_PL_069_01"	0	7	0	7	1	0
+"Sinningia_douglasii"	0	0	2	13	0	0
+"Vriesea_vagans"	4	4	0	0	0	1
+"Aechmea_blumenavii"	0	1	7	0	0	0
+"Billbergia_amoena"	0	0	6	0	0	0
+"Justicia_carnea"	0	4	1	0	0	0
+"Tillandsia_sp1_M_PL_069_01"	0	5	0	0	0	0
+"Vriesea_carinata"	0	0	3	0	0	0
+"Hedychium_coronarium"	0	0	0	0	2	0
+"Vriesea_erythrodactylon"	1	0	0	0	0	0
+"Vriesea_incurvata"	0	0	0	0	0	1

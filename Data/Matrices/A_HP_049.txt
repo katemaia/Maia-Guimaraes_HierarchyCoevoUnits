@@ -1,0 +1,6 @@
+"Megabothris_calcarifer"	"Neopsylla_bidentatiformis"	"Ctenophthalmus_congeneroides"	"Frontopsylla_elata"	"Pectinoctenus_pectiniceps"	"Ceratophyllus_indages"	"Frontopsylla_luculenta"	"Nosopsyllus_fasciatus"	"Ceratophyllus_anisus"	"Leptopsylla_segnis"	"Hystrichopsylla_microti"	"Megabothris_advenarius"	"Amphipsylla_vinogradovi"	"Ctenophthalmus_pisticus"	"Rhadinopsylla_rothschildi"	"Amphipsylla_marikovskii"	"Stenoponia_sidimi"	"Neopsylla_acanthina"	"Neopsylla_pleskei"
+"Apodemus_agrarius"	187	125	122	110	59	3	21	20	3	6	6	4	3	0	2	0	0	0	2
+"Microtus_fortis"	202	5	13	2	2	0	0	0	9	3	0	2	2	0	0	3	0	0	0
+"Tamias_sibiricus"	0	6	0	0	4	56	6	0	0	0	0	0	0	4	0	0	0	2	0
+"Micromys_minutus"	2	0	0	0	0	0	5	0	0	0	2	0	0	0	2	0	3	0	0
+"Apodemus_peninsulae"	0	3	0	0	3	0	5	0	0	0	0	0	0	0	0	0	0	0	0

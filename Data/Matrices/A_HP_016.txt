@@ -1,0 +1,7 @@
+"Megabothris_advenarius"	"Amphipsylla_marikovskii"	"Catallagia_dacenkoi"	"Catallagia_ioffi"	"Ceratophyllus_indages"	"Amalaraeus_ioffi"	"Catallagia_striata"	"Amalaraeus_penicilliger"	"Hystrichopsylla_microti"	"Neopsylla_acanthina"	"Peromyscopsylla_ostsibirica"	"Ctenophthalmus_pisticus"	"Rhadinopsylla_integella"	"Stenoponia_montana"	"Ctenophthalmus_congeneroides"	"Tarsopsylla_octodecimdentata"	"Frontopsylla_elata"	"Ctenophyllus_armatus"	"Megabothris_bispinosa"	"Nosopsyllus_fasciatus"	"Ceratophyllus_anisus"
+"Clethrionomys_rutilus"	500	330	249	275	7	180	156	156	75	25	29	4	66	51	5	0	0	7	5	3	3
+"Clethrionomys_rufocanus"	155	156	89	38	4	35	25	22	30	16	34	0	9	5	0	0	3	0	2	0	0
+"Tamias_sibiricus"	11	0	0	6	247	0	0	0	2	50	0	65	0	0	0	0	0	0	0	2	0
+"Apodemus_peninsulae"	19	0	0	0	0	0	0	0	3	9	27	6	0	0	4	0	2	0	0	0	0
+"Microtus_maximowiczii"	2	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	4	0	0	0	0
+"Sciurus_vulgaris"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0

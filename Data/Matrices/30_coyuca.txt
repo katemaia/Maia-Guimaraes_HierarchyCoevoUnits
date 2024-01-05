@@ -1,0 +1,11 @@
+"Cornutushaptor_nigrescens"	"Neotetraonchus_sp."	"Ligophorus_mugilinus"	"Aristocleidus_hastatus"	"Crassicutis_cichlasomae"	"Neoapocreadium_marina"	"Paracryptogonimus_sp."	"Pseudoacanthostomum_panamense"	"Pseudacaenodera_cristata"	"Saccocoelioides_sp."	"Saccocoelioides_sogandaresi"	"Ascocotye_(Phagicola)_longa"	"Centrocestus_formosanus"	"Cladocystis_trifolium"	"Clinostomum_complanatum"	"Diplostomum_(Austrodiplostomum)_compactum"	"Echinochasmus_leopoldinae"	"Haplorchis_sp."	"Metadena_sp."	"Posthodiplostomum_minimum"	"Tylodelphys_sp."	"Parvitaenia_cochlearii"	"Proteocephalus_chamelensis"	"Proteocephalus_sp."	"Contracaecum_sp."	"Hysterothylacium_perezi"	"Gnathostoma_sp."	"Pseudoleptorhynchoides_lamothei"	"Floridosentis_mugilis"	"Neoechinorhynchus_golvani"	"Southwellina_hispida"	"Argulus_sp."	"Ergasilus_sp."
+"C._nigrescens"	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	1
+"H._guatemalensis"	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	1	1
+"M._curema"	0	0	1	0	0	0	0	1	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1
+"D._peruvianus"	0	0	0	1	0	1	0	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1
+"C._trimaculatum"	0	0	0	0	1	0	0	1	0	0	0	1	0	1	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0	1	1	1	1
+"L._argentiventris"	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	1	0	0	0	0	1	1	1	1
+"D._latifrons"	0	0	0	0	0	0	0	1	0	1	0	1	0	0	1	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	1	1
+"P._sphenops"	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	1
+"G._maculatus"	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	0	0	1	0	0	1	0	0	1	0	1	0	0	1	1	1	1
+"E._picta"	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	0	0	0	0	1	1	1	0	1	0	1	0	0	1	1	1	1

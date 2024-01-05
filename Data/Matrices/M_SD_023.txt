@@ -1,0 +1,16 @@
+"Hypsipetes_amaurotis"	"Turdus_pallidus"	"Sphenurus_formosae"	"Zosterops_japonica"	"Columba_janthina"	"Turdus_chrysolaus"	"Ficedula_narcissina"	"Turdus_dauma"
+"Symplocos_prunifolia"	2	1	2	1	0	1	1	0
+"Cleyera_japonica"	1	2	1	1	1	0	0	1
+"Eurya_japonica"	2	1	2	2	0	0	0	0
+"Schefflera_octophylla"	2	2	0	1	2	0	0	0
+"Myrsine_sguinii"	2	2	0	2	0	0	0	0
+"Daphniphyllum_teijsmannii"	2	0	0	0	1	2	0	0
+"Myrica_rubra"	1	0	2	0	1	0	0	0
+"Ardisia_sieboldii"	1	2	0	0	0	0	0	0
+"Litsea_acuminata"	3	0	0	0	0	0	0	0
+"Vaccinium_bracteatum"	0	3	0	0	0	0	0	0
+"Neolitsea_aciculata"	2	0	0	0	0	0	0	0
+"Persea_thunbergii"	2	0	0	0	0	0	0	0
+"Diospyros_morrisiana"	0	0	1	0	0	0	0	0
+"Prunus_jamasakura"	1	0	0	0	0	0	0	0
+"Taxillus_yadoriki"	1	0	0	0	0	0	0	0

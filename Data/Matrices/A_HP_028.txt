@@ -1,0 +1,5 @@
+"Ctenophthalmus_wladimiri"	"Ceratophyllus_sciurorum"	"Amphipsylla_rossica"	"Frontopsylla_elata"	"Megabothris_walkeri"	"Ctenophthalmus_bogatschevi"	"Neopsylla_pleskei"	"Nosopsyllus_consimilis"	"Hystrichopsylla_talpae"	"Palaeopsylla_soricis"	"Callopsylla_caspia"	"Leptopsylla_taschenbergi"	"Peromyscopsylla_bidentata"	"Rhadinopsylla_integella"	"Stenoponia_ivanovi"
+"Microtus_arvalis"	88	0	39	14	0	7	6	4	2	0	1	0	1	1	1
+"Dryomys_nitedula"	0	67	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Arvicola_terrestris"	3	0	0	2	9	0	0	1	0	0	0	0	0	0	0
+"Neomys_schelkovnikovi"	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0

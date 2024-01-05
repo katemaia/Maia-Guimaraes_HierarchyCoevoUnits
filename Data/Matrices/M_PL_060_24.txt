@@ -1,0 +1,15 @@
+"Apis_mellifera"	"Technomyrmex_albipes"	"Musca_domestica"	"Brachymyrmex_sp1_M_PL_083"	"Chaetocnema_sp1_M_PL_083"	"Chrysomya_megacephala"	"Dysauxes_florida"	"Orthellia_albigena"	"Eristalinus_flaveolus"	"Ophyra_capensis"	"Paragus_borbonicus"	"Pheidole_megacephala"	"Nacoleia_sp1_M_PL_083"	"Ornidia_obesa"	"Polistes_hebraeus"	"Stomorhina_lunata"	"Fannia_pusio"	"Macroglossum_milvus"	"Musca_confiscata"	"Phelsuma_cepediana"	"Sapromyza_sp1_M_PL_083"	"Sarcophaga_arno"	"Simulium_sp1_M_PL_083"	"Syritta_sp1_M_PL_083"
+"Stillingia_lineata"	0	0	7	0	1	3	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+"Aphloia_theiformis"	0	1	3	0	0	1	0	3	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Croton_grangeroides"	0	0	0	0	3	2	4	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1
+"Phyllanthus_phillyreifolius"	0	8	0	0	0	0	0	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+"Psiadia_terebinthina"	0	0	0	10	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Syzygium_petrinese"	4	0	2	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	0	0
+"Badula_insularis"	0	6	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Calophyllum_eputamen"	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"Diospyros_revaughanii"	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+"Molinaea_macrantha"	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rubus_alcefolius"	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+"Psidium_cattleianum"	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"Embelia_angustifolia"	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tabernaemontana_persicarifolia"	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0

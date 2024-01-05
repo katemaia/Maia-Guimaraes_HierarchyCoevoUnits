@@ -1,0 +1,15 @@
+"Thalurania_glucopis"	"Phaethornis_squalidus"	"Phaethornis_ruber"	"Calliphlox_amethystina"	"Chlorostilbon_aureoventris"	"Phaethornis_pretrei"	"Amazilia_fimbriata"	"Amazilia_lactea"
+"Geissomeria_schottiana"	35	14	3	0	0	1	1	0
+"Justicia_scheidweileri"	17	4	12	0	0	0	0	0
+"Ruellia_brevifolia"	0	12	7	0	0	1	0	0
+"Passiflora_speciosa"	0	11	0	0	0	0	0	0
+"Mendoncia_velloziana"	8	0	1	0	0	0	0	1
+"Fridericia_speciosa"	0	3	0	4	2	0	0	0
+"Corymborkis_flava"	0	6	0	0	2	0	0	0
+"Heliconia_simulans"	2	1	5	0	0	0	0	0
+"Mutisia_speciosa"	0	0	7	0	0	0	0	0
+"Lantana_camara"	0	3	2	0	0	0	0	0
+"Rubus_rosaefolius"	0	1	4	0	0	0	0	0
+"Passiflora_kermesina"	0	0	4	0	0	0	0	0
+"Hyptis_asperrima"	0	0	0	1	1	0	0	0
+"Ruellia_subsessilis"	0	0	2	0	0	0	0	0

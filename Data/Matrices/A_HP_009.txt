@@ -1,0 +1,15 @@
+"Ctenophthalmus_assimilis"	"Neopsylla_mana"	"Megabothris_rectangulatus"	"Citellophilus_tesquorum"	"Amphipsylla_rossica"	"Hystrichopsylla_talpae"	"Nosopsyllus_consimilis"	"Pectinoctenus_nemorosa"	"Frontopsylla_elata"	"Frontopsylla_protera"	"Amalaraeus_penicilliger"	"Neopsylla_teratura"	"Palaeopsylla_soricis"	"Frontopsylla_elatoides"	"Ceratophyllus_sciurorum"	"Ctenophthalmus_arvalis"	"Amphipsylla_sibirica"	"Frontopsylla_ornata"	"Oropsylla_silantiewi"	"Amphipsylla_primaris"	"Corrodopsylla_birulai"	"Rhadinopsylla_angusta"
+"Microtus_arvalis"	1596	295	207	0	210	105	165	12	173	36	41	24	12	10	0	10	0	5	0	0	0	0
+"Clethrionomys_centralis"	303	76	184	0	119	206	43	22	32	54	22	11	0	2	0	0	11	3	0	0	0	0
+"Spermophilus_undulatus"	0	92	0	403	0	0	46	0	0	2	2	17	0	12	0	0	0	0	0	0	0	0
+"Apodemus_uralensis"	25	11	8	0	5	8	31	158	14	20	5	3	0	0	0	3	0	0	0	0	0	0
+"Apodemus_agrarius"	12	3	3	0	0	5	7	74	8	11	5	0	0	0	0	0	0	0	0	0	0	0
+"Sorex_araneus"	6	2	0	0	0	0	0	0	0	11	0	0	30	0	0	0	0	0	0	0	2	0
+"Sicista_tianshanica"	8	3	4	0	0	3	3	2	6	9	8	0	0	0	0	0	0	0	0	0	0	0
+"Dryomys_nitedula"	6	0	3	0	3	0	6	0	0	2	0	0	0	0	23	0	0	0	0	2	0	0
+"Arvicola_terrestris"	15	2	4	0	2	4	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neomys_fodiens"	11	0	0	0	0	0	0	0	0	7	0	0	6	0	0	0	0	0	0	0	0	2
+"Cricetulus_migratorius"	0	4	0	0	0	2	7	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+"Cricetus_cricetus"	3	5	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Marmota_baibacina"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0
+"Spermophilus_erythrogenys"	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

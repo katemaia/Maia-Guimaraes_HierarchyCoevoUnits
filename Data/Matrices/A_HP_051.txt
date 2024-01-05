@@ -1,0 +1,14 @@
+"Amalaraeus_penicilliger"	"Ceratophyllus_indages"	"Megabothris_rectangulatus"	"Hystrichopsylla_talpae"	"Tarsopsylla_octodecimdentata"	"Amphipsylla_sibirica"	"Palaeopsylla_soricis"	"Catallagia_dacenkoi"	"Neopsylla_mana"	"Megabothris_turbidus"	"Catallagia_ioffi"	"Catallagia_fetisovi"	"Rhadinopsylla_integella"	"Rhadinopsylla_altaica"	"Peromyscopsylla_bidentata"	"Corrodopsylla_birulai"	"Leptopsylla_sicistae"	"Rhadinopsylla_pseudodahurica"	"Ceratophyllus_sciurorum"	"Ctenophyllus_subarmatus"	"Neopsylla_acanthina"	"Frontopsylla_elata"	"Megabothris_calcarifer"	"Amphipsylla_vinogradovi"	"Hystrichopsylla_microti"	"Neopsylla_pleskei"
+"Clethrionomys_rutilus"	364	6	179	198	0	85	32	75	55	37	64	20	10	10	6	0	0	3	0	0	2	4	2	2	2	2
+"Clethrionomys_rufocanus"	114	4	97	79	0	92	24	71	24	40	38	14	11	4	5	0	0	4	0	0	0	0	2	0	0	0
+"Tamias_sibiricus"	4	396	10	2	0	0	3	0	18	3	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+"Sciurus_vulgaris"	0	36	2	0	281	0	0	0	3	0	0	0	0	0	0	0	0	0	6	4	0	0	0	0	0	0
+"Apodemus_peninsulae"	5	5	25	9	0	6	14	0	26	39	0	0	3	4	3	4	7	0	0	2	3	0	0	0	0	0
+"Microtus_oeconomus"	16	0	14	25	0	4	55	0	9	7	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Clethrionomys_glareolus"	18	5	14	2	0	20	6	11	4	3	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neomys_fodiens"	0	0	0	2	0	0	56	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0
+"Microtus_agrestis"	11	5	11	7	0	8	4	2	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sicista_betulina"	0	0	2	0	0	0	5	0	2	2	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0
+"Talpa_altaica"	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Arvicola_terrestris"	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+"Myopus_schisticolor"	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

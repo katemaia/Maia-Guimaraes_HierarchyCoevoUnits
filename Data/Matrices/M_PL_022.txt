@@ -1,0 +1,22 @@
+"Megachile_sp1_M_PL_022"	"Chilimelissa_sp1_M_PL_022"	"Geron_sp1_M_PL_022"	"Megachile_sp2_M_PL_022"	"Unidentified_sp2_M_PL_022"	"Unidentified_sp5_M_PL_022"	"Anthidium_chubuti"	"Thysanoptera_sp1_M_PL_022"	"Astylus_sp1_M_PL_022"	"Chironomidae_sp1_M_PL_022"	"Chlorobrachycoma_versicolor"	"Hypodinerus_sp1_M_PL_022"	"Ichneumonidae_sp1_M_PL_022"	"Liphantus_sp1_M_PL_022"	"Liphantus_sp2_M_PL_022"	"Microcerella_rusca"	"Mosillus_sp1_M_PL_022"	"Spinoliella_sp1_M_PL_022"	"Thyridanthrax_sp2_M_PL_022"	"Tropidia_notata"	"Unidentified_sp1_M_PL_022"	"Agrotis_ipsilon"	"Alloscirtetica_antarctica"	"Alloscirtetica_sp1_M_PL_022"	"Calliphoridae_sp1_M_PL_022"	"Chilimelissa_farellones"	"Coccinela_anchoralis"	"Dasybaris_chillan"	"Dolichogyna_sp1_M_PL_022"	"Hypodinerus_sp2_M_PL_022"	"Issoria_lathonioides"	"Peridroma_saucia"	"Phulia_sp1_M_PL_022"	"Phulia_sp2_M_PL_022"	"Podagritus_sp1_M_PL_022"	"Pseudoleucania_nobilis"	"Pseudoleucania_sp1_M_PL_022"	"Pyrgus_fides"	"Tamseuxoa_ingoufii"	"Thyridanthrax_sp1_M_PL_022"	"Thyridanthrax_sp3_M_PL_022"	"Thyridanthrax_sp4_M_PL_022"	"Unidentified_sp3_M_PL_022"	"Unidentified_sp4_M_PL_022"	"Unidentified_sp6_M_PL_022"
+"Discaria_nana"	0	0	1	0	1	0	0	0	0	1	1	1	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1	0	0
+"Azorella_monanthos"	0	0	0	0	1	1	0	0	0	0	1	0	1	0	1	1	1	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+"Phacelia_secunda"	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Senecio_looseri"	1	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"Sisyrinchium_junceum"	1	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Adesmia_haemisphaerica"	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Jaborosa_laciniata"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Astragalus_nivicola"	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cerastium_arvense"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Montiopsis_gilliesii"	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Oxalis_erythrorhiza"	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Perezia_pilifera"	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Senecio_tricephalus"	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tarasa_humilis"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Astragalus_cruckshanksii"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Calandrinia_caespitosa"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Epilobium_nivale"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hypochoeris_montana"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Leuceria_candidissima"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Loasa_incurva"	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Menonvillea_hookeri"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

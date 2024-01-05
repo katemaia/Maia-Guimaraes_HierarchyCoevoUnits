@@ -1,0 +1,10 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Lygistorrhina_sp1_M_PL_131"	"Hemipyrellia_germana"	"Unidentified_sp2_M_PL_131"	"Eristalinus_vicarians"	"Hemipyrellia_sp1_M_PL_131"	"Neophyllomyza_approximatonervis"	"Phelsuma_sp1_M_PL_131"	"Eagris_sabadius"	"Melanostoma_annulipes"	"Polistes_olivaceus"	"Rhynchium_brunneum"	"Unidentified_sp1_M_PL_131"
+"Nephrosperma_vanhoutteanum"	13	15	0	0	0	0	0	1	1	0	0	0	0	0
+"Gastonia_crassa"	25	0	0	0	0	0	0	1	1	0	0	0	0	0
+"Erythroxylum_sechellarum"	6	10	3	0	1	0	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	9	8	0	0	0	2	0	0	0	0	0	0	0	0
+"Chrysobalanus_icaco"	16	0	0	0	0	0	0	0	0	1	0	1	0	0
+"Canthium_bibracteatum"	5	0	2	0	0	0	1	0	0	0	1	0	0	1
+"Nepenthes_pervillei"	2	0	0	3	1	0	1	0	0	0	0	0	1	0
+"Dillenia_ferruginea"	2	1	0	1	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	1	0	0	1	0	0	0	0	0	0	0	0	0

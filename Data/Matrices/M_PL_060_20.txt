@@ -1,0 +1,13 @@
+"Villa_unifasciata"	"Nacoleia_sp1_M_PL_079"	"Chaetocnema_sp1_M_PL_079"	"Technomyrmex_albipes"	"Ahasverus_advena"	"Apis_mellifera"	"Dysauxes_florida"	"Brachymyrmex_sp1_M_PL_079"	"Allograpta_nasuta"	"Polistes_hebraeus"	"Syritta_nigrofemorata"	"Chrysomya_megacephala"	"Miridae_sp1_M_PL_079"	"Orthellia_albigena"	"Pachycerina_crinicornis"	"Phalanta_phalantha"	"Phorinia_sp1_M_PL_079"	"Stomorhina_lunata"
+"Psiadia_terebinthina"	2	0	7	0	1	2	2	0	1	0	2	0	1	0	0	0	0	1
+"Gaertnera_sp1_M_PL_079"	2	9	0	0	1	1	0	0	0	2	0	0	0	0	0	0	0	0
+"Stillingia_lineata"	3	4	0	0	5	0	0	0	1	0	0	0	0	1	1	0	0	0
+"Syzygium_coriaceum"	0	0	1	4	0	0	0	3	0	0	0	1	0	0	0	0	1	0
+"Antidesma_madagascariense"	0	0	0	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Psathura_terniflora"	5	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Tabernaemontana_persicarifolia"	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Labourdonnaisia_callophylloides"	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+"Euodia_obtusifolia"	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tristhema_mauritiana"	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"Olea_lancea"	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psidium_cattleianum"	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

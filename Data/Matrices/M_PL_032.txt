@@ -1,0 +1,8 @@
+"Apis_mellifera"	"Andrena_carlini"	"Andrena_irgeniae"	"Bombus_griseocollis"	"Andrena_forbesii"	"Andrena_mansonii"	"Andrena_rugosa"	"Helophilus_fasciatus"	"Melanostoma_sp1_M_PL_032"	"Metasyrphus_americanus"	"Syrphus_torvus"	"Andrena_cressoni"	"Andrena_miserabilis"	"Eristalis_dimidiatus"	"Syrphus_sp1_M_PL_032"	"Andrena_erythronii"	"Andrena_personata"	"Andrena_sp1_M_PL_032"	"Augochlora_pura"	"Augochlorella_striata"	"Carposcalis_obscura"	"Ceratina_metallica"	"Dialictus_coeruleus"	"Dialictus_imitatus"	"Dialictus_oblongus"	"Dialictus_obscurus"	"Dialictus_zephyrus"	"Erylaeus_macroupinensis"	"Halictus_confusus"	"Lasioglossum_forbesii"	"Mesograpta_marginata"	"Nomada_luteola"	"Xylota_nemorum"
+"Claytonia_virginica"	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	1	1	1	0	0	1	0	0	0	1	1	1	0
+"Isopyrum_biternatum"	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	0	0	0	1	1	0	1	1	0	0	0	0	1
+"Dentaria_laciniata"	1	1	1	1	0	0	1	1	1	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Erythronium_albidum"	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dicentra_cucullaria"	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sanguinaria_canadensis"	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dicentra_canadensis"	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,8 @@
+"Quiscalus_quiscula"	"Turdus_migratorius"	"Zonotrichia_albicollis"	"Junco_hyemalis"	"Cardinalis_cardinalis"	"Dendroica_coronata"	"Parus_atricapillus"	"Catharus_guttata"	"Parus_bicolor"	"Picoides_pubescens"	"Mimus_polyglottos"	"Bombycilla_cedrorum"	"Melanerpes_carolinensis"	"Picoides_villosus"	"Sturnus_vulgaris"	"Carpodacus_purpureus"	"Colaptes_auratus"	"Zenaidura_macroura"	"Euphagus_carolinus"	"Pipilo_erythophtalmus"	"Vireo_olivaceus"
+"Cornus_florida"	90	110	13	51	2	0	0	6	1	0	1	0	0	0	0	2	1	0	0	1	1
+"Vitis_sp1_M_SD_001"	72	17	4	0	10	0	0	0	1	0	0	0	2	0	0	0	0	1	0	0	0
+"Celastrus_orbiculatus"	0	3	32	28	13	0	0	3	3	0	4	4	0	0	3	0	0	0	1	0	0
+"Rhus_radicans"	0	0	1	10	0	25	16	0	3	8	1	0	2	3	0	0	1	0	0	0	0
+"Lindera_benzoin"	0	21	20	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Smilax_rotundifolia"	0	0	27	0	6	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Lonicera_japonica"	0	0	24	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

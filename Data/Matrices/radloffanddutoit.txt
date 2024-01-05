@@ -1,0 +1,19 @@
+"Lion"	"Leopard"	"Cheetah"	"wild_dog"
+"Buffalo"	1	1	0	0
+"Bushbuck"	1	1	1	1
+"Bushpig"	1	0	0	0
+"common_duiker"	1	1	1	1
+"Giraffe"	1	1	0	0
+"Hippo"	1	0	0	0
+"Impala"	1	1	1	1
+"Klipspringer"	0	1	0	0
+"Kudu"	1	1	1	1
+"Nyala"	1	1	1	1
+"Reedbuck"	0	1	1	0
+"Steenbok"	1	1	1	1
+"Tsessebe"	1	1	0	0
+"Warthog"	1	1	1	0
+"Waterbuck"	1	1	1	1
+"White_Rhino"	1	0	0	0
+"Wildebeest"	1	1	1	0
+"Zebra"	1	1	0	0

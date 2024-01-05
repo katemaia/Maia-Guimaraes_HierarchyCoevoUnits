@@ -1,0 +1,9 @@
+"Azteca_r.am.1"	"Allomerus_octoarticulatus"	"Pheidole_minutula"	"Myrcidris_sp."	"Crematogaster_laevis"	"Pseudomyrmex_concolor"	"Allomerus_septemarticulatus"	"Azteca_sp8"	"Crematogaster_brasiliensis"	"Crema_limata"	"Camponotus_femoratus"	"Pachycondila_unidentata"	"Solenopsis_sp5"
+"Cordia_nodosa"	3	0	0	0	0	0	0	0	1	1	1	0	0
+"Hirtella_myrmecophila"	0	18	0	0	0	0	0	1	0	0	0	0	0
+"Maieta_guianensis"	0	0	16	0	2	0	0	0	0	0	0	0	0
+"Myrcia_madida"	0	0	0	5	0	0	0	0	0	0	0	0	0
+"Hirtella_physophora"	0	8	0	0	0	0	1	0	0	0	0	0	0
+"Tococa_bullifera"	0	0	0	0	1	0	0	0	0	0	0	0	0
+"Tachigalia_spp."	0	0	0	0	0	3	0	0	0	0	0	0	0
+"Palicourea_corymbifera"	0	0	0	0	0	0	0	0	1	2	0	2	1

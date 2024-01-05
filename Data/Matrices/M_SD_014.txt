@@ -1,0 +1,17 @@
+"Sylvia_atricapilla"	"Turdus_merula"	"Sylvia_borin"	"Sylvia_melanocephala"	"Erithacus_rubecula"	"Cyanopica_cyanus"	"Sylvia_cantillans"	"Turdus_philomelos"	"Ficedula_hypoleuca"	"Sylvia_communis"	"Phoenicurus_phoenicurus"	"Sturnus_unicolor"	"Sylvia_hortensis"	"Luscinia_megarhynchos"	"Muscicapa_striata"	"Saxicola_torquata"	"Sylvia_undata"
+"Pistacia_lentiscus"	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+"Rubus_ulmifolius"	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0
+"Rhamnus_lycioides"	1	1	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0
+"Phillyrea_angustifolia"	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0
+"Myrtus_communis"	1	1	0	1	1	1	1	1	0	0	0	1	0	0	0	1	1
+"Olea_europaea"	1	1	1	1	1	1	0	1	0	0	0	1	0	0	0	1	0
+"Daphne_gnidium"	1	0	1	1	1	0	1	0	0	1	1	0	0	0	0	0	0
+"Smilax_aspera"	1	1	1	1	1	0	0	0	1	0	0	0	1	0	0	0	0
+"Asparagus_aphyllus"	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0
+"Asparagus_aculeatus"	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Lonicera_periclymenum"	1	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Osyris_alba"	1	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+"Crataegus_monogyna"	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+"Tamus_communis"	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Pyrus_bourgaeana"	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Rubia_pregrina"	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0

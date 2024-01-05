@@ -1,0 +1,7 @@
+"Lasioglossum_mahense"	"Rhiparida_seychellensis"	"Apis_mellifera"	"Phelsuma_sp1_M_PL_097"	"Unidentified_sp1_M_PL_097"	"Cratopus_aurostriatus"	"Eagris_sabadius"	"Hemipyrellia_germana"	"Hemipyrellia_sp1_M_PL_097"	"Neophyllomyza_approximatonervis"	"Rhynchium_brunneum"
+"Phoenicophorium_borsigianum"	13	58	0	0	0	1	0	0	1	0	0
+"Nephrosperma_vanhoutteanum"	47	0	11	3	0	0	0	1	0	0	0
+"Erythroxylum_sechellarum"	23	0	11	0	3	0	0	0	0	0	0
+"Memecylon_eleagni"	7	0	4	0	0	1	0	0	0	0	0
+"Canthium_bibracteatum"	1	0	0	0	0	0	0	0	0	1	1
+"Alstonia_macrophylla"	0	0	0	0	0	0	1	0	0	0	0

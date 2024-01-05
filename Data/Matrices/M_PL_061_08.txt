@@ -1,0 +1,7 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Megachile_seychellensis"	"Chalcidoma_disjunctum"	"Unidentified_sp3_M_PL_091"	"Cratopus_aurostriatus"	"Hemipyrellia_germana"	"Ceratina_tabescens"	"Neophyllomyza_approximatonervis"	"Phelsuma_sp1_M_PL_091"	"Tricimba_seychellensis"	"Polistes_olivaceus"	"Rhiparida_seychellensis"	"Unidentified_sp1_M_PL_091"	"Unidentified_sp4_M_PL_091"	"Geron_seychellarum"	"Lygistorrhina_sp1_M_PL_091"	"Melanostoma_annulipes"	"Unidentified_sp2_M_PL_091"
+"Nephrosperma_vanhoutteanum"	27	16	1	0	0	0	3	0	1	1	0	0	1	0	2	1	0	1	1
+"Phoenicophorium_borsigianum"	6	9	0	0	8	6	2	0	3	3	1	2	1	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	17	11	0	0	0	0	0	0	0	0	2	0	0	1	0	0	1	0	0
+"Memecylon_eleagni"	9	2	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Canthium_bibracteatum"	1	0	11	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	4	6	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0

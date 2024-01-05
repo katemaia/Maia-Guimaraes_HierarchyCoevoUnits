@@ -1,0 +1,18 @@
+"Acolpenteron_catostomi"	"Anoncohaptor_anomalum"	"Pellucidhaptor_pellucidhaptor"	"Pseudomurraytrema_copulata"	"Tetraonchus_borealis"	"Tetraonchus_variabilis"	"Octomacrum_lanceatus"	"Allocreadium_isosporum"	"Bunodera_luciopercae"	"Crepidostomum_farionis"	"Phyllodistomum_sp."	"Diplostomum_sp.1_(L)"	"Diplostomum_sp.2_(L)"	"Neascus_sp_(L)"	"Tetracotyle_sp._(L)"	"Glaridacris_catostomi"	"Glaridacris_sp."	"Glaridacris_vogei"	"Hunterella_nodulosa"	"Monobothrium_sp."	"Proteocephalus_ptychocheilus"	"Proteocephalus_salmonidicola"	"Proteocephalus_sp."	"Proteocephalus_tumidocollus"	"Bothriocephalus_opsariichthydis"	"Diphyllobothrium_sp._(L)"	"Eubothrium_salvelini"	"Ligula_intestinalis_(L)"	"Hysterothylacium_brachyurum"	"Raphidascaris_acus"	"Eustrongylides_sp._(L)"	"Philometroides_huronensis"	"Philonema_agubernaculum"	"Philonema_sp."	"Haplonema_hamatulum"	"Truttaedacnitis_truttae"	"Cystidicola_farionis"	"Cystidicoloides_tenuissima"	"Rhabdochona_canadensis"	"Rhabdochona_cascadilla"	"Rhabdochona_cotti"	"Rhabdochona_kisutchi"	"Rhabdochona_milleri"	"Rhabdochona_zacconis"	"Neoechinorhynchus_cristatus"	"Neoechinorhynchus_cylindratus"	"Neoechinorhynchus_rutili"	"Octospinifer_macilentus"	"Pomphorhynchus_bulbocolli"	"Ergasilus_nerkae"	"Salmincola_californiensis"	"Salmincola_edwardsii"	"Salmincola_thymalli"
+"Catostomus_catostomus"	1	1	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+"Catostomus_commersoni"	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0
+"Catostomus_macrocheilus"	1	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1	1	0	0	0
+"Coregonus_clupeaformis"	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0
+"Cottus_cognatus"	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Lota_lota"	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Mylocheilus_caurinus"	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Oncorhynchus_nerka"	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Prosopium_coulteri"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Prosopium_williamsoni"	0	0	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1
+"Ptychocheilus_oregonensis"	0	0	0	0	0	0	0	1	0	0	0	1	1	1	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0
+"Rhinichthys_cataractae"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Richardsonius_balteatus"	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0
+"Salmo_gairdneri"	0	0	0	0	0	0	0	0	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	1	1	0	0
+"Salvelinus_malma"	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	1	1	0	0	1	1	0	1	0	1	0	0	1	1	1	1	0	1	0	0	1	0	0	0	0	1	0	0	0	0	1	0
+"Salvelinus_namaycush"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0
+"Thymallus_arcticus"	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1

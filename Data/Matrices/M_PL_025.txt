@@ -1,0 +1,14 @@
+"Bombylius_major"	"Andrena_erigeniae"	"Andrena_nigrihirta"	"Andrena_tridens"	"Apis_mellifera"	"Nomada_sp1_M_PL_025"	"Bombus_bimaculatus"	"Gonia_sp1_M_PL_025"	"Halictid_sp1_M_PL_025"	"Dialictus_abanci"	"Hylema_platura"	"Osmia_conjucta"	"Nomada_perplexa"	"Andrena_carlini"	"Platycheirus_obscurus"	"Osmia_sp1_M_PL_025"	"Nomada_pygmaea"	"Andrena_nasonii"	"Evylaeus_macoupinensis"	"Osmia_lignaria"	"Augochlora_pura"	"Toxomerous_geminatus"	"Ceratina_calcarata"	"Dialictus_cressonii"	"Euchlo_creusa_lotta"	"Xylocopa_virginica_virginica"	"Osmia_atriventris"	"Andrena_violae"	"Bombus_pennsylvanicus"	"Ephemoropsis_laboriosa"	"Nomada_luteola"	"Andrena_arabis"	"Andrena_ziziaeformis"	"Augochorella_striata"	"Lycaenopsis_argiolus"	"Unidentified_sp1_M_PL_025"	"Andrena_ceanothi"	"Andrena_dunningi"	"Andrena_imatrix"	"Andrena_personata"	"Lassioglossum_fuscipenne"	"Nomada_bishopii"	"Nomada_sayi"	"Osmia_simillima"
+"Claytonia_virginica"	418	378	13	2	4	32	0	37	22	7	16	7	6	1	10	4	8	3	4	3	1	4	3	5	5	1	0	0	0	0	0	0	1	1	2	0	1	0	1	0	0	0	0	0
+"Erythronium_umbilicatum"	2	0	273	72	52	1	0	0	0	3	0	4	8	4	0	7	0	0	0	4	1	0	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Stellaria_pubera"	122	3	6	0	0	44	0	4	0	3	0	7	4	2	1	3	5	8	0	0	3	3	2	0	0	0	3	0	0	0	3	0	0	0	0	0	0	0	0	1	0	1	1	0
+"Thalictrum_thalictroides"	130	1	0	0	0	1	0	8	9	6	0	0	0	0	2	1	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cardamine_angustata_angustata"	79	2	16	4	5	2	5	2	0	0	0	1	2	7	4	1	1	2	0	2	3	0	0	0	2	1	0	0	1	0	0	2	0	0	0	2	0	1	0	0	1	0	0	0
+"Hepatica_americana"	20	0	27	9	4	4	2	4	1	5	8	0	0	1	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sangiunaria_canadensis"	20	0	0	0	21	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tiarella_cordifolia_collina"	8	0	0	0	1	0	18	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Aesculus_sylvatica"	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Viola_papilionacea"	17	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Uvularia_sessilifolia"	0	0	15	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Podophyllum_peltatum"	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Trillium_catesbei"	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

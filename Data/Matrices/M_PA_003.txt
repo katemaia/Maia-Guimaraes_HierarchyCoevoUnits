@@ -1,0 +1,25 @@
+"Maieta_guianensis"	"Hirtella_physophora"	"Tachigali_myrmecophila"	"Cordia_nodosa"	"Maieta_poeppiggi"	"Duroia_saccifera"	"Tachigali_polyphylla"	"Tococa_bullifera"	"Pourouma_heterophylla"	"Cecropia_purpurascens"	"Amaioua_guianensis"	"Cecropia_ficifolia"	"Hirtella_myrmecophila"	"Cecropia_concolor"	"Cecropia_distachya"
+"Pheidole_minutula"	93	0	0	0	28	0	0	1	0	0	0	0	0	0	0
+"Allomerus_octoarticulatus"	0	70	0	0	0	27	0	0	0	0	0	0	3	0	0
+"Azteca_sp2_M_PA_001"	2	0	0	24	0	0	0	11	0	0	0	0	0	0	0
+"Pseudomyrmex_concolor"	0	0	18	0	0	0	16	0	0	0	0	0	0	0	0
+"Allomerus_sp1_M_PA_001"	0	0	0	0	0	0	0	0	23	0	0	0	0	0	0
+"Pseudomyrmex_nigrescens"	0	0	16	0	0	0	7	0	0	0	0	0	0	0	0
+"Crematogaster_sp3_M_PA_001"	7	1	0	0	1	0	0	7	0	0	0	0	0	0	0
+"Camponotus_balzanii"	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0
+"Azteca_isthmica"	0	0	0	0	0	0	0	0	0	2	0	3	0	1	1
+"Crematogaster_sp4_M_PA_001"	0	0	0	0	3	0	0	3	0	0	0	0	0	0	0
+"Allomerus_prancei"	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Crematogaster_sp2_M_PA_001"	0	0	0	3	0	0	0	2	0	0	0	0	0	0	0
+"Allomerus_auripunctata"	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0
+"Solenops_sp1_M_PA_001"	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0
+"Azteca_schummani"	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0
+"Azteca_sp1_M_PA_001"	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+"Azteca_sp6_M_PA_001"	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+"Crematogaster_sp1_M_PA_001"	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0
+"Azteca_polymorpha"	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+"Crematogaster_sp5_M_PA_001"	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+"Azteca_alfari"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Azteca_sp3_M_PA_001"	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Azteca_sp4_M_PA_001"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"Azteca_sp5_M_PA_001"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,27 @@
+"Nacoleia_sp3_M_PL_065"	"Apis_mellifera"	"Technomyrmex_albipes"	"Brachymyrmex_sp2_M_PL_065"	"Pheidole_megacephala"	"Pachycerina_crinicornis"	"Stomorhina_lunata"	"Psilopa_iceryae"	"Allograpta_nasuta"	"Chaetocnema_sp2_M_PL_065"	"Nacoleia_sp4_M_PL_065"	"Melanostoma_bituberculatum"	"Mordellidae_sp1_M_PL_065"	"Paragus_borbonicus"	"Lygistorrhina_sp2_M_PL_065"	"Panara_naso"	"Zosterops_mauritianus"	"Ahasverus_advena"	"Chrysomya_megacephala"	"Drosophila_sp2_M_PL_065"	"Eilema_squalida"	"Gelechioidea_sp1_M_PL_065"	"Ischiodon_aegyptius"	"Polistes_hebraeus"	"Scopariinae_sp1_M_PL_065"	"Trichoplusia_indicator"	"Achaea_finita"	"Acopsis_viridicans"	"Aganais_borbonica"	"Agrostis_atritegulator"	"Campopleginae_sp1_M_PL_065"	"Cephonodes_trochilus"	"Cerambycidae_sp1_M_PL_065"	"Eristalinus_flaveolus"	"Foudia_madagascariense"	"Hippotion_eson"	"Limonia_sp1_M_PL_065"	"Lygaeidae_sp2_M_PL_065"	"Mordellidae_sp2_M_PL_065"	"Ornidia_obesa"	"Peribaea_sp1_M_PL_065"	"Phelsuma_cepediana"	"Pycnonotus_jocosus"	"Spodoptera_littoralis"	"Tarundia_servillei"
+"Coffea_macrocarpa"	34	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sideroxylon_puberulum"	2	18	0	0	0	0	1	0	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	2	0	2	1	0	1	1	0	1	0	0	1	1	0	0	0	0	0	0	1	1	0
+"Phyllanthus_phillyreifolius"	0	0	17	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Badula_platiphylla"	0	0	0	15	0	0	6	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Coffea_mauritiana"	6	8	6	0	0	0	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"Warneckea_trinervis"	0	12	8	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Antirhea_borbonica"	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Grangeria_borbonica"	5	11	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Helichrysum_proteoides"	0	0	0	1	0	7	0	5	0	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Mimusops_erythroxylon"	6	0	1	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Aphloia_theiformis"	0	2	9	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Agauria_salicifolia"	8	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psiadia_terebinthina"	0	2	0	0	0	0	1	0	2	0	0	3	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Bertiera_zaluzania"	0	3	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Gaertnera_rotundifolia"	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Stillingia_lineata"	0	0	2	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Faujasiopsis_flexuosa"	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"Olea_lancea"	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cordemoya_integrifolia"	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Euodia_chapelieri"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Monimiastrum_globosum"	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ochna_mauritiana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Erythrospermum_monticolum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Flagellaria_indica"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ocotea_laevigata"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Polyscias_mauritiana"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

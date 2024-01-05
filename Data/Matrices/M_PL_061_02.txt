@@ -1,0 +1,6 @@
+"Apis_mellifera"	"Lygistorrhina_sp1_M_PL_085"	"Unidentified_sp2_M_PL_085"	"Unidentified_sp1_M_PL_085"	"Lasioglossum_mahense"	"Parasarcophaga_hirticeps"	"Eristalinus_vicarians"	"Rhiparida_seychellensis"	"Geron_seychellarum"	"Nectarinia_dussumieri"	"Phelsuma_sp1_M_PL_085"	"Chalcidoma_disjunctum"	"Hemipyrellia_germana"	"Simosyrphus_aegyptius"	"Unidentified_sp3_M_PL_085"	"Unidentified_sp4_M_PL_085"	"Unidentified_sp5_M_PL_085"
+"Nephrosperma_vanhoutteanum"	15	20	13	6	2	6	6	5	2	0	1	1	1	0	1	1	0
+"Medusagyne_oppositifolia"	12	0	0	5	0	2	0	0	0	0	0	0	0	0	0	0	0
+"Mimusops_sechellarum"	9	0	0	1	3	0	0	0	0	2	1	0	0	0	0	0	1
+"Erythroxylum_sechellarum"	10	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0

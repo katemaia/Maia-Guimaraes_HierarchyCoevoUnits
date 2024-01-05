@@ -1,0 +1,8 @@
+"Citellophilus_lebedewi"	"Rhadinopsylla_li"	"Amphipsylla_phaiomydis"	"Oropsylla_silantiewi"	"Callopsylla_caspia"	"Pectinoctenus_nemorosa"	"Frontopsylla_elata"	"Leptopsylla_nana"	"Ceratophyllus_sinicus"	"Amphipsylla_montana"	"Neopsylla_pleskei"	"Amphipsylla_anceps"	"Ceratophyllus_sciurorum"	"Frontopsylla_ambigua"	"Nosopsyllus_simla"	"Frontopsylla_ornata"	"Amphipsylla_primaris"	"Frontopsylla_protera"	"Neopsylla_meridiana"	"Callopsylla_lagomys"	"Rhadinopsylla_altifrons"	"Paraneopsylla_ioffi"	"Leptopsylla_taschenbergi"
+"Marmota_caudata"	39110	619	0	278	0	0	14	0	68	0	0	0	0	8	0	0	0	0	0	0	0	2	0
+"Microtus_juldaschi"	6	0	253	0	62	15	147	46	0	3	5	2	2	2	0	5	6	6	6	7	2	0	0
+"Apodemus_uralensis"	3	0	3	0	33	189	5	32	6	3	24	11	0	16	0	9	0	7	0	0	2	2	3
+"Alticola_argentatus"	0	0	7	0	72	2	5	7	0	40	7	5	0	3	0	0	0	0	0	0	0	0	0
+"Cricetulus_migratorius"	3	0	15	0	47	0	0	2	0	15	10	26	0	0	0	2	7	0	4	0	3	0	0
+"Dryomys_nitedula"	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0
+"Rattus_turkestanicus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	2	0

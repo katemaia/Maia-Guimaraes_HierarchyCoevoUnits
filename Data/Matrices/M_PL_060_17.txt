@@ -1,0 +1,18 @@
+"Apis_mellifera"	"Chaetocnema_sp1_M_PL_076"	"Dysauxes_florida"	"Technomyrmex_albipes"	"Stomorhina_lunata"	"Lygistorrhina_sp1_M_PL_076"	"Pachycerina_crinicornis"	"Polistes_hebraeus"	"Brachymyrmex_sp1_M_PL_076"	"Musca_domestica"	"Panara_naso"	"Nacoleia_sp1_M_PL_076"	"Ischiodon_aegyptius"	"Stomoxys_calcitrans"	"Fannia_pusio"	"Allograpta_nasuta"	"Chrysomya_megacephala"	"Gelechioidea_sp1_M_PL_076"	"Campopleginae_sp1_M_PL_076"	"Melanostoma_bituberculatum"	"Syritta_nigrofemorata"	"Atherigona_orientalis"	"Calopsilia_florella"	"Cratopus_psittacus"	"Cryptocephalinae_sp1_M_PL_076"	"Dioxyna_sororcula"	"Episyrphus_sp1_M_PL_076"	"Eristalinus_flaveolus"	"Gelechioidea_sp2_M_PL_076"	"Lecithoceridae_sp1_M_PL_076"	"Mauritiborium_undulatus"	"Nyctemera_insulare"	"Ornidia_obesa"	"Sarcophaga_arno"	"Siphona_sp1_M_PL_076"
+"Sideroxylon_puberulum"	74	0	2	0	11	8	0	0	5	6	0	1	0	7	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ochna_mauritiana"	20	36	0	0	3	0	1	3	0	0	1	0	5	0	0	1	0	0	2	2	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Myonima_violacea"	9	0	24	0	4	0	1	2	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Stillingia_lineata"	0	6	0	7	2	2	13	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0
+"Faujasiopsis_flexuosa"	0	6	11	0	2	5	3	0	0	0	0	1	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"Bertiera_zaluzania"	23	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+"Aphloia_theiformis"	2	0	1	12	4	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Croton_fothergillifolius"	0	2	1	13	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Molinaea_alternifolia"	3	1	0	0	1	2	0	4	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+"Psiadia_terebinthina"	0	1	0	0	0	2	1	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+"Erythroxylum_macrocarpum"	0	1	0	0	0	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Homalanthus_populifolius"	0	1	0	4	0	0	2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psidium_cattleianum"	0	5	0	0	0	0	1	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Chassalia_coriacea"	0	0	0	0	0	0	0	1	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Antirhea_borbonica"	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cordemoya_integrifolia"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Olea_lancea"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

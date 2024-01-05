@@ -1,0 +1,26 @@
+"Turdus_viscivorus"	"Phoenicurus_ochruros"	"Turdus_merula"	"Fringilla_coelebs"	"Turdus_torquatus"	"Parus_ater"	"Turdus_iliacus"	"Erithacus_rubecula"	"Sylvia_communis"	"Sylvia_atricapilla"	"Garrulus_glandarius"	"Phoenicurus_phoenicurus"	"Turdus_pilaris"	"Coccothraustes_coccothraustes"	"Parus_major"	"Columba_palumbus"	"Parus_caeruleus"	"Parus_cristatus"	"Corvus_corone"	"Sylvia_melanocephala"	"Sitta_europaea"	"Sylvia_cantillans"	"Dendrocopos_major"	"Serinus_serinus"	"Pica_pica"	"Sylvia_borin"	"Turdus_philomelos"	"Loxia_curvirostra"	"Serinus_citinella"	"Sylvia_conspicillata"	"Corvus_corax"	"Ficedula_hypoleuca"	"Emberiza_cia"
+"Prunus_mahaleb"	829	941	583	783	0	391	0	175	182	62	135	111	0	3	41	55	61	37	19	35	33	32	21	18	0	8	0	0	6	2	0	1	0
+"Crataegus_monogyna"	121	0	111	68	375	4	152	2	0	6	13	0	74	67	27	12	7	3	10	0	1	0	0	0	13	0	6	4	0	0	2	0	1
+"Juniperus_phoenicea"	115	0	10	0	183	0	2	0	0	0	4	0	8	8	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Berberis_vulgaris"	10	22	26	12	95	0	37	16	0	8	0	2	12	0	8	0	4	0	2	0	0	0	0	0	4	0	0	0	0	0	0	0	0
+"Hedera_helix"	8	1	141	2	2	0	7	0	0	84	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rosa_canina"	22	0	50	0	58	0	9	0	0	0	0	0	19	4	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0
+"Lonicera_arborea"	1	2	7	5	66	8	1	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Juniperus_sabina"	8	0	4	0	62	0	9	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Taxus_baccata"	5	16	10	0	11	0	6	5	0	0	0	0	0	2	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Juniperus_communis"	13	0	11	0	9	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Daphne_laureola"	0	0	0	5	0	0	0	1	0	10	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhamnus_myrtifolius"	0	9	5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rubus_ulmifolius"	2	2	0	0	0	0	1	1	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0
+"Sorbus_aria"	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amelanchier_ovalis"	0	1	0	0	0	6	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Arum_italicum"	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Prunus_prostrata"	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhamnus_saxatilis"	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rubia_peregrina"	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cotoneaster_granatensis"	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Juniperus_oxycedrus"	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lonicera_splendida"	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lonicera_etrusca"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paeonia_officinalis"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Polygonatum_odoratum"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,12 @@
+"Lasioglossum_mahense"	"Apis_mellifera"	"Nectarinia_dussumieri"	"Lygistorrhina_sp1_M_PL_102"	"Phelsuma_sp1_M_PL_102"	"Ornidia_obesa"	"Unidentified_sp1_M_PL_102"	"Mabuya_sechellensis"	"Neavella_albipectus"	"Cratopus_aurostriatus"	"Pachycerina_seychellensis"	"Parasarcophaga_hirticeps"	"Polistes_olivaceus"	"Unidentified_sp2_M_PL_102"	"Dichaetomyia_fasciculifera"	"Foudia_madagascariensis"	"Plagiostenopterina_cyanosoma"	"Scaptodrosophila_sp1_M_PL_102"	"Unidentified_sp3_M_PL_102"	"Unidentified_sp4_M_PL_102"	"Unidentified_sp5_M_PL_102"
+"Dillenia_ferruginea"	19	16	0	0	0	5	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Gastonia_crassa"	5	1	11	0	9	0	0	5	0	0	0	0	2	0	0	1	0	0	0	0	0
+"Erythroxylum_sechellarum"	5	7	0	0	0	0	5	0	3	0	2	0	0	0	1	0	1	0	0	0	1
+"Nephrosperma_vanhoutteanum"	9	1	0	2	4	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Psychotria_pervillei"	5	0	9	0	0	1	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Roscheria_melanochaetes"	0	0	0	11	0	0	2	0	0	0	0	0	0	2	0	0	0	0	1	1	0
+"Memecylon_eleagni"	1	8	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Aphloia_theiformis"	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Campnosperma_seychellarum"	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+"Cinnamomum_verum"	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

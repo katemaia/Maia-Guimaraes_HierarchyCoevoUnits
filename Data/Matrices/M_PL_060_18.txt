@@ -1,0 +1,21 @@
+"Apis_mellifera"	"Chaetocnema_sp1_M_PL_077"	"Dysauxes_florida"	"Brachymyrmex_sp1_M_PL_077"	"Stomorhina_lunata"	"Nacoleia_sp1_M_PL_077"	"Technomyrmex_albipes"	"Lygistorrhina_sp1_M_PL_077"	"Panara_naso"	"Chrysomya_megacephala"	"Eumolpinae_sp1_M_PL_077"	"Pachycerina_crinicornis"	"Polistes_hebraeus"	"Allograpta_nasuta"	"Syritta_nigrofemorata"	"Musca_domestica"	"Ornidia_obesa"	"Cerambycidae_sp1_M_PL_077"	"Cixiidae_sp1_M_PL_077"	"Eristalinus_flaveolus"	"Fannia_pusio"	"Ischiodon_aegyptius"	"Lygaeidae_sp1_M_PL_077"	"Melanostoma_bituberculatum"	"Mordellidae_sp1_M_PL_077"	"Nitidulidae_sp1_M_PL_077"	"Sarcophaga_arno"	"Villa_unifasciata"
+"Sideroxylon_puberulum"	60	0	0	0	3	0	0	6	2	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Grangeria_borbonica"	16	16	8	0	0	3	0	0	0	1	4	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+"Badula_platiphylla"	0	22	0	6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+"Helichrysum_proteoides"	2	4	2	0	1	0	0	0	1	1	0	1	2	0	3	0	1	0	0	0	1	0	1	0	0	0	1	0
+"Myonima_violacea"	4	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Harungana_madagascariensis"	0	9	0	2	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Stillingia_lineata"	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Ochna_mauritiana"	4	6	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Olea_lancea"	0	10	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psiadia_terebinthina"	1	2	0	0	1	0	0	0	0	1	0	2	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0
+"Aphloia_theiformis"	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psidium_cattleianum"	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+"Coffea_macrocarpa"	0	1	0	1	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Homalanthus_populifolius"	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"Faujasiopsis_flexuosa"	2	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Gaertnera_sp1_M_PL_077"	1	0	0	0	1	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Coffea_mauritiana"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Gaertnera_rotundifolia"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Warneckea_trinervis"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Wikstroemia_indica"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,3 @@
+"Amphiprion_clarkii"	"Amphiprion_perideraion"	"Premnas_biaculeatus"
+"Entacmaea_quadricolor"	0	0	1
+"Heteractis_crispa"	1	1	0

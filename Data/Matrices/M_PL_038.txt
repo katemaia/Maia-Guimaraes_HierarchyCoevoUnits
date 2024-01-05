@@ -1,0 +1,9 @@
+"Unidentified_sp1_M_PL_038"	"Anaspis_flava"	"Meligethes_sp1_M_PL_038"	"Unidentified_sp2_M_PL_038"	"Adscita_statices"	"Apocrita_sp1_M_PL_038"	"Byturus_aestivus"	"Crambus_pratella"	"Dasytes_plumbeus"	"Unidentified_sp3_M_PL_038"	"Unidentified_sp4_M_PL_038"	"Anaspis_rufilabris"	"Bombus_hortorum"	"Bombus_pascuorum"	"Chrysogaster_solstitialis"	"Leptura_rubra"	"Nemophora_degeerella"	"Olibrus_aeneus"	"Unidentified_sp5_M_PL_038"	"Unidentified_sp6_M_PL_038"	"Unidentified_sp7_M_PL_038"	"Anaspis_frontalis"	"Aphantopus_hyperantus"	"Ceuthorrhynchus_pollinarius_Forster"	"Episyrphus_balteatus"	"Epuraea_depressa_Illiger"	"Eumerus_tuberculatus"	"Grammoptera_ruficornis"	"Maniola_jurtina"	"Melanostoma_scalare"	"Polyommatus_icarus"	"Rhingia_campestris"	"Rhynchites_germanicus"	"Strophosomus_capitatus_de_Geer"	"Unidentified_sp10_M_PL_038"	"Unidentified_sp11_M_PL_038"	"Unidentified_sp12_M_PL_038"	"Unidentified_sp13_M_PL_038"	"Unidentified_sp14_M_PL_038"	"Unidentified_sp8_M_PL_038"	"Unidentified_sp9_M_PL_038"	"Volucella_pellucens"
+"Angelica_sylvestris"	1	0	1	1	0	0	1	1	1	1	0	1	0	0	1	1	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	1
+"Chaerophyllum_temulentum"	1	1	1	1	0	1	0	1	1	1	0	1	0	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Silene_dioica"	0	1	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	1	1	0	0	0	0
+"Stachys_sylvatica"	1	0	1	1	0	1	0	1	0	0	1	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Lapsana_communis"	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0
+"Geranium_robertianum"	0	0	0	1	1	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Vicia_sepium"	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Veronica_agrestis"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

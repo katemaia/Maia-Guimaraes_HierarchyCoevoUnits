@@ -1,0 +1,18 @@
+"Chaetocnema_sp1_M_PL_075"	"Stomorhina_lunata"	"Apis_mellifera"	"Technomyrmex_albipes"	"Dysauxes_florida"	"Allograpta_nasuta"	"Ophyra_capensis"	"Dioxyna_sororcula"	"Pachycerina_crinicornis"	"Ischiodon_aegyptius"	"Nacoleia_sp1_M_PL_075"	"Brachymyrmex_sp1_M_PL_075"	"Lygistorrhina_sp1_M_PL_075"	"Musca_domestica"	"Polistes_hebraeus"	"Melanostoma_bituberculatum"	"Panara_naso"	"Paragus_borbonicus"	"Chrysomya_megacephala"	"Fannia_pusio"	"Melanostoma_annulipes"	"Cerambycidae_sp1_M_PL_075"	"Episyrphus_sp1_M_PL_075"	"Eristalinus_flaveolus"	"Ornidia_obesa"	"Stomoxys_calcitrans"	"Agathidinae_sp1_M_PL_075"	"Cerambycidae_sp2_M_PL_075"	"Eumolpinae_sp1_M_PL_075"	"Eumolpinae_sp2_M_PL_075"	"Gelechioidea_sp1_M_PL_075"	"Henotesia_narcissus"	"Leptotes_pirithous"	"Mauritiborium_undulatus"	"Nacoleia_sp2_M_PL_075"	"Phorinia_sp1_M_PL_075"	"Stomoxys_niger"	"Syritta_sp1_M_PL_075"	"Villa_unifasciata"
+"Dracaena_reflexa"	0	4	16	0	3	6	0	0	2	6	4	0	0	0	0	0	0	0	3	0	1	0	1	2	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+"Stillingia_lineata"	17	2	0	4	0	5	10	0	3	0	0	0	0	1	0	1	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Myonima_violacea"	0	0	5	13	12	1	0	0	0	0	0	5	1	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Psiadia_terebinthina"	4	11	0	0	7	0	0	10	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Bertiera_zaluzania"	0	1	16	12	1	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Erythroxylum_macrocarpum"	9	6	0	0	1	3	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0	0	1	0	1	0	0	1
+"Homalanthus_populifolius"	16	2	0	0	0	1	0	1	1	0	0	0	0	2	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Croton_fothergillifolius"	10	2	0	1	1	0	0	2	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0
+"Molinaea_alternifolia"	2	6	3	1	0	1	6	0	0	1	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Olea_lancea"	16	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psidium_cattleianum"	8	1	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Faujasiopsis_flexuosa"	1	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Claoxylon_linostachys"	0	0	0	0	0	0	0	1	0	0	0	0	4	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Aphloia_theiformis"	0	3	0	0	0	0	1	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Flagellaria_indica"	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Chassalia_coriacea"	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Antirhea_borbonica"	2	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

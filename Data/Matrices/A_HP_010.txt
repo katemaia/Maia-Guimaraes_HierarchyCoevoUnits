@@ -1,0 +1,19 @@
+"Xenopsylla_skrjabini"	"Xenopsylla_hirtipes"	"Xenopsylla_gerbilli"	"Xenopsylla_conformis"	"Amphipsylla_schelkovnikovi"	"Nosopsyllus_laeviceps"	"Mesopsylla_lenis"	"Coptopsylla_lamellifer"	"Echidnophaga_oschanini"	"Mesopsylla_eucta"	"Mesopsylla_tuschkan"	"Xenopsylla_magdalinae"	"Mesopsylla_hebes"	"Ophthalmopsylla_volgensis"	"Ctenophthalmus_arvalis"	"Ctenophthalmus_dolichus"	"Nosopsyllus_consimilis"	"Neopsylla_teratura"	"Nosopsyllus_tersus"	"Amphipsylla_rossica"	"Nosopsyllus_fidus"	"Pectinoctenus_nemorosa"	"Citellophilus_ullus"	"Rhadinopsylla_socia"	"Ctenophthalmus_dux"	"Rhadinopsylla_cedestis"	"Rhadinopsylla_bivirgis"	"Amphipsylla_dumalis"	"Citellophilus_trispinus"	"Ctenophthalmus_breviatus"	"Paradoxopsyllus_repandus"
+"Rhombomys_opimus"	2198	1305	619	8	0	165	0	121	101	2	0	0	0	0	0	58	0	0	26	0	0	0	11	16	0	12	3	0	0	0	2
+"Cricetulus_migratorius"	0	0	0	0	328	0	0	0	0	0	0	0	0	3	9	0	8	28	0	5	0	0	0	0	0	0	0	0	2	0	0
+"Meriones_tamariscinus"	0	0	0	166	0	119	2	0	7	0	0	0	0	0	2	0	0	0	0	0	7	0	5	0	0	0	0	0	0	0	0
+"Allactaga_elater"	0	0	2	3	0	0	141	0	0	54	9	0	3	37	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Meriones_meridianus"	0	0	0	169	0	43	0	0	4	2	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ellobius_talpinus"	0	0	0	0	0	0	0	0	0	0	0	78	0	0	4	0	0	0	0	0	0	0	0	0	12	0	0	2	0	0	0
+"Pygeretmus_pumilio"	0	0	0	0	0	0	0	0	0	4	69	0	0	10	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+"Allactaga_major"	0	0	0	0	0	0	0	0	0	0	0	0	57	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Allactaga_sibirica"	0	0	0	0	0	0	5	0	0	10	14	0	17	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apodemus_uralensis"	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	4	2	0	2	11	20	0	0	0	0	0	0	0	0	0
+"Allactaga_severtzovi"	0	0	0	0	0	0	0	0	0	25	0	0	0	6	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Microtus_gregalis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Microtus_socialis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	2	2	0	4	0	0	0	0	0	0	0	0	0	2	0
+"Microtus_arvalis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	6	0	0	14	0	0	0	0	0	0	0	0	0	0	0
+"Pygeretmus_shitkovi"	0	0	0	0	0	0	14	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dipus_sagitta"	0	0	0	14	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Stylodipus_telum"	7	0	0	0	0	0	2	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Spermophilus_pygmaeus"	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,12 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Nectarinia_dussumieri"	"Phelsuma_sp1_M_PL_120"	"Unidentified_sp2_M_PL_120"	"Unidentified_sp4_M_PL_120"	"Neophyllomyza_approximatonervis"	"Xylocopa_caffra"	"Dichaetomyia_fasciculifera"	"Ornidia_obesa"	"Lygistorrhina_sp1_M_PL_120"	"Eagris_sabadius"	"Hemipyrellia_germana"	"Unidentified_sp3_M_PL_120"	"Cratopus_aurostriatus"	"Megachile_seychellensis"	"Rhynchium_brunneum"	"Scaptodrosophila_sp1_M_PL_120"	"Unidentified_sp1_M_PL_120"
+"Nephrosperma_vanhoutteanum"	21	19	0	2	8	0	0	0	2	0	0	0	0	0	0	1	0	0	0
+"Phoenicophorium_borsigianum"	6	10	0	2	0	9	0	0	0	0	3	0	0	0	1	0	0	0	0
+"Erythroxylum_sechellarum"	15	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+"Syzygium_wrightii"	8	2	4	0	0	0	0	6	0	1	0	2	1	0	0	0	0	0	0
+"Dillenia_ferruginea"	17	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Chrysobalanus_icaco"	11	0	3	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0
+"Mimusops_sechellarum"	0	0	8	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Roscheria_melanochaetes"	2	1	0	0	1	0	3	0	0	0	0	0	0	2	0	0	0	0	1
+"Dracaena_reflexa"	0	3	0	0	0	0	3	0	3	0	0	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	0	6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Northea_hornei"	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

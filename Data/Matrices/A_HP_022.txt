@@ -1,0 +1,17 @@
+"Ctenophthalmus_breviatus"	"Ctenophthalmus_assimilis"	"Citellophilus_tesquorum"	"Neopsylla_pleskei"	"Frontopsylla_elata"	"Oropsylla_ilovaiskii"	"Amalaraeus_penicilliger"	"Peromyscopsylla_bidentata"	"Corrodopsylla_birulai"	"Mesopsylla_hebes"	"Amphipsylla_prima"	"Frontopsylla_semura"	"Palaeopsylla_soricis"	"Leptopsylla_segnis"	"Neopsylla_setosa"	"Oropsylla_silantiewi"	"Amphipsylla_kalabukhovi"	"Amphipsylla_kuznetzovi"
+"Microtus_arvalis"	63	57	23	62	23	0	0	6	0	0	0	0	0	0	0	0	0	2
+"Lagurus_lagurus"	72	2	14	2	0	0	0	0	0	0	8	0	0	0	0	0	0	0
+"Marmota_bobak"	24	0	48	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0
+"Arvicola_terrestris"	11	49	2	7	5	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Allocricetulus_eversmanni"	17	6	10	18	0	0	0	0	0	0	0	5	0	0	0	0	2	0
+"Apodemus_uralensis"	13	19	7	9	5	0	0	2	0	0	0	0	0	0	0	0	0	0
+"Microtus_gregalis"	4	32	0	3	6	0	6	0	0	0	0	0	0	0	0	0	0	0
+"Spermophilus_major"	10	0	13	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0
+"Sorex_araneus"	2	17	0	0	0	0	0	0	13	0	0	0	7	0	0	0	0	0
+"Clethrionomys_glareolus"	0	2	0	6	2	0	11	8	0	0	2	0	0	2	0	0	0	0
+"Microtus_oeconomus"	2	18	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0
+"Spermophilus_pygmaeus"	9	0	10	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+"Allactaga_major"	0	0	0	2	0	2	0	0	0	11	0	0	0	0	0	0	0	0
+"Cricetus_cricetus"	3	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+"Spermophilus_fulvus"	0	0	0	0	0	2	0	0	0	0	0	2	0	0	2	0	0	0
+"Micromys_minutus"	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0

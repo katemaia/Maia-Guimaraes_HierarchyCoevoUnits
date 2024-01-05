@@ -1,0 +1,13 @@
+"Xylocopa_darwini"	"Lepidanthrax_tinctus"	"Halmenus_cuspidatus"	"Phoebis_sennae"	"Unidentified_sp1_M_PL_042"	"Unidentified_sp2_M_PL_042"
+"Pectis_tenuifolia"	1	1	0	0	1	1
+"Chiococa_alba"	1	1	1	0	0	0
+"Darwiniothamnus_tenuifolius"	1	1	1	0	0	0
+"Opuntia_echios"	1	1	1	0	0	0
+"Scalesia_affinis"	1	1	1	0	0	0
+"Waltheria_ovata"	1	1	1	0	0	0
+"Cordia_lutea"	1	0	0	0	0	0
+"Cordia_revoluta"	1	0	0	0	0	0
+"Jasminoserius_thouarsii"	1	0	0	0	0	0
+"Lippia_rosmarinifolia"	1	0	0	0	0	0
+"Passiflora_foetida"	1	0	0	0	0	0
+"Plumbago_scandens"	0	0	0	1	0	0

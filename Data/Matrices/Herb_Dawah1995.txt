@@ -1,0 +1,11 @@
+"Tetramesa_fulvicollis"	"Tetramesa_longula"	"Tetramesa_longicornis"	"Tetramesa_linearis"	"Tetramesa_hyallpennis"	"Tetramesa_cornuta"	"Eurytoma_sp."	"Tetramesa_calamagrostidis"	"Tetramesa_eximia"	"Tetramesa_brevicornis"	"Tetramesa_brevicollis"	"Ahtola_atra"	"Tetramesa_angustipennis"	"Tetramesa_petiolata"	"Tetramesa_airae"	"Tetramesa_albomaculata"	"Tetramesa_phleicola"
+"Brachypodium_sylvaticum"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dactylis_glomerata"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phalaris_arundinacea"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Elymus_repens"	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0
+"Calamagrostis_epigejos"	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0
+"Ammophila_arenaria"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"Festuca_rubra"	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+"Alopecurus_pratensis"	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+"Deschampsia_cespitosa"	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0
+"Phleum_pratense"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1

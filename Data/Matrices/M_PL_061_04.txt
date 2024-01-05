@@ -1,0 +1,9 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Unidentified_sp2_M_PL_087"	"Nectarinia_dussumieri"	"Unidentified_sp1_M_PL_087"	"Hemipyrellia_sp1_M_PL_087"	"Rhiparida_seychellensis"	"Unidentified_sp4_M_PL_087"	"Cratopus_aurostriatus"	"Neophyllomyza_approximatonervis"	"Megachile_seychellensis"	"Mabuya_sechellensis"	"Chalcidoma_disjunctum"	"Unidentified_sp3_M_PL_087"
+"Nephrosperma_vanhoutteanum"	25	26	17	0	6	8	6	6	3	4	0	0	0	1
+"Erythroxylum_sechellarum"	16	8	0	0	3	0	0	0	0	0	2	0	0	0
+"Paragenipa_wrightii"	17	6	0	6	0	0	0	0	0	0	0	0	0	0
+"Canthium_bibracteatum"	15	3	0	0	0	0	0	0	0	0	1	0	0	0
+"Phoenicophorium_borsigianum"	2	12	0	0	0	0	0	0	1	0	0	0	0	0
+"Memecylon_eleagni"	13	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Psychotria_pervillei"	4	2	0	3	0	0	0	0	0	0	0	0	0	0
+"Syzygium_wrightii"	0	0	0	0	0	0	0	0	0	0	0	2	0	0

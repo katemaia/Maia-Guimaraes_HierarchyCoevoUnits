@@ -1,0 +1,7 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Unidentified_sp2_M_PL_086"	"Phelsuma_sp1_M_PL_086"	"Megachile_seychellensis"	"Hemipyrellia_sp1_M_PL_086"	"Plagiostenopterina_cyanosoma"	"Unidentified_sp1_M_PL_086"	"Lygistorrhina_sp1_M_PL_086"	"Unidentified_sp4_M_PL_086"	"Musca_domestica"	"Nectarinia_dussumieri"	"Physiphoa_azurea"	"Unidentified_sp3_M_PL_086"
+"Nephrosperma_vanhoutteanum"	41	30	19	8	5	0	0	2	0	0	0	0	1	1
+"Memecylon_eleagni"	22	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Cinnamomum_verum"	7	3	0	0	0	3	0	0	0	0	1	0	0	0
+"Canthium_bibracteatum"	11	0	0	0	1	1	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	3	0	0	0	0	0	3	0	0	2	0	1	0	0
+"Erythroxylum_sechellarum"	0	3	0	0	1	0	0	0	2	0	0	0	0	0

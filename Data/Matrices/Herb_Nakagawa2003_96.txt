@@ -1,0 +1,21 @@
+"Ctenomerus_sp._1"	"Ctenomerus_sp._2"	"Nanophyes_shoreae"	"Endaenidius_spinipes"	"Sternuchopsis_toyi"	"Sternuchopsis_dipterocarpi"	"Sternuchopsis_sp._1"	"Sternuchopsis_shoreaphilus"	"Niphades_sp._1"	"Idotasia_sp._1"	"Orchestes_sp._1"	"Orchestes_sp._3"	"Involvulus_sp._1"	"Coccotrypes_advena"	"Coccotrypes_cinnamoni"	"Coccotrypes_gedeanus"	"Coccotrypes_myristicae"	"Coccotrypes_nitidus"	"Coccotripes_papuanus"	"Hypothenemus_areccae"	"Xyleborinus_exiguus"	"Xyleborinus_ferrugineus"	"Xyleborinus_subdentatus"	"Andrioplecta_shoreae"	"Andrioplecta_subpulverula"	"Assara_albicostalis"	"Lamoria_adaptella"	"Crambidae_Gn._Sp._A"	"Crambidae_Gn._Sp._B"
+"Dipterocarpus_geniculatus"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dipterocarpus_crinitus"	3	3	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dipterocarpus_globosus"	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Dipterocarpus_palembanicus"	0	0	0	0	0	0	0	0	0	0	1	1	0	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dipterocarpus_tempehes"	0	0	1	0	1	0	0	0	17	0	20	0	0	3	0	0	0	1	3	0	0	0	0	1	0	2	0	0	0
+"Dryobalanops_aromatica"	2	0	6	0	12	2	1	1	1	1	5	0	0	37	8	10	0	15	16	0	2	1	0	158	2	6	30	18	2
+"Dryobalanops_lanceolata"	0	0	1	0	9	0	8	1	0	0	0	0	1	18	8	16	2	0	4	1	0	0	1	68	3	39	21	6	0
+"Shorea_smithiana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Shorea_xantophylla"	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	2	0	3	0	0	0
+"Shorea_domatiosa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	3	0	0	0
+"Shorea_laxa"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Shorea_confusa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0
+"Shorea_falciferoides"	1	0	5	0	3	1	7	0	0	0	5	0	0	5	0	1	0	0	1	0	0	0	0	73	2	0	3	0	1
+"Shorea_ochracea"	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Shorea_parvifolia"	3	0	5	0	0	5	0	1	0	0	5	0	0	0	1	2	0	0	1	0	0	0	0	37	0	0	5	4	0
+"Shorea_pilosa"	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+"Shorea_quadrinervis"	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+"Shorea_scabrida"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0
+"Shorea_agami"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Shorea_kunsitleri"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0

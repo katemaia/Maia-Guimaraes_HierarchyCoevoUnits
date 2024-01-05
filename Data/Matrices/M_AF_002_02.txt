@@ -1,0 +1,3 @@
+"Amphiprion_clarkii"	"Amphiprion_ocellaris"	"Amphiprion_perideraion"	"Amphiprion_sandaracinos"
+"Heteractis_magnifica"	0	1	1	0
+"Stichodactyla_mertensii"	1	0	0	1

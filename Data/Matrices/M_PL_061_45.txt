@@ -1,0 +1,12 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Neophyllomyza_approximatonervis"	"Forcipomyia_sp1_M_PL_128"	"Unidentified_sp6_M_PL_128"	"Xylocopa_caffra"	"Unidentified_sp1_M_PL_128"	"Mabuya_sechellensis"	"Nectarinia_dussumieri"	"Lygistorrhina_sp1_M_PL_128"	"Ornidia_obesa"	"Phelsuma_sp1_M_PL_128"	"Unidentified_sp7_M_PL_128"	"Cratopus_aurostriatus"	"Unidentified_sp5_M_PL_128"	"Hemipyrellia_germana"	"Rhiparida_seychellensis"	"Unidentified_sp3_M_PL_128"	"Unidentified_sp4_M_PL_128"	"Chalcidoma_disjunctum"	"Polistes_olivaceus"	"Simosyrphus_aegyptius"	"Unidentified_sp2_M_PL_128"
+"Nephrosperma_vanhoutteanum"	24	10	26	2	0	0	5	0	0	4	0	1	0	2	0	0	0	0	0	0	0	0	1
+"Phoenicophorium_borsigianum"	13	27	0	0	15	0	0	0	0	1	0	3	5	0	0	0	0	2	2	0	0	0	0
+"Roscheria_melanochaetes"	0	0	15	15	0	0	5	0	0	0	0	0	0	2	3	0	0	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	10	17	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dillenia_ferruginea"	15	0	0	0	0	1	0	0	1	0	6	0	0	0	0	2	2	0	0	0	0	0	0
+"Dillenia_suffruticosa"	4	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Excoecaria_benthiamiana"	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	11	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+"Gastonia_crassa"	0	0	0	0	0	0	0	6	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0
+"Psychotria_pervillei"	4	3	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Syzygium_wrightii"	1	0	0	0	0	0	0	3	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0

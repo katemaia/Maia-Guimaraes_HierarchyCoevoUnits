@@ -1,0 +1,19 @@
+"Turdus_merula"	"Turdus_viscivorus"	"Turdus_iliacus"	"Turdus_torquatus"	"Phoenicurus_ochruros"	"Erithacus_rubecula"	"Fringilla_coelebs"	"Parus_ater"	"Sylvia_atricapilla"	"Coccothraustes_coccothraustes"	"Columba_palumbus"	"Corvus_corone"	"Parus_major"	"Turdus_pilaris"	"Garrulus_glandarius"	"Parus_caeruleus"	"Phoenicurus_phoenicurus"	"Sitta_europaea"	"Emberiza_cia"	"Loxia_curvirostra"	"Parus_cristatus"	"Pica_pica"	"Turdus_philomelos"	"Corvus_corax"	"Dendrocopos_major"	"Ficedula_hypoleuca"	"Sylvia_borin"	"Sylvia_cantillans"
+"Crataegus_monogyna"	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	0	0
+"Prunus_mahaleb"	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	1	0	0	0	1	1	1	1
+"Berberis_vulgaris"	1	1	1	1	1	1	1	0	1	0	0	1	1	1	0	1	1	0	0	0	0	1	0	0	0	0	0	0
+"Juniperus_phoenicea"	1	1	1	1	0	0	0	0	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lonicera_arborea"	1	1	1	1	1	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rosa_canina"	1	1	1	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+"Taxus_baccata"	1	1	1	1	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hedera_helix"	1	1	1	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Juniperus_communis"	1	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Juniperus_sabina"	1	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sorbus_aria"	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+"Daphne_laureola"	0	0	0	0	0	1	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amelanchier_ovalis"	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhamnus_myrtifolius"	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Rhamnus_saxatilis"	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lonicera_splendida"	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Juniperus_oxycedrus"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paeonia_officinalis"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

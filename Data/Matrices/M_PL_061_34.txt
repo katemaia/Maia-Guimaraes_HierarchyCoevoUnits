@@ -1,0 +1,4 @@
+"Apis_mellifera"	"Hemipyrellia_sp1_M_PL_117"	"Lasioglossum_mahense"	"Eristalinus_vicarians"	"Hemipyrellia_germana"	"Ornidia_obesa"	"Rhiparida_seychellensis"
+"Chrysobalanus_icaco"	28	0	0	1	0	0	0
+"Dillenia_ferruginea"	8	0	2	0	1	1	1
+"Nepenthes_pervillei"	2	2	0	0	0	0	0

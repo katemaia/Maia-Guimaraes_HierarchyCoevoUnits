@@ -1,0 +1,9 @@
+"Turdus_torquatus"	"Turdus_merula"	"Turdus_viscivorus"	"Turdus_iliacus"	"Turdus_philomelos"
+"Berberis_vulgaris"	1	1	1	1	1
+"Crataegus_monogyna"	1	1	1	1	1
+"Hedera_helix"	1	1	1	1	0
+"Taxus_baccata"	1	1	1	1	0
+"Rosa_canina"	1	1	1	0	0
+"Lonicera_arborea"	1	1	0	0	0
+"Viscum_album"	1	0	1	0	0
+"Juniperus_communis"	1	0	0	0	0

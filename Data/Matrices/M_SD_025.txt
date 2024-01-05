@@ -1,0 +1,8 @@
+"Turdus_merula"	"Turdus_philomelos"	"Erithacus_rubecula"	"Sylvia_atricapilla"	"Turdus_iliacus"	"Turdus_pilaris"
+"Sambucus_niger"	1	1	1	1	1	0
+"Crataegus_monogyna"	1	1	0	0	1	1
+"Hedera_helix"	1	1	1	1	0	0
+"Prunus_spinosa"	1	0	0	1	1	1
+"Euonymus_europaeus"	1	0	1	0	0	0
+"Rubus_fruticosus"	1	1	0	0	0	0
+"Rosa_canina"	1	0	0	0	0	0

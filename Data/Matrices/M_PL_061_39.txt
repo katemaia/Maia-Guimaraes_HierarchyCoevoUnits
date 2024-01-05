@@ -1,0 +1,8 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_germana"	"Ornidia_obesa"	"Unidentified_sp1_M_PL_122"	"Neophyllomyza_approximatonervis"	"Cratopus_aurostriatus"	"Scaptodrosophila_sp1_M_PL_122"	"Rhiparida_seychellensis"	"Dichaetomyia_fasciculifera"	"Phelsuma_sp1_M_PL_122"	"Unidentified_sp3_M_PL_122"	"Megachile_seychellensis"	"Pachycerina_seychellensis"	"Plagiostenopterina_cyanosoma"	"Simosyrphus_aegyptius"	"Eristalinus_vicarians"	"Eristalodes_seychellarum"	"Nectarinia_dussumieri"	"Physiphoa_azurea"	"Polistes_olivaceus"	"Unidentified_sp2_M_PL_122"	"Xylocopa_caffra"
+"Nephrosperma_vanhoutteanum"	21	20	1	1	11	7	1	1	3	0	2	0	2	0	1	0	0	0	0	0	0	0	0
+"Chrysobalanus_icaco"	38	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Paragenipa_wrightii"	12	20	0	0	0	0	0	0	0	0	1	3	0	2	0	0	0	0	0	0	0	1	0
+"Phoenicophorium_borsigianum"	1	14	7	0	0	0	1	5	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1
+"Cinnamomum_verum"	12	6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+"Dillenia_ferruginea"	11	2	1	0	0	0	3	0	2	0	0	0	0	0	0	0	1	1	0	0	0	0	0
+"Nepenthes_pervillei"	0	0	3	10	0	2	0	0	0	4	0	0	0	0	0	2	0	0	0	0	0	0	0

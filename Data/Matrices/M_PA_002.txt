@@ -1,0 +1,7 @@
+"Azteca_xanthochroa"	"Azteca_ovaticeps"	"Camponotus_balzani"	"Pachycondyla_luteola"
+"Cecropia_membranacea"	11	26	16	0
+"Cecropia_tessmannii"	0	0	3	28
+"Cecropia_ficifolia"	12	0	12	0
+"Cecropia_sp1_M_PA_002"	17	0	0	0
+"Cecropia_polystachya"	2	4	1	0
+"Cecropia_engleriana"	1	5	0	0

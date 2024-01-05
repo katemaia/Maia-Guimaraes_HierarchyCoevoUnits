@@ -1,0 +1,12 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Unidentified_sp1_M_PL_101"	"Unidentified_sp3_M_PL_101"	"Ornidia_obesa"	"Unidentified_sp2_M_PL_101"	"Unidentified_sp6_M_PL_101"	"Neavella_albipectus"	"Dichaetomyia_fasciculifera"	"Parasarcophaga_hirticeps"	"Scaptodrosophila_sp1_M_PL_101"	"Unidentified_sp4_M_PL_101"	"Unidentified_sp8_M_PL_101"	"Eristalinus_vicarians"	"Perissoma_aenescens"	"Phelsuma_sp1_M_PL_101"	"Unidentified_sp5_M_PL_101"	"Unidentified_sp7_M_PL_101"
+"Roscheria_melanochaetes"	3	0	2	9	0	7	0	0	0	0	0	0	2	0	0	0	0	0
+"Mimusops_sechellarum"	0	13	0	0	0	0	6	2	0	0	0	0	0	0	0	0	0	1
+"Dillenia_ferruginea"	12	2	0	0	6	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Paragenipa_wrightii"	3	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	10	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	7	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+"Soulamea_terminaloides"	0	0	7	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0
+"Aphloia_theiformis"	1	2	0	0	1	0	0	0	0	0	0	2	0	0	0	0	1	0
+"Syzygium_wrightii"	2	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0
+"Craterispermum_microdon"	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Glionnetia_sericea"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0

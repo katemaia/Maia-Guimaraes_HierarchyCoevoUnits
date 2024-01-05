@@ -1,0 +1,14 @@
+"Ergasilus_sp."	"Contracaecum_sp."	"Argulus_sp."	"Ascocotye_(Phagicola)_longa"	"Austrodiplostomum_compactum"	"Pseudoacanthostomum_panamense"	"Neoechinorhynchus_golvani"	"Clinostomum_complanatum"	"Echinochasmus_leopoldinae"	"Southwellina_hispida"	"Paracryptogonimus_sp."	"Posthodiplostomum_minimum"	"Parvitaenia_cochlearii"	"Pseudoleptorhynchoides_lamothei"	"Centrocestus_formosanus"	"Metadena_sp."	"Gnathostoma_sp."	"Crassicutis_cichlasomae"	"Magnivitellinum_simplex"	"Neoapocreadium_marina"	"Pseudacaenodera_cristata"	"Saccocoelioides_sp."	"Saccocoelioides_sogandaresi"	"Cladocystis_trifolium"	"Haplorchis_sp."	"Tylodelphys_sp."	"Aristocleidus_hastatus"	"Cornutohaptor_nigrescensi"	"Ligophorus_mugilinus"	"Microcotyloides_incisa"	"Neotetraonchus_sp."	"Rhabdosynochus_sp."	"Proteocephalus_sp."	"Proteocephalus_chamelensis"	"Floridosentis_mugilis"	"Hysterothylacium_perezi"	"Philometra_sp."	"Rhabdochona_mexicana"	"Procamallanus_gobiomori"
+"Centropomus_nigrescens"	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+"Eleotris_picta"	1	0	1	1	1	1	1	1	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1
+"Cichlasoma_trimaculatum"	1	1	1	1	1	1	1	1	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Diapterus_peruvianus"	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Gobiomorus_maculatus"	1	1	1	1	1	1	1	1	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dormitator_latifrons"	1	1	1	1	0	1	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hexanematichthys_guatemalensis"	1	1	1	0	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+"Poecilia_sphenops"	1	1	1	1	1	1	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Astyanax_fasciatus"	0	0	1	1	1	0	0	0	1	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Centropomus_robalito"	1	1	0	1	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+"Lutjanus_argentiventris"	1	1	1	0	0	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"Mugil_curema"	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+"Gobionellus_sagittula"	1	1	0	0	0	1	1	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

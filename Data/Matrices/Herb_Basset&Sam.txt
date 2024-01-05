@@ -1,0 +1,11 @@
+"Coenobius_kleinhoviae"	"Micromolpus_sp._3"	"Rhyparida_coriacea"	"Rhyparida_sp._5"	"Rhyparida_sp._6"	"Rhyparida_sp._7"	"Rhyparida_sp._8"	"Rhyparidella_wauensis"	"Rhyparidella_sp._10"	"Rhyparidella_sp._11"	"Rhyparidella_sp._12"	"Rhyparidella_sp._13"	"Rhyparidella_sp._14"	"Rhyparidella_sp._15"	"Rhyparidella_sp._16"	"Rhyparidella_sp._17"	"Rhyparidella_sp._18"	"Rhyparidella_sp._19"	"Stethotes_integra"	"Stethotes_lateralis"	"Stethotes_suturalis"	"Stethotes_sp._25"	"Stethotes_sp._26"	"Thyrasia_sp._27"	"Atysa_sp._29"	"Aulacophora_sp._30"	"Momaea_sp._32"	"Neolepta_sp._34"	"Neolepta_sp._35"	"Neolepta_sp._36"	"Neolepta_sp._40"	"Oides_sp._41"	"Sastra_sp._42"	"Crepidodera_sp._44"	"Manobia_sp._45"	"Xenidea_sp._46"
+"Elmerrillia_tsiampacca"	0	0	0	0	0	0	0	1	0	0	0	7	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"Cinnamomum_culilaban"	0	0	0	0	2	0	0	3	0	0	0	5	9	0	5	0	23	0	4	0	0	4	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+"Piper_plagiophyllum"	0	0	0	0	0	0	0	6	0	0	0	14	1	0	1	1	0	0	1	20	0	1	0	0	0	1	0	0	0	0	0	0	0	189	0	45
+"Ficus_nodosa"	4	0	11	0	0	0	0	53	0	3	0	0	39	46	0	4	91	2	0	0	0	0	0	0	18	4	0	0	0	0	0	0	0	0	1	0
+"Pipturus_argenteus"	0	0	3	0	0	0	24	113	0	10	16	23	9	0	1	19	0	2	38	19	0	0	9	0	0	0	0	4	0	0	1	29	5	1	38	0
+"Castanopsis_acuminatissima"	0	3	0	0	0	0	0	0	0	0	0	16	8	0	35	0	5	0	1	0	1	0	0	4	0	1	0	0	0	14	0	0	0	0	0	0
+"Caldcluvia_brassii"	0	0	0	53	0	34	0	0	41	0	0	0	0	0	0	0	2	0	0	0	14	0	0	0	0	0	2	0	6	3	0	0	0	0	0	0
+"Aleurites_moluccana"	0	0	0	0	0	0	0	1	0	0	0	2	5	0	4	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Melicope_denhamii"	0	0	0	0	0	0	2	2	0	0	0	91	1	0	203	0	17	0	0	1	2	0	0	0	0	0	12	0	0	0	0	1	0	0	0	0
+"Cordia_dicotoma"	0	0	0	0	0	0	0	0	0	0	0	36	12	0	4	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

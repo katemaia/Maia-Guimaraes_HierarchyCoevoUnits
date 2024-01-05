@@ -1,0 +1,10 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_germana"	"Megachile_seychellensis"	"Ornidia_obesa"	"Neophyllomyza_approximatonervis"	"Phelsuma_sp1_M_PL_090"	"Melanostoma_annulipes"	"Polistes_olivaceus"	"Ceratina_tabescens"	"Rhiparida_seychellensis"	"Unidentified_sp2_M_PL_090"	"Euodynerus_cylindricus"	"Nectarinia_dussumieri"	"Unidentified_sp5_M_PL_090"	"Rhynchium_brunneum"	"Unidentified_sp1_M_PL_090"	"Eagris_sabadius"	"Pachycerina_seychellensis"	"Scaptodrosophila_sp1_M_PL_090"	"Tricimba_seychellensis"	"Unidentified_sp3_M_PL_090"	"Unidentified_sp4_M_PL_090"
+"Nephrosperma_vanhoutteanum"	27	23	4	3	2	0	1	4	1	4	4	3	0	0	0	0	1	0	0	0	1	0	0
+"Canthium_bibracteatum"	44	4	3	11	0	3	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+"Deckenia_nobilis"	27	9	9	0	5	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	30	16	0	1	0	2	1	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	1
+"Phoenicophorium_borsigianum"	22	15	2	1	5	4	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Medusagyne_oppositifolia"	25	1	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+"Psychotria_pervillei"	15	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Alstonia_macrophylla"	2	0	0	0	1	2	0	1	1	0	0	0	3	0	2	2	0	1	0	0	0	0	0
+"Syzygium_wrightii"	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0

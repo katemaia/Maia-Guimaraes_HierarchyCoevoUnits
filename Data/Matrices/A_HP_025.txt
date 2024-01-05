@@ -1,0 +1,19 @@
+"Citellophilus_tesquorum"	"Oropsylla_silantiewi"	"Amphipsylla_primaris"	"Frontopsylla_elatoides"	"Rhadinopsylla_li"	"Oropsylla_alaskensis"	"Neopsylla_mana"	"Frontopsylla_hetera"	"Paradoxopsyllus_dashidorzhii"	"Neopsylla_pleskei"	"Paradoxopsyllus_scorodumovi"	"Amphipsylla_vinogradovi"	"Amalaraeus_penicilliger"	"Paramonopsyllus_scalonae"	"Frontopsylla_elata"	"Ctenophyllus_hirticrus"	"Nosopsyllus_laeviceps"	"Rhadinopsylla_dahurica"	"Ophthalmopsylla_praefecta"	"Neopsylla_abagaitui"	"Frontopsylla_wagneri"	"Ophthalmopsylla_kiritschenkovi"	"Amphipsylla_dumalis"	"Neopsylla_bidentatiformis"	"Amphipsylla_longispina"	"Callopsylla_caspia"	"Pectinoctenus_pavlovskii"	"Neopsylla_galea"	"Amphalius_runatus"	"Paradoxopsyllus_kalabukhovi"	"Wagnerina_longicauda"	"Paradoxopsyllus_integer"	"Tarsopsylla_octodecimdentata"	"Rhadinopsylla_rothschildi"	"Amphipsylla_kuznetzovi"	"Ceratophyllus_indages"	"Megabothris_rectangulatus"	"Rhadinopsylla_altaica"	"Rhadinopsylla_pseudodahurica"	"Xenopsylla_conformis"
+"Spermophilus_undulatus"	3998	2	8	608	594	559	101	178	0	2	2	3	0	0	0	36	0	2	0	36	0	0	0	3	0	0	0	0	17	0	0	0	0	0	2	0	0	0	0	0
+"Marmota_sibirica"	14	1960	2	0	2	0	3	11	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasiopodomys_brandtii"	2	0	558	0	0	0	305	107	0	141	7	0	85	0	0	3	0	11	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	4	0	0	0	0	0	0
+"Alticola_semicanus"	5	0	184	0	0	0	4	9	22	10	108	0	0	66	50	7	0	22	0	0	0	0	0	0	2	23	0	0	2	0	11	0	0	2	0	0	0	0	2	0
+"Allocricetulus_curtatus"	0	0	11	0	0	0	0	0	188	3	4	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cricetulus_barabensis"	0	0	0	0	0	0	8	14	0	0	0	101	0	0	0	0	0	0	0	0	0	0	0	27	2	0	9	10	0	0	0	6	0	0	0	0	0	0	0	0
+"Allactaga_sibirica"	0	0	0	2	0	0	3	3	0	0	0	0	0	0	0	0	0	0	37	0	33	0	0	0	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Meriones_meridianus"	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	31	0	0	0	0	3	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	2
+"Ellobius_tancrei"	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phodopus_sungorus"	0	0	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	11	0	0	8	0	0	0	0	0	2	0	0	0	0	0	0
+"Microtus_gregalis"	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+"Eolagurus_przewalskii"	0	0	17	0	0	0	0	0	4	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+"Dipus_sagitta"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Meriones_unguiculatus"	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	8	0	0	0	0	0	0	0	4	0	0	0	0	2	0	2	0	0	0	0	0	0	0	0
+"Sciurus_vulgaris"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0
+"Microtus_oeconomus"	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+"Clethrionomys_rufocanus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+"Tamias_sibiricus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0

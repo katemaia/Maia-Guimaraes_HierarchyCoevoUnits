@@ -1,0 +1,9 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Ornidia_obesa"	"Unidentified_sp1_M_PL_112"	"Rhynchium_brunneum"	"Xylocopa_caffra"	"Megachile_seychellensis"	"Lygistorrhina_sp1_M_PL_112"	"Hemipyrellia_germana"	"Phelsuma_sp1_M_PL_112"	"Neophyllomyza_approximatonervis"	"Hemipyrellia_sp1_M_PL_112"	"Chalcidoma_disjunctum"	"Unidentified_sp2_M_PL_112"	"Eagris_sabadius"	"Eristalinus_vicarians"	"Rhiparida_seychellensis"	"Simosyrphus_aegyptius"
+"Nephrosperma_vanhoutteanum"	19	23	7	22	0	0	4	10	2	1	5	0	0	0	0	0	0	0
+"Premna_serratifolia"	1	14	0	0	19	0	9	0	0	0	0	4	0	0	1	1	1	0
+"Psidium_cattleianum"	21	2	10	0	0	5	0	0	5	0	0	0	0	0	0	0	0	0
+"Deckenia_nobilis"	16	9	5	0	0	0	0	0	4	6	1	0	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	2	15	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0
+"Memecylon_eleagni"	10	2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+"Ochna_kirkii"	0	1	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	1
+"Alstonia_macrophylla"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

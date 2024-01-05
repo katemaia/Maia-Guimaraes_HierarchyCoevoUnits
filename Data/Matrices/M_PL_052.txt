@@ -1,0 +1,16 @@
+"Nysius_groenlandicus"	"Spilogona_sanctpauli"	"Eupeodes_curtus"	"Eupeodes_luniger"	"Smittia_sp1_M_PL_052"	"Sphaerophoria_scripta"	"Delia_platura"	"Eupithesia_sobrinata"	"Phaonia_pallidisquama"	"Syngrapha_borea"	"Aedes_nigripes"	"Delia_fabricii"	"Dolichopus_groenlandicus"	"Helophilus_borealis"	"Helophilus_groenlandicus"	"Lasiestra_leucocycla"	"Nowickia_sp1_M_PL_052"	"Ramphomyia_nigrita"	"Thysanoptera_sp1_M_PL_052"	"Aedes_impiger"	"Botanophila_profuga"	"Bradysia_sp1_M_PL_052"	"Clossiana_chariclea"	"Colias_hecla"	"Dasyhelea_sp1_M_PL_052"	"Drymeia_groenlandica"	"Eurois_occulta"	"Forcipomyia_sp1_M_PL_052"	"Oedemagena_tarandi"	"Paregle_audacula"	"Pegoplata_tundrica"	"Periscepsia_stylata"	"Platycheirus_hyperboreus"	"Platycheirus_lundbecki"	"Platycheirus_varipes"	"Stenomacrus_sp1_M_PL_052"	"Syngrapha_u.aureum"	"Unidentified_sp1_M_PL_052"	"Unidentified_sp2_M_PL_052"
+"Salix_glauca"	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	1
+"Epilobium_latifolium"	1	1	1	1	0	0	0	0	0	1	0	0	0	1	1	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+"Cerastium_alpinum"	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0
+"Ledum_palustre"	1	1	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Dryas_integrifolia"	0	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Saxifraga_triscupidata"	1	1	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Polygonum_viviparum"	0	0	0	1	0	1	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pyrola_grandiflora"	1	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Papaver_radicatum"	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"Pedicularis_lapponica"	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Campanula_gieseckiana"	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhododendron_lapponicum"	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Stellaria_longiceps"	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tofieldia_pusilla"	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Vaccinium_uliginosum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0

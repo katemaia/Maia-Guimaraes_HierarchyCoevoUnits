@@ -1,0 +1,7 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Unidentified_sp1_M_PL_125"	"Lygistorrhina_sp1_M_PL_125"	"Ornidia_obesa"	"Xylocopa_caffra"	"Nectarinia_dussumieri"	"Rhynchium_brunneum"	"Unidentified_sp2_M_PL_125"	"Unidentified_sp3_M_PL_125"	"Unidentified_sp4_M_PL_125"
+"Nephrosperma_vanhoutteanum"	27	38	8	0	0	0	0	0	1	1	0
+"Chrysobalanus_icaco"	27	0	2	0	2	0	0	1	0	0	0
+"Mimusops_sechellarum"	1	1	0	5	0	0	1	0	0	0	0
+"Memecylon_eleagni"	3	0	0	0	0	0	0	0	0	0	0
+"Dillenia_suffruticosa"	0	0	0	0	0	2	0	0	0	0	0
+"Excoecaria_benthiamiana"	0	0	0	0	0	0	0	0	0	0	1

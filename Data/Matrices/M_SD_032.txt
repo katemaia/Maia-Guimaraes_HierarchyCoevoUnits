@@ -1,0 +1,5 @@
+"Pipra_mentalis"	"Pipra_coronata"	"Catharus_ustulatus"	"Tachyphonus_luctuosus"	"Eucometis_penicillata"	"Euphonia_fulvicrissa"	"Manacus_vitellinus"	"Mionectes_oleagineus"	"Catharus_minimus"	"Dendroica_pensylvanica"	"Catharus_fuscescens"	"Dendroica_striata"	"Empidonax_virescens"	"Habia_fuscicauda"	"Leptotila_cassinii"	"Oryzoborus_angolensis"	"Ramphocelus_dimidiatus"	"Schiffornis_turdinus"	"Seiurus_aurocapillus"
+"Miconia_argentea"	24	5	14	13	10	0	2	1	0	2	0	1	0	1	1	1	1	0	0
+"Miconia_lacera"	16	17	3	0	0	6	2	0	2	0	1	0	1	0	0	0	0	0	1
+"Miconia_minutiflora"	17	16	6	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0
+"Miconia_impetiolaris"	12	16	0	0	1	0	2	1	0	0	0	0	0	0	0	0	0	1	0

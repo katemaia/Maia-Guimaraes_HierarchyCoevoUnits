@@ -1,0 +1,8 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_germana"	"Unidentified_sp5_M_PL_119"	"Unidentified_sp2_M_PL_119"	"Parasarcophaga_hirticeps"	"Phelsuma_sp1_M_PL_119"	"Hemipyrellia_sp1_M_PL_119"	"Lygistorrhina_sp1_M_PL_119"	"Ornidia_obesa"	"Unidentified_sp1_M_PL_119"	"Unidentified_sp4_M_PL_119"	"Cratopus_aurostriatus"	"Dichaetomyia_fasciculifera"	"Nectarinia_dussumieri"	"Rhiparida_seychellensis"	"Unidentified_sp3_M_PL_119"
+"Nephrosperma_vanhoutteanum"	18	27	0	0	6	0	4	2	3	0	1	0	1	0	0	0	1
+"Paragenipa_wrightii"	18	9	0	7	0	0	0	0	0	0	0	0	0	0	1	0	0
+"Erythroxylum_sechellarum"	4	8	0	0	0	2	0	0	0	1	1	0	0	0	0	0	0
+"Roscheria_melanochaetes"	9	4	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+"Memecylon_eleagni"	12	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dillenia_ferruginea"	6	0	3	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+"Nepenthes_pervillei"	0	0	4	0	0	2	0	1	0	0	0	0	0	1	0	0	0

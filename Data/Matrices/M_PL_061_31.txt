@@ -1,0 +1,6 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_germana"	"Rhiparida_seychellensis"	"Unidentified_sp2_M_PL_114"	"Megachile_seychellensis"	"Neophyllomyza_approximatonervis"	"Hemipyrellia_sp1_M_PL_114"	"Ceratina_tabescens"	"Ornidia_obesa"	"Phelsuma_sp1_M_PL_114"	"Unidentified_sp1_M_PL_114"	"Melanostoma_annulipes"	"Rhynchium_brunneum"	"Lygistorrhina_sp1_M_PL_114"	"Polistes_olivaceus"	"Unidentified_sp3_M_PL_114"	"Unidentified_sp4_M_PL_114"	"Unidentified_sp5_M_PL_114"
+"Canthium_bibracteatum"	44	16	9	0	0	10	0	5	4	4	0	0	0	1	0	0	0	0	0
+"Phoenicophorium_borsigianum"	4	22	11	26	0	0	0	0	0	0	1	2	2	0	0	0	1	1	0
+"Deckenia_nobilis"	25	11	4	0	0	0	2	0	0	0	3	0	0	0	0	0	0	0	0
+"Nephrosperma_vanhoutteanum"	2	14	4	1	11	0	4	0	0	0	0	2	0	0	1	0	0	0	1
+"Chrysobalanus_icaco"	16	2	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0

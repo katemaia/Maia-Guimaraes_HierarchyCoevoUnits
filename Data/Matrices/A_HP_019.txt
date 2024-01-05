@@ -1,0 +1,10 @@
+"Peromyscopsylla_silvatica"	"Amalaraeus_penicilliger"	"Megabothris_rectangulatus"	"Hystrichopsylla_talpae"	"Neopsylla_acanthina"	"Neopsylla_mana"	"Ctenophthalmus_uncinatus"	"Peromyscopsylla_ostsibirica"	"Palaeopsylla_soricis"	"Corrodopsylla_birulai"	"Ceratophyllus_indages"	"Megabothris_calcarifer"	"Amphipsylla_sibirica"	"Catallagia_dacenkoi"	"Catallagia_ioffi"	"Neopsylla_pleskei"	"Ctenophyllus_armatus"	"Megabothris_turbidus"
+"Clethrionomys_rutilus"	85	85	56	12	11	11	8	3	0	3	2	2	0	3	3	3	0	0
+"Clethrionomys_rufocanus"	3	7	7	2	0	0	2	0	0	0	0	0	3	0	0	0	0	0
+"Microtus_agrestis"	10	0	8	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+"Microtus_oeconomus"	7	0	2	0	2	0	0	5	0	0	0	2	0	0	0	0	0	2
+"Sorex_araneus"	0	0	0	0	0	0	0	0	5	2	0	0	0	0	0	0	0	0
+"Tamias_sibiricus"	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0
+"Apodemus_peninsulae"	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sicista_betulina"	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sorex_caecutiens"	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0

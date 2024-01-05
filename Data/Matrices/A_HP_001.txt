@@ -1,0 +1,11 @@
+"Ctenophthalmus_proximus"	"Ctenophthalmus_hypanis"	"Ctenophthalmus_inornatus"	"Megabothris_turbidus"	"Ctenophthalmus_shovi"	"Amphipsylla_rossica"	"Myoxopsylla_jordani"	"Nosopsyllus_fasciatus"	"Leptopsylla_segnis"	"Leptopsylla_taschenbergi"	"Hystrichopsylla_talpae"	"Amphipsylla_georgica"	"Hystrichopsylla_satunini"	"Rhadinopsylla_integella"	"Ceratophyllus_sciurorum"	"Amalaraeus_penicilliger"	"Ctenophthalmus_euxinicus"	"Palaeopsylla_caucasica"
+"Microtus_arvalis"	2	262	9	118	36	105	0	0	0	0	13	0	0	0	0	3	0	0
+"Apodemus_sylvaticus"	321	8	3	40	45	4	4	30	19	28	3	2	5	3	4	0	0	3
+"Prometheomys_schaposchnikowi"	0	6	249	2	0	5	0	0	0	0	0	0	0	0	0	0	0	0
+"Apodemus_mystacinus"	74	3	0	3	13	0	2	15	11	0	0	0	4	0	0	0	3	0
+"Microtus_majori"	27	4	0	27	34	3	0	0	4	0	2	0	3	0	0	0	0	0
+"Dryomys_nitedula"	0	0	0	2	0	0	84	0	0	0	0	0	0	0	0	0	0	0
+"Cricetulus_migratorius"	0	4	4	16	0	10	0	0	0	0	0	13	0	0	0	0	0	0
+"Sorex_araneus"	11	0	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0
+"Chionomys_nivalis"	0	2	3	2	0	2	0	0	0	0	0	0	0	2	0	0	0	0
+"Myoxus_glis"	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0

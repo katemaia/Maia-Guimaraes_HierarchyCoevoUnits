@@ -1,0 +1,8 @@
+"Lasioglossum_mahense"	"Apis_mellifera"	"Unidentified_sp6_M_PL_096"	"Forcipomyia_sp1_M_PL_096"	"Unidentified_sp4_M_PL_096"	"Unidentified_sp5_M_PL_096"	"Rhiparida_seychellensis"	"Scaptodrosophila_sp1_M_PL_096"	"Lygistorrhina_sp1_M_PL_096"	"Nectarinia_dussumieri"	"Neophyllomyza_approximatonervis"	"Unidentified_sp7_M_PL_096"	"Phelsuma_sp1_M_PL_096"	"Hemipyrellia_germana"	"Cratopus_aurostriatus"	"Ornidia_obesa"	"Unidentified_sp1_M_PL_096"	"Unidentified_sp2_M_PL_096"	"Unidentified_sp3_M_PL_096"
+"Phoenicophorium_borsigianum"	17	3	29	25	2	12	2	6	3	0	3	4	0	2	1	0	1	1	1
+"Nephrosperma_vanhoutteanum"	32	7	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Dillenia_ferruginea"	7	11	0	0	1	0	4	0	0	1	0	0	0	0	0	1	0	0	0
+"Erythroxylum_sechellarum"	10	3	0	0	8	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+"Psychotria_pervillei"	7	5	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	5	3	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Northea_hornei"	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0	0

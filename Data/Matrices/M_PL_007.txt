@@ -1,0 +1,17 @@
+"Bombus_lapidarius"	"Maniola_jurtina"	"Bombus_pascuorum"	"Calocoris_bipunctatus"	"Empis_livida"	"Psithyrus_vest"	"Episyrphus_balteatus"	"Bombus_pratorum"	"Apis_mellifera"	"Bombus_terrestris.lucorum"	"Eristalis_tenax"	"Helophilus_sp1_M_PL_007"	"Syrphus_sp1_M_PL_007"	"Scathophaga_stercoraria"	"Sphaerophoria_sp1_M_PL_007"	"Anthophora_plumipes"	"Cheilosia_bergenstammi"	"Lucillia_sp1_M_PL_007"	"Melanostoma_sp1_M_PL_007"	"Platycheirus_sp1_M_PL_007"	"Eriothrix_rufomaculatus"	"Eristalis_nemorum"	"Meliscaeva_sp1_M_PL_007"	"Andrena_chrysosceles"	"Pollenia_sp1_M_PL_007"	"Andrena_pubescens"	"Bombus_hortorum"	"Cephus_pygmaeus"	"Eristalis_intricarius"	"Lasioglossum_calceatum"	"Lasioglossum_villosulum"	"Lycaena_phlaeas"	"Panameria_tenebrata"	"Sarcophagus_sp1_M_PL_007"	"Tropidia_scitta"	"Volucella_bombylans"
+"Centaurea_nigra"	469	110	35	36	11	12	8	8	14	8	3	2	7	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"Leucanthemum_vulgare"	36	31	0	0	20	3	0	5	0	5	9	10	2	5	2	0	0	4	2	1	0	3	1	2	2	0	0	0	0	0	0	0	0	1	1	1
+"Cirsium_palustre"	8	0	3	0	0	8	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ranunculus_acris"	2	1	1	0	0	0	0	0	0	0	0	1	0	2	0	0	4	0	1	0	0	0	2	0	0	1	0	1	0	1	0	0	0	0	0	0
+"Cirsium_arvense"	2	6	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Filipendula_ulmaria"	2	0	0	0	0	0	4	0	0	0	1	0	2	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Galium_verum"	0	0	0	0	0	0	6	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hypochoeris_radicata"	4	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Primula_veris"	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"Lotus_corniculatus"	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lathyrus_pratensis"	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Orchis_morio"	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Taraxacum_officinale"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Trifolium_repens"	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cerastium_fontanum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Trifolium_dubium"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

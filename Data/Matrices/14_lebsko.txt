@@ -1,0 +1,9 @@
+"Ergasilus_sieboldi"	"Tylodelphys_clavata"	"Posthodiplostomum_cuticola"	"Diplozoon_paradoxum"	"Caryophyllaeus_laticeps"	"Triaenophorus_nodulosus"	"Camallanus_lacustris"	"Hysterothylacium_aduncum"	"Apatemon_gracilis"	"Anguillicola_crassus"	"Camallanus_truncatus"	"Acanthocephalus_anguillae"	"Pomphorhynchus_laevis"	"Achtheres_percarum"
+"Perca_fluviatilis"	1	1	0	0	0	1	1	1	1	0	0	0	1	0
+"Rutilus_rutilus"	1	1	1	1	1	0	0	0	0	0	0	1	0	0
+"Abramiz_brama"	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+"Scardinius_erythrophtalmus"	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+"Sander_lucioperca"	1	0	0	0	0	0	0	1	0	0	1	0	0	1
+"Esox_lucius"	1	1	0	0	0	1	1	0	0	0	0	0	0	0
+"Anguilla_anguilla"	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Carassius_auratus_gibelio"	0	0	1	0	0	0	0	0	0	0	0	0	0	0

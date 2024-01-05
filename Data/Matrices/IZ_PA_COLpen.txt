@@ -1,0 +1,6 @@
+"Azteca_r.am.1"	"Allomerus_octoarticulatus"	"Pheidole_minutula"	"Myrcidris_sp."	"Allomerus_septemarticulatus"	"Pheidole_sp2"
+"Cordia_nodosa"	4	0	0	0	0	1
+"Hirtella_myrmecophila"	0	8	0	0	2	0
+"Maieta_guianensis"	0	0	3	0	0	0
+"Myrcia_madida"	0	0	0	8	0	0
+"Hirtella_physophora"	0	1	0	0	0	0

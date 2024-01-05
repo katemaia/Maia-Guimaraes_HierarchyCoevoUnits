@@ -1,0 +1,14 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Nectarinia_dussumieri"	"Unidentified_sp3_M_PL_129"	"Xylocopa_caffra"	"Unidentified_sp2_M_PL_129"	"Hemipyrellia_germana"	"Unidentified_sp1_M_PL_129"	"Pachycerina_seychellensis"	"Ornidia_obesa"	"Eristalinus_vicarians"	"Rhiparida_seychellensis"	"Hemipyrellia_sp1_M_PL_129"	"Mabuya_sechellensis"	"Rhynchium_brunneum"	"Phelsuma_sp1_M_PL_129"	"Chalcidoma_disjunctum"	"Dichaetomyia_fasciculifera"	"Neophyllomyza_approximatonervis"	"Simosyrphus_aegyptius"	"Tricimba_seychellensis"
+"Nephrosperma_vanhoutteanum"	22	12	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Erythroxylum_sechellarum"	15	8	0	0	0	0	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0
+"Dillenia_ferruginea"	11	4	0	0	0	0	5	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+"Chrysobalanus_icaco"	15	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phoenicophorium_borsigianum"	0	1	0	10	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Syzygium_wrightii"	2	0	10	0	0	0	1	0	0	0	0	0	0	3	0	1	0	0	0	0	0
+"Dillenia_suffruticosa"	4	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nepenthes_pervillei"	0	1	0	0	0	0	0	3	0	4	3	0	3	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	7	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+"Canthium_bibracteatum"	2	3	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0
+"Soulamea_terminaloides"	0	0	0	0	0	0	0	2	0	0	0	3	0	0	0	0	0	1	1	0	1
+"Pittosporum_senacia"	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Excoecaria_benthiamiana"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

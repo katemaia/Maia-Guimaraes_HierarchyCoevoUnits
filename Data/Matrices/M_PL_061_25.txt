@@ -1,0 +1,6 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Xylocopa_caffra"	"Lygistorrhina_sp1_M_PL_108"	"Hemipyrellia_sp1_M_PL_108"	"Unidentified_sp1_M_PL_108"	"Scaptodrosophila_sp1_M_PL_108"	"Chalcidoma_disjunctum"	"Hemipyrellia_germana"	"Nectarinia_dussumieri"	"Phalanta_phalantha"
+"Canthium_bibracteatum"	7	9	1	0	4	3	0	0	1	0	0
+"Memecylon_eleagni"	7	3	0	0	0	0	2	1	0	0	0
+"Cinnamomum_verum"	2	1	0	7	1	0	0	0	0	0	1
+"Ochna_kirkii"	3	0	7	0	0	0	0	0	0	1	0
+"Paragenipa_wrightii"	3	7	1	0	0	0	0	0	0	0	0

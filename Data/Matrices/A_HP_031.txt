@@ -1,0 +1,26 @@
+"Ctenophthalmus_assimilis"	"Megabothris_walkeri"	"Palaeopsylla_soricis"	"Amalaraeus_penicilliger"	"Corrodopsylla_birulai"	"Megabothris_rectangulatus"	"Megabothris_turbidus"	"Hystrichopsylla_talpae"	"Ctenophthalmus_arvalis"	"Amphipsylla_sibirica"	"Ctenophthalmus_dilatatus"	"Ceratophyllus_indages"	"Pectinoctenus_pavlovskii"	"Frontopsylla_elata"	"Citellophilus_tesquorum"	"Leptopsylla_sicistae"	"Peromyscopsylla_silvatica"	"Megabothris_calcarifer"	"Neopsylla_pleskei"	"Amphipsylla_kuznetzovi"	"Peromyscopsylla_bidentata"	"Neopsylla_acanthina"	"Neopsylla_mana"	"Ctenophthalmus_pisticus"	"Tarsopsylla_octodecimdentata"	"Amphipsylla_vinogradovi"	"Oropsylla_ilovaiskii"	"Ctenophthalmus_uncinatus"	"Amphipsylla_prima"	"Catallagia_dacenkoi"	"Rhadinopsylla_integella"
+"Arvicola_terrestris"	395	756	3	136	22	4	93	3	11	97	0	0	10	0	0	0	0	0	4	3	4	2	3	0	0	0	0	0	2	0	0
+"Sorex_araneus"	60	7	371	25	105	11	11	11	4	4	0	0	0	7	2	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	0
+"Clethrionomys_rutilus"	107	12	58	96	15	73	9	34	2	4	0	3	0	11	5	0	42	2	0	5	0	0	0	0	0	0	0	0	0	2	0
+"Microtus_gregalis"	205	28	8	16	5	21	12	19	0	0	0	0	0	22	0	0	3	10	12	11	0	0	0	0	0	0	0	0	0	0	0
+"Lagurus_lagurus"	8	0	0	0	0	0	0	0	105	0	0	0	38	0	34	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+"Apodemus_agrarius"	83	12	0	12	13	9	11	12	0	5	0	0	0	6	0	0	0	0	0	0	11	0	2	0	0	0	0	0	0	0	0
+"Neomys_fodiens"	19	4	47	0	58	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+"Sicista_betulina"	11	0	6	7	2	4	13	25	0	0	0	0	0	7	0	50	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+"Microtus_agrestis"	31	15	0	7	8	15	0	12	0	0	0	0	0	0	0	0	0	18	2	0	0	0	0	0	0	0	0	0	0	0	0
+"Talpa_europaea"	74	0	18	7	0	4	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Myospalax_aspalax"	0	0	0	0	0	0	0	0	0	0	98	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+"Spermophilus_erythrogenys"	0	0	0	0	0	0	0	0	6	0	0	69	0	0	9	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0
+"Microtus_oeconomus"	14	15	0	3	4	3	0	5	0	0	0	0	0	2	0	0	5	6	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phodopus_campbelli"	4	0	0	0	0	0	0	0	0	0	0	0	26	4	6	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0
+"Tamias_sibiricus"	4	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	13	0	11	0	0	0	0	0	0	0
+"Clethrionomys_glareolus"	14	7	0	9	4	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+"Cricetus_cricetus"	5	2	4	11	0	0	0	2	0	4	0	0	0	0	0	0	0	0	7	0	0	0	3	0	0	0	0	0	0	0	0
+"Microtus_arvalis"	19	0	0	0	0	0	0	4	0	0	0	0	0	3	0	3	0	0	5	0	0	0	0	0	0	4	0	0	0	0	0
+"Myopus_schisticolor"	0	0	0	6	0	15	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cricetulus_barabensis"	0	0	2	0	2	0	0	7	0	0	0	0	4	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+"Clethrionomys_rufocanus"	0	2	0	0	0	12	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Micromys_minutus"	3	0	3	0	0	0	2	0	0	0	0	0	0	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+"Sicista_subtilis"	2	0	0	0	0	0	0	4	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pteromys_volans"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0
+"Sciurus_vulgaris"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0

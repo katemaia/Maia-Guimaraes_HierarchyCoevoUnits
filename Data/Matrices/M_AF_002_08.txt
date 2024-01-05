@@ -1,0 +1,6 @@
+"Amphiprion_clarkii"	"Amphiprion_perideraion"	"Amphiprion_polymnus"
+"Heteractis_crispa"	1	1	0
+"Heteractis_magnifica"	0	1	0
+"Macrodactyla_doreensis"	1	0	1
+"Stichodactyla_haddoni"	0	0	1
+"Stichodactyla_mertensii"	1	0	0

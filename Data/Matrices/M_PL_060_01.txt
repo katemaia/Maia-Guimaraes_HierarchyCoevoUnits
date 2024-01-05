@@ -1,0 +1,12 @@
+"Pachycerina_crinicornis"	"Melanostoma_annulipes"	"Apis_mellifera"	"Stomorhina_lunata"	"Musca_domestica"	"Stomoxys_niger"	"Fannia_pusio"	"Stomoxys_calcitrans"	"Brachymyrmex_sp1_M_PL_060"	"Nacoleia_sp1_M_PL_060"	"Technomyrmex_albipes"	"Zosterops_mauritianus"	"Chrysomya_megacephala"	"Henotesia_narcissus"	"Miridae_sp1_M_PL_060"	"Nyctemera_insulare"	"Orthellia_albigena"	"Ceratitis_roas"	"Chaetocnema_sp1_M_PL_060"	"Homoneura_quadrivittata"	"Lygistorrhina_sp1_M_PL_060"	"Ophyra_capensis"	"Orchisia_costata"	"Chironomidae_sp1_M_PL_060"	"Cicadellidae_sp1_M_PL_060"	"Dysauxes_florida"	"Episyrphus_sp1_M_PL_060"	"Eristalinus_flaveolus"	"Ischiodon_aegyptius"	"Limnophora_quaterna"	"Ornidia_obesa"	"Pelecophora_intemipta"	"Psyllidae_sp1_M_PL_060"	"Sapromyza_sp1_M_PL_060"	"Scirtidae_sp1_M_PL_060"	"Scirtidae_sp2_M_PL_060"	"Syritta_nigrofemorata"	"Tarundia_servillei"	"Tettigoniidae_sp1_M_PL_060"
+"Sideroxylon_cinereum"	7	2	31	1	2	3	9	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Geniostoma_borbonicum"	15	1	0	0	2	8	3	0	0	4	0	0	0	0	0	2	2	1	0	2	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0
+"Croton_fothergillifolius"	15	1	0	7	9	0	0	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	1	0	0	0	1	0	0
+"Aphloia_theiformis"	2	9	0	1	8	5	1	3	0	1	3	2	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+"Psiadia_terebinthina"	1	5	0	11	1	0	1	1	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Erythroxylum_macrocarpum"	0	4	0	2	2	1	0	6	0	0	0	2	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Toddalia_asiatica"	4	2	0	5	0	0	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+"Molinaea_alternifolia"	0	1	0	0	0	0	0	0	10	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Claoxylon_linostachys"	1	7	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Antirhea_borbonica"	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Roussea_simplex"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

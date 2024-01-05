@@ -1,0 +1,8 @@
+"Megabothris_advenarius"	"Pectinoctenus_pectiniceps"	"Amalaraeus_dissimilis"	"Neopsylla_acanthina"	"Catallagia_ioffi"	"Hystrichopsylla_microti"	"Megabothris_asio"	"Ctenophthalmus_pisticus"	"Ceratophyllus_indages"	"Catallagia_dacenkoi"	"Corrodopsylla_birulai"	"Ctenophthalmus_congeneroides"	"Rhadinopsylla_pseudodahurica"
+"Clethrionomys_rufocanus"	920	442	363	224	103	74	70	6	14	15	6	4	5
+"Clethrionomys_rutilus"	488	178	137	60	45	29	13	20	5	4	9	8	6
+"Apodemus_peninsulae"	36	75	1	94	2	0	1	25	1	1	1	2	0
+"Tamias_sibiricus"	1	0	0	21	0	0	0	7	21	0	0	2	0
+"Microtus_evoronensis"	5	10	6	0	0	2	12	1	0	0	1	0	0
+"Myopus_schisticolor"	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Sciurus_vulgaris"	0	0	0	0	0	0	0	0	1	0	0	0	0

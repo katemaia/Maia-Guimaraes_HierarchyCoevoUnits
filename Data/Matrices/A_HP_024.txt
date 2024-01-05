@@ -1,0 +1,8 @@
+"Amphipsylla_primaris"	"Neopsylla_mana"	"Citellophilus_tesquorum"	"Oropsylla_silantiewi"	"Frontopsylla_hetera"	"Rhadinopsylla_dahurica"	"Amalaraeus_penicilliger"	"Neopsylla_pleskei"	"Rhadinopsylla_li"	"Oropsylla_alaskensis"	"Amphipsylla_dumalis"	"Rhadinopsylla_rothschildi"	"Frontopsylla_elatoides"	"Paradoxopsyllus_scorodumovi"	"Ctenophyllus_hirticrus"	"Paramonopsyllus_scalonae"	"Frontopsylla_elata"	"Pectinoctenus_pavlovskii"	"Frontopsylla_luculenta"	"Ophthalmopsylla_praefecta"
+"Lasiopodomys_brandtii"	7194	4514	73	10	911	954	460	441	76	9	0	117	0	0	0	0	0	4	2	0
+"Spermophilus_undulatus"	7	38	1384	18	49	0	0	4	279	266	0	0	83	27	7	5	4	0	0	0
+"Marmota_sibirica"	0	10	12	1437	7	0	0	0	0	0	0	0	0	2	6	0	0	0	0	0
+"Ellobius_tancrei"	3	3	0	0	0	0	0	0	0	0	150	0	0	0	0	0	0	0	0	0
+"Alticola_argentatus"	2	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Allactaga_sibirica"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+"Phodopus_sungorus"	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

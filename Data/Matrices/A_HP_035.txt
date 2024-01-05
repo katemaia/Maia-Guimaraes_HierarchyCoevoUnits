@@ -1,0 +1,7 @@
+"Ctenophthalmus_nobilis"	"Megabothris_walkeri"	"Palaeopsylla_soricis"	"Amalaraeus_penicilliger"	"Ctenophthalmus_bisoctodentatus"	"Doratopsylla_dasycnema"	"Hystrichopsylla_talpae"
+"Microtus_agrestis"	74	25	2	5	2	0	0
+"Apodemus_sylvaticus"	22	2	0	0	0	0	0
+"Sorex_araneus"	0	0	12	0	2	2	2
+"Clethrionomys_glareolus"	4	0	2	0	0	0	0
+"Neomys_fodiens"	4	0	0	0	0	0	0
+"Sorex_minutus"	2	0	0	0	0	0	0

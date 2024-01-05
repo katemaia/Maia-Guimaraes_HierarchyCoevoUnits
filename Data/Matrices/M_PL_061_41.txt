@@ -1,0 +1,5 @@
+"Apis_mellifera"	"Unidentified_sp1_M_PL_124"	"Unidentified_sp2_M_PL_124"	"Unidentified_sp4_M_PL_124"	"Cratopus_aurostriatus"	"Lasioglossum_mahense"	"Lygistorrhina_sp1_M_PL_124"	"Simosyrphus_aegyptius"	"Unidentified_sp3_M_PL_124"
+"Memecylon_eleagni"	18	0	0	0	0	1	0	1	0
+"Mimusops_sechellarum"	1	1	0	0	1	0	1	0	0
+"Roscheria_melanochaetes"	0	2	2	0	0	0	0	0	0
+"Excoecaria_benthiamiana"	0	0	0	2	0	0	0	0	1

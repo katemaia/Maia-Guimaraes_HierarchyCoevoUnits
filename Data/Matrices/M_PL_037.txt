@@ -1,0 +1,11 @@
+"Meligethes_sp1_M_PL_037"	"Bombus_lapidarius"	"Bombus_pascuorum"	"Unidentified_sp1_M_PL_037"	"Unidentified_sp2_M_PL_037"	"Apocrita_sp1_M_PL_037"	"Episyrphus_balteatus"	"Unidentified_sp3_M_PL_037"	"Unidentified_sp4_M_PL_037"	"Bombus_terrestris"	"Eumerus_tuberculatus"	"Olibrus_aeneus"	"Thymelicus_sylvestris"	"Unidentified_sp5_M_PL_037"	"Unidentified_sp6_M_PL_037"	"Bombus_lucorum"	"Ceuthorrhynchus_assimilis"	"Chrysomela_fastuosa"	"Eoseristalis_horticola"	"Epuraea_depressa_Illiger"	"Leptura_rubra"	"Melanostoma_scalare"	"Mesapamea_secalis"	"Nemophora_degeerella"	"Pieris_napi"	"Psithyrus_bohemicus"	"Scaeva_pyrastri"	"Strangalia_maculata"	"Syrphus_ribesii"	"Syrphus_vitripennis"	"Unidentified_sp10_M_PL_037"	"Unidentified_sp11_M_PL_037"	"Unidentified_sp12_M_PL_037"	"Unidentified_sp13_M_PL_037"	"Unidentified_sp14_M_PL_037"	"Unidentified_sp15_M_PL_037"	"Unidentified_sp7_M_PL_037"	"Unidentified_sp8_M_PL_037"	"Unidentified_sp9_M_PL_037"	"Zygaena_filipendulae"
+"Cirsium_arvense"	1	1	1	1	1	1	0	1	0	1	0	1	1	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0
+"Eupatorium_cannabinum"	1	1	1	0	0	1	0	0	0	1	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Stachys_palustris"	1	0	1	1	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+"Sonchus_palustris"	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	1	0
+"Juncus_effusus"	1	0	0	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"Lychnis_flos-cuculi"	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1
+"Sonchus_arvensis"	1	0	0	0	1	0	1	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Allium_scorodoprasum"	0	0	0	0	1	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Calystegia_sepium"	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Silene_dioica"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

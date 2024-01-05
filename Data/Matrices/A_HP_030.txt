@@ -1,0 +1,15 @@
+"Megabothris_advenarius"	"Catallagia_dacenkoi"	"Corrodopsylla_birulai"	"Megabothris_calcarifer"	"Amalaraeus_penicilliger"	"Ceratophyllus_indages"	"Catallagia_ioffi"	"Tarsopsylla_octodecimdentata"	"Oropsylla_alaskensis"	"Megabothris_beljaevi"	"Amphipsylla_marikovskii"	"Rhadinopsylla_pseudodahurica"	"Peromyscopsylla_ostsibirica"	"Ctenophyllus_armatus"	"Neopsylla_acanthina"
+"Clethrionomys_rutilus"	153	48	2	12	75	0	25	0	0	0	5	6	3	0	2
+"Microtus_oeconomus"	13	112	15	78	16	0	2	0	0	0	6	0	0	0	0
+"Clethrionomys_rufocanus"	49	34	0	10	11	0	13	0	0	0	4	8	3	0	0
+"Tamias_sibiricus"	3	0	0	0	0	49	6	0	0	0	0	0	3	2	0
+"Sorex_caecutiens"	2	2	51	0	0	0	0	0	0	0	0	0	0	0	0
+"Sorex_arcticus"	0	0	54	0	0	0	0	0	0	0	0	0	0	0	0
+"Sciurus_vulgaris"	0	0	0	0	0	3	0	43	0	0	0	0	0	0	0
+"Sorex_daphaenodon"	0	17	16	12	0	0	0	0	0	0	0	0	0	0	0
+"Alticola_macrotis"	3	4	0	0	9	0	5	0	0	21	0	0	0	0	0
+"Lemmus_sibiricus"	7	3	0	32	0	0	0	0	0	0	0	0	0	0	0
+"Spermophilus_parryii"	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0
+"Sorex_cinereus"	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0
+"Sorex_minutissimus"	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sorex_roboratus"	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,6 @@
+"Lasioglossum_mahense"	"Apis_mellifera"	"Unidentified_sp1_M_PL_093"	"Lygistorrhina_sp1_M_PL_093"	"Cratopus_aurostriatus"	"Ornidia_obesa"	"Pachycerina_seychellensis"	"Plagiostenopterina_cyanosoma"	"Unidentified_sp2_M_PL_093"	"Unidentified_sp4_M_PL_093"	"Unidentified_sp5_M_PL_093"	"Hemipyrellia_sp1_M_PL_093"	"Phelsuma_sp1_M_PL_093"	"Unidentified_sp3_M_PL_093"
+"Nephrosperma_vanhoutteanum"	2	14	8	3	0	0	0	0	2	0	0	0	1	1
+"Erythroxylum_sechellarum"	20	0	0	1	0	0	2	2	0	0	2	0	0	0
+"Memecylon_eleagni"	5	3	0	0	0	0	0	0	0	0	0	0	0	0
+"Dillenia_ferruginea"	0	1	0	0	2	2	0	0	0	2	0	0	0	0
+"Soulamea_terminaloides"	0	0	1	0	0	0	0	0	0	0	0	1	0	0

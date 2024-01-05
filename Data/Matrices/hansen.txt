@@ -1,0 +1,18 @@
+"T._Gazelle"	"G._gazelle"	"Impala"	"Kongoni"	"Topi"	"Wilde-beest"	"Zebra"	"Giraffe"	"Buffalo"	"Elephant"
+"Themeda"	1	1	1	1	1	1	1	0	1	1
+"Cynodon"	1	1	0	1	1	1	1	0	1	1
+"Sporobolus"	1	1	1	1	1	1	1	0	1	1
+"Brachiaria"	1	1	1	1	1	1	1	0	1	1
+"Sedges"	1	1	1	1	1	1	1	0	1	1
+"Elyonorus"	1	0	0	1	1	1	1	0	0	0
+"Hyparrhenia"	0	1	1	1	1	1	1	0	1	0
+"Harpachne"	1	1	1	1	1	1	1	0	1	1
+"Aristida"	1	1	1	1	1	1	1	0	1	1
+"Solanum"	1	1	1	1	0	1	1	1	1	1
+"Indigofera"	1	1	0	0	0	1	0	0	0	0
+"Croton"	0	0	1	0	0	0	0	1	0	1
+"Acacia"	0	0	1	0	0	0	0	1	0	1
+"Sida"	1	1	1	1	0	1	0	0	0	1
+"Grewia"	0	1	1	0	0	0	0	1	1	1
+"Olea"	0	0	0	0	0	0	0	1	0	0
+"Hibiscus"	1	1	1	0	1	0	0	1	1	1

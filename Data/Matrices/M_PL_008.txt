@@ -1,0 +1,12 @@
+"Anastoechus_latifrons"	"Anthophora_alluaudi"	"Apis_mellifera"	"Euodynerus_reflexus"	"Geron_hesperidon"	"Eristalis_tenax"	"Megachile_canariensis"	"Anthrax_anthrax"	"Eucera_gracilipes"	"Hyleaus_canariensis"	"Lasioglossum_viride"	"Linnaemyia_soror"	"Cephalodromia_sp1_M_PL_008"	"Cyclyrius_webbianus"	"Estheria_simonyi"	"Lasioglossum_actifrons"	"Melecta_curvispina"	"Osmia_canariensis"	"Andrena_wollestoni"	"Colletes_dimidiatus"	"Gasteruption_sp1_M_PL_008"	"Lucilia_sericata"	"Macroglossum_stellatarum"	"Scaeva_albomaculata"	"Stomorhina_lunata"	"Unidentified_sp1_M_PL_008"	"Anthidium_manicatum"	"Bibio_elmoi"	"Dermasothes_gracile"	"Drosophila_sp1_M_PL_008"	"Lasioglossum_chalcodes"	"Leptochilus_eatoni"	"Nyctia_lugubris"	"Peleteria_ruficornis"	"Phylloscopus_collybita"	"Serinus_canarius"	"Tachina_canariensis"	"Tachysphex_unicolor"
+"Echium_wildpretii"	1	1	1	0	0	1	1	1	1	1	1	1	0	0	1	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0
+"Pimpinella_cumbrae"	0	0	1	1	1	1	0	1	0	1	1	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0
+"Pterocephalus_lasiospermus"	1	0	1	0	1	1	1	1	0	0	1	0	0	1	1	0	1	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mentha_longifolia"	0	1	0	1	0	1	0	0	0	0	0	1	0	1	1	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	1	0
+"Erysimum_scoparium"	1	1	1	0	1	0	1	0	1	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Spartocytisus_supranubius"	1	1	1	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tolpis_webbii"	1	0	0	1	1	1	1	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Argyranthemum_teneriffae"	0	0	1	0	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0
+"Scrophularia_glabrata"	0	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Nepeta_teydea"	1	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Adenocarpus_viscosus"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

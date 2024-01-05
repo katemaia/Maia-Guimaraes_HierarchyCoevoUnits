@@ -1,0 +1,14 @@
+"Dilophus_caurinus"	"Andrena_vicina"	"Bombus_terricola"	"Colletes_inaequalis"	"Andrena_regularis"	"Pyrobombus_ternarius"	"Andrena_bradleyi"	"Cyphon_variabilis"	"Andrena_mandibularis"	"Pyrobombus_sandersoni"	"Sercomyia_transversa"	"Pyrobombus_impatiens"	"Melanostoma_sp1_M_PL_033"	"Apis_mellifera"	"Pyrobombus_perplexus"	"Adela_purpurea"	"Helophilus_latifrons"	"Syritta_pipiens"	"Eristalis_dimidiata"	"Andrena_carolina"	"Macrodactlyus_subspinosus"	"Shaerophoria_sp1_M_PL_033"	"Hybomitra_typhus"	"Syrphus_torvus"	"Toxomerus_marginatus"	"Spilogona_fatima"	"Dialictus_pilosus"	"Hybomitra_minuscula"	"Andrena_alleghaniensis"	"Andrena_carlini"	"Helophilus_fasciatus"	"Pyrophaena_rosarum"	"Helophilus_laetus"	"Thymelicus_lineola"
+"Salix_fragilis"	0	11	3	51	0	2	5	37	0	2	0	0	0	1	2	20	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+"Vaccinium_myrtilloides"	0	7	14	11	10	16	12	0	1	7	1	17	0	20	14	0	0	0	0	6	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Ledum_groenlandicum"	0	11	22	3	31	9	0	0	9	3	2	5	0	0	0	0	14	0	5	4	0	4	0	0	0	0	0	0	2	1	4	1	4	0
+"Nemopanthus_mucronata"	87	4	0	0	1	1	0	0	7	0	0	0	15	1	0	0	0	0	0	0	0	0	0	1	0	4	1	0	6	2	0	2	0	0
+"Gaylussacia_baccata"	0	29	7	0	7	6	4	0	0	14	23	3	0	1	0	0	4	0	7	5	0	0	1	0	0	0	0	0	0	0	3	0	0	0
+"Spiraea_alba"	0	0	36	0	0	7	0	0	0	2	0	1	0	0	2	0	0	1	4	0	15	0	0	0	0	0	0	12	0	0	0	1	3	3
+"Chamaedaphne_calyculata"	0	19	0	6	4	1	25	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	7	0	0	0	6	1	0	0	0
+"Aronia_melanocarpa"	0	1	0	2	7	1	0	0	0	2	0	0	1	0	2	0	1	14	2	0	0	8	0	13	0	0	7	0	3	0	2	0	3	0
+"Kalmia_polifolia"	0	1	0	0	6	3	2	0	13	1	4	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0
+"Kalmia_angustifolia"	0	0	0	0	0	3	0	0	3	2	2	0	0	0	0	0	0	3	0	0	0	0	13	0	0	0	0	0	0	0	1	1	0	0
+"Calopogon_pulchellus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	7
+"Smilacina_trifolia"	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	1	0	0	0	2	0	0	0	1	0	0	0	0	0	6	0	0
+"Andromeda_glaucophylla"	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

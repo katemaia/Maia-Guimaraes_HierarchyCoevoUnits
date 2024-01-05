@@ -1,0 +1,11 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_sp1_M_PL_127"	"Xylocopa_caffra"	"Lygistorrhina_sp1_M_PL_127"	"Megachile_seychellensis"	"Unidentified_sp1_M_PL_127"	"Cratopus_aurostriatus"	"Eristalinus_vicarians"	"Leptotes_pirithous"	"Unidentified_sp2_M_PL_127"
+"Nephrosperma_vanhoutteanum"	32	24	0	0	2	2	0	0	0	0	1
+"Nepenthes_pervillei"	8	0	9	0	1	0	0	0	1	1	0
+"Erythroxylum_sechellarum"	8	4	0	0	0	0	2	0	0	0	0
+"Psychotria_pervillei"	3	7	0	0	0	0	0	0	0	0	0
+"Canthium_bibracteatum"	6	0	0	0	1	0	0	0	0	0	0
+"Dillenia_suffruticosa"	1	0	0	6	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	7	0	0	0	0	0	0	0	0	0	0
+"Chrysobalanus_icaco"	6	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	6	0	0	0	0	0	0	0	0	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0	0	1	0	0	0

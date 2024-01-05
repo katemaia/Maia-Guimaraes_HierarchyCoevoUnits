@@ -1,0 +1,13 @@
+"Ctenophthalmus_wagneri"	"Nosopsyllus_consimilis"	"Megabothris_turbidus"	"Amphipsylla_rossica"	"Nosopsyllus_mokrzeckyi"	"Leptopsylla_taschenbergi"	"Amalaraeus_penicilliger"	"Peromyscopsylla_bidentata"	"Ctenophthalmus_breviatus"	"Palaeopsylla_soricis"	"Corrodopsylla_birulai"	"Megabothris_walkeri"	"Leptopsylla_segnis"	"Hystrichopsylla_talpae"
+"Clethrionomys_glareolus"	1748	337	811	144	7	7	43	0	13	3	3	23	8	2
+"Apodemus_uralensis"	1408	893	414	41	120	96	25	33	29	17	0	7	17	5
+"Microtus_arvalis"	494	193	97	177	8	0	11	44	12	2	0	3	6	12
+"Sorex_araneus"	237	6	20	4	0	0	3	0	2	25	36	2	0	6
+"Crocidura_suaveolens"	39	21	0	0	0	0	0	2	0	0	1	0	0	0
+"Arvicola_terrestris"	19	0	3	3	0	0	2	0	10	0	0	3	0	0
+"Cricetus_cricetus"	16	5	0	0	0	0	0	0	0	0	0	0	0	0
+"Microtus_oeconomus"	14	0	3	2	0	0	0	0	0	0	0	2	0	0
+"Allocricetulus_eversmanni"	4	5	0	0	0	0	0	0	0	0	0	0	0	0
+"Micromys_minutus"	4	3	0	0	0	0	0	0	0	0	0	0	0	0
+"Lagurus_lagurus"	2	2	0	0	0	0	0	0	0	0	0	0	0	0
+"Sicista_subtilis"	0	0	2	0	0	0	0	0	0	0	0	0	0	0

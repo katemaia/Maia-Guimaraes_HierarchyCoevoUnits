@@ -1,0 +1,7 @@
+"Lasioglossum_mahense"	"Apis_mellifera"	"Rhiparida_seychellensis"	"Megachile_seychellensis"	"Rhynchium_brunneum"	"Neophyllomyza_approximatonervis"	"Unidentified_sp1_M_PL_115"	"Unidentified_sp2_M_PL_115"	"Ceratina_tabescens"	"Hemipyrellia_sp1_M_PL_115"	"Lygistorrhina_sp1_M_PL_115"	"Tricimba_seychellensis"	"Unidentified_sp4_M_PL_115"	"Xylocopa_caffra"	"Hemipyrellia_germana"	"Ornidia_obesa"	"Phelsuma_sp1_M_PL_115"	"Unidentified_sp3_M_PL_115"
+"Nephrosperma_vanhoutteanum"	31	29	21	0	0	4	0	3	0	0	1	2	2	0	0	0	1	0
+"Canthium_bibracteatum"	12	11	0	10	0	0	0	0	2	2	0	0	0	0	1	1	0	0
+"Erythroxylum_sechellarum"	17	9	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	13	6	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+"Premna_serratifolia"	2	0	0	1	7	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ochna_kirkii"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0

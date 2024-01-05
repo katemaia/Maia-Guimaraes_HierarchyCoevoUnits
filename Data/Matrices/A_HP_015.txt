@@ -1,0 +1,4 @@
+"Megabothris_advenarius"	"Amalaraeus_penicilliger"	"Stenoponia_montana"	"Catallagia_dacenkoi"	"Hystrichopsylla_microti"	"Amphipsylla_marikovskii"	"Rhadinopsylla_integella"
+"Clethrionomys_rutilus"	110	53	35	5	8	2	3
+"Clethrionomys_rufocanus"	12	10	0	10	0	2	0
+"Microtus_oeconomus"	0	0	0	0	0	2	0

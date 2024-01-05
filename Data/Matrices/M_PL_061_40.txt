@@ -1,0 +1,10 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Unidentified_sp3_M_PL_123"	"Nectarinia_dussumieri"	"Ornidia_obesa"	"Hemipyrellia_germana"	"Rhiparida_seychellensis"	"Megachile_seychellensis"	"Phelsuma_sp1_M_PL_123"	"Neophyllomyza_approximatonervis"	"Cratopus_aurostriatus"	"Unidentified_sp2_M_PL_123"	"Rhynchium_brunneum"	"Unidentified_sp5_M_PL_123"	"Polistes_olivaceus"	"Tricimba_seychellensis"	"Chalcidoma_disjunctum"	"Dichaetomyia_fasciculifera"	"Eagris_sabadius"	"Eristalinus_vicarians"	"Hemipyrellia_sp1_M_PL_123"	"Lampides_boeticus"	"Mabuya_sechellensis"	"Scaptodrosophila_sp1_M_PL_123"	"Unidentified_sp1_M_PL_123"	"Unidentified_sp4_M_PL_123"
+"Nephrosperma_vanhoutteanum"	22	27	21	0	0	0	4	4	2	4	3	0	0	2	0	2	0	1	0	0	1	0	0	0	0	0
+"Pittosporum_senacia"	49	6	0	1	9	5	1	5	0	0	0	2	0	0	0	0	0	0	0	1	0	1	1	0	0	0
+"Chrysobalanus_icaco"	60	1	0	3	2	6	0	0	0	0	0	0	3	0	2	0	0	0	1	0	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	15	18	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+"Dillenia_ferruginea"	18	11	0	2	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	14	15	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Northea_hornei"	7	0	0	10	0	1	0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phoenicophorium_borsigianum"	2	5	0	0	0	0	5	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+"Ixora_pudica"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0

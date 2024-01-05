@@ -1,0 +1,10 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_germana"	"Unidentified_sp3_M_PL_130"	"Phelsuma_sp1_M_PL_130"	"Unidentified_sp2_M_PL_130"	"Unidentified_sp1_M_PL_130"	"Unidentified_sp5_M_PL_130"	"Nectarinia_dussumieri"	"Neophyllomyza_approximatonervis"	"Rhynchium_brunneum"	"Unidentified_sp6_M_PL_130"	"Unidentified_sp7_M_PL_130"	"Hemipyrellia_sp1_M_PL_130"	"Mabuya_sechellensis"	"Unidentified_sp4_M_PL_130"	"Ornidia_obesa"	"Simosyrphus_aegyptius"	"Forcipomyia_sp1_M_PL_130"	"Lygistorrhina_sp1_M_PL_130"	"Rhiparida_seychellensis"	"Scaptodrosophila_sp1_M_PL_130"	"Ceratina_tabescens"	"Cratopus_aurostriatus"	"Megachile_seychellensis"	"Polistes_olivaceus"
+"Nephrosperma_vanhoutteanum"	16	20	3	0	0	8	1	0	0	2	0	0	0	1	0	0	1	1	2	1	0	3	0	0	0	0
+"Phoenicophorium_borsigianum"	3	6	2	10	0	0	4	7	0	2	0	3	0	1	0	3	1	0	1	0	0	0	0	1	0	0
+"Alstonia_macrophylla"	13	5	6	0	0	0	0	0	2	1	3	0	0	3	0	0	2	3	0	0	0	0	0	0	0	1
+"Gastonia_crassa"	11	5	1	0	8	0	0	0	4	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	8	21	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+"Chrysobalanus_icaco"	14	1	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0	0	0	0	1	0	3	6	0	0	2	0	0	0	0	3	0	0	0	0	0
+"Excoecaria_benthiamiana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0

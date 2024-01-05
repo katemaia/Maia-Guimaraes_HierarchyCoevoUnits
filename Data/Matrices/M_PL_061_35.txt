@@ -1,0 +1,10 @@
+"Apis_mellifera"	"Neophyllomyza_approximatonervis"	"Lygistorrhina_sp1_M_PL_118"	"Unidentified_sp2_M_PL_118"	"Lasioglossum_mahense"	"Nectarinia_dussumieri"	"Unidentified_sp1_M_PL_118"	"Hemipyrellia_sp1_M_PL_118"	"Leptotes_pirithous"	"Ornidia_obesa"	"Lampides_boeticus"	"Megachile_seychellensis"	"Phelsuma_sp1_M_PL_118"
+"Cinnamomum_verum"	22	0	0	0	1	0	0	1	0	2	0	1	0
+"Nephrosperma_vanhoutteanum"	5	9	5	0	0	0	4	0	0	0	0	0	0
+"Memecylon_eleagni"	10	0	0	0	0	0	0	0	0	0	0	0	0
+"Chrysobalanus_icaco"	3	0	0	0	0	4	0	0	2	0	0	0	0
+"Roscheria_melanochaetes"	0	0	0	5	0	0	0	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	3	0	0	0	0	0	0	0	0
+"Nepenthes_pervillei"	1	0	0	0	0	0	0	2	0	0	0	0	0
+"Mimusops_sechellarum"	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Timonius_sechellensis"	0	0	0	0	0	0	0	0	0	0	1	0	0

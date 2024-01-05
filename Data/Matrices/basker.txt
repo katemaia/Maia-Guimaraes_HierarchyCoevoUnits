@@ -1,0 +1,17 @@
+"lion"	"Leopard"	"hyaena"	"Cheetah"	"wild_dog"	"caracal"	"canis_meso"	"canis_aureus"
+"Giraffe"	1	0	0	0	0	0	0	0
+"Buffalo"	1	0	0	0	0	0	0	0
+"Eland"	1	0	0	0	0	0	0	0
+"Zebra"	1	1	1	0	1	0	0	0
+"Waterbuck"	1	1	1	0	1	0	0	0
+"Wildebeest"	1	1	1	1	1	0	0	0
+"Kongoni"	1	1	1	0	1	0	0	0
+"Topi"	1	1	1	0	1	0	0	0
+"Warthog"	1	1	1	1	1	0	0	0
+"Reedbuck"	1	1	1	1	1	0	0	0
+"Impala"	1	1	1	1	1	0	0	0
+"Gr_Gazelle"	1	1	1	1	1	0	0	1
+"Bushbuck"	1	1	0	0	1	0	0	0
+"Th_Gazelle"	1	1	1	1	1	0	0	1
+"Oribi"	1	1	1	1	0	0	0	0
+"Dikdik"	1	1	1	1	0	1	1	1

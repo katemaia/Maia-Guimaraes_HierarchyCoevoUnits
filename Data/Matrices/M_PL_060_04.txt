@@ -1,0 +1,22 @@
+"Stomorhina_lunata"	"Technomyrmex_albipes"	"Brachymyrmex_sp1_M_PL_063"	"Apis_mellifera"	"Pachycerina_crinicornis"	"Musca_domestica"	"Fannia_pusio"	"Chaetocnema_sp1_M_PL_063"	"Ophyra_capensis"	"Panara_naso"	"Polistes_hebraeus"	"Allograpta_nasuta"	"Lygistorrhina_sp1_M_PL_063"	"Stomoxys_calcitrans"	"Ischiodon_aegyptius"	"Nacoleia_sp1_M_PL_063"	"Chrysomya_megacephala"	"Dioxyna_sororcula"	"Eristalinus_flaveolus"	"Melanostoma_bituberculatum"	"Phelsuma_cepediana"	"Phorinia_sp1_M_PL_063"	"Sarcophaga_arno"	"Cephonodes_trochilus"	"Ornidia_obesa"	"Graphomya_maculata"	"Lecithoceridae_sp1_M_PL_063"	"Nacoleia_sp2_M_PL_063"	"Psilopa_iceryae"	"Syritta_nigrofemorata"	"Syritta_sp1_M_PL_063"	"Cryptinae_sp1_M_PL_063"	"Dysauxes_florida"	"Episyrphus_sp1_M_PL_063"	"Homoneura_sp1_M_PL_063"	"Hydrillodes_sp1_M_PL_063"	"Leptotes_pirithous"	"Macroglossum_milvus"	"Mauritiborium_undulatus"	"Orthellia_albigena"	"Remigia_frugalis"	"Scatopsidae_sp1_M_PL_063"	"Stomoxys_niger"	"Tarundia_servillei"	"Trichoplusia_indicator"	"Zosterops_mauritianus"
+"Sideroxylon_cinereum"	28	0	0	14	0	3	15	0	6	0	0	0	7	3	3	0	7	0	0	0	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Molinaea_alternifolia"	13	9	0	0	14	5	2	0	8	0	0	0	0	3	0	3	0	1	1	6	1	1	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Aphloia_theiformis"	29	2	2	6	1	12	0	0	0	2	4	0	0	0	1	0	0	0	2	0	0	3	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Croton_fothergillifolius"	13	8	7	0	3	1	0	0	0	0	0	2	0	1	3	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"Syzygium_venosum"	3	0	20	4	0	1	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Roussea_simplex"	0	20	0	4	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Stillingia_lineata"	0	0	2	0	4	0	0	15	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+"Dracaena_reflexa"	7	0	0	2	1	1	0	0	0	1	0	2	0	0	1	0	0	0	0	0	0	0	0	2	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Bertiera_zaluzania"	0	2	0	10	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Coffea_mauritiana"	0	1	8	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Chassalia_coriacea"	2	0	0	0	0	1	0	0	0	6	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"Claoxylon_linostachys"	0	0	6	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psiadia_terebinthina"	2	0	0	1	1	1	0	3	0	1	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Antidesma_madagascariense"	1	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+"Antirhea_borbonica"	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Toddalia_asiatica"	0	4	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Erythroxylum_macrocarpum"	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pandanus_wiehii"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Agauria_salicifolia"	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Flagellaria_indica"	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Polyscias_mauritiana"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

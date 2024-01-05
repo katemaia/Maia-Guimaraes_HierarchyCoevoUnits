@@ -1,0 +1,22 @@
+"Ctenophthalmus_dilatatus"	"Citellophilus_ullus"	"Oropsylla_silantiewi"	"Frontopsylla_elata"	"Amphipsylla_schelkovnikovi"	"Ctenophthalmus_assimilis"	"Pectinoctenus_nemorosa"	"Megabothris_rectangulatus"	"Amphipsylla_dumalis"	"Amphipsylla_primaris"	"Neopsylla_democratica"	"Neopsylla_mana"	"Amphipsylla_anceps"	"Leptopsylla_sicistae"	"Ceratophyllus_sciurorum"	"Ctenophthalmus_arvalis"	"Frontopsylla_ornata"	"Neopsylla_setosa"	"Amalaraeus_penicilliger"	"Hystrichopsylla_talpae"	"Mesopsylla_hebes"	"Leptopsylla_nana"	"Rhadinopsylla_ioffi"	"Amphipsylla_rossica"	"Callopsylla_caspia"	"Frontopsylla_elatoides"	"Mesopsylla_lenis"	"Pectinoctenus_lauta"	"Mesopsylla_eucta"	"Nosopsyllus_consimilis"	"Oropsylla_ilovaiskii"	"Paraneopsylla_ioffi"
+"Myospalax_myospalax"	443	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0
+"Spermophilus_erythrogenys"	0	229	0	0	0	0	0	0	0	0	34	0	0	0	0	15	0	2	0	0	0	0	0	0	0	3	0	0	0	0	3	0
+"Cricetulus_migratorius"	0	0	0	20	58	5	0	0	0	6	12	16	36	0	0	6	0	0	0	2	0	11	0	0	0	3	0	5	0	3	0	0
+"Apodemus_uralensis"	0	0	0	26	0	9	57	2	0	0	0	16	5	2	0	0	13	0	2	0	0	0	0	2	0	0	0	0	0	0	0	2
+"Microtus_arvalis"	0	78	0	6	0	7	0	10	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	4	0	0	0	0	0	0	0	0
+"Marmota_baibacina"	0	0	81	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Alticola_strelzowi"	0	0	0	8	0	0	0	10	0	43	0	5	0	0	0	0	0	0	2	0	0	0	0	0	7	0	0	0	0	0	0	0
+"Ellobius_talpinus"	0	0	0	0	0	2	0	0	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sicista_tianshanica"	0	0	0	0	0	4	0	2	0	0	0	0	0	36	0	0	9	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+"Arvicola_terrestris"	0	0	0	0	0	13	0	20	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Microtus_oeconomus"	0	0	0	2	0	8	0	12	0	0	0	2	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0
+"Dryomys_nitedula"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Allactaga_major"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0	0	15	0	0	0	0	0	0	0	0	0	0	0
+"Clethrionomys_rufocanus"	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	2	0	0	8	0	0	0	2	0	0	0	0	0	0	0	0
+"Apodemus_agrarius"	0	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Allactaga_elater"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	3	0	0	0
+"Microtus_gregalis"	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Allocricetulus_eversmanni"	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Alticola_argentatus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+"Cricetus_cricetus"	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Sicista_subtilis"	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

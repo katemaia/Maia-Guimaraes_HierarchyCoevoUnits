@@ -1,0 +1,8 @@
+"Thalurania_glaucopis"	"Clytolaema_rubricauda"	"Stephanoxis_lalandi"	"Amazilia_versicolor"
+"Fuchsia_regia"	329	337	8	0
+"Gaylussacia_brasiliensis"	0	0	166	0
+"Aechmea_cylindrata"	42	5	64	23
+"Nematanthus_australis"	110	10	11	0
+"Vriesea_altodaserrae"	5	4	0	0
+"Aegiphila_obducta"	0	6	0	0
+"Nidularium_inocentii"	1	0	0	0

@@ -1,0 +1,7 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_germana"	"Neophyllomyza_approximatonervis"	"Unidentified_sp7_M_PL_098"	"Ornidia_obesa"	"Rhiparida_seychellensis"	"Unidentified_sp1_M_PL_098"	"Forcipomyia_sp1_M_PL_098"	"Melanostoma_annulipes"	"Lygistorrhina_sp1_M_PL_098"	"Phelsuma_sp1_M_PL_098"	"Unidentified_sp2_M_PL_098"	"Unidentified_sp3_M_PL_098"	"Unidentified_sp6_M_PL_098"	"Hemipyrellia_sp1_M_PL_098"	"Unidentified_sp4_M_PL_098"	"Unidentified_sp5_M_PL_098"
+"Canthium_bibracteatum"	42	26	7	0	0	5	0	0	0	0	0	0	0	0	0	1	0	0
+"Nephrosperma_vanhoutteanum"	24	30	3	4	0	0	2	4	0	3	0	2	0	0	0	0	0	0
+"Dillenia_ferruginea"	17	14	2	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+"Roscheria_melanochaetes"	0	1	0	3	5	0	0	0	3	0	0	0	1	2	1	0	1	1
+"Soulamea_terminaloides"	0	0	2	0	0	0	0	0	0	0	2	0	1	0	1	0	0	0
+"Excoecaria_benthiamiana"	3	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0

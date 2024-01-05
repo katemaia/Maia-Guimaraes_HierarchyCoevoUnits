@@ -1,0 +1,9 @@
+"Diplostomum_spathaceum"	"Argulus_sp1"	"Argulus_sp2"	"Lernaea_cyprinacea"	"Myxobolus_molnari"	"Mastacembelocleidus_heteranchorus"	"Dactylogyrus_extensus"	"Dactylogyrus_alatus"	"Dactylogyrus_hypophthalmichthys"	"Dactylogyrus_carassobarbi"	"Dactylogyrus_lenkorani"	"Dactylogyrus_lamellatus"	"Dactylogyrus_goktschaicus"	"Dactylogyrus_suchengtaii"	"Dogielius_molnari"	"Gyrodactylus_sp"	"Gyrodactylus_stankovici"	"Ligula_intestinalis"	"Polyonchobothrium_sp"	"Pseudocapillaria_tomentosa"
+"Cyprinus_carpio_(exotic)"	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1
+"Chalcalburnus_sp"	1	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+"Mastacembelus_mastacembelus"	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Hypophthalmichthys_molitrix"	1	1	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+"Capoeta_damascina"	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0
+"Ctenopharyngodon"	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"Carassius_carassius_(exotic)"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Barbus_cyclolepis"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0

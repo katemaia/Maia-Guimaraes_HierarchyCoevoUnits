@@ -1,0 +1,25 @@
+"Artibeus_fimbriatus"	"Artibeus_lituratus"	"Artibeus_jamaicensis"	"Carollia_perspicillata"	"Sturnira_lilium"	"Sturnira_tildae"
+"Philodendron_apendiculatum"	0	0	0	0	1	0
+"Cecropia_glaziovi"	5	3	1	0	1	0
+"Cecropia_pachystachia"	3	1	0	0	0	0
+"Cucurbitaceae"	1	0	0	0	2	0
+"Vismia_sp."	0	0	0	0	1	0
+"Ficus_luschnatiana"	2	1	0	0	0	0
+"Ficus_sp."	3	1	0	0	1	0
+"Piper_aduncun"	0	0	0	2	0	0
+"Piper_dilatatum"	0	0	0	5	0	0
+"Piper_sp."	1	0	0	2	4	0
+"Rubus_brasiliensis"	0	0	0	2	1	0
+"Aureliana_sp."	0	0	0	0	1	0
+"Solanum_cinnamomeum"	0	0	0	0	1	0
+"Solanum_megalochiton"	0	0	0	1	0	0
+"Solanum_cf._paranaense"	0	0	0	2	2	1
+"Solanum_rufescens"	0	0	0	0	1	0
+"Solanum_santaecatharinae"	0	0	0	0	3	0
+"Solanum_scuticum"	0	1	0	0	1	1
+"Solanum_subsylvestris"	0	0	0	0	3	0
+"Solanum_swartzianum"	0	0	0	0	3	0
+"Solanum_variabile"	0	0	0	1	3	0
+"Solanum_sp."	1	0	0	1	15	3
+"Vassobia_breviflora"	1	0	0	0	11	0
+"Unknown_family"	4	0	0	0	1	0

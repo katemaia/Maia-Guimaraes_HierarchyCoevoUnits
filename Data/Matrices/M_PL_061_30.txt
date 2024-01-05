@@ -1,0 +1,8 @@
+"Lasioglossum_mahense"	"Rhiparida_seychellensis"	"Apis_mellifera"	"Ceratina_tabescens"	"Unidentified_sp1_M_PL_113"	"Hemipyrellia_germana"	"Megachile_seychellensis"	"Cratopus_aurostriatus"	"Ornidia_obesa"	"Neophyllomyza_approximatonervis"	"Phelsuma_sp1_M_PL_113"	"Pachycerina_seychellensis"	"Simosyrphus_aegyptius"
+"Nephrosperma_vanhoutteanum"	13	24	10	1	13	0	1	0	0	0	1	0	0
+"Phoenicophorium_borsigianum"	10	29	4	0	0	0	0	4	0	2	0	0	0
+"Deckenia_nobilis"	3	0	17	0	0	6	0	0	4	1	2	2	0
+"Canthium_bibracteatum"	8	0	0	12	0	0	3	0	0	0	0	0	0
+"Euphorbia_pyrifolia"	16	0	1	0	0	0	0	0	0	0	0	0	1
+"Chrysobalanus_icaco"	4	0	13	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	1	0	0	0	0	0	2	0	0	0	0	0	1

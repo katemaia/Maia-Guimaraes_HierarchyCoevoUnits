@@ -1,0 +1,22 @@
+"Amazilia_rutila"	"Chlorostilbon_canivetii"	"Cynanthus_latirostris"	"Heliomaster_constantii"	"Archilochus_colubris"
+"Hamelia_versicolor"	1056	592	324	41	0
+"Vitex_mollis"	52	1847	0	0	0
+"Combretum_farinosum"	687	134	230	0	0
+"Ipomoea_bracteata"	525	0	124	34	12
+"Mirabilis_sp1_M_PL_065"	0	0	627	0	0
+"Ipomoea_wolcottiana"	46	0	281	0	148
+"Opuntia_excelsa"	371	2	0	46	0
+"Nopalea_karwinskiana"	57	0	0	321	0
+"Ceiba_aesculifolia"	169	0	25	107	0
+"Caesalpinia_pulcherrima"	243	0	0	0	0
+"Cordia_seleriana"	55	130	0	0	0
+"Psittacanthus_calyculatus"	39	0	0	0	99
+"Tillandsia_bartramii"	119	0	0	0	0
+"Pithecellobium_mangens"	0	104	0	0	0
+"Tillandsia_paucifolia"	90	0	8	1	0
+"Tillandsia_dasyrifolia"	85	0	0	0	0
+"Groton_suberosus"	58	0	0	0	0
+"Justicia_mexicana"	14	0	32	0	0
+"Erythrina_lanata"	0	0	0	5	0
+"Ipomoea_quamoclit"	2	2	1	0	0
+"Tabebuia_donnell-smithii"	0	0	0	3	0

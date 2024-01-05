@@ -1,0 +1,5 @@
+"Premnas_biaculeatus"	"Amphiprion_clarkii"	"Amphiprion_perideraion"	"Amphiprion_sandaracinos"
+"Entacmaea_quadricolor"	1	0	0	0
+"Heteractis_crispa"	0	1	1	0
+"Heteractis_magnifica"	0	0	1	0
+"Stichodactyla_mertensii"	0	1	0	1

@@ -1,0 +1,15 @@
+"Apis_mellifera"	"Technomyrmex_albipes"	"Chrysomya_megacephala"	"Musca_domestica"	"Hydrillodes_sp1_M_PL_069"	"Brachymyrmex_sp1_M_PL_069"	"Nacoleia_sp1_M_PL_069"	"Phorinia_sp1_M_PL_069"	"Paragus_borbonicus"	"Stomorhina_lunata"	"Dolichopodidae_sp1_M_PL_069"	"Graphomya_maculata"	"Panara_naso"	"Phelsuma_cepediana"	"Trirhithrum_sp1_M_PL_069"	"Villa_unifasciata"	"Allograpta_sp1_M_PL_069"	"Conocephalus_sp1_M_PL_069"	"Macroglossum_milvus"	"Melanostoma_annulipes"	"Pteromalidae_sp1_M_PL_069"	"Scopariinae_sp1_M_PL_069"	"Stomoxys_calcitrans"	"Strictopterinae_sp1_M_PL_069"	"Syritta_sp1_M_PL_069"
+"Pyrostria_fasciculata"	25	0	0	1	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+"Labourdonnaisia_callophylloides"	15	12	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"Stillingia_lineata"	0	0	3	7	0	0	0	4	3	1	2	1	0	0	2	0	0	0	0	0	1	0	1	0	0
+"Syzygium_coriaceum"	0	3	8	2	0	6	2	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Gaertnera_sp1_M_PL_069"	3	0	1	0	7	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0
+"Syzygium_petrinese"	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Diospyros_revaughanii"	4	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+"Euodia_obtusifolia"	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"Embelia_angustifolia"	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Memecylon_ovatifolium"	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Syzygium_commersonii"	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Tristhema_mauritiana"	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tabernaemontana_persicarifolia"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Xyris_sp1_M_PL_069"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0

@@ -1,0 +1,17 @@
+"Neopsylla_setosa"	"Xenopsylla_cheopis"	"Citellophilus_transcaucasicus"	"Amphipsylla_schelkovnikovi"	"Nosopsyllus_iranus"	"Oropsylla_ilovaiskii"	"Nosopsyllus_consimilis"	"Ctenophthalmus_teres"	"Megabothris_walkeri"	"Ctenophthalmus_acuminatus"	"Wagnerina_schelkovnikovi"	"Amphipsylla_rossica"	"Ctenophthalmus_secundus"	"Neopsylla_pleskei"	"Nosopsyllus_mokrzeckyi"	"Stenoponia_ivanovi"	"Leptopsylla_segnis"	"Nosopsyllus_fasciatus"	"Callopsylla_saxatilis"	"Ctenophthalmus_bogatschevi"	"Frontopsylla_elata"	"Callopsylla_caspia"	"Stenoponia_tripectinata"	"Ceratophyllus_sciurorum"	"Xenopsylla_conformis"	"Ctenophthalmus_proximus"	"Mesopsylla_tuschkan"	"Rhadinopsylla_cedestis"	"Megabothris_turbidus"	"Ctenophthalmus_golovi"	"Myoxopsylla_jordani"	"Rhadinopsylla_integella"	"Ophthalmopsylla_volgensis"	"Hystrichopsylla_talpae"	"Paradoxopsyllus_hesperius"	"Mesopsylla_apscheronica"	"Rhadinopsylla_ucrainica"
+"Spermophilus_xanthoprymnus"	3719	0	2654	0	10	711	104	49	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Meriones_vinogradovi"	0	2763	0	0	611	0	21	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	21	0	0	0	0	2	0	0	0	0	1	0	0	0	0
+"Cricetulus_migratorius"	4	3	1	2253	11	1	154	0	0	4	172	16	14	36	60	0	42	29	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Meriones_persicus"	0	261	0	1	196	0	12	0	0	0	0	0	3	3	9	0	0	0	0	0	0	0	3	0	12	0	0	2	0	0	0	0	4	0	0	0	0
+"Microtus_arvalis"	0	0	4	25	0	0	36	151	14	2	0	84	0	1	0	63	0	5	9	21	21	15	0	0	0	0	0	0	0	7	0	0	0	3	0	0	0
+"Mesocricetus_brandti"	9	0	0	0	2	0	82	57	0	158	0	5	0	28	0	0	0	5	0	0	1	0	0	0	0	0	0	0	5	0	0	6	0	0	0	2	2
+"Meriones_tristrami"	0	139	0	0	126	0	7	0	0	0	0	0	3	12	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0
+"Arvicola_terrestris"	0	0	3	0	0	0	4	46	190	0	0	5	0	0	2	0	2	0	13	1	0	5	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Microtus_socialis"	1	0	0	1	0	0	48	0	0	0	0	23	123	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apodemus_flavicollis"	0	8	0	0	0	0	58	7	0	20	0	16	4	1	1	0	10	0	0	15	1	5	0	0	0	9	5	0	3	0	1	0	0	0	0	0	0
+"Crocidura_suaveolens"	0	0	0	0	0	0	1	20	1	0	0	0	0	0	1	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dryomys_nitedula"	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	6	0	0	0	0	0	0
+"Chionomys_nivalis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0
+"Allactaga_elater"	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0
+"Sciurus_anomalus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neomys_schelkovnikovi"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,8 @@
+"Azteca_r.am.1"	"Allomerus_octoarticulatus"	"Pheidole_minutula"	"Myrcidris_sp."	"Crematogaster_laevis"	"Azteca_sp4"	"Azteca_sp5"	"Pseudomyrmex_concolor"
+"Cordia_nodosa"	6	0	0	0	0	0	0	0
+"Hirtella_myrmecophila"	0	13	0	0	0	0	0	0
+"Maieta_guianensis"	0	0	1	0	0	0	0	0
+"Myrcia_madida"	0	0	0	1	0	0	0	0
+"Hirtella_physophora"	0	2	0	0	0	0	0	0
+"Tococa_bullifera"	0	0	0	0	1	1	1	0
+"Tachigalia_spp."	0	0	0	0	0	0	0	10

@@ -1,0 +1,11 @@
+"Clytolaema_rubricauda"	"Thalurania_glaucopis"	"Phaethornis_eurynome"	"Amazilia_versicolor"
+"Fuchsia_regia"	308	158	0	0
+"Spirotheca_rivieri"	255	6	0	0
+"Inga_sp1_M_PL_069_02"	210	24	0	0
+"Aegiphila_obducta"	0	29	20	0
+"Nematanthus_australis"	3	5	0	0
+"Justicia_carnea"	0	0	6	0
+"Vriesea_altodaserrae"	3	0	0	2
+"Vriesea_incurvata"	0	0	5	0
+"Heliconia_farinosa"	0	3	0	0
+"Nidularium_inocentii"	0	0	2	0

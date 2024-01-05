@@ -1,0 +1,7 @@
+"Apis_mellifera"	"Ornidia_obesa"	"Xylocopa_caffra"	"Lasioglossum_mahense"	"Neavella_albipectus"	"Megachile_seychellensis"	"Parasarcophaga_hirticeps"	"Polistes_olivaceus"	"Chalcidoma_disjunctum"	"Eristalinus_vicarians"	"Hemipyrellia_sp1_M_PL_110"	"Cratopus_aurostriatus"	"Dichaetomyia_fasciculifera"
+"Psidium_cattleianum"	53	4	2	0	0	0	0	0	1	0	1	0	0
+"Memecylon_eleagni"	30	0	0	7	3	0	0	0	1	0	0	0	0
+"Cinnamomum_verum"	12	12	0	0	0	0	3	3	0	2	0	1	1
+"Ochna_kirkii"	0	0	10	0	0	0	0	0	0	0	0	0	0
+"Premna_serratifolia"	0	0	0	0	3	4	0	0	0	0	1	0	0
+"Erythroxylum_sechellarum"	0	0	0	1	0	0	0	0	0	0	0	0	0

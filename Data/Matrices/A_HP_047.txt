@@ -1,0 +1,12 @@
+"Amphipsylla_primaris"	"Paradoxopsyllus_scorodumovi"	"Callopsylla_caspia"	"Paramonopsyllus_scalonae"	"Citellophilus_tesquorum"	"Wagnerina_tuvensis"	"Paradoxopsyllus_dashidorzhii"	"Frontopsylla_elatoides"	"Nosopsyllus_laeviceps"	"Amphipsylla_vinogradovi"	"Frontopsylla_hetera"	"Pectinoctenus_pavlovskii"	"Neopsylla_mana"	"Frontopsylla_wagneri"	"Neopsylla_bidentatiformis"	"Amphipsylla_longispina"	"Ophthalmopsylla_praefecta"	"Oropsylla_alaskensis"	"Rhadinopsylla_li"	"Neopsylla_pleskei"	"Echidnophaga_oschanini"	"Frontopsylla_luculenta"	"Ophthalmopsylla_kukuschkini"	"Amphalius_runatus"	"Ctenophyllus_hirticrus"	"Rhadinopsylla_rothschildi"
+"Alticola_strelzowi"	982	852	307	130	5	200	84	22	8	28	76	8	22	0	0	3	0	0	3	0	0	0	0	0	0	0
+"Alticola_barakshin"	913	0	625	357	0	200	335	42	0	0	58	14	3	0	3	0	0	0	3	0	0	0	0	0	0	0
+"Alticola_argentatus"	1003	533	105	110	5	90	0	190	0	3	28	3	18	0	13	0	0	0	0	0	0	0	0	0	0	0
+"Spermophilus_undulatus"	3	18	0	9	459	0	13	38	0	0	18	0	9	0	0	7	0	18	6	0	14	0	0	8	0	0
+"Meriones_meridianus"	0	0	0	7	11	0	25	13	275	14	14	0	0	0	2	11	0	0	0	0	0	0	0	0	0	0
+"Cricetulus_longicaudatus"	0	49	3	2	6	30	0	13	0	134	11	43	33	0	4	4	0	0	0	0	0	0	0	0	0	0
+"Cricetulus_barabensis"	0	0	0	0	37	0	0	7	0	106	8	8	10	0	33	0	0	0	0	0	0	0	2	0	2	2
+"Phodopus_sungorus"	35	0	0	2	0	0	0	11	0	12	8	41	12	0	0	10	0	0	5	0	0	0	0	0	0	0
+"Allactaga_sibirica"	0	0	0	0	0	0	0	0	0	0	0	0	0	72	0	0	21	0	0	0	0	12	0	0	0	0
+"Meriones_unguiculatus"	2	0	0	2	0	0	0	0	53	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0
+"Apodemus_peninsulae"	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	7	0	0	0

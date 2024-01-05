@@ -1,0 +1,12 @@
+"Bothriocephalus_acheilognathi"	"Ornithodiplostomum_sp."	"Lernaea_cyprinacea"	"Contracaecum_sp."	"Rhabdochona_sp."	"Unidenti?ed_metacercaria"	"Corallobothriinae"	"Posthodiplostomum_sp."	"Eustrongylides_sp."	"Oribatida_gen._sp."	"Henneguya_exilis"	"Ligictaluridus_?oridanus"	"Dactylogyrus_extensus"	"Gyrodactylus_hoffmani"	"Corallobothrium_?mbriatum"	"Megathylacoides_giganteum"	"Truttaedacnitis_truttae"	"Ergasilus_arthrosis"	"Myzobdella_lugubris"	"Gyrodactylus_sp."
+"Ictalurus_punctatus"	1	1	0	1	0	0	1	0	1	0	1	1	0	0	1	1	0	1	1	0
+"Rhinichthys_osculus"	1	1	1	1	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1
+"Gila_cypha"	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Pimephales_promelas"	1	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0
+"Fundulus_zebrinus"	1	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"Catostomus_discobolus"	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Oncorhynchus_mykiss"	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Cyprinella_lutrensis"	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Catostomus_latipinnis"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cyprinus_carpio"	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"Ameiurus_natalis"	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

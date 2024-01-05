@@ -1,0 +1,26 @@
+"Loxigilla_portoricensis"	"Spindalis_portoricensis"	"Vireo_altiloquous"	"Turdus_plumbeus"	"Columba_squamosa"	"Coereba_flaveola"	"Tyrannus_dominicensis"	"Euphonia_musica"	"Margarops_fuscatus"	"Icterus_dominicensis"	"Zenaida_zenaida"	"Molothrus_bonariensis"	"Nesospingus_sp1_M_SD_003"	"Tiaris_bicolor"	"Todus_mexicanus"	"Unidentified_sp1_M_SD_003"
+"Guarea_guidonia"	34	0	6	0	0	0	2	0	1	0	0	0	0	0	0	0
+"Cecropia_schreberiana"	10	12	1	3	1	7	0	1	2	0	0	0	1	1	1	0
+"Schefflera_morototoni"	0	14	1	10	3	0	0	0	0	0	0	0	0	0	0	0
+"Miconia_prasina"	7	15	0	0	0	2	0	0	1	0	0	0	0	0	0	0
+"Cupania_americana"	7	0	3	1	0	2	6	0	0	1	0	1	0	0	0	0
+"Alchornea_latifolia"	5	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0
+"Myrcia_sp1_M_SD_003"	2	5	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"Byrsonima_coriacea"	1	1	2	0	3	0	0	0	0	0	0	0	0	0	0	0
+"Clusia_rosea"	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Henriettea_fascicularis"	4	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0
+"Casearia_arborea"	2	0	1	0	1	0	1	0	0	0	0	0	0	0	0	1
+"Ocotea_leucoxylon"	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0
+"Miconia_affinis"	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phoradendron_sp1_M_SD_003"	1	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+"Psychotria_berteroana"	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Inga_vera"	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ficus_sp1_M_SD_003"	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+"Myrcine_coriacea"	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Anthurium_scandens"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dendropanax_arboreus"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Inga_laurina"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"Miconia_serrulata"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tournefortia_hisutissima"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_SD_003"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_SD_003"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0

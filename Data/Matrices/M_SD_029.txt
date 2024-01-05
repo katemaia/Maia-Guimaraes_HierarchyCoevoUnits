@@ -1,0 +1,5 @@
+"Turdus_merula"	"Turdus_iliacus"	"Turdus_philomelos"	"Turdus_torquatus"	"Turdus_viscivorus"
+"Juniperus_phoenicea"	1	1	1	1	1
+"Osyris_quadripartita"	1	1	1	0	0
+"Corema_album"	1	0	0	0	0
+"Phillyrea_angustifolia"	1	0	0	0	0

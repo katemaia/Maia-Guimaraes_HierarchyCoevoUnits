@@ -1,0 +1,6 @@
+"Apis_mellifera"	"Unidentified_sp2_M_PL_084"	"Rhiparida_seychellensis"	"Lasioglossum_mahense"	"Lygistorrhina_sp1_M_PL_084"	"Unidentified_sp1_M_PL_084"	"Scaptodrosophila_sp1_M_PL_084"	"Xylocopa_caffra"	"Geron_seychellarum"	"Phelsuma_sp1_M_PL_084"	"Polistes_olivaceus"	"Unidentified_sp3_M_PL_084"
+"Nephrosperma_vanhoutteanum"	7	20	13	0	8	2	0	0	1	1	0	1
+"Paragenipa_wrightii"	22	0	0	11	0	0	0	1	0	0	1	0
+"Memecylon_eleagni"	6	0	0	0	0	0	0	1	0	0	0	0
+"Mimusops_sechellarum"	0	0	0	0	0	1	2	0	0	0	0	0
+"Soulamea_terminaloides"	0	0	0	0	0	2	0	0	0	0	0	0

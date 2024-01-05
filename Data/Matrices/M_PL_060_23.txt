@@ -1,0 +1,13 @@
+"Musca_domestica"	"Apis_mellifera"	"Technomyrmex_albipes"	"Brachymyrmex_sp1_M_PL_082"	"Chaetocnema_sp1_M_PL_082"	"Eristalinus_flaveolus"	"Chrysomya_megacephala"	"Dysauxes_florida"	"Villa_unifasciata"	"Panara_naso"	"Paragus_borbonicus"	"Stomorhina_lunata"	"Melanostoma_annulipes"	"Nacoleia_sp1_M_PL_082"	"Phorinia_sp1_M_PL_082"	"Sarcophaga_arno"	"Allograpta_nasuta"	"Episyrphus_sp1_M_PL_082"	"Hippotion_eson"	"Leptotes_pirithous"	"Lygaeidae_sp1_M_PL_082"	"Macroglossum_milvus"	"Mordellidae_sp1_M_PL_082"	"Ornidia_obesa"	"Orthellia_albigena"	"Stomoxys_calcitrans"	"Syritta_sp1_M_PL_082"
+"Aphloia_theiformis"	8	5	4	2	2	4	1	0	3	3	0	2	2	0	0	0	0	0	0	0	1	1	1	0	0	0	0
+"Stillingia_lineata"	17	0	0	0	0	2	7	0	0	0	2	0	0	0	1	1	1	0	0	1	0	0	0	0	1	0	1
+"Syzygium_coriaceum"	6	0	0	16	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Molinaea_macrantha"	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Casearia_coriacea"	0	12	0	0	0	6	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Gaertnera_sp1_M_PL_082"	3	2	0	0	4	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	1	0
+"Syzygium_petrinese"	2	8	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Croton_grangeroides"	1	0	0	0	5	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Labourdonnaisia_callophylloides"	0	8	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phyllanthus_phillyreifolius"	2	0	1	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"Cordemoya_integrifolia"	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Erythroxylum_macrocarpum"	2	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0

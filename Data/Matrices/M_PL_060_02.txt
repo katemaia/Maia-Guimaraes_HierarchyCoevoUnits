@@ -1,0 +1,13 @@
+"Stomorhina_lunata"	"Apis_mellifera"	"Pachycerina_crinicornis"	"Melanostoma_annulipes"	"Chrysomya_megacephala"	"Stomoxys_niger"	"Henotesia_narcissus"	"Stomoxys_calcitrans"	"Fannia_pusio"	"Brachymyrmex_sp1_M_PL_061"	"Musca_domestica"	"Chaetocnema_sp1_M_PL_061"	"Phorinia_sp1_M_PL_061"	"Allograpta_nasuta"	"Technomyrmex_albipes"	"Zosterops_mauritianus"	"Eristalinus_flaveolus"	"Polistes_hebraeus"	"Psilopa_iceryae"	"Leptotes_pirithous"	"Allograpta_sp1_M_PL_061"	"Melanagromyza_sojae"	"Nacoleia_sp1_M_PL_061"	"Lygistorrhina_sp1_M_PL_061"	"Sarcophaga_arno"	"Acopsis_viridicans"	"Atherigona_sp1_M_PL_061"	"Dasytinae_sp1_M_PL_061"	"Dysauxes_florida"	"Episyrphus_sp1_M_PL_061"	"Homoneura_sp1_M_PL_061"	"Nacoleia_sp2_M_PL_061"	"Orthellia_albigena"	"Paragus_borbonicus"	"Pelecophora_intemipta"	"Sapromyza_sp1_M_PL_061"	"Sepsis_lateralis"	"Unidentified_sp1_M_PL_061"
+"Toddalia_asiatica"	60	0	27	5	13	0	1	0	7	0	2	1	9	0	1	0	1	0	8	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Aphloia_theiformis"	15	45	1	10	2	1	1	3	1	0	0	0	2	1	4	2	4	0	0	1	4	0	1	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+"Geniostoma_borbonicum"	25	4	10	10	7	13	1	4	2	0	4	0	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0
+"Sideroxylon_cinereum"	7	38	8	0	3	3	1	0	1	0	0	0	0	0	0	4	0	5	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+"Roussea_simplex"	0	6	6	0	0	0	14	0	1	4	1	0	0	7	0	3	0	3	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psiadia_terebinthina"	14	3	0	3	1	0	0	6	1	0	2	0	0	0	0	0	3	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+"Croton_fothergillifolius"	8	1	0	0	5	1	0	3	0	0	2	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+"Erythroxylum_macrocarpum"	0	0	2	3	0	1	0	0	0	8	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Claoxylon_linostachys"	0	0	0	4	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Antirhea_borbonica"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dodonaea_viscosa"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Molinaea_alternifolia"	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

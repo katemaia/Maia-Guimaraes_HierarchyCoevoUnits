@@ -1,0 +1,8 @@
+"Chiroxiphia_caudata"	"Manacus_manacus"	"Vireo_olivaceus"	"Saltator_similis"	"Myiodynastes_maculatus"	"Tachyphonus_coronatus"	"Pitangus_sulphuratus"	"Turdus_leucomelas"	"Trichothraupis_melanops"	"Turdus_rufiventris"	"Tyrannus_savanna"	"Cyclarhis_gujanensis"	"Dacnis_cayana"	"Empidonomus_varius"	"Myiarchus_ferox"	"Myiophobus_fasciatus"	"Turdus_amaurochalinus"	"Tyrannus_melancholicus"
+"Cabralea_canjerana"	4	1	11	0	12	0	9	8	0	0	2	0	1	1	1	0	0	1
+"Trema_micrantha"	14	13	2	5	0	7	0	0	0	0	0	0	0	0	0	0	0	0
+"Trichilia_clauseni"	2	0	10	2	0	3	0	0	1	0	0	1	0	0	0	0	0	0
+"Protium_heptaphyllum"	1	6	0	6	0	1	0	0	0	2	0	0	0	0	0	0	0	0
+"Chamissoa_altissima"	3	1	0	0	0	1	0	0	5	0	0	0	0	0	0	0	0	0
+"Ixora_venulosa"	2	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Dendropanax_cuneatum"	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0

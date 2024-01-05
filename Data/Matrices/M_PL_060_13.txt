@@ -1,0 +1,8 @@
+"Apis_mellifera"	"Chaetocnema_sp1_M_PL_072"	"Fannia_pusio"	"Stomoxys_calcitrans"	"Stomorhina_lunata"	"Stomoxys_niger"	"Musca_domestica"	"Ophyra_capensis"	"Dysauxes_florida"	"Melanostoma_annulipes"	"Nacoleia_sp2_M_PL_072"	"Pachycerina_crinicornis"	"Nacoleia_sp1_M_PL_072"	"Orchisia_costata"	"Ceratitis_roas"	"Chrysomya_megacephala"	"Diptera_sp1_M_PL_072"	"Diptera_sp2_M_PL_072"	"Eristalinus_flaveolus"	"Graphomya_maculata"	"Henotesia_narcissus"	"Homoneura_sp1_M_PL_072"	"Homoneura_sp2_M_PL_072"	"Limnophora_quaterna"	"Lygistorrhina_sp1_M_PL_072"	"Orthellia_albigena"	"Paragus_borbonicus"	"Phorinia_sp1_M_PL_072"	"Sapromyza_sp1_M_PL_072"	"Technomyrmex_albipes"	"Unidentified_sp1_M_PL_072"
+"Sideroxylon_cinereum"	38	1	11	2	2	4	0	1	1	0	2	1	0	0	0	1	0	0	1	0	1	0	1	1	0	1	1	1	1	0	0
+"Croton_fothergillifolius"	0	30	0	0	2	0	1	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dodonaea_viscosa"	0	0	1	2	2	0	3	0	0	0	0	1	0	1	0	0	0	1	0	1	0	1	0	0	1	0	0	0	0	1	0
+"Trochetia_blackburniana"	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psiadia_terebinthina"	0	0	0	2	0	2	0	0	2	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"Erythroxylum_macrocarpum"	0	0	0	2	0	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Claoxylon_linostachys"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0

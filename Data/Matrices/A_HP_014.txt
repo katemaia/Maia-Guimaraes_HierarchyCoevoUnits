@@ -1,0 +1,12 @@
+"Amphipsylla_rossica"	"Nosopsyllus_consimilis"	"Ctenophthalmus_wagneri"	"Leptopsylla_taschenbergi"	"Nosopsyllus_mokrzeckyi"	"Ctenophthalmus_proximus"	"Ctenophthalmus_orientalis"	"Citellophilus_tesquorum"	"Megabothris_turbidus"	"Ctenophthalmus_golovi"	"Ctenophthalmus_secundus"	"Paradoxopsyllus_hesperius"	"Ctenophthalmus_chionomydis"	"Rhadinopsylla_ucrainica"	"Amphipsylla_kuznetzovi"	"Callopsylla_caspia"	"Ctenophthalmus_acuminatus"	"Megabothris_walkeri"	"Hystrichopsylla_talpae"
+"Arvicola_terrestris"	340	9	115	8	0	10	6	0	20	8	0	0	0	2	0	0	0	0	3
+"Apodemus_sylvaticus"	6	86	13	105	74	58	20	2	2	0	12	0	0	2	0	0	2	3	0
+"Apodemus_agrarius"	0	39	10	42	71	66	7	0	0	0	2	0	0	0	0	0	0	0	0
+"Microtus_arvalis"	4	49	30	0	0	0	6	0	6	0	0	0	0	0	0	0	0	3	2
+"Chionomys_gud"	10	3	10	8	4	0	2	0	0	11	0	10	12	3	6	6	0	0	0
+"Spermophilus_pygmaeus"	0	0	0	0	0	0	6	74	0	0	0	0	0	0	0	0	0	0	0
+"Cricetulus_migratorius"	0	32	7	0	2	0	24	0	0	0	2	8	0	0	0	0	0	0	0
+"Microtus_socialis"	0	22	2	0	0	0	11	0	0	0	4	0	0	0	0	0	0	0	0
+"Cricetus_cricetus"	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Microtus_majori"	12	0	2	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+"Mesocricetus_raddei"	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	4	0	0

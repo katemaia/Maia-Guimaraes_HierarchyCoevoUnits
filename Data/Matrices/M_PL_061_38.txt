@@ -1,0 +1,11 @@
+"Apis_mellifera"	"Lasioglossum_mahense"	"Unidentified_sp2_M_PL_121"	"Rhiparida_seychellensis"	"Neophyllomyza_approximatonervis"	"Phelsuma_sp1_M_PL_121"	"Unidentified_sp4_M_PL_121"	"Unidentified_sp6_M_PL_121"	"Unidentified_sp1_M_PL_121"	"Hemipyrellia_germana"	"Ornidia_obesa"	"Unidentified_sp3_M_PL_121"	"Cratopus_aurostriatus"	"Polistes_olivaceus"	"Simosyrphus_aegyptius"	"Unidentified_sp5_M_PL_121"	"Forcipomyia_litoraurea"	"Forcipomyia_sp1_M_PL_121"	"Lygistorrhina_sp1_M_PL_121"	"Nectarinia_dussumieri"	"Pachycerina_seychellensis"	"Unidentified_sp7_M_PL_121"	"Xylocopa_caffra"
+"Nephrosperma_vanhoutteanum"	13	10	30	5	3	1	0	0	0	1	0	0	1	1	0	1	0	0	1	0	0	0	0
+"Chrysobalanus_icaco"	17	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	14	4	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	9	5	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dillenia_ferruginea"	4	7	0	2	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	1
+"Phoenicophorium_borsigianum"	0	3	0	0	1	1	4	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0
+"Northea_hornei"	8	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Roscheria_melanochaetes"	0	2	0	0	2	0	1	0	0	0	0	3	0	0	0	0	1	1	0	0	0	0	0
+"Campnosperma_seychellarum"	0	0	0	1	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Psychotria_pervillei"	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,11 @@
+"Tetramesa_fulvicollis"	"Tetramesa_sp._4"	"Tetramesa_longula"	"Tetramesa_longicornis"	"Eurytoma_sp."	"Tetramesa_eximia"	"Tetramesa_calamagrostidis"	"Tetramesa_sp._2"	"Tetramesa_sp._1"	"Tetramesa_linearis"	"Tetramesa_hyallpennis"	"Tetramesa_sp._3"	"Tetramesa_agrostidis"	"Tetramesa_schmidti"	"Tetramesa_sp."	"Tetramesa_phragmitis"
+"Brachypodium_sylvaticum"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dactylis_glomerata"	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phalaris_arundinacea"	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0
+"Calamagrostis_epigejos"	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0
+"Calamagrostis_canescens"	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0
+"Elymus_repens"	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0
+"Agrostis_capillaris"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"Corynephorus_canescens"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"Holcus_lanatus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"Phragmites_australis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1

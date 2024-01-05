@@ -1,0 +1,9 @@
+"Citellophilus_lebedewi"	"Oropsylla_silantiewi"	"Pectinoctenus_nemorosa"	"Citellophilus_transcaucasicus"	"Amphipsylla_dumalis"	"Leptopsylla_taschenbergi"	"Amphipsylla_kuznetzovi"	"Ctenophthalmus_dux"	"Callopsylla_caspia"	"Ceratophyllus_sciurorum"	"Amalaraeus_penicilliger"	"Leptopsylla_nana"	"Frontopsylla_elata"	"Ctenophthalmus_assimilis"	"Neopsylla_mana"	"Frontopsylla_protera"	"Amphipsylla_phaiomydis"	"Ophthalmopsylla_praefecta"	"Amphipsylla_schelkovnikovi"	"Ctenophthalmus_dilatatus"	"Neopsylla_pleskei"	"Ctenophthalmus_golovi"	"Amphipsylla_primaris"	"Rhadinopsylla_li"
+"Marmota_caudata"	991	682	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+"Apodemus_uralensis"	0	0	349	0	25	49	27	0	13	8	3	4	0	5	9	8	7	3	0	2	2	3	0	0
+"Spermophilus_fulvus"	0	0	0	188	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ellobius_tancrei"	0	0	0	0	36	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cricetulus_migratorius"	0	0	0	0	0	0	3	0	0	0	0	5	8	0	0	0	0	4	4	2	2	0	2	0
+"Alticola_argentatus"	0	0	0	0	0	0	10	0	2	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+"Dryomys_nitedula"	0	0	0	0	0	0	0	0	0	6	10	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Microtus_juldaschi"	0	0	0	0	0	0	0	0	0	0	0	0	2	4	0	0	0	0	0	0	0	0	0	0

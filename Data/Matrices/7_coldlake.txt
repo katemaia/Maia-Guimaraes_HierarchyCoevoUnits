@@ -1,0 +1,11 @@
+"Gyrodactylus__sp."	"Discocotyle__sagittata"	"Diplostomum__spathaceum_(L)"	"Apatemon__gracilis_(L)"	"Cotylurus__erraticus_(L)"	"Lissorchis__attenuatum"	"Bunodera__luciopercae"	"Crepidostomum__farionis"	"Phyllodistomum__coregoni"	"Glaridacris__sp."	"Hunterella__nodulosa"	"Cyathocephalus__truncatus"	"Eubothrium__rugosum"	"Eubothrium__salvelini"	"Bothriocephalus__cuspidatus"	"Diphyllobothrium__sp._(L)"	"Schistocephalus__solidus_(L)"	"Triaenophorus__crassus"	"Triaenophorus__crassus_(L)"	"Triaenophorus__nodulosus"	"Triaenophorus__nodulosus_(L)"	"Proteocephalus__exiguus"	"Proteocephalus__filicollis"	"Proteocephalus__pinguis"	"Proteocephalus__sp._A"	"Raphidascaris__acus"	"Raphidascaris__acus_(L)"	"Haplonema__hamulatum"	"Philonema__agubernaculum"	"Cystidicola__farionis"	"Rhabdochona__cascadilla"	"Neoechinorhynchus__strigosus"	"Metechinorhynchus__salmonis"	"Pomphorhynchus__bulbocolli"	"Cystobranchus__verrilli"	"Ergasilus__auritus"	"Ergasilus__nerkae"	"Ergasilus__sp._A"	"Salmincola__extensus"	"Salmincola__extumescens"
+"Coregonus_artedii"	0	1	0	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	1	1	0	0	1	1	0	1	1	0	1	0
+"Coregonus_clupeaformis"	0	1	1	0	1	0	0	1	1	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	1	1	0	1	1
+"Salvelinus_namaycush"	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	0	1	1	0	0	0
+"Oncorhynchus_kisutch"	0	1	0	0	0	0	0	1	0	0	0	1	0	1	0	1	1	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	1	0	1	1	0	0	0
+"Esox_lucius"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	1	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+"Catostomus_catostomus"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0
+"Catostomus_commersoni"	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	0	0
+"Lota_lota"	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0
+"Pungitius_pungitius"	1	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	1	1	0	1	0	0	0	0
+"Stizostedion_vitreum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0

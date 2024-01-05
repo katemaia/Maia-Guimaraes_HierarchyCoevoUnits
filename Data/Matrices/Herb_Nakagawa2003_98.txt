@@ -1,0 +1,14 @@
+"Sternuchopsis_hoplomachus"	"Araecerus_corporaali"	"Phloebius_sp._1"	"Ctenomerus_sp._2"	"Manoja_sp._1"	"Meregallia_dipterocarpi"	"Meregallia_sp._1"	"Nanophyes_shoreae"	"Nanophyes_sp._2"	"Apionidae_Gn._sp._1"	"Involvulus_sp._3"	"Imathia_sp._1"	"Ochyromera_sp._2"	"Idotasia_sp._1"	"Sternuchopsis_curranae"	"Sternuchopsis_dipterocarpi"	"Sternuchopsis_shoreaphilus"	"Niphades_sp._1"	"Orchestes_sp._1"	"Orchestes_sp._2"	"Orchestes_sp._4"	"Coccotrypes_advena"	"Coccotrypes_cardamoni"	"Coccotrypes_gedeanus"	"Coccotrypes_papuanus"	"Dryocoetiops_malaccensis"	"Xyleborinus_exiguus"	"Xyleborinus_similis"	"Andrioplecta_shoreae"	"Andrioplecta_subpulverula"	"Andrioplecta_sp._A"	"Andrioplecta_sp._B"	"Lamoria_adaptella"	"Cosmopterigidae_sp._A"	"Assara_albicostalis"	"Sesiidae_Gn._Sp._A"	"Imma_homocrossa"
+"Dipterocarpus_pachyphyllus"	0	2	0	1	0	0	0	0	0	0	18	1	0	2	1	0	0	2	0	0	0	2	0	5	0	1	0	1	1	0	1	0	1	6	0	0	1
+"Dipterocarpus_geniculatus"	1	1	0	0	0	7	0	0	0	0	0	0	1	0	2	0	0	4	0	0	0	2	0	9	1	0	0	0	1	0	0	1	0	2	0	0	0
+"Dipterocarpus_crinitus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"Dipterocarpus_globosus"	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	1	0	13	2	0	0	0	0	0	0	0	0	0	0	0	0
+"Dipterocarpus_palembanicus"	0	20	0	0	0	0	2	0	0	1	0	14	0	1	4	0	0	0	0	0	1	0	3	30	0	0	0	0	0	0	0	0	0	3	0	0	0
+"Dipterocarpus_tempehes"	2	11	1	0	0	0	2	0	0	0	0	0	0	0	31	0	0	176	0	0	0	6	0	1	1	0	1	0	0	4	0	0	0	0	0	0	0
+"Dryobalanops_aromatica"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dryobalanops_lanceolata"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	26	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Shorea_smithiana"	0	7	0	4	0	0	0	14	0	0	0	0	0	0	0	10	0	3	1	1	1	5	6	0	0	0	0	1	1	0	2	0	0	0	1	0	0
+"Shorea_macrophylla"	0	7	0	0	1	0	0	0	2	0	0	2	0	0	0	0	0	0	0	0	0	1	0	25	0	0	0	0	5	0	1	0	0	0	5	8	0
+"Shorea_xantophylla"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Shorea_laxa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Shorea_argentifolia"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	4	0	2	0	0	0	0	0	0
