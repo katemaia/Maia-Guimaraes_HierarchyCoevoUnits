@@ -1,0 +1,4 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Microtus_arvalis"	"Arvicola_terrestris"	"Ctenophthalmus_wladimiri"	"Frontopsylla_elata"
+"2"	"Microtus_arvalis"	"Arvicola_terrestris"	"Ctenophthalmus_wladimiri"	"Nosopsyllus_consimilis"
+"3"	"Microtus_arvalis"	"Arvicola_terrestris"	"Frontopsylla_elata"	"Nosopsyllus_consimilis"

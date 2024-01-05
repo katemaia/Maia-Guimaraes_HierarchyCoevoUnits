@@ -1,0 +1,18 @@
+"Clethrionomys_rutilus"	"Clethrionomys_glareolus"	"Microtus_agrestis"	"Microtus_oeconomus"	"Clethrionomys_rufocanus"	"Myopus_schisticolor"	"Arvicola_terrestris"	"Neomys_fodiens"	"Sicista_betulina"	"Megabothris_rectangulatus"	"Peromyscopsylla_silvatica"	"Ctenophthalmus_uncinatus"	"Amalaraeus_penicilliger"	"Amphipsylla_sibirica"	"Corrodopsylla_birulai"	"Rhadinopsylla_integella"	"Palaeopsylla_soricis"
+"Clethrionomys_rutilus"	0	0	0	0	0	0	0	0	0	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0	0.0142857142857143	0.0142857142857143
+"Clethrionomys_glareolus"	0	0	0	0	0	0	0	0	0	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0	0.0142857142857143
+"Microtus_agrestis"	0	0	0	0	0	0	0	0	0	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0
+"Microtus_oeconomus"	0	0	0	0	0	0	0	0	0	0.02	0.02	0.02	0.02	0.02	0	0	0
+"Clethrionomys_rufocanus"	0	0	0	0	0	0	0	0	0	0.025	0.025	0.025	0.025	0	0	0	0
+"Myopus_schisticolor"	0	0	0	0	0	0	0	0	0	0.05	0	0	0	0.05	0	0	0
+"Arvicola_terrestris"	0	0	0	0	0	0	0	0	0	0.05	0	0	0.05	0	0	0	0
+"Neomys_fodiens"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0
+"Sicista_betulina"	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0
+"Megabothris_rectangulatus"	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0	0.0125	0	0	0	0	0	0	0	0
+"Peromyscopsylla_silvatica"	0.02	0.02	0.02	0.02	0.02	0	0	0	0	0	0	0	0	0	0	0	0
+"Ctenophthalmus_uncinatus"	0.02	0.02	0.02	0.02	0.02	0	0	0	0	0	0	0	0	0	0	0	0
+"Amalaraeus_penicilliger"	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0.0166666666666667	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_sibirica"	0.02	0.02	0.02	0.02	0	0.02	0	0	0	0	0	0	0	0	0	0	0
+"Corrodopsylla_birulai"	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0.0333333333333333	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_integella"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Palaeopsylla_soricis"	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

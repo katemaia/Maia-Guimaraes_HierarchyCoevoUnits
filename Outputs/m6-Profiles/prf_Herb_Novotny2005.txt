@@ -1,0 +1,4 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Barringtonia_calyptrocalyx"	"Syzygium_pachycladum"	"Bactrocera_frauenfeldi"	"Bactrocera_trivialis"
+"2"	"Barringtonia_calyptrocalyx"	"Syzygium_samaragense"	"Bactrocera_frauenfeldi"	"Bactrocera_trivialis"
+"3"	"Syzygium_pachycladum"	"Syzygium_samaragense"	"Bactrocera_frauenfeldi"	"Bactrocera_trivialis"

@@ -1,0 +1,18 @@
+"Apodemus_flavicollis"	"Clethrionomys_glareolus"	"Apodemus_sylvaticus"	"Microtus_agrestis"	"Neomys_fodiens"	"Sorex_araneus"	"Ctenophthalmus_agyrtes"	"Palaeopsylla_soricis"	"Nosopsyllus_fasciatus"	"Megabothris_turbidus"	"Peromyscopsylla_silvatica"	"Doratopsylla_dasycnema"	"Ctenophthalmus_uncinatus"	"Hystrichopsylla_talpae"	"Leptopsylla_segnis"	"Amalaraeus_penicilliger"	"Rhadinopsylla_integella"
+"Apodemus_flavicollis"	0	0	0	0	0	0	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0	0	0.128571428571429	0	0
+"Clethrionomys_glareolus"	0	0	0	0	0	0	0.1125	0.1125	0	0.1125	0.1125	0	0.1125	0.1125	0	0.1125	0.1125
+"Apodemus_sylvaticus"	0	0	0	0	0	0	0.18	0.18	0.18	0.18	0	0	0	0.18	0	0	0
+"Microtus_agrestis"	0	0	0	0	0	0	0.225	0	0	0.225	0.225	0.225	0	0	0	0	0
+"Neomys_fodiens"	0	0	0	0	0	0	0.3	0.3	0	0	0	0.3	0	0	0	0	0
+"Sorex_araneus"	0	0	0	0	0	0	0	0.45	0	0	0	0.45	0	0	0	0	0
+"Ctenophthalmus_agyrtes"	0.18	0.18	0.18	0.18	0.18	0	0	0	0	0	0	0	0	0	0	0	0
+"Palaeopsylla_soricis"	0.18	0.18	0.18	0	0.18	0.18	0	0	0	0	0	0	0	0	0	0	0
+"Nosopsyllus_fasciatus"	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_turbidus"	0.225	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Peromyscopsylla_silvatica"	0.3	0.3	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Doratopsylla_dasycnema"	0.225	0	0	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0
+"Ctenophthalmus_uncinatus"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hystrichopsylla_talpae"	0	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Leptopsylla_segnis"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amalaraeus_penicilliger"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_integella"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,25 @@
+"Fuchsia_regia"	"Justicia_brasiliana"	"Hippeastrum_aulicum"	"Heliconia_farinosa"	"Nematanthus_australis"	"Psychotria_suterella"	"Nidularium_inocentii"	"Ipomea_sp1_M_PL_069_01"	"Sinningia_douglasii"	"Vriesea_vagans"	"Aechmea_blumenavii"	"Billbergia_amoena"	"Justicia_carnea"	"Tillandsia_sp1_M_PL_069_01"	"Vriesea_carinata"	"Hedychium_coronarium"	"Vriesea_erythrodactylon"	"Vriesea_incurvata"	"Clytolaema_rubricauda"	"Thalurania_glaucopis"	"Phaethornis_eurynome"	"Amazilia_fimbriata"	"Amazilia_versicolor"	"Ramphodon_naevius"
+"Fuchsia_regia"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0	0
+"Justicia_brasiliana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0
+"Hippeastrum_aulicum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0
+"Heliconia_farinosa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0
+"Nematanthus_australis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0	0
+"Psychotria_suterella"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0
+"Nidularium_inocentii"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0
+"Ipomea_sp1_M_PL_069_01"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0	0.0333333333333333	0.0333333333333333	0
+"Sinningia_douglasii"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0
+"Vriesea_vagans"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0	0.0333333333333333
+"Aechmea_blumenavii"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0
+"Billbergia_amoena"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0
+"Justicia_carnea"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0
+"Tillandsia_sp1_M_PL_069_01"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0
+"Vriesea_carinata"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0
+"Hedychium_coronarium"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0
+"Vriesea_erythrodactylon"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Vriesea_incurvata"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1
+"Clytolaema_rubricauda"	0.025	0	0	0	0.025	0	0	0	0	0.025	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0
+"Thalurania_glaucopis"	0.01	0	0.01	0.01	0.01	0.01	0	0.01	0	0.01	0.01	0	0.01	0.01	0	0	0	0	0	0	0	0	0	0
+"Phaethornis_eurynome"	0	0.0111111111111111	0.0111111111111111	0.0111111111111111	0	0	0.0111111111111111	0	0.0111111111111111	0	0.0111111111111111	0.0111111111111111	0.0111111111111111	0	0.0111111111111111	0	0	0	0	0	0	0	0	0
+"Amazilia_fimbriata"	0	0	0	0	0	0	0	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amazilia_versicolor"	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0
+"Ramphodon_naevius"	0	0	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0

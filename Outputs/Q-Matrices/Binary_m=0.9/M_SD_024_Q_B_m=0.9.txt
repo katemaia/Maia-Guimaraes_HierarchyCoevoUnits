@@ -1,0 +1,20 @@
+"Hedera_helix"	"Ilex_aquifolium"	"Unidentified_sp1_M_SD_024"	"Solanum_nigrum"	"Sorbus_aucuparia"	"Unidentified_sp2_M_SD_024"	"Fragaria_vespa"	"Rosa_sp1_M_SD_024"	"Vaccinium_myrtillus"	"Prunus_spinosa"	"Taxus_bacatta"	"Unidentified_sp3_M_SD_024"	"Turdus_merula"	"Turdus_iliacus"	"Erithacus_rubecula"	"Garrulus_glandarius"	"Sylvia_atricapilla"	"Turdus_viscivorus"	"Turdus_philomelos"
+"Hedera_helix"	0	0	0	0	0	0	0	0	0	0	0	0	0.18	0.18	0.18	0	0	0.18	0.18
+"Ilex_aquifolium"	0	0	0	0	0	0	0	0	0	0	0	0	0.18	0.18	0.18	0.18	0	0.18	0
+"Unidentified_sp1_M_SD_024"	0	0	0	0	0	0	0	0	0	0	0	0	0.18	0.18	0.18	0.18	0.18	0	0
+"Solanum_nigrum"	0	0	0	0	0	0	0	0	0	0	0	0	0.225	0.225	0.225	0	0.225	0	0
+"Sorbus_aucuparia"	0	0	0	0	0	0	0	0	0	0	0	0	0.225	0.225	0	0	0	0.225	0.225
+"Unidentified_sp2_M_SD_024"	0	0	0	0	0	0	0	0	0	0	0	0	0.225	0	0.225	0.225	0	0.225	0
+"Fragaria_vespa"	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0	0.3	0	0.3	0	0
+"Rosa_sp1_M_SD_024"	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0.3	0	0.3	0	0	0
+"Vaccinium_myrtillus"	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0	0	0	0.3	0	0.3
+"Prunus_spinosa"	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0.45	0	0	0
+"Taxus_bacatta"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0
+"Unidentified_sp3_M_SD_024"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0
+"Turdus_merula"	0.09	0.09	0.09	0.09	0.09	0.09	0.09	0.09	0.09	0.09	0	0	0	0	0	0	0	0	0
+"Turdus_iliacus"	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0	0	0.128571428571429	0	0	0	0.128571428571429	0	0	0	0	0	0	0
+"Erithacus_rubecula"	0.15	0.15	0.15	0.15	0	0.15	0.15	0	0	0	0	0	0	0	0	0	0	0	0
+"Garrulus_glandarius"	0	0.15	0.15	0	0	0.15	0	0.15	0	0.15	0.15	0	0	0	0	0	0	0	0
+"Sylvia_atricapilla"	0	0	0.225	0.225	0	0	0.225	0	0.225	0	0	0	0	0	0	0	0	0	0
+"Turdus_viscivorus"	0.225	0.225	0	0	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Turdus_philomelos"	0.3	0	0	0	0.3	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0

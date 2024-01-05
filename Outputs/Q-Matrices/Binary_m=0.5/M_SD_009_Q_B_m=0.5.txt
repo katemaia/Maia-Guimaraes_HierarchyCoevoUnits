@@ -1,0 +1,26 @@
+"Cabralea_canjerana"	"Trema_micrantha"	"Trichilia_clauseni"	"Protium_heptaphyllum"	"Chamissoa_altissima"	"Ixora_venulosa"	"Dendropanax_cuneatum"	"Chiroxiphia_caudata"	"Manacus_manacus"	"Vireo_olivaceus"	"Saltator_similis"	"Myiodynastes_maculatus"	"Tachyphonus_coronatus"	"Pitangus_sulphuratus"	"Turdus_leucomelas"	"Trichothraupis_melanops"	"Turdus_rufiventris"	"Tyrannus_savanna"	"Cyclarhis_gujanensis"	"Dacnis_cayana"	"Empidonomus_varius"	"Myiarchus_ferox"	"Myiophobus_fasciatus"	"Turdus_amaurochalinus"	"Tyrannus_melancholicus"
+"Cabralea_canjerana"	0	0	0	0	0	0	0	0.0454545454545455	0.0454545454545455	0.0454545454545455	0	0.0454545454545455	0	0.0454545454545455	0.0454545454545455	0	0	0.0454545454545455	0	0.0454545454545455	0.0454545454545455	0.0454545454545455	0	0	0.0454545454545455
+"Trema_micrantha"	0	0	0	0	0	0	0	0.1	0.1	0.1	0.1	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0
+"Trichilia_clauseni"	0	0	0	0	0	0	0	0.0833333333333333	0	0.0833333333333333	0.0833333333333333	0	0.0833333333333333	0	0	0.0833333333333333	0	0	0.0833333333333333	0	0	0	0	0	0
+"Protium_heptaphyllum"	0	0	0	0	0	0	0	0.1	0.1	0	0.1	0	0.1	0	0	0	0.1	0	0	0	0	0	0	0	0
+"Chamissoa_altissima"	0	0	0	0	0	0	0	0.125	0.125	0	0	0	0.125	0	0	0.125	0	0	0	0	0	0	0	0	0
+"Ixora_venulosa"	0	0	0	0	0	0	0	0.125	0.125	0	0.125	0	0	0	0	0	0	0	0	0	0	0	0	0.125	0
+"Dendropanax_cuneatum"	0	0	0	0	0	0	0	0	0.166666666666667	0	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0.166666666666667	0	0
+"Chiroxiphia_caudata"	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Manacus_manacus"	0.0833333333333333	0.0833333333333333	0	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Vireo_olivaceus"	0.166666666666667	0.166666666666667	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Saltator_similis"	0	0.1	0.1	0.1	0	0.1	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Myiodynastes_maculatus"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tachyphonus_coronatus"	0	0.125	0.125	0.125	0.125	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pitangus_sulphuratus"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Turdus_leucomelas"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Trichothraupis_melanops"	0	0	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Turdus_rufiventris"	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tyrannus_savanna"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cyclarhis_gujanensis"	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dacnis_cayana"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Empidonomus_varius"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Myiarchus_ferox"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Myiophobus_fasciatus"	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Turdus_amaurochalinus"	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tyrannus_melancholicus"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

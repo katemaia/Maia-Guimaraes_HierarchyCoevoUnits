@@ -1,0 +1,2 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Carduus_sp."	"Matricaria_perforata"	"Aphis_fabae"	"Brachycaudus_sp."

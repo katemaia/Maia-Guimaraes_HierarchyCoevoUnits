@@ -1,0 +1,3 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Nephrosperma_vanhoutteanum"	"Memecylon_eleagni"	"Lasioglossum_mahense"	"Apis_mellifera"
+"2"	"Nephrosperma_vanhoutteanum"	"Erythroxylum_sechellarum"	"Lasioglossum_mahense"	"Lygistorrhina_sp1_M_PL_093"

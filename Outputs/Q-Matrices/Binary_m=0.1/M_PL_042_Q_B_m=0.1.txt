@@ -1,0 +1,19 @@
+"Pectis_tenuifolia"	"Chiococa_alba"	"Darwiniothamnus_tenuifolius"	"Opuntia_echios"	"Scalesia_affinis"	"Waltheria_ovata"	"Cordia_lutea"	"Cordia_revoluta"	"Jasminoserius_thouarsii"	"Lippia_rosmarinifolia"	"Passiflora_foetida"	"Plumbago_scandens"	"Xylocopa_darwini"	"Lepidanthrax_tinctus"	"Halmenus_cuspidatus"	"Phoebis_sennae"	"Unidentified_sp1_M_PL_042"	"Unidentified_sp2_M_PL_042"
+"Pectis_tenuifolia"	0	0	0	0	0	0	0	0	0	0	0	0	0.025	0.025	0	0	0.025	0.025
+"Chiococa_alba"	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0
+"Darwiniothamnus_tenuifolius"	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0
+"Opuntia_echios"	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0
+"Scalesia_affinis"	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0
+"Waltheria_ovata"	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0
+"Cordia_lutea"	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Cordia_revoluta"	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Jasminoserius_thouarsii"	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Lippia_rosmarinifolia"	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Passiflora_foetida"	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Plumbago_scandens"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0
+"Xylocopa_darwini"	0.00909090909090909	0.00909090909090909	0.00909090909090909	0.00909090909090909	0.00909090909090909	0.00909090909090909	0.00909090909090909	0.00909090909090909	0.00909090909090909	0.00909090909090909	0.00909090909090909	0	0	0	0	0	0	0
+"Lepidanthrax_tinctus"	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0	0	0	0	0	0	0	0	0	0	0
+"Halmenus_cuspidatus"	0	0.02	0.02	0.02	0.02	0.02	0	0	0	0	0	0	0	0	0	0	0	0
+"Phoebis_sennae"	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_042"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_042"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

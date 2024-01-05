@@ -1,0 +1,7 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Nephrosperma_vanhoutteanum"	"Erythroxylum_sechellarum"	"Apis_mellifera"	"Lasioglossum_mahense"
+"2"	"Nephrosperma_vanhoutteanum"	"Psychotria_pervillei"	"Apis_mellifera"	"Lasioglossum_mahense"
+"3"	"Nephrosperma_vanhoutteanum"	"Nepenthes_pervillei"	"Apis_mellifera"	"Lygistorrhina_sp1_M_PL_127"
+"4"	"Nephrosperma_vanhoutteanum"	"Canthium_bibracteatum"	"Apis_mellifera"	"Lygistorrhina_sp1_M_PL_127"
+"5"	"Nepenthes_pervillei"	"Canthium_bibracteatum"	"Apis_mellifera"	"Lygistorrhina_sp1_M_PL_127"
+"6"	"Erythroxylum_sechellarum"	"Psychotria_pervillei"	"Apis_mellifera"	"Lasioglossum_mahense"

@@ -1,0 +1,17 @@
+"Bouvardia_ternifolia"	"Salvia_elegans"	"Penstemon_roseus"	"Castilleja_tenuiflora"	"Penstemon_gentianoides"	"Prunella_vulgaris"	"Castilleja_scorzonerifolia"	"Salvia_mocinoi"	"Hylocharis_leucotis"	"Archilochus_colubris"	"Eugenes_fulgens"	"Lampornis_clemenciae"	"Colibri_thalassinus"	"Selasphorus_platycercus"	"Selasphorus_rufus"	"Selasphorus_sasin"
+"Bouvardia_ternifolia"	0	0	0	0	0	0	0	0	0.02	0.02	0.02	0.02	0.02	0	0	0
+"Salvia_elegans"	0	0	0	0	0	0	0	0	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125
+"Penstemon_roseus"	0	0	0	0	0	0	0	0	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125
+"Castilleja_tenuiflora"	0	0	0	0	0	0	0	0	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0	0.0166666666666667	0.0166666666666667	0.0166666666666667
+"Penstemon_gentianoides"	0	0	0	0	0	0	0	0	0.02	0.02	0.02	0.02	0.02	0	0	0
+"Prunella_vulgaris"	0	0	0	0	0	0	0	0	0.02	0	0.02	0	0	0.02	0.02	0.02
+"Castilleja_scorzonerifolia"	0	0	0	0	0	0	0	0	0.05	0	0.05	0	0	0	0	0
+"Salvia_mocinoi"	0	0	0	0	0	0	0	0	0.05	0	0.05	0	0	0	0	0
+"Hylocharis_leucotis"	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0	0	0	0	0	0	0	0
+"Archilochus_colubris"	0.02	0.02	0.02	0.02	0.02	0	0	0	0	0	0	0	0	0	0	0
+"Eugenes_fulgens"	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0	0	0	0	0	0	0	0
+"Lampornis_clemenciae"	0.025	0.025	0.025	0	0.025	0	0	0	0	0	0	0	0	0	0	0
+"Colibri_thalassinus"	0.025	0.025	0.025	0	0.025	0	0	0	0	0	0	0	0	0	0	0
+"Selasphorus_platycercus"	0	0.025	0.025	0.025	0	0.025	0	0	0	0	0	0	0	0	0	0
+"Selasphorus_rufus"	0	0.025	0.025	0.025	0	0.025	0	0	0	0	0	0	0	0	0	0
+"Selasphorus_sasin"	0	0.025	0.025	0.025	0	0.025	0	0	0	0	0	0	0	0	0	0

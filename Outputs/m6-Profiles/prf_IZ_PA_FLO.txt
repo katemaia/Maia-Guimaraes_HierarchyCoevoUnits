@@ -1,0 +1,2 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Cordia_nodosa"	"Palicourea_corymbifera"	"Crematogaster_brasiliensis"	"Crema_limata"

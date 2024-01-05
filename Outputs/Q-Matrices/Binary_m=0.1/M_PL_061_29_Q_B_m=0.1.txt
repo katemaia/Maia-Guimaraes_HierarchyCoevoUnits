@@ -1,0 +1,27 @@
+"Nephrosperma_vanhoutteanum"	"Premna_serratifolia"	"Psidium_cattleianum"	"Deckenia_nobilis"	"Erythroxylum_sechellarum"	"Memecylon_eleagni"	"Ochna_kirkii"	"Alstonia_macrophylla"	"Apis_mellifera"	"Lasioglossum_mahense"	"Ornidia_obesa"	"Unidentified_sp1_M_PL_112"	"Rhynchium_brunneum"	"Xylocopa_caffra"	"Megachile_seychellensis"	"Lygistorrhina_sp1_M_PL_112"	"Hemipyrellia_germana"	"Phelsuma_sp1_M_PL_112"	"Neophyllomyza_approximatonervis"	"Hemipyrellia_sp1_M_PL_112"	"Chalcidoma_disjunctum"	"Unidentified_sp2_M_PL_112"	"Eagris_sabadius"	"Eristalinus_vicarians"	"Rhiparida_seychellensis"	"Simosyrphus_aegyptius"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0	0.0111111111111111	0.0111111111111111	0.0111111111111111	0.0111111111111111	0	0	0.0111111111111111	0.0111111111111111	0.0111111111111111	0.0111111111111111	0.0111111111111111	0	0	0	0	0	0	0
+"Premna_serratifolia"	0	0	0	0	0	0	0	0	0.0125	0.0125	0	0	0.0125	0	0.0125	0	0	0	0	0.0125	0	0	0.0125	0.0125	0.0125	0
+"Psidium_cattleianum"	0	0	0	0	0	0	0	0	0.02	0.02	0.02	0	0	0.02	0	0	0.02	0	0	0	0	0	0	0	0	0
+"Deckenia_nobilis"	0	0	0	0	0	0	0	0	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0	0	0	0	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0	0.025	0.025	0	0	0	0	0	0.025	0	0	0	0	0	0.025	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0	0	0	0	0
+"Ochna_kirkii"	0	0	0	0	0	0	0	0	0	0.0333333333333333	0	0	0	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333
+"Alstonia_macrophylla"	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0.025	0	0.025	0.025	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_112"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhynchium_brunneum"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Xylocopa_caffra"	0	0	0.05	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_112"	0.05	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.0333333333333333	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_112"	0.05	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0.05	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_112"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Chalcidoma_disjunctum"	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_112"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eagris_sabadius"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eristalinus_vicarians"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Simosyrphus_aegyptius"	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

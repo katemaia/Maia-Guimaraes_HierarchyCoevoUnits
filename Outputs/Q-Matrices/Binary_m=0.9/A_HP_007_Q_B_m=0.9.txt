@@ -1,0 +1,26 @@
+"Clethrionomys_rutilus"	"Spermophilus_undulatus"	"Microtus_gregalis"	"Tamias_sibiricus"	"Microtus_oeconomus"	"Myopus_schisticolor"	"Sorex_araneus"	"Sciurus_vulgaris"	"Citellophilus_tesquorum"	"Megabothris_advenarius"	"Catallagia_ioffi"	"Amphipsylla_primaris"	"Catallagia_dacenkoi"	"Frontopsylla_luculenta"	"Amalaraeus_penicilliger"	"Megabothris_calcarifer"	"Ceratophyllus_indages"	"Corrodopsylla_birulai"	"Megabothris_rectangulatus"	"Oropsylla_alaskensis"	"Ceratophyllus_paradoxus"	"Amphipsylla_marikovskii"	"Neopsylla_mana"	"Rhadinopsylla_dahurica"	"Rhadinopsylla_pseudodahurica"
+"Clethrionomys_rutilus"	0	0	0	0	0	0	0	0	0	0.0692307692307692	0.0692307692307692	0.0692307692307692	0.0692307692307692	0.0692307692307692	0.0692307692307692	0	0.0692307692307692	0.0692307692307692	0.0692307692307692	0	0.0692307692307692	0.0692307692307692	0	0.0692307692307692	0.0692307692307692
+"Spermophilus_undulatus"	0	0	0	0	0	0	0	0	0.18	0	0	0	0	0.18	0	0	0	0.18	0.18	0.18	0	0	0	0	0
+"Microtus_gregalis"	0	0	0	0	0	0	0	0	0	0.1125	0.1125	0.1125	0	0.1125	0.1125	0.1125	0	0	0.1125	0	0	0	0.1125	0	0
+"Tamias_sibiricus"	0	0	0	0	0	0	0	0	0	0	0.18	0	0	0	0	0.18	0.18	0.18	0.18	0	0	0	0	0	0
+"Microtus_oeconomus"	0	0	0	0	0	0	0	0	0	0.15	0.15	0.15	0	0	0.15	0.15	0	0	0.15	0	0	0	0	0	0
+"Myopus_schisticolor"	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0	0	0.45	0	0	0	0	0	0	0
+"Sorex_araneus"	0	0	0	0	0	0	0	0	0.3	0	0	0	0	0	0	0	0	0.3	0	0.3	0	0	0	0	0
+"Sciurus_vulgaris"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0
+"Citellophilus_tesquorum"	0	0.45	0	0	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_advenarius"	0.3	0	0.3	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Catallagia_ioffi"	0.225	0	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_primaris"	0.3	0	0.3	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Catallagia_dacenkoi"	0.45	0	0	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Frontopsylla_luculenta"	0.3	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amalaraeus_penicilliger"	0.3	0	0.3	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_calcarifer"	0	0	0.3	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratophyllus_indages"	0.3	0	0	0.3	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Corrodopsylla_birulai"	0.18	0.18	0	0.18	0	0.18	0.18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_rectangulatus"	0.18	0.18	0.18	0.18	0.18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Oropsylla_alaskensis"	0	0.45	0	0	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratophyllus_paradoxus"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_marikovskii"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_mana"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_dahurica"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_pseudodahurica"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

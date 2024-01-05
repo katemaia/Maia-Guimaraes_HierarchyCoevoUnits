@@ -1,0 +1,24 @@
+"Clethrionomys_centralis"	"Alticola_argentatus"	"Microtus_gregalis"	"Sicista_tianshanica"	"Sorex_minutus"	"Sorex_asper"	"Apodemus_uralensis"	"Amalaraeus_penicilliger"	"Amphipsylla_primaris"	"Paraneopsylla_ioffi"	"Corrodopsylla_birulai"	"Frontopsylla_ornata"	"Amphipsylla_kuznetzovi"	"Neopsylla_mana"	"Rhadinopsylla_dahurica"	"Frontopsylla_elata"	"Amphipsylla_sibirica"	"Stenoponia_suknevi"	"Rhadinopsylla_angusta"	"Pectinoctenus_nemorosa"	"Palaeopsylla_soricis"	"Callopsylla_caspia"	"Ctenophthalmus_assimilis"
+"Clethrionomys_centralis"	0	0	0	0	0	0	0	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0
+"Alticola_argentatus"	0	0	0	0	0	0	0	0.075	0.075	0.075	0.075	0.075	0.075	0.075	0.075	0.075	0	0.075	0.075	0.075	0	0	0
+"Microtus_gregalis"	0	0	0	0	0	0	0	0.0818181818181818	0.0818181818181818	0	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0	0.0818181818181818	0.0818181818181818	0	0	0	0.0818181818181818
+"Sicista_tianshanica"	0	0	0	0	0	0	0	0.18	0	0	0.18	0.18	0.18	0	0	0.18	0	0	0	0	0	0	0
+"Sorex_minutus"	0	0	0	0	0	0	0	0.18	0.18	0	0.18	0.18	0	0	0	0	0	0	0	0	0.18	0	0
+"Sorex_asper"	0	0	0	0	0	0	0	0.128571428571429	0	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0	0	0	0	0.128571428571429	0	0	0	0
+"Apodemus_uralensis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0.45	0	0	0
+"Amalaraeus_penicilliger"	0.15	0.15	0.15	0.15	0.15	0.15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_primaris"	0.225	0.225	0.225	0	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paraneopsylla_ioffi"	0.3	0.3	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Corrodopsylla_birulai"	0.15	0.15	0.15	0.15	0.15	0.15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Frontopsylla_ornata"	0.15	0.15	0.15	0.15	0.15	0.15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_kuznetzovi"	0.18	0.18	0.18	0.18	0	0.18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_mana"	0.225	0.225	0.225	0	0	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_dahurica"	0.3	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Frontopsylla_elata"	0.225	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_sibirica"	0.45	0	0	0	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Stenoponia_suknevi"	0.3	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_angusta"	0.225	0.225	0.225	0	0	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pectinoctenus_nemorosa"	0.3	0.3	0	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Palaeopsylla_soricis"	0.45	0	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Callopsylla_caspia"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ctenophthalmus_assimilis"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

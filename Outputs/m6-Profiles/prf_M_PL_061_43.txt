@@ -1,0 +1,5 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Nephrosperma_vanhoutteanum"	"Memecylon_eleagni"	"Apis_mellifera"	"Lasioglossum_mahense"
+"2"	"Nephrosperma_vanhoutteanum"	"Mimusops_sechellarum"	"Lasioglossum_mahense"	"Unidentified_sp1_M_PL_126"
+"3"	"Nephrosperma_vanhoutteanum"	"Mimusops_sechellarum"	"Lasioglossum_mahense"	"Lygistorrhina_sp1_M_PL_126"
+"4"	"Nephrosperma_vanhoutteanum"	"Mimusops_sechellarum"	"Unidentified_sp1_M_PL_126"	"Lygistorrhina_sp1_M_PL_126"

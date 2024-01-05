@@ -1,0 +1,2 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Phalaris_arundinacea"	"Calamagrostis_canescens"	"Tetramesa_calamagrostidis"	"Tetramesa_sp._2"

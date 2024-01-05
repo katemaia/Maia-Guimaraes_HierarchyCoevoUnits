@@ -1,0 +1,10 @@
+"Juniperus_phoenicea"	"Osyris_quadripartita"	"Corema_album"	"Phillyrea_angustifolia"	"Turdus_merula"	"Turdus_iliacus"	"Turdus_philomelos"	"Turdus_torquatus"	"Turdus_viscivorus"
+"Juniperus_phoenicea"	0	0	0	0	0.02	0.02	0.02	0.02	0.02
+"Osyris_quadripartita"	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0
+"Corema_album"	0	0	0	0	0.1	0	0	0	0
+"Phillyrea_angustifolia"	0	0	0	0	0.1	0	0	0	0
+"Turdus_merula"	0.025	0.025	0.025	0.025	0	0	0	0	0
+"Turdus_iliacus"	0.05	0.05	0	0	0	0	0	0	0
+"Turdus_philomelos"	0.05	0.05	0	0	0	0	0	0	0
+"Turdus_torquatus"	0.1	0	0	0	0	0	0	0	0
+"Turdus_viscivorus"	0.1	0	0	0	0	0	0	0	0

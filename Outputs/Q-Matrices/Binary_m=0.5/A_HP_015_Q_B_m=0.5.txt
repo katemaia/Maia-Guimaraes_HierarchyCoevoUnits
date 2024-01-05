@@ -1,0 +1,11 @@
+"Clethrionomys_rutilus"	"Clethrionomys_rufocanus"	"Microtus_oeconomus"	"Megabothris_advenarius"	"Amalaraeus_penicilliger"	"Stenoponia_montana"	"Catallagia_dacenkoi"	"Hystrichopsylla_microti"	"Amphipsylla_marikovskii"	"Rhadinopsylla_integella"
+"Clethrionomys_rutilus"	0	0	0	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714
+"Clethrionomys_rufocanus"	0	0	0	0.125	0.125	0	0.125	0	0.125	0
+"Microtus_oeconomus"	0	0	0	0	0	0	0	0	0.5	0
+"Megabothris_advenarius"	0.25	0.25	0	0	0	0	0	0	0	0
+"Amalaraeus_penicilliger"	0.25	0.25	0	0	0	0	0	0	0	0
+"Stenoponia_montana"	0.5	0	0	0	0	0	0	0	0	0
+"Catallagia_dacenkoi"	0.25	0.25	0	0	0	0	0	0	0	0
+"Hystrichopsylla_microti"	0.5	0	0	0	0	0	0	0	0	0
+"Amphipsylla_marikovskii"	0.166666666666667	0.166666666666667	0.166666666666667	0	0	0	0	0	0	0
+"Rhadinopsylla_integella"	0.5	0	0	0	0	0	0	0	0	0

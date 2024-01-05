@@ -1,0 +1,2 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Dillenia_ferruginea"	"Erythroxylum_sechellarum"	"Lasioglossum_mahense"	"Apis_mellifera"

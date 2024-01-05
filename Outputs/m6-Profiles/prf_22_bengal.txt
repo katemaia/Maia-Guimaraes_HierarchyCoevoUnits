@@ -1,0 +1,2 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Solea_elongata"	"Trichiurus_lepturus"	"Capillaria_sp."	"Camallanus_dollfusi"

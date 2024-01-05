@@ -1,0 +1,20 @@
+"Nephrosperma_vanhoutteanum"	"Erythroxylum_sechellarum"	"Memecylon_eleagni"	"Dillenia_ferruginea"	"Soulamea_terminaloides"	"Lasioglossum_mahense"	"Apis_mellifera"	"Unidentified_sp1_M_PL_093"	"Lygistorrhina_sp1_M_PL_093"	"Cratopus_aurostriatus"	"Ornidia_obesa"	"Pachycerina_seychellensis"	"Plagiostenopterina_cyanosoma"	"Unidentified_sp2_M_PL_093"	"Unidentified_sp4_M_PL_093"	"Unidentified_sp5_M_PL_093"	"Hemipyrellia_sp1_M_PL_093"	"Phelsuma_sp1_M_PL_093"	"Unidentified_sp3_M_PL_093"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0	0	0	0	0.0142857142857143	0	0	0	0.0142857142857143	0.0142857142857143
+"Erythroxylum_sechellarum"	0	0	0	0	0	0.02	0	0	0.02	0	0	0.02	0.02	0	0	0.02	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0
+"Dillenia_ferruginea"	0	0	0	0	0	0	0.025	0	0	0.025	0.025	0	0	0	0.025	0	0	0	0
+"Soulamea_terminaloides"	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0.05	0	0
+"Lasioglossum_mahense"	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0333333333333333	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_093"	0.05	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_093"	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pachycerina_seychellensis"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Plagiostenopterina_cyanosoma"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_093"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_093"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp5_M_PL_093"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_093"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_093"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_093"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,24 @@
+"Marmota_caudata"	"Cricetulus_migratorius"	"Microtus_juldaschi"	"Alticola_argentatus"	"Oropsylla_silantiewi"	"Citellophilus_lebedewi"	"Amphipsylla_anceps"	"Callopsylla_caspia"	"Rhadinopsylla_li"	"Neopsylla_meridiana"	"Amalaraeus_penicilliger"	"Amphipsylla_primaris"	"Amphipsylla_montana"	"Leptopsylla_nana"	"Neopsylla_pleskei"	"Amphipsylla_phaiomydis"	"Paraneopsylla_ioffi"	"Rhadinopsylla_dahurica"	"Pectinoctenus_pamirensis"	"Neopsylla_teratura"	"Frontopsylla_elata"	"Frontopsylla_protera"	"Paradoxopsyllus_naryni"
+"Marmota_caudata"	0	0	0	0	0.15	0.15	0.15	0.15	0.15	0	0	0	0	0	0	0	0.15	0	0	0	0	0	0
+"Cricetulus_migratorius"	0	0	0	0	0	0	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0	0.06	0.06	0.06	0.06	0	0.06	0.06
+"Microtus_juldaschi"	0	0	0	0	0.0692307692307692	0	0.0692307692307692	0.0692307692307692	0.0692307692307692	0.0692307692307692	0.0692307692307692	0.0692307692307692	0.0692307692307692	0.0692307692307692	0	0.0692307692307692	0	0.0692307692307692	0	0	0.0692307692307692	0.0692307692307692	0
+"Alticola_argentatus"	0	0	0	0	0	0	0.1	0.1	0.1	0	0.1	0	0.1	0.1	0.1	0.1	0.1	0	0	0	0	0	0
+"Oropsylla_silantiewi"	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Citellophilus_lebedewi"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_anceps"	0.225	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Callopsylla_caspia"	0.225	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_li"	0.225	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_meridiana"	0	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amalaraeus_penicilliger"	0	0.3	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_primaris"	0	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_montana"	0	0.3	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Leptopsylla_nana"	0	0.3	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_pleskei"	0	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_phaiomydis"	0	0	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paraneopsylla_ioffi"	0.3	0.3	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_dahurica"	0	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pectinoctenus_pamirensis"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_teratura"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Frontopsylla_elata"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Frontopsylla_protera"	0	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paradoxopsyllus_naryni"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

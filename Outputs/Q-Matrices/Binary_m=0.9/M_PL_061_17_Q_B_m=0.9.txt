@@ -1,0 +1,23 @@
+"Dillenia_ferruginea"	"Erythroxylum_sechellarum"	"Campnosperma_seychellarum"	"Craterispermum_microdon"	"Soulamea_terminaloides"	"Excoecaria_benthiamiana"	"Memecylon_eleagni"	"Colea_seychellarum"	"Cinnamomum_verum"	"Lasioglossum_mahense"	"Apis_mellifera"	"Unidentified_sp1_M_PL_100"	"Lygistorrhina_sp1_M_PL_100"	"Scaptodrosophila_sp1_M_PL_100"	"Eristalinus_vicarians"	"Nectarinia_dussumieri"	"Parasarcophaga_hirticeps"	"Phelsuma_sp1_M_PL_100"	"Rhiparida_seychellensis"	"Cratopus_aurostriatus"	"Unidentified_sp2_M_PL_100"	"Unidentified_sp3_M_PL_100"
+"Dillenia_ferruginea"	0	0	0	0	0	0	0	0	0	0.225	0.225	0	0	0	0	0	0	0.225	0	0.225	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0	0	0.225	0.225	0	0	0	0	0	0	0	0	0	0.225	0.225
+"Campnosperma_seychellarum"	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0	0	0	0	0.45	0	0	0
+"Craterispermum_microdon"	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0.45	0	0	0	0	0	0	0	0
+"Soulamea_terminaloides"	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0	0.3	0	0.3	0	0	0	0	0
+"Excoecaria_benthiamiana"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Colea_seychellarum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0
+"Cinnamomum_verum"	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.225	0.225	0	0	0	0	0.225	0	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.3	0.3	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_100"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_100"	0	0	0	0	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Scaptodrosophila_sp1_M_PL_100"	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eristalinus_vicarians"	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Parasarcophaga_hirticeps"	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_100"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_100"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_100"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

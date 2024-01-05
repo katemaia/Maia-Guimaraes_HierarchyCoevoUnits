@@ -1,0 +1,5 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Gastonia_crassa"	"Craterispermum_microdon"	"Apis_mellifera"	"Lasioglossum_mahense"
+"2"	"Gastonia_crassa"	"Nephrosperma_vanhoutteanum"	"Apis_mellifera"	"Lasioglossum_mahense"
+"3"	"Gastonia_crassa"	"Psychotria_pervillei"	"Apis_mellifera"	"Nectarinia_dussumieri"
+"4"	"Craterispermum_microdon"	"Nephrosperma_vanhoutteanum"	"Apis_mellifera"	"Lasioglossum_mahense"

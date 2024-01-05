@@ -1,0 +1,23 @@
+"Geissomeria_schottiana"	"Justicia_scheidweileri"	"Ruellia_brevifolia"	"Passiflora_speciosa"	"Mendoncia_velloziana"	"Fridericia_speciosa"	"Corymborkis_flava"	"Heliconia_simulans"	"Mutisia_speciosa"	"Lantana_camara"	"Rubus_rosaefolius"	"Passiflora_kermesina"	"Hyptis_asperrima"	"Ruellia_subsessilis"	"Thalurania_glucopis"	"Phaethornis_squalidus"	"Phaethornis_ruber"	"Calliphlox_amethystina"	"Chlorostilbon_aureoventris"	"Phaethornis_pretrei"	"Amazilia_fimbriata"	"Amazilia_lactea"
+"Geissomeria_schottiana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.02	0.02	0.02	0	0	0.02	0.02	0
+"Justicia_scheidweileri"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0	0	0
+"Ruellia_brevifolia"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0.0333333333333333	0	0
+"Passiflora_speciosa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0
+"Mendoncia_velloziana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0	0.0333333333333333	0	0	0	0	0.0333333333333333
+"Fridericia_speciosa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0	0.0333333333333333	0.0333333333333333	0	0	0
+"Corymborkis_flava"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0	0	0.05	0	0	0
+"Heliconia_simulans"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0	0	0
+"Mutisia_speciosa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Lantana_camara"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0	0	0
+"Rubus_rosaefolius"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0	0	0
+"Passiflora_kermesina"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Hyptis_asperrima"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0
+"Ruellia_subsessilis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Thalurania_glucopis"	0.025	0.025	0	0	0.025	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phaethornis_squalidus"	0.0111111111111111	0.0111111111111111	0.0111111111111111	0.0111111111111111	0	0.0111111111111111	0.0111111111111111	0.0111111111111111	0	0.0111111111111111	0.0111111111111111	0	0	0	0	0	0	0	0	0	0	0
+"Phaethornis_ruber"	0.01	0.01	0.01	0	0.01	0	0	0.01	0.01	0.01	0.01	0.01	0	0.01	0	0	0	0	0	0	0	0
+"Calliphlox_amethystina"	0	0	0	0	0	0.05	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0
+"Chlorostilbon_aureoventris"	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0.0333333333333333	0	0	0	0	0	0	0	0	0
+"Phaethornis_pretrei"	0.05	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amazilia_fimbriata"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amazilia_lactea"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

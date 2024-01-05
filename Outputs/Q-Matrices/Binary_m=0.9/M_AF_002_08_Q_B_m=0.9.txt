@@ -1,0 +1,9 @@
+"Heteractis_crispa"	"Heteractis_magnifica"	"Macrodactyla_doreensis"	"Stichodactyla_haddoni"	"Stichodactyla_mertensii"	"Amphiprion_clarkii"	"Amphiprion_perideraion"	"Amphiprion_polymnus"
+"Heteractis_crispa"	0	0	0	0	0	0.45	0.45	0
+"Heteractis_magnifica"	0	0	0	0	0	0	0.9	0
+"Macrodactyla_doreensis"	0	0	0	0	0	0.45	0	0.45
+"Stichodactyla_haddoni"	0	0	0	0	0	0	0	0.9
+"Stichodactyla_mertensii"	0	0	0	0	0	0.9	0	0
+"Amphiprion_clarkii"	0.3	0	0.3	0	0.3	0	0	0
+"Amphiprion_perideraion"	0.45	0.45	0	0	0	0	0	0
+"Amphiprion_polymnus"	0	0	0.45	0.45	0	0	0	0

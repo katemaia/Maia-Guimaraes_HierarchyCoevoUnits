@@ -1,0 +1,9 @@
+"Entacmaea_quadricolor"	"Heteractis_aurora"	"Heteractis_crispa"	"Stichodactyla_mertensii"	"Amphiprion_clarkii"	"Amphiprion_melanopus"	"Premnas_biaculeatus"	"Amphiprion_perideraion"
+"Entacmaea_quadricolor"	0	0	0	0	0.3	0.3	0.3	0
+"Heteractis_aurora"	0	0	0	0	0.9	0	0	0
+"Heteractis_crispa"	0	0	0	0	0.45	0	0	0.45
+"Stichodactyla_mertensii"	0	0	0	0	0.9	0	0	0
+"Amphiprion_clarkii"	0.225	0.225	0.225	0.225	0	0	0	0
+"Amphiprion_melanopus"	0.9	0	0	0	0	0	0	0
+"Premnas_biaculeatus"	0.9	0	0	0	0	0	0	0
+"Amphiprion_perideraion"	0	0	0.9	0	0	0	0	0

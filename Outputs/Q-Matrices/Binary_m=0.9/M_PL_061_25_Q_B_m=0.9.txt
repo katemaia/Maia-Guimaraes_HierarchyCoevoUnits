@@ -1,0 +1,17 @@
+"Canthium_bibracteatum"	"Memecylon_eleagni"	"Cinnamomum_verum"	"Ochna_kirkii"	"Paragenipa_wrightii"	"Apis_mellifera"	"Lasioglossum_mahense"	"Xylocopa_caffra"	"Lygistorrhina_sp1_M_PL_108"	"Hemipyrellia_sp1_M_PL_108"	"Unidentified_sp1_M_PL_108"	"Scaptodrosophila_sp1_M_PL_108"	"Chalcidoma_disjunctum"	"Hemipyrellia_germana"	"Nectarinia_dussumieri"	"Phalanta_phalantha"
+"Canthium_bibracteatum"	0	0	0	0	0	0.15	0.15	0.15	0	0.15	0.15	0	0	0.15	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0.225	0.225	0	0	0	0	0.225	0.225	0	0	0
+"Cinnamomum_verum"	0	0	0	0	0	0.18	0.18	0	0.18	0.18	0	0	0	0	0	0.18
+"Ochna_kirkii"	0	0	0	0	0	0.3	0	0.3	0	0	0	0	0	0	0.3	0
+"Paragenipa_wrightii"	0	0	0	0	0	0.3	0.3	0.3	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.18	0.18	0.18	0.18	0.18	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.225	0.225	0.225	0	0.225	0	0	0	0	0	0	0	0	0	0	0
+"Xylocopa_caffra"	0.3	0	0	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_108"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_108"	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_108"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Scaptodrosophila_sp1_M_PL_108"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Chalcidoma_disjunctum"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Phalanta_phalantha"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0

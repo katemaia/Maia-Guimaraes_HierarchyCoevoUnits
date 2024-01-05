@@ -1,0 +1,8 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Cecropia_membranacea"	"Cecropia_polystachya"	"Azteca_xanthochroa"	"Azteca_ovaticeps"
+"2"	"Cecropia_membranacea"	"Cecropia_engleriana"	"Azteca_xanthochroa"	"Azteca_ovaticeps"
+"3"	"Cecropia_membranacea"	"Cecropia_ficifolia"	"Azteca_xanthochroa"	"Camponotus_balzani"
+"4"	"Cecropia_membranacea"	"Cecropia_polystachya"	"Azteca_xanthochroa"	"Camponotus_balzani"
+"5"	"Cecropia_ficifolia"	"Cecropia_polystachya"	"Azteca_xanthochroa"	"Camponotus_balzani"
+"6"	"Cecropia_polystachya"	"Cecropia_engleriana"	"Azteca_xanthochroa"	"Azteca_ovaticeps"
+"7"	"Cecropia_membranacea"	"Cecropia_polystachya"	"Azteca_ovaticeps"	"Camponotus_balzani"

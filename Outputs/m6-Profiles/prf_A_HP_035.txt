@@ -1,0 +1,4 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Microtus_agrestis"	"Apodemus_sylvaticus"	"Ctenophthalmus_nobilis"	"Megabothris_walkeri"
+"2"	"Microtus_agrestis"	"Clethrionomys_glareolus"	"Ctenophthalmus_nobilis"	"Palaeopsylla_soricis"
+"3"	"Microtus_agrestis"	"Sorex_araneus"	"Palaeopsylla_soricis"	"Ctenophthalmus_bisoctodentatus"

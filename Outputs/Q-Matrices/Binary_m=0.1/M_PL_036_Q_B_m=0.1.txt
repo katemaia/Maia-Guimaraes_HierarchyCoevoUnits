@@ -1,0 +1,23 @@
+"Azorina_vidalii"	"Crithmum_maritimum"	"Daucus_carota"	"Leucanthemum_vulgare"	"Lotus_corniculatus"	"Freesia_sp1_M_PL_036"	"Reseada_luteola"	"Silene_vulgaris"	"Solidago_sempervirens"	"Beta_maritima"	"Unidentified_sp1_M_PL_036"	"Unidentified_sp2_M_PL_036"	"Unidentified_sp3_M_PL_036"	"Apis_mellifera"	"Bombus_sp1_M_PL_036"	"Unidentified_sp4_M_PL_036"	"Lucilia_sp1_M_PL_036"	"Calliphora_sp1_M_PL_036"	"Moth_sp1_M_PL_036"	"Unidentified_sp5_M_PL_036"	"Unidentified_sp6_M_PL_036"	"Unidentified_sp7_M_PL_036"
+"Azorina_vidalii"	0	0	0	0	0	0	0	0	0	0	0.0125	0.0125	0.0125	0.0125	0.0125	0.0125	0	0.0125	0	0	0	0.0125
+"Crithmum_maritimum"	0	0	0	0	0	0	0	0	0	0	0	0.025	0.025	0	0	0	0.025	0	0	0	0.025	0
+"Daucus_carota"	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0.0333333333333333	0	0	0	0	0
+"Leucanthemum_vulgare"	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0.0333333333333333	0	0
+"Lotus_corniculatus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0
+"Freesia_sp1_M_PL_036"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0	0	0	0
+"Reseada_luteola"	0	0	0	0	0	0	0	0	0	0	0.05	0	0	0.05	0	0	0	0	0	0	0	0
+"Silene_vulgaris"	0	0	0	0	0	0	0	0	0	0	0.05	0	0.05	0	0	0	0	0	0	0	0	0
+"Solidago_sempervirens"	0	0	0	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0.05	0	0	0
+"Beta_maritima"	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_036"	0.0166666666666667	0	0.0166666666666667	0.0166666666666667	0	0	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_036"	0.025	0.025	0.025	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_036"	0.025	0.025	0	0	0	0	0	0.025	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0333333333333333	0	0	0	0.0333333333333333	0	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Bombus_sp1_M_PL_036"	0.0333333333333333	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_036"	0.0333333333333333	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lucilia_sp1_M_PL_036"	0	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Calliphora_sp1_M_PL_036"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Moth_sp1_M_PL_036"	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp5_M_PL_036"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp6_M_PL_036"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp7_M_PL_036"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

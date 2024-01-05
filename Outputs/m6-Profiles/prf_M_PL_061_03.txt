@@ -1,0 +1,6 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Nephrosperma_vanhoutteanum"	"Cinnamomum_verum"	"Apis_mellifera"	"Lasioglossum_mahense"
+"2"	"Nephrosperma_vanhoutteanum"	"Canthium_bibracteatum"	"Apis_mellifera"	"Megachile_seychellensis"
+"3"	"Nephrosperma_vanhoutteanum"	"Memecylon_eleagni"	"Apis_mellifera"	"Unidentified_sp1_M_PL_086"
+"4"	"Cinnamomum_verum"	"Canthium_bibracteatum"	"Apis_mellifera"	"Hemipyrellia_sp1_M_PL_086"
+"5"	"Nephrosperma_vanhoutteanum"	"Erythroxylum_sechellarum"	"Lasioglossum_mahense"	"Megachile_seychellensis"

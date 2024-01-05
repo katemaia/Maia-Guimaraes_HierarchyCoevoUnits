@@ -1,0 +1,17 @@
+"Crataegus_monogyna"	"Juniperus_communis"	"Juniperus_sabina"	"Rosa_canina"	"Berberis_vulgaris"	"Juniperus_phoenicea"	"Hedera_helix"	"Lonicera_arborea"	"Taxus_baccata"	"Prunus_prostrata"	"Rhamnus_myrtifolius"	"Rhamnus_saxatilis"	"Turdus_merula"	"Turdus_viscivorus"	"Turdus_iliacus"	"Turdus_torquatus"
+"Crataegus_monogyna"	0	0	0	0	0	0	0	0	0	0	0	0	0.225	0.225	0.225	0.225
+"Juniperus_communis"	0	0	0	0	0	0	0	0	0	0	0	0	0.225	0.225	0.225	0.225
+"Juniperus_sabina"	0	0	0	0	0	0	0	0	0	0	0	0	0.225	0.225	0.225	0.225
+"Rosa_canina"	0	0	0	0	0	0	0	0	0	0	0	0	0.225	0.225	0.225	0.225
+"Berberis_vulgaris"	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0.3	0.3	0
+"Juniperus_phoenicea"	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0.3	0	0.3
+"Hedera_helix"	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0.45	0	0
+"Lonicera_arborea"	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0.45
+"Taxus_baccata"	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0.45	0	0
+"Prunus_prostrata"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0
+"Rhamnus_myrtifolius"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0
+"Rhamnus_saxatilis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0
+"Turdus_merula"	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0.0818181818181818	0	0	0	0	0
+"Turdus_viscivorus"	0.1125	0.1125	0.1125	0.1125	0.1125	0.1125	0.1125	0	0.1125	0	0	0	0	0	0	0
+"Turdus_iliacus"	0.15	0.15	0.15	0.15	0.15	0	0	0	0	0	0	0.15	0	0	0	0
+"Turdus_torquatus"	0.15	0.15	0.15	0.15	0	0.15	0	0.15	0	0	0	0	0	0	0	0

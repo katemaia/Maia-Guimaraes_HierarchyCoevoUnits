@@ -1,0 +1,5 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Phoenicophorium_borsigianum"	"Memecylon_eleagni"	"Lasioglossum_mahense"	"Cratopus_aurostriatus"
+"2"	"Nephrosperma_vanhoutteanum"	"Erythroxylum_sechellarum"	"Lasioglossum_mahense"	"Apis_mellifera"
+"3"	"Nephrosperma_vanhoutteanum"	"Memecylon_eleagni"	"Lasioglossum_mahense"	"Apis_mellifera"
+"4"	"Erythroxylum_sechellarum"	"Memecylon_eleagni"	"Lasioglossum_mahense"	"Apis_mellifera"

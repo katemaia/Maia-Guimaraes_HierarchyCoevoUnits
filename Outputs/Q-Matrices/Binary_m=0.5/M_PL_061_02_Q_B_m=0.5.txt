@@ -1,0 +1,23 @@
+"Nephrosperma_vanhoutteanum"	"Medusagyne_oppositifolia"	"Mimusops_sechellarum"	"Erythroxylum_sechellarum"	"Memecylon_eleagni"	"Apis_mellifera"	"Lygistorrhina_sp1_M_PL_085"	"Unidentified_sp2_M_PL_085"	"Unidentified_sp1_M_PL_085"	"Lasioglossum_mahense"	"Parasarcophaga_hirticeps"	"Eristalinus_vicarians"	"Rhiparida_seychellensis"	"Geron_seychellarum"	"Nectarinia_dussumieri"	"Phelsuma_sp1_M_PL_085"	"Chalcidoma_disjunctum"	"Hemipyrellia_germana"	"Simosyrphus_aegyptius"	"Unidentified_sp3_M_PL_085"	"Unidentified_sp4_M_PL_085"	"Unidentified_sp5_M_PL_085"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0.0357142857142857	0.0357142857142857	0.0357142857142857	0.0357142857142857	0.0357142857142857	0.0357142857142857	0.0357142857142857	0.0357142857142857	0.0357142857142857	0	0.0357142857142857	0.0357142857142857	0.0357142857142857	0	0.0357142857142857	0.0357142857142857	0
+"Medusagyne_oppositifolia"	0	0	0	0	0	0.166666666666667	0	0	0.166666666666667	0	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0
+"Mimusops_sechellarum"	0	0	0	0	0	0.0833333333333333	0	0	0.0833333333333333	0.0833333333333333	0	0	0	0	0.0833333333333333	0.0833333333333333	0	0	0	0	0	0.0833333333333333
+"Erythroxylum_sechellarum"	0	0	0	0	0	0.25	0	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0.25	0	0	0
+"Apis_mellifera"	0.1	0.1	0.1	0.1	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_085"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_085"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_085"	0.166666666666667	0.166666666666667	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.166666666666667	0	0.166666666666667	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Parasarcophaga_hirticeps"	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eristalinus_vicarians"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Geron_seychellarum"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_085"	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Chalcidoma_disjunctum"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Simosyrphus_aegyptius"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_085"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_085"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp5_M_PL_085"	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

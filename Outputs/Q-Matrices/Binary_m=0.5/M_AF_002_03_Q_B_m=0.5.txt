@@ -1,0 +1,6 @@
+"Stichodactyla_mertensii"	"Heteractis_aurora"	"Heteractis_crispa"	"Amphiprion_clarkii"	"Amphiprion_sandaracinos"
+"Stichodactyla_mertensii"	0	0	0	0.25	0.25
+"Heteractis_aurora"	0	0	0	0.5	0
+"Heteractis_crispa"	0	0	0	0.5	0
+"Amphiprion_clarkii"	0.166666666666667	0.166666666666667	0.166666666666667	0	0
+"Amphiprion_sandaracinos"	0.5	0	0	0	0

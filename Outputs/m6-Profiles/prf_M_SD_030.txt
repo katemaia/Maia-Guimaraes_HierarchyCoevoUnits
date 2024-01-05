@@ -1,0 +1,7 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Berberis_vulgaris"	"Juniperus_sabina"	"Turdus_torquatus"	"Turdus_viscivorus"
+"2"	"Berberis_vulgaris"	"Juniperus_sabina"	"Turdus_torquatus"	"Turdus_iliacus"
+"3"	"Berberis_vulgaris"	"Juniperus_sabina"	"Turdus_torquatus"	"Turdus_merula"
+"4"	"Berberis_vulgaris"	"Juniperus_sabina"	"Turdus_viscivorus"	"Turdus_iliacus"
+"5"	"Berberis_vulgaris"	"Juniperus_sabina"	"Turdus_viscivorus"	"Turdus_merula"
+"6"	"Berberis_vulgaris"	"Juniperus_sabina"	"Turdus_iliacus"	"Turdus_merula"

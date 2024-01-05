@@ -1,0 +1,17 @@
+"Erythroxylum_sechellarum"	"Cinnamomum_verum"	"Memecylon_eleagni"	"Soulamea_terminaloides"	"Dillenia_ferruginea"	"Roscheria_melanochaetes"	"Lasioglossum_mahense"	"Unidentified_sp4_M_PL_092"	"Unidentified_sp1_M_PL_092"	"Apis_mellifera"	"Lygistorrhina_sp1_M_PL_092"	"Amblypsilopus_sp1_M_PL_092"	"Cratopus_aurostriatus"	"Eristalinus_vicarians"	"Unidentified_sp2_M_PL_092"	"Unidentified_sp3_M_PL_092"
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0.225	0.225	0.225	0	0.225	0	0	0	0	0
+"Cinnamomum_verum"	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0.18	0	0	0.18	0	0	0.18	0.18	0	0.18
+"Soulamea_terminaloides"	0	0	0	0	0	0	0	0	0	0	0.3	0.3	0	0	0.3	0
+"Dillenia_ferruginea"	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_092"	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_092"	0.45	0	0	0	0	0.45	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0	0	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_092"	0.45	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0
+"Amblypsilopus_sp1_M_PL_092"	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eristalinus_vicarians"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_092"	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_092"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0

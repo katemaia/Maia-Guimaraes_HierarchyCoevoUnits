@@ -1,0 +1,14 @@
+"Sambucus_niger"	"Crataegus_monogyna"	"Hedera_helix"	"Prunus_spinosa"	"Euonymus_europaeus"	"Rubus_fruticosus"	"Rosa_canina"	"Turdus_merula"	"Turdus_philomelos"	"Erithacus_rubecula"	"Sylvia_atricapilla"	"Turdus_iliacus"	"Turdus_pilaris"
+"Sambucus_niger"	0	0	0	0	0	0	0	0.18	0.18	0.18	0.18	0.18	0
+"Crataegus_monogyna"	0	0	0	0	0	0	0	0.225	0.225	0	0	0.225	0.225
+"Hedera_helix"	0	0	0	0	0	0	0	0.225	0.225	0.225	0.225	0	0
+"Prunus_spinosa"	0	0	0	0	0	0	0	0.225	0	0	0.225	0.225	0.225
+"Euonymus_europaeus"	0	0	0	0	0	0	0	0.45	0	0.45	0	0	0
+"Rubus_fruticosus"	0	0	0	0	0	0	0	0.45	0.45	0	0	0	0
+"Rosa_canina"	0	0	0	0	0	0	0	0.9	0	0	0	0	0
+"Turdus_merula"	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0	0	0	0	0	0
+"Turdus_philomelos"	0.225	0.225	0.225	0	0	0.225	0	0	0	0	0	0	0
+"Erithacus_rubecula"	0.3	0	0.3	0	0.3	0	0	0	0	0	0	0	0
+"Sylvia_atricapilla"	0.3	0	0.3	0.3	0	0	0	0	0	0	0	0	0
+"Turdus_iliacus"	0.3	0.3	0	0.3	0	0	0	0	0	0	0	0	0
+"Turdus_pilaris"	0	0.45	0	0.45	0	0	0	0	0	0	0	0	0

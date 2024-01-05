@@ -1,0 +1,23 @@
+"Nephrosperma_vanhoutteanum"	"Erythroxylum_sechellarum"	"Paragenipa_wrightii"	"Canthium_bibracteatum"	"Phoenicophorium_borsigianum"	"Memecylon_eleagni"	"Psychotria_pervillei"	"Syzygium_wrightii"	"Apis_mellifera"	"Lasioglossum_mahense"	"Unidentified_sp2_M_PL_087"	"Nectarinia_dussumieri"	"Unidentified_sp1_M_PL_087"	"Hemipyrellia_sp1_M_PL_087"	"Rhiparida_seychellensis"	"Unidentified_sp4_M_PL_087"	"Cratopus_aurostriatus"	"Neophyllomyza_approximatonervis"	"Megachile_seychellensis"	"Mabuya_sechellensis"	"Chalcidoma_disjunctum"	"Unidentified_sp3_M_PL_087"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0	0.01	0.01	0.01	0	0.01	0.01	0.01	0.01	0.01	0.01	0	0	0	0.01
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0	0.025	0.025	0	0	0.025	0	0	0	0	0	0.025	0	0	0
+"Paragenipa_wrightii"	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0.0333333333333333	0	0	0	0	0	0	0	0	0	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0.0333333333333333	0	0	0
+"Phoenicophorium_borsigianum"	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0.0333333333333333	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0.05	0
+"Psychotria_pervillei"	0	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0.0333333333333333	0	0	0	0	0	0	0	0	0	0
+"Syzygium_wrightii"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0
+"Apis_mellifera"	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0.0166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_087"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0.05	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_087"	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_087"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_087"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0.05	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0	0.05	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mabuya_sechellensis"	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Chalcidoma_disjunctum"	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_087"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

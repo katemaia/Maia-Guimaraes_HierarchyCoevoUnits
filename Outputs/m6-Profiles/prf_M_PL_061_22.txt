@@ -1,0 +1,7 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Dillenia_ferruginea"	"Erythroxylum_sechellarum"	"Apis_mellifera"	"Lasioglossum_mahense"
+"2"	"Dillenia_ferruginea"	"Nephrosperma_vanhoutteanum"	"Apis_mellifera"	"Lasioglossum_mahense"
+"3"	"Dillenia_ferruginea"	"Memecylon_eleagni"	"Apis_mellifera"	"Lasioglossum_mahense"
+"4"	"Erythroxylum_sechellarum"	"Nephrosperma_vanhoutteanum"	"Apis_mellifera"	"Lasioglossum_mahense"
+"5"	"Erythroxylum_sechellarum"	"Memecylon_eleagni"	"Apis_mellifera"	"Lasioglossum_mahense"
+"6"	"Nephrosperma_vanhoutteanum"	"Memecylon_eleagni"	"Apis_mellifera"	"Lasioglossum_mahense"

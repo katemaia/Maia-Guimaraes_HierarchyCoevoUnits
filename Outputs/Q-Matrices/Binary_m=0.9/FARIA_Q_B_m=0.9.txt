@@ -1,0 +1,23 @@
+"Cecropia_hololeuca"	"Cecropia_pachystachia"	"Muntingia_calabura"	"Ficus_enormis"	"Ficus_cf_insipida"	"Ficus_luschnatiana"	"Ficus_sp_1"	"Ficus_sp_2"	"Maclura_tinctoria"	"Piper_amalago"	"Piper_arboreum"	"Piper_sp_2"	"Solanum_granuloso-leprosum"	"Solanum_inaequale"	"Artibeus_lituratus"	"Carollia_perspicillata"	"Chiroderma_doriae"	"Glossophaga_soricina"	"Platyrrhinus_lineatus"	"Phyllostomus_discolor"	"Pygoderma_bilabiatum"	"Sturnira_lilium"
+"Cecropia_hololeuca"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0.45	0	0	0	0
+"Cecropia_pachystachia"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0	0.45	0	0	0
+"Muntingia_calabura"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0	0.45
+"Ficus_enormis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.225	0	0	0	0.225	0	0.225	0.225
+"Ficus_cf_insipida"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0	0.45	0	0	0
+"Ficus_luschnatiana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0	0.45	0	0	0
+"Ficus_sp_1"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.225	0	0.225	0	0.225	0	0	0.225
+"Ficus_sp_2"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0
+"Maclura_tinctoria"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0
+"Piper_amalago"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0	0	0	0.45
+"Piper_arboreum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0.3	0	0	0	0	0	0.3
+"Piper_sp_2"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0.3	0	0	0	0	0	0.3
+"Solanum_granuloso-leprosum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.15	0.15	0	0	0.15	0.15	0.15	0.15
+"Solanum_inaequale"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9
+"Artibeus_lituratus"	0.09	0.09	0	0.09	0.09	0.09	0.09	0.09	0	0	0.09	0.09	0.09	0	0	0	0	0	0	0	0	0
+"Carollia_perspicillata"	0	0	0	0	0	0	0	0	0	0.225	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0
+"Chiroderma_doriae"	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Glossophaga_soricina"	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Platyrrhinus_lineatus"	0	0.15	0	0.15	0.15	0.15	0.15	0	0	0	0	0	0.15	0	0	0	0	0	0	0	0	0
+"Phyllostomus_discolor"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0
+"Pygoderma_bilabiatum"	0	0	0	0.3	0	0	0	0	0.3	0	0	0	0.3	0	0	0	0	0	0	0	0	0
+"Sturnira_lilium"	0	0	0.1125	0.1125	0	0	0.1125	0	0	0.1125	0.1125	0.1125	0.1125	0.1125	0	0	0	0	0	0	0	0

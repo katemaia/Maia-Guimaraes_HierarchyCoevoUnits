@@ -1,0 +1,23 @@
+"Perca_fluviatilis"	"Rutilus_rutilus"	"Abramiz_brama"	"Scardinius_erythrophtalmus"	"Sander_lucioperca"	"Esox_lucius"	"Anguilla_anguilla"	"Carassius_auratus_gibelio"	"Ergasilus_sieboldi"	"Tylodelphys_clavata"	"Posthodiplostomum_cuticola"	"Diplozoon_paradoxum"	"Caryophyllaeus_laticeps"	"Triaenophorus_nodulosus"	"Camallanus_lacustris"	"Hysterothylacium_aduncum"	"Apatemon_gracilis"	"Anguillicola_crassus"	"Camallanus_truncatus"	"Acanthocephalus_anguillae"	"Pomphorhynchus_laevis"	"Achtheres_percarum"
+"Perca_fluviatilis"	0	0	0	0	0	0	0	0	0.0142857142857143	0.0142857142857143	0	0	0	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0	0	0	0.0142857142857143	0
+"Rutilus_rutilus"	0	0	0	0	0	0	0	0	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0	0	0	0	0	0.0166666666666667	0	0
+"Abramiz_brama"	0	0	0	0	0	0	0	0	0.02	0.02	0.02	0.02	0.02	0	0	0	0	0	0	0	0	0
+"Scardinius_erythrophtalmus"	0	0	0	0	0	0	0	0	0.025	0.025	0.025	0.025	0	0	0	0	0	0	0	0	0	0
+"Sander_lucioperca"	0	0	0	0	0	0	0	0	0.025	0	0	0	0	0	0	0.025	0	0	0.025	0	0	0.025
+"Esox_lucius"	0	0	0	0	0	0	0	0	0.025	0.025	0	0	0	0.025	0.025	0	0	0	0	0	0	0
+"Anguilla_anguilla"	0	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0.05	0	0	0	0
+"Carassius_auratus_gibelio"	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0
+"Ergasilus_sieboldi"	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0.0142857142857143	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tylodelphys_clavata"	0.02	0.02	0.02	0.02	0	0.02	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Posthodiplostomum_cuticola"	0	0.025	0.025	0.025	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Diplozoon_paradoxum"	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Caryophyllaeus_laticeps"	0	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Triaenophorus_nodulosus"	0.05	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Camallanus_lacustris"	0.05	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hysterothylacium_aduncum"	0.05	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apatemon_gracilis"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Anguillicola_crassus"	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Camallanus_truncatus"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Acanthocephalus_anguillae"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pomphorhynchus_laevis"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Achtheres_percarum"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

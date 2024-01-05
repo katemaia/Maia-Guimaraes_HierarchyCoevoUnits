@@ -1,0 +1,21 @@
+"Nephrosperma_vanhoutteanum"	"Phoenicophorium_borsigianum"	"Deckenia_nobilis"	"Canthium_bibracteatum"	"Euphorbia_pyrifolia"	"Chrysobalanus_icaco"	"Memecylon_eleagni"	"Lasioglossum_mahense"	"Rhiparida_seychellensis"	"Apis_mellifera"	"Ceratina_tabescens"	"Unidentified_sp1_M_PL_113"	"Hemipyrellia_germana"	"Megachile_seychellensis"	"Cratopus_aurostriatus"	"Ornidia_obesa"	"Neophyllomyza_approximatonervis"	"Phelsuma_sp1_M_PL_113"	"Pachycerina_seychellensis"	"Simosyrphus_aegyptius"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0	0.0714285714285714	0	0	0	0.0714285714285714	0	0
+"Phoenicophorium_borsigianum"	0	0	0	0	0	0	0	0.1	0.1	0.1	0	0	0	0	0.1	0	0.1	0	0	0
+"Deckenia_nobilis"	0	0	0	0	0	0	0	0.0714285714285714	0	0.0714285714285714	0	0	0.0714285714285714	0	0	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0	0.166666666666667	0	0	0.166666666666667	0	0	0.166666666666667	0	0	0	0	0	0
+"Euphorbia_pyrifolia"	0	0	0	0	0	0	0	0.166666666666667	0	0.166666666666667	0	0	0	0	0	0	0	0	0	0.166666666666667
+"Chrysobalanus_icaco"	0	0	0	0	0	0	0	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0.166666666666667	0	0	0	0	0	0.166666666666667	0	0	0	0	0	0.166666666666667
+"Lasioglossum_mahense"	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.1	0.1	0.1	0	0.1	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratina_tabescens"	0.25	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_113"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0.166666666666667	0	0	0.166666666666667	0	0	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_113"	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pachycerina_seychellensis"	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Simosyrphus_aegyptius"	0	0	0	0	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0

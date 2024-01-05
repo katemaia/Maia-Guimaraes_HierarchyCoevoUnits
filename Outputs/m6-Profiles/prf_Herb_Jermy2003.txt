@@ -1,0 +1,3 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Lathyrus_latifolius"	"Lathyrus_sylvestris"	"Brucchus_affinis"	"Brucchus_atomarius"
+"2"	"Lathyrus_niger"	"Lathyrus_pannonicus"	"Brucchus_atomarius"	"Brucchus_viciae"

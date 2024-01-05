@@ -1,0 +1,7 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Clethrionomys_rutilus"	"Clethrionomys_rufocanus"	"Megabothris_advenarius"	"Amalaraeus_penicilliger"
+"2"	"Clethrionomys_rutilus"	"Clethrionomys_rufocanus"	"Megabothris_advenarius"	"Catallagia_dacenkoi"
+"3"	"Clethrionomys_rutilus"	"Clethrionomys_rufocanus"	"Megabothris_advenarius"	"Amphipsylla_marikovskii"
+"4"	"Clethrionomys_rutilus"	"Clethrionomys_rufocanus"	"Amalaraeus_penicilliger"	"Catallagia_dacenkoi"
+"5"	"Clethrionomys_rutilus"	"Clethrionomys_rufocanus"	"Amalaraeus_penicilliger"	"Amphipsylla_marikovskii"
+"6"	"Clethrionomys_rutilus"	"Clethrionomys_rufocanus"	"Catallagia_dacenkoi"	"Amphipsylla_marikovskii"

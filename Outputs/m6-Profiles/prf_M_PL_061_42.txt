@@ -1,0 +1,3 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Nephrosperma_vanhoutteanum"	"Mimusops_sechellarum"	"Apis_mellifera"	"Lasioglossum_mahense"
+"2"	"Nephrosperma_vanhoutteanum"	"Chrysobalanus_icaco"	"Apis_mellifera"	"Unidentified_sp1_M_PL_125"

@@ -1,0 +1,14 @@
+"Berberis_vulgaris"	"Crataegus_monogyna"	"Hedera_helix"	"Taxus_baccata"	"Rosa_canina"	"Lonicera_arborea"	"Viscum_album"	"Juniperus_communis"	"Turdus_torquatus"	"Turdus_merula"	"Turdus_viscivorus"	"Turdus_iliacus"	"Turdus_philomelos"
+"Berberis_vulgaris"	0	0	0	0	0	0	0	0	0.1	0.1	0.1	0.1	0.1
+"Crataegus_monogyna"	0	0	0	0	0	0	0	0	0.1	0.1	0.1	0.1	0.1
+"Hedera_helix"	0	0	0	0	0	0	0	0	0.125	0.125	0.125	0.125	0
+"Taxus_baccata"	0	0	0	0	0	0	0	0	0.125	0.125	0.125	0.125	0
+"Rosa_canina"	0	0	0	0	0	0	0	0	0.166666666666667	0.166666666666667	0.166666666666667	0	0
+"Lonicera_arborea"	0	0	0	0	0	0	0	0	0.25	0.25	0	0	0
+"Viscum_album"	0	0	0	0	0	0	0	0	0.25	0	0.25	0	0
+"Juniperus_communis"	0	0	0	0	0	0	0	0	0.5	0	0	0	0
+"Turdus_torquatus"	0.0625	0.0625	0.0625	0.0625	0.0625	0.0625	0.0625	0.0625	0	0	0	0	0
+"Turdus_merula"	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0	0	0	0	0	0	0
+"Turdus_viscivorus"	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0	0.0833333333333333	0	0	0	0	0	0
+"Turdus_iliacus"	0.125	0.125	0.125	0.125	0	0	0	0	0	0	0	0	0
+"Turdus_philomelos"	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0

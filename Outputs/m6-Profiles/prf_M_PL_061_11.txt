@@ -1,0 +1,2 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Canthium_bibracteatum"	"Cinnamomum_verum"	"Apis_mellifera"	"Ornidia_obesa"

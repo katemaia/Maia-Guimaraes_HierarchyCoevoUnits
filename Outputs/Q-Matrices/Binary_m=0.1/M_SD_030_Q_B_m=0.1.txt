@@ -1,0 +1,10 @@
+"Berberis_vulgaris"	"Juniperus_sabina"	"Daphne_oleoides"	"Juniperus_communis"	"Rosa_canina"	"Turdus_torquatus"	"Turdus_viscivorus"	"Turdus_iliacus"	"Turdus_merula"
+"Berberis_vulgaris"	0	0	0	0	0	0.025	0.025	0.025	0.025
+"Juniperus_sabina"	0	0	0	0	0	0.025	0.025	0.025	0.025
+"Daphne_oleoides"	0	0	0	0	0	0	0.1	0	0
+"Juniperus_communis"	0	0	0	0	0	0.1	0	0	0
+"Rosa_canina"	0	0	0	0	0	0.1	0	0	0
+"Turdus_torquatus"	0.025	0.025	0	0.025	0.025	0	0	0	0
+"Turdus_viscivorus"	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0
+"Turdus_iliacus"	0.05	0.05	0	0	0	0	0	0	0
+"Turdus_merula"	0.05	0.05	0	0	0	0	0	0	0

@@ -1,0 +1,7 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Pimephlales_promelas"	"Morone_chrysops"	"Bothriocephalus_sp."	"Proteocephalus_sp."
+"2"	"Pimephlales_promelas"	"Esox_lucius"	"Bothriocephalus_sp."	"Proteocephalus_sp."
+"3"	"Pimephlales_promelas"	"Pomoxis_nigromaculatus"	"Bothriocephalus_sp."	"Neascus_of_Posthodiplostomum_sp."
+"4"	"Pimephlales_promelas"	"Perca_flavescens"	"Bothriocephalus_sp."	"Raphidascaris_sp."
+"5"	"Morone_chrysops"	"Esox_lucius"	"Bothriocephalus_sp."	"Proteocephalus_sp."
+"6"	"Morone_chrysops"	"Pomoxis_nigromaculatus"	"Bothriocephalus_sp."	"Contracaecum_sp."

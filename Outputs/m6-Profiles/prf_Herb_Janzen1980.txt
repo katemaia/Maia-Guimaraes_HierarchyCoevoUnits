@@ -1,0 +1,6 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Albizzia_adinocephala"	"Lysiloma_seemannii"	"Merobruchus_insolitus"	"Merobruchus_sonorensis"
+"2"	"Albizzia_adinocephala"	"Albizzia_caribaea"	"Merobruchus_paquetae"	"Merobruchus_sonorensis"
+"3"	"Albizzia_adinocephala"	"Albizzia_caribaea"	"Merobruchus_paquetae"	"Stator_limbatus"
+"4"	"Albizzia_adinocephala"	"Albizzia_caribaea"	"Merobruchus_sonorensis"	"Stator_limbatus"
+"5"	"Acacia_retusa"	"Acacia_tenuifolia"	"Stator_limbatus"	"Stator_vittatithorax"

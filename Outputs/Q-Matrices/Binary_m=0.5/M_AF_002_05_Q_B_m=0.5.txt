@@ -1,0 +1,8 @@
+"Heteractis_crispa"	"Heteractis_magnifica"	"Stichodactyla_mertensii"	"Amphiprion_clarkii"	"Amphiprion_perideraion"	"Amphiprion_ocellaris"	"Amphiprion_sandaracinos"
+"Heteractis_crispa"	0	0	0	0.25	0.25	0	0
+"Heteractis_magnifica"	0	0	0	0	0.25	0.25	0
+"Stichodactyla_mertensii"	0	0	0	0.25	0	0	0.25
+"Amphiprion_clarkii"	0.25	0	0.25	0	0	0	0
+"Amphiprion_perideraion"	0.25	0.25	0	0	0	0	0
+"Amphiprion_ocellaris"	0	0.5	0	0	0	0	0
+"Amphiprion_sandaracinos"	0	0	0.5	0	0	0	0

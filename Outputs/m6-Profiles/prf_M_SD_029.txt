@@ -1,0 +1,4 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Juniperus_phoenicea"	"Osyris_quadripartita"	"Turdus_merula"	"Turdus_iliacus"
+"2"	"Juniperus_phoenicea"	"Osyris_quadripartita"	"Turdus_merula"	"Turdus_philomelos"
+"3"	"Juniperus_phoenicea"	"Osyris_quadripartita"	"Turdus_iliacus"	"Turdus_philomelos"

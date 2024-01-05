@@ -1,0 +1,3 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Psidium_cattleianum"	"Cinnamomum_verum"	"Apis_mellifera"	"Ornidia_obesa"
+"2"	"Psidium_cattleianum"	"Memecylon_eleagni"	"Apis_mellifera"	"Chalcidoma_disjunctum"

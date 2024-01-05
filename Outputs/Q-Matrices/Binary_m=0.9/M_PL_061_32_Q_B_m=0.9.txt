@@ -1,0 +1,25 @@
+"Nephrosperma_vanhoutteanum"	"Canthium_bibracteatum"	"Erythroxylum_sechellarum"	"Paragenipa_wrightii"	"Premna_serratifolia"	"Ochna_kirkii"	"Lasioglossum_mahense"	"Apis_mellifera"	"Rhiparida_seychellensis"	"Megachile_seychellensis"	"Rhynchium_brunneum"	"Neophyllomyza_approximatonervis"	"Unidentified_sp1_M_PL_115"	"Unidentified_sp2_M_PL_115"	"Ceratina_tabescens"	"Hemipyrellia_sp1_M_PL_115"	"Lygistorrhina_sp1_M_PL_115"	"Tricimba_seychellensis"	"Unidentified_sp4_M_PL_115"	"Xylocopa_caffra"	"Hemipyrellia_germana"	"Ornidia_obesa"	"Phelsuma_sp1_M_PL_115"	"Unidentified_sp3_M_PL_115"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0.1	0.1	0.1	0	0	0.1	0	0.1	0	0	0.1	0.1	0.1	0	0	0	0.1	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0.128571428571429	0.128571428571429	0	0.128571428571429	0	0	0	0	0.128571428571429	0.128571428571429	0	0	0	0	0.128571428571429	0.128571428571429	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0.225	0.225	0	0	0	0	0.225	0	0	0	0.225	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	0	0	0	0	0	0	0.225	0.225	0	0	0	0	0.225	0	0	0	0	0	0	0	0	0	0	0.225
+"Premna_serratifolia"	0	0	0	0	0	0	0.3	0	0	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ochna_kirkii"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0
+"Lasioglossum_mahense"	0.18	0.18	0.18	0.18	0.18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.225	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0	0.45	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhynchium_brunneum"	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_115"	0	0	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_115"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratina_tabescens"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_115"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_115"	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tricimba_seychellensis"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_115"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Xylocopa_caffra"	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_115"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_115"	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

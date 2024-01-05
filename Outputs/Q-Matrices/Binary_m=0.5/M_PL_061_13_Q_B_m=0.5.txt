@@ -1,0 +1,27 @@
+"Phoenicophorium_borsigianum"	"Nephrosperma_vanhoutteanum"	"Dillenia_ferruginea"	"Erythroxylum_sechellarum"	"Psychotria_pervillei"	"Paragenipa_wrightii"	"Northea_hornei"	"Lasioglossum_mahense"	"Apis_mellifera"	"Unidentified_sp6_M_PL_096"	"Forcipomyia_sp1_M_PL_096"	"Unidentified_sp4_M_PL_096"	"Unidentified_sp5_M_PL_096"	"Rhiparida_seychellensis"	"Scaptodrosophila_sp1_M_PL_096"	"Lygistorrhina_sp1_M_PL_096"	"Nectarinia_dussumieri"	"Neophyllomyza_approximatonervis"	"Unidentified_sp7_M_PL_096"	"Phelsuma_sp1_M_PL_096"	"Hemipyrellia_germana"	"Cratopus_aurostriatus"	"Ornidia_obesa"	"Unidentified_sp1_M_PL_096"	"Unidentified_sp2_M_PL_096"	"Unidentified_sp3_M_PL_096"
+"Phoenicophorium_borsigianum"	0	0	0	0	0	0	0	0.03125	0.03125	0.03125	0.03125	0.03125	0.03125	0.03125	0.03125	0.03125	0	0.03125	0.03125	0	0.03125	0.03125	0	0.03125	0.03125	0.03125
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0.125	0.125	0	0	0.125	0	0	0	0	0	0	0	0.125	0	0	0	0	0	0
+"Dillenia_ferruginea"	0	0	0	0	0	0	0	0.0833333333333333	0.0833333333333333	0	0	0.0833333333333333	0	0.0833333333333333	0	0	0.0833333333333333	0	0	0	0	0	0.0833333333333333	0	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0.125	0.125	0	0	0.125	0	0	0	0.125	0	0	0	0	0	0	0	0	0	0
+"Psychotria_pervillei"	0	0	0	0	0	0	0	0.125	0.125	0	0	0	0	0	0	0	0.125	0.125	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	0	0	0	0	0	0	0	0.166666666666667	0.166666666666667	0	0	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Northea_hornei"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.25	0	0	0.25	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp6_M_PL_096"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Forcipomyia_sp1_M_PL_096"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_096"	0.1	0.1	0.1	0.1	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp5_M_PL_096"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Scaptodrosophila_sp1_M_PL_096"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_096"	0.25	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0.166666666666667	0	0.166666666666667	0	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0.25	0	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp7_M_PL_096"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_096"	0	0.25	0	0	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_096"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_096"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_096"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

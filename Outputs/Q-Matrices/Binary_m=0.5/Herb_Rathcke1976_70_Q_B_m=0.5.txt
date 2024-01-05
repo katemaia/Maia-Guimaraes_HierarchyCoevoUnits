@@ -1,0 +1,18 @@
+"Ambrosia_trifida"	"Coreopsis_tripteris"	"Helianthis_rigidus"	"Monarda_fistulosa"	"Silphium_laciniatum"	"Solidago_altissima"	"Veronicastrum_virginicum"	"Hippopsis_lemniscata"	"Mecas_sp."	"Apion_sp."	"Curculionidae_12"	"Mordellistena"	"Mordellidae_23"	"Thomasiniana"	"Tephritidae"	"Epiblema_sp."	"Family_unkn_46"
+"Ambrosia_trifida"	0	0	0	0	0	0	0	0.1	0	0.1	0	0.1	0.1	0.1	0	0	0
+"Coreopsis_tripteris"	0	0	0	0	0	0	0	0.166666666666667	0	0	0	0	0.166666666666667	0	0	0.166666666666667	0
+"Helianthis_rigidus"	0	0	0	0	0	0	0	0.0833333333333333	0	0	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0.0833333333333333	0	0
+"Monarda_fistulosa"	0	0	0	0	0	0	0	0	0.166666666666667	0.166666666666667	0	0.166666666666667	0	0	0	0	0
+"Silphium_laciniatum"	0	0	0	0	0	0	0	0	0	0	0.25	0	0.25	0	0	0	0
+"Solidago_altissima"	0	0	0	0	0	0	0	0	0.25	0	0.25	0	0	0	0	0	0
+"Veronicastrum_virginicum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5
+"Hippopsis_lemniscata"	0.166666666666667	0.166666666666667	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mecas_sp."	0	0	0	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0
+"Apion_sp."	0.25	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Curculionidae_12"	0	0	0.166666666666667	0	0.166666666666667	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0
+"Mordellistena"	0.166666666666667	0	0.166666666666667	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mordellidae_23"	0.125	0.125	0.125	0	0.125	0	0	0	0	0	0	0	0	0	0	0	0
+"Thomasiniana"	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tephritidae"	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Epiblema_sp."	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Family_unkn_46"	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0

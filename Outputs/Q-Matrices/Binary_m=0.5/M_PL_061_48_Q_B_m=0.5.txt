@@ -1,0 +1,24 @@
+"Nephrosperma_vanhoutteanum"	"Gastonia_crassa"	"Erythroxylum_sechellarum"	"Paragenipa_wrightii"	"Chrysobalanus_icaco"	"Canthium_bibracteatum"	"Nepenthes_pervillei"	"Dillenia_ferruginea"	"Memecylon_eleagni"	"Apis_mellifera"	"Lasioglossum_mahense"	"Lygistorrhina_sp1_M_PL_131"	"Hemipyrellia_germana"	"Unidentified_sp2_M_PL_131"	"Eristalinus_vicarians"	"Hemipyrellia_sp1_M_PL_131"	"Neophyllomyza_approximatonervis"	"Phelsuma_sp1_M_PL_131"	"Eagris_sabadius"	"Melanostoma_annulipes"	"Polistes_olivaceus"	"Rhynchium_brunneum"	"Unidentified_sp1_M_PL_131"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0	0	0.125	0.125	0	0	0	0	0	0.125	0.125	0	0	0	0	0
+"Gastonia_crassa"	0	0	0	0	0	0	0	0	0	0.166666666666667	0	0	0	0	0	0	0.166666666666667	0.166666666666667	0	0	0	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0	0	0.125	0.125	0.125	0	0.125	0	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	0	0	0	0	0	0	0	0	0	0.166666666666667	0.166666666666667	0	0	0	0.166666666666667	0	0	0	0	0	0	0	0
+"Chrysobalanus_icaco"	0	0	0	0	0	0	0	0	0	0.166666666666667	0	0	0	0	0	0	0	0	0.166666666666667	0	0.166666666666667	0	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0	0	0	0.1	0	0.1	0	0	0	0.1	0	0	0	0.1	0	0	0.1
+"Nepenthes_pervillei"	0	0	0	0	0	0	0	0	0	0.1	0	0	0.1	0.1	0	0.1	0	0	0	0	0	0.1	0
+"Dillenia_ferruginea"	0	0	0	0	0	0	0	0	0	0.166666666666667	0.166666666666667	0	0.166666666666667	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0	0	0.25	0	0	0.25	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0625	0.0625	0.0625	0.0625	0.0625	0.0625	0.0625	0.0625	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.1	0	0.1	0.1	0	0	0	0.1	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_131"	0	0	0.25	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0	0	0	0	0	0	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_131"	0	0	0.166666666666667	0	0	0	0.166666666666667	0	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eristalinus_vicarians"	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_131"	0	0	0	0	0	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_131"	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eagris_sabadius"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Melanostoma_annulipes"	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Polistes_olivaceus"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhynchium_brunneum"	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_131"	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

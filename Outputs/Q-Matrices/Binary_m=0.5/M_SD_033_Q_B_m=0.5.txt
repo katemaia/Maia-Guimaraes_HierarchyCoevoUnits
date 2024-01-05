@@ -1,0 +1,25 @@
+"Psychotria_hoffmannseggiana"	"Psychotria_marginata"	"Psychotria_acuminata"	"Psychotria_deflexa"	"Psychotria_horizontalis"	"Psychotria_limonensis"	"Psychotria_poeppigiana"	"Psychotria_emetica"	"Psychotria_psychotrifolia"	"Psychotria_brachybotrya"	"Psychotria_pittieri"	"Psychotria_racemosa"	"Psychotria_grandis"	"Pipra_mentalis"	"Pipra_coronata"	"Catharus_ustulatus"	"Manacus_vitellinus"	"Catharus_fuscescens"	"Catharus_minimus"	"Habia_fuscicauda"	"Schiffornis_turdinus"	"Empidonax_virescens"	"Mionectes_oleagineus"	"Trogon_rufus"
+"Psychotria_hoffmannseggiana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0	0.0714285714285714	0	0	0
+"Psychotria_marginata"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0.0714285714285714	0	0	0.0714285714285714	0	0	0.0714285714285714
+"Psychotria_acuminata"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0.1	0.1	0	0.1	0.1	0	0	0	0	0
+"Psychotria_deflexa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.125	0.125	0.125	0	0	0	0.125	0	0	0	0
+"Psychotria_horizontalis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0625	0.0625	0.0625	0.0625	0.0625	0.0625	0	0	0.0625	0.0625	0
+"Psychotria_limonensis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.125	0	0.125	0.125	0.125	0	0	0	0	0	0
+"Psychotria_poeppigiana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0.1	0.1	0.1	0	0	0.1	0	0	0	0
+"Psychotria_emetica"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.25	0	0	0.25	0	0	0	0	0
+"Psychotria_psychotrifolia"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.25	0.25	0	0	0	0	0	0	0	0	0
+"Psychotria_brachybotrya"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.166666666666667	0.166666666666667	0.166666666666667	0	0	0	0	0	0	0	0
+"Psychotria_pittieri"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.25	0	0.25	0	0	0	0	0	0	0
+"Psychotria_racemosa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.166666666666667	0.166666666666667	0	0.166666666666667	0	0	0	0	0	0	0
+"Psychotria_grandis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0
+"Pipra_mentalis"	0.0454545454545455	0.0454545454545455	0.0454545454545455	0.0454545454545455	0.0454545454545455	0.0454545454545455	0.0454545454545455	0	0.0454545454545455	0.0454545454545455	0	0.0454545454545455	0.0454545454545455	0	0	0	0	0	0	0	0	0	0	0
+"Pipra_coronata"	0.05	0.05	0.05	0.05	0.05	0	0.05	0	0.05	0.05	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0
+"Catharus_ustulatus"	0.0555555555555556	0.0555555555555556	0.0555555555555556	0.0555555555555556	0.0555555555555556	0.0555555555555556	0.0555555555555556	0.0555555555555556	0	0.0555555555555556	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Manacus_vitellinus"	0.0714285714285714	0.0714285714285714	0	0	0.0714285714285714	0.0714285714285714	0.0714285714285714	0	0	0	0.0714285714285714	0.0714285714285714	0	0	0	0	0	0	0	0	0	0	0	0
+"Catharus_fuscescens"	0.1	0.1	0.1	0	0.1	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Catharus_minimus"	0.125	0	0.125	0	0.125	0	0	0.125	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Habia_fuscicauda"	0	0	0	0.25	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Schiffornis_turdinus"	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Empidonax_virescens"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mionectes_oleagineus"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Trogon_rufus"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

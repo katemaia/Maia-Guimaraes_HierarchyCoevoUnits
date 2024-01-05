@@ -1,0 +1,22 @@
+"Nephrosperma_vanhoutteanum"	"Nepenthes_pervillei"	"Erythroxylum_sechellarum"	"Psychotria_pervillei"	"Canthium_bibracteatum"	"Dillenia_suffruticosa"	"Paragenipa_wrightii"	"Chrysobalanus_icaco"	"Memecylon_eleagni"	"Roscheria_melanochaetes"	"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_sp1_M_PL_127"	"Xylocopa_caffra"	"Lygistorrhina_sp1_M_PL_127"	"Megachile_seychellensis"	"Unidentified_sp1_M_PL_127"	"Cratopus_aurostriatus"	"Eristalinus_vicarians"	"Leptotes_pirithous"	"Unidentified_sp2_M_PL_127"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0	0	0	0.18	0.18	0	0	0.18	0.18	0	0	0	0	0.18
+"Nepenthes_pervillei"	0	0	0	0	0	0	0	0	0	0	0.18	0	0.18	0	0.18	0	0	0	0.18	0.18	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0	0	0	0.3	0.3	0	0	0	0	0.3	0	0	0	0
+"Psychotria_pervillei"	0	0	0	0	0	0	0	0	0	0	0.45	0.45	0	0	0	0	0	0	0	0	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0	0.45	0	0	0	0	0	0
+"Dillenia_suffruticosa"	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0.45	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0
+"Chrysobalanus_icaco"	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0
+"Apis_mellifera"	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0.1	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.3	0	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_127"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Xylocopa_caffra"	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_127"	0.3	0.3	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_127"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0
+"Eristalinus_vicarians"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Leptotes_pirithous"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_127"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

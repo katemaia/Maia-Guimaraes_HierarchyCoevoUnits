@@ -1,0 +1,7 @@
+"Juniperus_communis"	"Juniperus_sabina"	"Berberis_vulgaris"	"Turdus_torquatus"	"Turdus_viscivorus"	"Turdus_iliacus"
+"Juniperus_communis"	0	0	0	0.3	0.3	0.3
+"Juniperus_sabina"	0	0	0	0.45	0.45	0
+"Berberis_vulgaris"	0	0	0	0.9	0	0
+"Turdus_torquatus"	0.3	0.3	0.3	0	0	0
+"Turdus_viscivorus"	0.45	0.45	0	0	0	0
+"Turdus_iliacus"	0.9	0	0	0	0	0

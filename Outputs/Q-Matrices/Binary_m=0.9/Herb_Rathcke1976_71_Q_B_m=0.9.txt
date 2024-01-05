@@ -1,0 +1,19 @@
+"Ambrosia_trifida"	"Helianthis_rigidus"	"Monarda_fistulosa"	"Ruellia_humilis"	"Solidago_altissima"	"Silphium_integrifolium"	"Silphium_laciniatum"	"Hippopsis_lemniscata"	"Mecas_sp."	"Apion_sp."	"Curculionidae_12"	"Mordellistena"	"Mordellidae_23"	"Tomoxia_sp."	"Thomasiniana"	"Tephritidae"	"Mordellidae_64"	"Family_unkn_77"
+"Ambrosia_trifida"	0	0	0	0	0	0	0	0.18	0	0.18	0	0.18	0.18	0	0.18	0	0	0
+"Helianthis_rigidus"	0	0	0	0	0	0	0	0	0	0	0.225	0.225	0.225	0	0	0.225	0	0
+"Monarda_fistulosa"	0	0	0	0	0	0	0	0	0.3	0.3	0	0.3	0	0	0	0	0	0
+"Ruellia_humilis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0
+"Solidago_altissima"	0	0	0	0	0	0	0	0	0.45	0	0.45	0	0	0	0	0	0	0
+"Silphium_integrifolium"	0	0	0	0	0	0	0	0	0	0	0.45	0	0.45	0	0	0	0	0
+"Silphium_laciniatum"	0	0	0	0	0	0	0	0	0	0	0.225	0	0.225	0.225	0	0	0	0.225
+"Hippopsis_lemniscata"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mecas_sp."	0	0	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apion_sp."	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Curculionidae_12"	0	0.225	0	0	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0
+"Mordellistena"	0.3	0.3	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mordellidae_23"	0.225	0.225	0	0	0	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0
+"Tomoxia_sp."	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0
+"Thomasiniana"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tephritidae"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mordellidae_64"	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Family_unkn_77"	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0

@@ -1,0 +1,12 @@
+"Fuchsia_regia"	"Gaylussacia_brasiliensis"	"Aechmea_cylindrata"	"Nematanthus_australis"	"Vriesea_altodaserrae"	"Aegiphila_obducta"	"Nidularium_inocentii"	"Thalurania_glaucopis"	"Clytolaema_rubricauda"	"Stephanoxis_lalandi"	"Amazilia_versicolor"
+"Fuchsia_regia"	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0
+"Gaylussacia_brasiliensis"	0	0	0	0	0	0	0	0	0	0.1	0
+"Aechmea_cylindrata"	0	0	0	0	0	0	0	0.025	0.025	0.025	0.025
+"Nematanthus_australis"	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0
+"Vriesea_altodaserrae"	0	0	0	0	0	0	0	0.05	0.05	0	0
+"Aegiphila_obducta"	0	0	0	0	0	0	0	0	0.1	0	0
+"Nidularium_inocentii"	0	0	0	0	0	0	0	0.1	0	0	0
+"Thalurania_glaucopis"	0.02	0	0.02	0.02	0.02	0	0.02	0	0	0	0
+"Clytolaema_rubricauda"	0.02	0	0.02	0.02	0.02	0.02	0	0	0	0	0
+"Stephanoxis_lalandi"	0.025	0.025	0.025	0.025	0	0	0	0	0	0	0
+"Amazilia_versicolor"	0	0	0.1	0	0	0	0	0	0	0	0

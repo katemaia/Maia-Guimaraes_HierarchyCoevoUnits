@@ -1,0 +1,25 @@
+"Canthium_bibracteatum"	"Phoenicophorium_borsigianum"	"Deckenia_nobilis"	"Nephrosperma_vanhoutteanum"	"Chrysobalanus_icaco"	"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_germana"	"Rhiparida_seychellensis"	"Unidentified_sp2_M_PL_114"	"Megachile_seychellensis"	"Neophyllomyza_approximatonervis"	"Hemipyrellia_sp1_M_PL_114"	"Ceratina_tabescens"	"Ornidia_obesa"	"Phelsuma_sp1_M_PL_114"	"Unidentified_sp1_M_PL_114"	"Melanostoma_annulipes"	"Rhynchium_brunneum"	"Lygistorrhina_sp1_M_PL_114"	"Polistes_olivaceus"	"Unidentified_sp3_M_PL_114"	"Unidentified_sp4_M_PL_114"	"Unidentified_sp5_M_PL_114"
+"Canthium_bibracteatum"	0	0	0	0	0	0.0625	0.0625	0.0625	0	0	0.0625	0	0.0625	0.0625	0.0625	0	0	0	0.0625	0	0	0	0	0
+"Phoenicophorium_borsigianum"	0	0	0	0	0	0.0555555555555556	0.0555555555555556	0.0555555555555556	0.0555555555555556	0	0	0	0	0	0	0.0555555555555556	0.0555555555555556	0.0555555555555556	0	0	0	0.0555555555555556	0.0555555555555556	0
+"Deckenia_nobilis"	0	0	0	0	0	0.1	0.1	0.1	0	0	0	0.1	0	0	0	0.1	0	0	0	0	0	0	0	0
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0.0555555555555556	0.0555555555555556	0.0555555555555556	0.0555555555555556	0.0555555555555556	0	0.0555555555555556	0	0	0	0	0.0555555555555556	0	0	0.0555555555555556	0	0	0	0.0555555555555556
+"Chrysobalanus_icaco"	0	0	0	0	0	0.125	0.125	0	0	0	0	0	0	0	0	0	0	0	0.125	0	0.125	0	0	0
+"Apis_mellifera"	0.1	0.1	0.1	0.1	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.1	0.1	0.1	0.1	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.125	0.125	0.125	0.125	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_114"	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0	0	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_114"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratina_tabescens"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_114"	0	0.25	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_114"	0	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Melanostoma_annulipes"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhynchium_brunneum"	0.25	0	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_114"	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Polistes_olivaceus"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_114"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_114"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp5_M_PL_114"	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

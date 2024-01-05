@@ -1,0 +1,18 @@
+"Sorex_araneus"	"Apodemus_uralensis"	"Clethrionomys_glareolus"	"Microtus_agrestis"	"Clethrionomys_rutilus"	"Microtus_arvalis"	"Sorex_caecutiens"	"Arvicola_terrestris"	"Sicista_betulina"	"Hystrichopsylla_talpae"	"Amalaraeus_penicilliger"	"Rhadinopsylla_integella"	"Megabothris_walkeri"	"Amphipsylla_sibirica"	"Corrodopsylla_birulai"	"Ctenophthalmus_assimilis"	"Ceratophyllus_sciurorum"
+"Sorex_araneus"	0	0	0	0	0	0	0	0	0	0.18	0.18	0.18	0	0	0.18	0.18	0
+"Apodemus_uralensis"	0	0	0	0	0	0	0	0	0	0	0.225	0.225	0.225	0	0.225	0	0
+"Clethrionomys_glareolus"	0	0	0	0	0	0	0	0	0	0	0.18	0	0.18	0.18	0	0.18	0.18
+"Microtus_agrestis"	0	0	0	0	0	0	0	0	0	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0.128571428571429	0
+"Clethrionomys_rutilus"	0	0	0	0	0	0	0	0	0	0.15	0	0.15	0.15	0.15	0.15	0.15	0
+"Microtus_arvalis"	0	0	0	0	0	0	0	0	0	0.18	0	0	0.18	0	0.18	0.18	0.18
+"Sorex_caecutiens"	0	0	0	0	0	0	0	0	0	0	0.3	0	0	0.3	0	0	0.3
+"Arvicola_terrestris"	0	0	0	0	0	0	0	0	0	0.3	0	0	0	0.3	0	0.3	0
+"Sicista_betulina"	0	0	0	0	0	0	0	0	0	0	0.3	0	0.3	0	0	0	0.3
+"Hystrichopsylla_talpae"	0.18	0	0	0.18	0.18	0.18	0	0.18	0	0	0	0	0	0	0	0	0
+"Amalaraeus_penicilliger"	0.15	0.15	0.15	0.15	0	0	0.15	0	0.15	0	0	0	0	0	0	0	0
+"Rhadinopsylla_integella"	0.225	0.225	0	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_walkeri"	0	0.15	0.15	0.15	0.15	0.15	0	0	0.15	0	0	0	0	0	0	0	0
+"Amphipsylla_sibirica"	0	0	0.18	0.18	0.18	0	0.18	0.18	0	0	0	0	0	0	0	0	0
+"Corrodopsylla_birulai"	0.18	0.18	0	0.18	0.18	0.18	0	0	0	0	0	0	0	0	0	0	0
+"Ctenophthalmus_assimilis"	0.15	0	0.15	0.15	0.15	0.15	0	0.15	0	0	0	0	0	0	0	0	0
+"Ceratophyllus_sciurorum"	0	0	0.225	0	0	0.225	0.225	0	0.225	0	0	0	0	0	0	0	0

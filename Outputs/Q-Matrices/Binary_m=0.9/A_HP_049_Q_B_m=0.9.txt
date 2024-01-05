@@ -1,0 +1,25 @@
+"Apodemus_agrarius"	"Microtus_fortis"	"Tamias_sibiricus"	"Micromys_minutus"	"Apodemus_peninsulae"	"Megabothris_calcarifer"	"Neopsylla_bidentatiformis"	"Ctenophthalmus_congeneroides"	"Frontopsylla_elata"	"Pectinoctenus_pectiniceps"	"Ceratophyllus_indages"	"Frontopsylla_luculenta"	"Nosopsyllus_fasciatus"	"Ceratophyllus_anisus"	"Leptopsylla_segnis"	"Hystrichopsylla_microti"	"Megabothris_advenarius"	"Amphipsylla_vinogradovi"	"Ctenophthalmus_pisticus"	"Rhadinopsylla_rothschildi"	"Amphipsylla_marikovskii"	"Stenoponia_sidimi"	"Neopsylla_acanthina"	"Neopsylla_pleskei"
+"Apodemus_agrarius"	0	0	0	0	0	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0.06	0	0.06	0	0	0	0.06
+"Microtus_fortis"	0	0	0	0	0	0.09	0.09	0.09	0.09	0.09	0	0	0	0.09	0.09	0	0.09	0.09	0	0	0.09	0	0	0
+"Tamias_sibiricus"	0	0	0	0	0	0	0.15	0	0	0.15	0.15	0.15	0	0	0	0	0	0	0.15	0	0	0	0.15	0
+"Micromys_minutus"	0	0	0	0	0	0.18	0	0	0	0	0	0.18	0	0	0	0.18	0	0	0	0.18	0	0.18	0	0
+"Apodemus_peninsulae"	0	0	0	0	0	0	0.3	0	0	0.3	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_calcarifer"	0.3	0.3	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_bidentatiformis"	0.225	0.225	0.225	0	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ctenophthalmus_congeneroides"	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Frontopsylla_elata"	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pectinoctenus_pectiniceps"	0.225	0.225	0.225	0	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratophyllus_indages"	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Frontopsylla_luculenta"	0.225	0	0.225	0.225	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nosopsyllus_fasciatus"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratophyllus_anisus"	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Leptopsylla_segnis"	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hystrichopsylla_microti"	0.45	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_advenarius"	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_vinogradovi"	0.45	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ctenophthalmus_pisticus"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_rothschildi"	0.45	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_marikovskii"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Stenoponia_sidimi"	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_acanthina"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_pleskei"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

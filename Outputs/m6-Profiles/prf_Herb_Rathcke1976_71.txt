@@ -1,0 +1,6 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Ambrosia_trifida"	"Monarda_fistulosa"	"Apion_sp."	"Mordellistena"
+"2"	"Helianthis_rigidus"	"Silphium_integrifolium"	"Curculionidae_12"	"Mordellidae_23"
+"3"	"Helianthis_rigidus"	"Silphium_laciniatum"	"Curculionidae_12"	"Mordellidae_23"
+"4"	"Silphium_integrifolium"	"Silphium_laciniatum"	"Curculionidae_12"	"Mordellidae_23"
+"5"	"Ambrosia_trifida"	"Helianthis_rigidus"	"Mordellistena"	"Mordellidae_23"

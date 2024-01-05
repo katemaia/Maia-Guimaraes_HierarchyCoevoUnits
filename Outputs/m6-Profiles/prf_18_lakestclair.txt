@@ -1,0 +1,7 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Apollonia_melanostoma"	"Proterorhinus_marmoratus"	"Sphaeromyxa_sevastopoli"	"Raphidascaris_acus"
+"2"	"Apollonia_melanostoma"	"Proterorhinus_marmoratus"	"Sphaeromyxa_sevastopoli"	"Spiroxys_sp."
+"3"	"Apollonia_melanostoma"	"Proterorhinus_marmoratus"	"Sphaeromyxa_sevastopoli"	"Leptorhynchoides_thecatus"
+"4"	"Apollonia_melanostoma"	"Proterorhinus_marmoratus"	"Raphidascaris_acus"	"Spiroxys_sp."
+"5"	"Apollonia_melanostoma"	"Proterorhinus_marmoratus"	"Raphidascaris_acus"	"Leptorhynchoides_thecatus"
+"6"	"Apollonia_melanostoma"	"Proterorhinus_marmoratus"	"Spiroxys_sp."	"Leptorhynchoides_thecatus"

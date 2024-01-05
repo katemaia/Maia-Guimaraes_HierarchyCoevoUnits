@@ -1,0 +1,2 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Cinnamomum_verum"	"Nepenthes_pervillei"	"Apis_mellifera"	"Hemipyrellia_sp1_M_PL_118"

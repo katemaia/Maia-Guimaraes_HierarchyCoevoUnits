@@ -1,0 +1,19 @@
+"Cordia_nodosa"	"Hirtella_myrmecophila"	"Maieta_guianensis"	"Myrcia_madida"	"Hirtella_physophora"	"Tococa_bullifera"	"Tachigalia_spp."	"Duroia_saccifera"	"Azteca_r.am.1"	"Allomerus_octoarticulatus"	"Pheidole_minutula"	"Myrcidris_sp."	"Crematogaster_laevis"	"Pseudomyrmex_concolor"	"Allomerus_septemarticulatus"	"Crematogaster_brasiliensis"	"Solenopsis_sp2"	"Pseudomyrmex_nigriceps"
+"Cordia_nodosa"	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0
+"Hirtella_myrmecophila"	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0
+"Maieta_guianensis"	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0	0.0333333333333333	0	0	0	0.0333333333333333	0
+"Myrcia_madida"	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0
+"Hirtella_physophora"	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0
+"Tococa_bullifera"	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Tachigalia_spp."	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0	0.0333333333333333	0	0.0333333333333333
+"Duroia_saccifera"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0
+"Azteca_r.am.1"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Allomerus_octoarticulatus"	0	0.05	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pheidole_minutula"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Myrcidris_sp."	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Crematogaster_laevis"	0	0	0.05	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0
+"Pseudomyrmex_concolor"	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0
+"Allomerus_septemarticulatus"	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0
+"Crematogaster_brasiliensis"	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0
+"Solenopsis_sp2"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pseudomyrmex_nigriceps"	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0

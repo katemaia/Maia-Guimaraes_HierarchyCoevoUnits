@@ -1,0 +1,25 @@
+"Nephrosperma_vanhoutteanum"	"Paragenipa_wrightii"	"Erythroxylum_sechellarum"	"Roscheria_melanochaetes"	"Memecylon_eleagni"	"Dillenia_ferruginea"	"Nepenthes_pervillei"	"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_germana"	"Unidentified_sp5_M_PL_119"	"Unidentified_sp2_M_PL_119"	"Parasarcophaga_hirticeps"	"Phelsuma_sp1_M_PL_119"	"Hemipyrellia_sp1_M_PL_119"	"Lygistorrhina_sp1_M_PL_119"	"Ornidia_obesa"	"Unidentified_sp1_M_PL_119"	"Unidentified_sp4_M_PL_119"	"Cratopus_aurostriatus"	"Dichaetomyia_fasciculifera"	"Nectarinia_dussumieri"	"Rhiparida_seychellensis"	"Unidentified_sp3_M_PL_119"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0.0111111111111111	0.0111111111111111	0	0	0.0111111111111111	0	0.0111111111111111	0.0111111111111111	0.0111111111111111	0	0.0111111111111111	0	0.0111111111111111	0	0	0	0.0111111111111111
+"Paragenipa_wrightii"	0	0	0	0	0	0	0	0.025	0.025	0	0.025	0	0	0	0	0	0	0	0	0	0	0.025	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0.02	0.02	0	0	0	0.02	0	0	0	0.02	0.02	0	0	0	0	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0.0333333333333333	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0.05	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dillenia_ferruginea"	0	0	0	0	0	0	0	0.025	0	0.025	0	0	0	0	0	0	0.025	0	0	0	0	0	0.025	0
+"Nepenthes_pervillei"	0	0	0	0	0	0	0	0	0	0.025	0	0	0.025	0	0.025	0	0	0	0	0	0.025	0	0	0
+"Apis_mellifera"	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.025	0.025	0.025	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0	0	0	0	0.0333333333333333	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp5_M_PL_119"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_119"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Parasarcophaga_hirticeps"	0	0	0.05	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_119"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_119"	0.05	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_119"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0	0.05	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_119"	0.05	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_119"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dichaetomyia_fasciculifera"	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_119"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

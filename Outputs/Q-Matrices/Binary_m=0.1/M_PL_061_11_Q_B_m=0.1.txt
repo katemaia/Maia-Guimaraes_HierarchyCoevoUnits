@@ -1,0 +1,19 @@
+"Phoenicophorium_borsigianum"	"Erythroxylum_sechellarum"	"Canthium_bibracteatum"	"Cinnamomum_verum"	"Roscheria_melanochaetes"	"Colea_seychellarum"	"Lasioglossum_mahense"	"Rhiparida_seychellensis"	"Apis_mellifera"	"Unidentified_sp3_M_PL_094"	"Unidentified_sp4_M_PL_094"	"Hemipyrellia_germana"	"Ornidia_obesa"	"Unidentified_sp1_M_PL_094"	"Leptotes_pirithous"	"Nectarinia_dussumieri"	"Parasarcophaga_hirticeps"	"Unidentified_sp2_M_PL_094"
+"Phoenicophorium_borsigianum"	0	0	0	0	0	0	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0.0166666666666667	0	0	0	0	0	0	0.0166666666666667
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0.05	0	0	0	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0	0	0.025	0	0	0.025	0.025	0	0	0	0.025	0
+"Cinnamomum_verum"	0	0	0	0	0	0	0	0	0.0333333333333333	0	0	0	0.0333333333333333	0	0.0333333333333333	0	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0
+"Colea_seychellarum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0
+"Lasioglossum_mahense"	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0333333333333333	0	0.0333333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_094"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_094"	0.05	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_094"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Leptotes_pirithous"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0
+"Parasarcophaga_hirticeps"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_094"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

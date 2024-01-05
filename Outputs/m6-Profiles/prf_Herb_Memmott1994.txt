@@ -1,0 +1,3 @@
+"R1"	"R2"	"C1"	"C2"
+"1"	"Centrosema_pubescens"	"Desmodium_sp."	"Oxychalepus_auticornis"	"Sumitrosis_roseus"
+"2"	"Centrosema_pubescens"	"Unidentified_host_plants"	"Oxychalepus_auticornis"	"Xenochalepus_omogenus"

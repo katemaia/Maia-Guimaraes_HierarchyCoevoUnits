@@ -1,0 +1,21 @@
+"Canthium_bibracteatum"	"Psidium_cattleianum"	"Premna_serratifolia"	"Erythroxylum_sechellarum"	"Cinnamomum_verum"	"Ochna_kirkii"	"Memecylon_eleagni"	"Lasioglossum_mahense"	"Apis_mellifera"	"Ornidia_obesa"	"Parasarcophaga_hirticeps"	"Unidentified_sp1_M_PL_109"	"Xylocopa_caffra"	"Hemipyrellia_germana"	"Pachycerina_seychellensis"	"Dichaetomyia_fasciculifera"	"Hemipyrellia_sp1_M_PL_109"	"Lygistorrhina_sp1_M_PL_109"	"Plagiostenopterina_cyanosoma"	"Simosyrphus_aegyptius"
+"Canthium_bibracteatum"	0	0	0	0	0	0	0	0.025	0.025	0.025	0	0	0	0.025	0	0	0	0	0	0
+"Psidium_cattleianum"	0	0	0	0	0	0	0	0	0.025	0.025	0.025	0	0.025	0	0	0	0	0	0	0
+"Premna_serratifolia"	0	0	0	0	0	0	0	0.0125	0	0.0125	0.0125	0.0125	0	0.0125	0.0125	0.0125	0.0125	0	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0.025	0.025	0	0	0	0	0	0.025	0	0	0.025	0	0
+"Cinnamomum_verum"	0	0	0	0	0	0	0	0.02	0	0.02	0.02	0	0	0	0	0	0.02	0	0.02	0
+"Ochna_kirkii"	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0.05
+"Lasioglossum_mahense"	0.025	0	0.025	0.025	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.025	0.025	0	0.025	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0.025	0.025	0.025	0	0.025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Parasarcophaga_hirticeps"	0	0.0333333333333333	0.0333333333333333	0	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_109"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Xylocopa_caffra"	0	0.05	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.05	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pachycerina_seychellensis"	0	0	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dichaetomyia_fasciculifera"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_109"	0	0	0.05	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_109"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Plagiostenopterina_cyanosoma"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Simosyrphus_aegyptius"	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0
