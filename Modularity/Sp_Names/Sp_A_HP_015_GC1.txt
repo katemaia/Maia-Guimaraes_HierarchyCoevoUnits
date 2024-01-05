@@ -1,0 +1,11 @@
+"Sp"	"MDim"
+"Clethrionomys_rutilus"	1
+"Clethrionomys_rufocanus"	1
+"Microtus_oeconomus"	1
+"Megabothris_advenarius"	2
+"Amalaraeus_penicilliger"	2
+"Stenoponia_montana"	2
+"Catallagia_dacenkoi"	2
+"Hystrichopsylla_microti"	2
+"Amphipsylla_marikovskii"	2
+"Rhadinopsylla_integella"	2

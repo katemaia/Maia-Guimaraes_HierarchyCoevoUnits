@@ -1,0 +1,14 @@
+"Sp"	"MDim"
+"Sambucus_niger"	1
+"Crataegus_monogyna"	1
+"Hedera_helix"	1
+"Prunus_spinosa"	1
+"Euonymus_europaeus"	1
+"Rubus_fruticosus"	1
+"Rosa_canina"	1
+"Turdus_merula"	2
+"Turdus_philomelos"	2
+"Erithacus_rubecula"	2
+"Sylvia_atricapilla"	2
+"Turdus_iliacus"	2
+"Turdus_pilaris"	2

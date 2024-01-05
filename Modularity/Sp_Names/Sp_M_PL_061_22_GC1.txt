@@ -1,0 +1,17 @@
+"Sp"	"MDim"
+"Dillenia_ferruginea"	1
+"Erythroxylum_sechellarum"	1
+"Nephrosperma_vanhoutteanum"	1
+"Psychotria_pervillei"	1
+"Memecylon_eleagni"	1
+"Aphloia_theiformis"	1
+"Apis_mellifera"	2
+"Lasioglossum_mahense"	2
+"Ornidia_obesa"	2
+"Eristalinus_vicarians"	2
+"Cratopus_aurostriatus"	2
+"Hemipyrellia_germana"	2
+"Phelsuma_sp1_M_PL_105"	2
+"Rhiparida_seychellensis"	2
+"Unidentified_sp1_M_PL_105"	2
+"Xylocopa_caffra"	2

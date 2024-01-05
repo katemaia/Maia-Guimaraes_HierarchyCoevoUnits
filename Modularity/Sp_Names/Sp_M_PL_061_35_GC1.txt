@@ -1,0 +1,17 @@
+"Sp"	"MDim"
+"Cinnamomum_verum"	1
+"Nephrosperma_vanhoutteanum"	1
+"Memecylon_eleagni"	1
+"Chrysobalanus_icaco"	1
+"Erythroxylum_sechellarum"	1
+"Nepenthes_pervillei"	1
+"Apis_mellifera"	2
+"Neophyllomyza_approximatonervis"	2
+"Lygistorrhina_sp1_M_PL_118"	2
+"Lasioglossum_mahense"	2
+"Nectarinia_dussumieri"	2
+"Unidentified_sp1_M_PL_118"	2
+"Hemipyrellia_sp1_M_PL_118"	2
+"Leptotes_pirithous"	2
+"Ornidia_obesa"	2
+"Megachile_seychellensis"	2

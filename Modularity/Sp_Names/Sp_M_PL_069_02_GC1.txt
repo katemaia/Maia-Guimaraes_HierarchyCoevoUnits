@@ -1,0 +1,15 @@
+"Sp"	"MDim"
+"Fuchsia_regia"	1
+"Spirotheca_rivieri"	1
+"Inga_sp1_M_PL_069_02"	1
+"Aegiphila_obducta"	1
+"Nematanthus_australis"	1
+"Justicia_carnea"	1
+"Vriesea_altodaserrae"	1
+"Vriesea_incurvata"	1
+"Heliconia_farinosa"	1
+"Nidularium_inocentii"	1
+"Clytolaema_rubricauda"	2
+"Thalurania_glaucopis"	2
+"Phaethornis_eurynome"	2
+"Amazilia_versicolor"	2

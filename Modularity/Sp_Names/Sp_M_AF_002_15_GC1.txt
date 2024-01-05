@@ -1,0 +1,8 @@
+"Sp"	"MDim"
+"Entacmaea_quadricolor"	1
+"Heteractis_crispa"	1
+"Heteractis_magnifica"	1
+"Amphiprion_clarkii"	2
+"Premnas_biaculeatus"	2
+"Amphiprion_perideraion"	2
+"Amphiprion_ocellaris"	2

@@ -1,0 +1,17 @@
+"Sp"	"MDim"
+"Canthium_bibracteatum"	1
+"Memecylon_eleagni"	1
+"Cinnamomum_verum"	1
+"Ochna_kirkii"	1
+"Paragenipa_wrightii"	1
+"Apis_mellifera"	2
+"Lasioglossum_mahense"	2
+"Xylocopa_caffra"	2
+"Lygistorrhina_sp1_M_PL_108"	2
+"Hemipyrellia_sp1_M_PL_108"	2
+"Unidentified_sp1_M_PL_108"	2
+"Scaptodrosophila_sp1_M_PL_108"	2
+"Chalcidoma_disjunctum"	2
+"Hemipyrellia_germana"	2
+"Nectarinia_dussumieri"	2
+"Phalanta_phalantha"	2

@@ -1,0 +1,14 @@
+"Sp"	"MDim"
+"Barringtonia_calyptrocalyx"	1
+"Terminalia_sp."	1
+"Syzygium_pachycladum"	1
+"Syzygium_samaragense"	1
+"Syzygium_longipes"	1
+"Syzygium_sp."	1
+"Galearia_celebica"	1
+"Phaleria_macrocarpa"	1
+"Adrama_selecta"	2
+"Bactrocera_bullata"	2
+"Bactrocera_frauenfeldi"	2
+"Bactrocera_penefurva"	2
+"Bactrocera_trivialis"	2

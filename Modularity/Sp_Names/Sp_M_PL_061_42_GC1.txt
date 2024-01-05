@@ -1,0 +1,14 @@
+"Sp"	"MDim"
+"Nephrosperma_vanhoutteanum"	1
+"Chrysobalanus_icaco"	1
+"Mimusops_sechellarum"	1
+"Memecylon_eleagni"	1
+"Apis_mellifera"	2
+"Lasioglossum_mahense"	2
+"Unidentified_sp1_M_PL_125"	2
+"Lygistorrhina_sp1_M_PL_125"	2
+"Ornidia_obesa"	2
+"Nectarinia_dussumieri"	2
+"Rhynchium_brunneum"	2
+"Unidentified_sp2_M_PL_125"	2
+"Unidentified_sp3_M_PL_125"	2

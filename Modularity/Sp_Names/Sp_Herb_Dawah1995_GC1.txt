@@ -1,0 +1,9 @@
+"Sp"	"MDim"
+"Calamagrostis_epigejos"	1
+"Ammophila_arenaria"	1
+"Deschampsia_cespitosa"	1
+"Eurytoma_sp."	2
+"Tetramesa_calamagrostidis"	2
+"Tetramesa_eximia"	2
+"Tetramesa_petiolata"	2
+"Tetramesa_airae"	2

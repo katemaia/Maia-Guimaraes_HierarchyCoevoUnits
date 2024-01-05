@@ -1,0 +1,12 @@
+"Sp"	"MDim"
+"Fuchsia_regia"	1
+"Gaylussacia_brasiliensis"	1
+"Aechmea_cylindrata"	1
+"Nematanthus_australis"	1
+"Vriesea_altodaserrae"	1
+"Aegiphila_obducta"	1
+"Nidularium_inocentii"	1
+"Thalurania_glaucopis"	2
+"Clytolaema_rubricauda"	2
+"Stephanoxis_lalandi"	2
+"Amazilia_versicolor"	2

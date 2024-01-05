@@ -1,0 +1,11 @@
+"Sp"	"MDim"
+"Memecylon_eleagni"	1
+"Mimusops_sechellarum"	1
+"Roscheria_melanochaetes"	1
+"Apis_mellifera"	2
+"Unidentified_sp1_M_PL_124"	2
+"Unidentified_sp2_M_PL_124"	2
+"Cratopus_aurostriatus"	2
+"Lasioglossum_mahense"	2
+"Lygistorrhina_sp1_M_PL_124"	2
+"Simosyrphus_aegyptius"	2

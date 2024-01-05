@@ -1,0 +1,10 @@
+"Sp"	"MDim"
+"Allomerus_demararae"	1
+"Azteca_sp7_M_PA_001"	1
+"Azteca_sp9_M_PA_001"	1
+"Crematogaster_limata"	1
+"Azteca_sp10_M_PA_001"	1
+"Azteca_sp13_M_PA_001"	1
+"Gnamptogenys_pleurodon"	1
+"Cordia_nodosa"	2
+"Tococa_sp1_M_PA_001"	2

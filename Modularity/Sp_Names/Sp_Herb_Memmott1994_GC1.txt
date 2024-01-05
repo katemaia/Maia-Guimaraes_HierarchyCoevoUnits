@@ -1,0 +1,13 @@
+"Sp"	"MDim"
+"Centrosema_pubescens"	1
+"Desmodium_sp."	1
+"Dioclea_megacarpa"	1
+"Fabaceae_sp."	1
+"Unidentified_host_plants"	1
+"Agromyzidae_sp._2"	2
+"Diptera_sp._5"	2
+"Oxychalepus_auticornis"	2
+"Phyllonorycter_sp._3"	2
+"Sumitrosis_roseus"	2
+"Sumitrosis_sp."	2
+"Xenochalepus_omogenus"	2

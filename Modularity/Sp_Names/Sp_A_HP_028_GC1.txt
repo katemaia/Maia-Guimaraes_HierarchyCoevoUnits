@@ -1,0 +1,17 @@
+"Sp"	"MDim"
+"Microtus_arvalis"	1
+"Arvicola_terrestris"	1
+"Neomys_schelkovnikovi"	1
+"Ctenophthalmus_wladimiri"	2
+"Amphipsylla_rossica"	2
+"Frontopsylla_elata"	2
+"Megabothris_walkeri"	2
+"Ctenophthalmus_bogatschevi"	2
+"Neopsylla_pleskei"	2
+"Nosopsyllus_consimilis"	2
+"Hystrichopsylla_talpae"	2
+"Palaeopsylla_soricis"	2
+"Callopsylla_caspia"	2
+"Peromyscopsylla_bidentata"	2
+"Rhadinopsylla_integella"	2
+"Stenoponia_ivanovi"	2

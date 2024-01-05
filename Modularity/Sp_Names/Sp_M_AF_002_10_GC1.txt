@@ -1,0 +1,6 @@
+"Sp"	"MDim"
+"Heteractis_crispa"	1
+"Stichodactyla_mertensii"	1
+"Amphiprion_clarkii"	2
+"Amphiprion_perideraion"	2
+"Amphiprion_sandaracinos"	2

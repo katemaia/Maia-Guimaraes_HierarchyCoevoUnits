@@ -1,0 +1,13 @@
+"Sp"	"MDim"
+"Dillenia_ferruginea"	1
+"Erythroxylum_sechellarum"	1
+"Craterispermum_microdon"	1
+"Memecylon_eleagni"	1
+"Cinnamomum_verum"	1
+"Lasioglossum_mahense"	2
+"Apis_mellifera"	2
+"Scaptodrosophila_sp1_M_PL_100"	2
+"Phelsuma_sp1_M_PL_100"	2
+"Cratopus_aurostriatus"	2
+"Unidentified_sp2_M_PL_100"	2
+"Unidentified_sp3_M_PL_100"	2

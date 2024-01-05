@@ -1,0 +1,10 @@
+"Sp"	"MDim"
+"Juniperus_phoenicea"	1
+"Osyris_quadripartita"	1
+"Corema_album"	1
+"Phillyrea_angustifolia"	1
+"Turdus_merula"	2
+"Turdus_iliacus"	2
+"Turdus_philomelos"	2
+"Turdus_torquatus"	2
+"Turdus_viscivorus"	2

@@ -1,0 +1,17 @@
+"Sp"	"MDim"
+"Pectis_tenuifolia"	1
+"Chiococa_alba"	1
+"Darwiniothamnus_tenuifolius"	1
+"Opuntia_echios"	1
+"Scalesia_affinis"	1
+"Waltheria_ovata"	1
+"Cordia_lutea"	1
+"Cordia_revoluta"	1
+"Jasminoserius_thouarsii"	1
+"Lippia_rosmarinifolia"	1
+"Passiflora_foetida"	1
+"Xylocopa_darwini"	2
+"Lepidanthrax_tinctus"	2
+"Halmenus_cuspidatus"	2
+"Unidentified_sp1_M_PL_042"	2
+"Unidentified_sp2_M_PL_042"	2

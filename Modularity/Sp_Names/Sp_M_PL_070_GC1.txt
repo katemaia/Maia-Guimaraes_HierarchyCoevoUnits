@@ -1,0 +1,17 @@
+"Sp"	"MDim"
+"Bouvardia_ternifolia"	1
+"Salvia_elegans"	1
+"Penstemon_roseus"	1
+"Castilleja_tenuiflora"	1
+"Penstemon_gentianoides"	1
+"Prunella_vulgaris"	1
+"Castilleja_scorzonerifolia"	1
+"Salvia_mocinoi"	1
+"Hylocharis_leucotis"	2
+"Archilochus_colubris"	2
+"Eugenes_fulgens"	2
+"Lampornis_clemenciae"	2
+"Colibri_thalassinus"	2
+"Selasphorus_platycercus"	2
+"Selasphorus_rufus"	2
+"Selasphorus_sasin"	2

@@ -1,0 +1,15 @@
+"Sp"	"MDim"
+"Agrostis_stolonifera"	1
+"Anthoxanthum_odoratum"	1
+"Dactylis_glomerata"	1
+"Deschampsia_cespitosa"	1
+"Holcus_lanatus"	1
+"Holcus_mollis"	1
+"Poa_pratensis"	1
+"Poa_trivialis"	1
+"Rubus_sp."	1
+"Macrosiphun_funestum"	2
+"Amphorophora_rubi"	2
+"Aphis_ruborum"	2
+"Sitobion_fragariae"	2
+"Sitobion_avenae"	2

@@ -1,0 +1,11 @@
+"Sp"	"MDim"
+"Chrysobalanus_icaco"	1
+"Dillenia_ferruginea"	1
+"Nepenthes_pervillei"	1
+"Apis_mellifera"	2
+"Hemipyrellia_sp1_M_PL_117"	2
+"Lasioglossum_mahense"	2
+"Eristalinus_vicarians"	2
+"Hemipyrellia_germana"	2
+"Ornidia_obesa"	2
+"Rhiparida_seychellensis"	2

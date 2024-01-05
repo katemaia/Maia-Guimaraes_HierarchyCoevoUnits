@@ -1,0 +1,15 @@
+"Sp"	"MDim"
+"Apodemus_agrarius"	1
+"Microtus_fortis"	1
+"Apodemus_peninsulae"	1
+"Crocidura_suaveolens"	1
+"Tamias_sibiricus"	1
+"Megabothris_calcarifer"	2
+"Ctenophthalmus_congeneroides"	2
+"Neopsylla_bidentatiformis"	2
+"Stenoponia_sidimi"	2
+"Nosopsyllus_fasciatus"	2
+"Ceratophyllus_anisus"	2
+"Rhadinopsylla_insolita"	2
+"Peromyscopsylla_ostsibirica"	2
+"Hystrichopsylla_microti"	2

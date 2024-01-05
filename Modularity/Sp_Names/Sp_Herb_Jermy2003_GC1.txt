@@ -1,0 +1,17 @@
+"Sp"	"MDim"
+"Lathyrus_latifolius"	1
+"Lathyrus_pratensis"	1
+"Lathyrus_tuberosus"	1
+"Lathyrus_niger"	1
+"Lathyrus_pannonicus"	1
+"Lathyrus_sylvestris"	1
+"Lathyrus_vernus"	1
+"Vicia_cassubica"	1
+"Vicia_pisiformis"	1
+"Vicia_sepium"	1
+"Vicia_sparsifolia"	1
+"Lathyrus_nissolia"	1
+"Brucchus_affinis"	2
+"Brucchus_atomarius"	2
+"Brucchus_loti"	2
+"Brucchus_viciae"	2

@@ -1,0 +1,7 @@
+"Sp"	"MDim"
+"Juniperus_communis"	1
+"Juniperus_sabina"	1
+"Berberis_vulgaris"	1
+"Turdus_torquatus"	2
+"Turdus_viscivorus"	2
+"Turdus_iliacus"	2

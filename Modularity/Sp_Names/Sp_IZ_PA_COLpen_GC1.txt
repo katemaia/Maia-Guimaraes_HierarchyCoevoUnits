@@ -1,0 +1,5 @@
+"Sp"	"MDim"
+"Hirtella_myrmecophila"	1
+"Hirtella_physophora"	1
+"Allomerus_octoarticulatus"	2
+"Allomerus_septemarticulatus"	2

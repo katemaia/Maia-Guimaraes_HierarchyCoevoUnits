@@ -1,0 +1,6 @@
+"Sp"	"MDim"
+"Maieta_guianensis"	1
+"Tococa_bullifera"	1
+"Pheidole_minutula"	2
+"Crematogaster_laevis"	2
+"Solenopsis_sp2"	2

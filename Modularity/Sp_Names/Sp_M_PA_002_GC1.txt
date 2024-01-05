@@ -1,0 +1,11 @@
+"Sp"	"MDim"
+"Cecropia_membranacea"	1
+"Cecropia_tessmannii"	1
+"Cecropia_ficifolia"	1
+"Cecropia_sp1_M_PA_002"	1
+"Cecropia_polystachya"	1
+"Cecropia_engleriana"	1
+"Azteca_xanthochroa"	2
+"Azteca_ovaticeps"	2
+"Camponotus_balzani"	2
+"Pachycondyla_luteola"	2

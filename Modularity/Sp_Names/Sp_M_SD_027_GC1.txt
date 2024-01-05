@@ -1,0 +1,17 @@
+"Sp"	"MDim"
+"Crataegus_monogyna"	1
+"Juniperus_communis"	1
+"Juniperus_sabina"	1
+"Rosa_canina"	1
+"Berberis_vulgaris"	1
+"Juniperus_phoenicea"	1
+"Hedera_helix"	1
+"Lonicera_arborea"	1
+"Taxus_baccata"	1
+"Prunus_prostrata"	1
+"Rhamnus_myrtifolius"	1
+"Rhamnus_saxatilis"	1
+"Turdus_merula"	2
+"Turdus_viscivorus"	2
+"Turdus_iliacus"	2
+"Turdus_torquatus"	2

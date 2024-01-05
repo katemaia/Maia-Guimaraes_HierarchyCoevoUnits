@@ -1,0 +1,6 @@
+"Sp"	"MDim"
+"Cordia_nodosa"	1
+"Palicourea_corymbifera"	1
+"Azteca_r.am.1"	2
+"Pachycondila_unidentata"	2
+"Crematogaster_brasiliensis"	2

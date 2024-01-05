@@ -1,0 +1,17 @@
+"Sp"	"MDim"
+"Ambrosia_trifida"	1
+"Helianthis_rigidus"	1
+"Monarda_fistulosa"	1
+"Solidago_altissima"	1
+"Silphium_integrifolium"	1
+"Silphium_laciniatum"	1
+"Hippopsis_lemniscata"	2
+"Mecas_sp."	2
+"Apion_sp."	2
+"Curculionidae_12"	2
+"Mordellistena"	2
+"Mordellidae_23"	2
+"Tomoxia_sp."	2
+"Thomasiniana"	2
+"Tephritidae"	2
+"Family_unkn_77"	2

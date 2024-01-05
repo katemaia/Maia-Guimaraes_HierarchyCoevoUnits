@@ -1,0 +1,10 @@
+"Sp"	"MDim"
+"Phalaris_arundinacea"	1
+"Calamagrostis_epigejos"	1
+"Calamagrostis_canescens"	1
+"Tetramesa_longicornis"	2
+"Eurytoma_sp."	2
+"Tetramesa_eximia"	2
+"Tetramesa_calamagrostidis"	2
+"Tetramesa_sp._2"	2
+"Tetramesa_sp._1"	2
