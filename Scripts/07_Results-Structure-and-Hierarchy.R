@@ -160,8 +160,6 @@ net_struct %>% filter(n_m6 != 0) %>% # 345 remaining as NaNs are 0/0 (21 had non
 # Author: Kate P Maia
 # Checked: 04/2024
 
-setwd("C:/Users/Kate Maia/Documents/Maia-Guimaraes_HierarchyCoevoUnits")
-
 # --------------------- Loading library, code and data --------------------
 
 library(tidyverse)
@@ -230,7 +228,7 @@ for (i in 1:length(net_names)) { # for each network
     m6df <- data.frame(Nm6 = Nm6$frequency, MNm6 = mean(Nm6n$frequency), SDNm6 = sd(Nm6n$frequency))
     
     # Saves null matrices to compute number of modules: Newman metric, Fast Grid algorithm, MODULAR PROGRAMME 
-    nullnames <- paste0("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/null_GC_M/M_GC_", ID, "_N", 1:100, ".txt")
+    nullnames <- paste0("./Outputs/null_GC_M/M_GC_", ID, "_N", 1:100, ".txt")
     #mapply(write.table, GCnull, nullnames, sep = "\t", row.names = FALSE, col.names = FALSE)
   }
   
@@ -238,12 +236,12 @@ for (i in 1:length(net_names)) { # for each network
   
 }
 
-#write.table(table1, "../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/07_No-of-Groups_NullModel.txt", sep = "\t")
+#write.table(table1, "./Outputs/07_No-of-Groups_NullModel.txt", sep = "\t")
 
 # ------------------- computing zscore values for Table1 ------------------
 
-table1 <- read.table("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/07_No-of-Groups_NullModel.txt", header = TRUE, sep = "\t")
-modresults <- read.table("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/Null_GC_M/ResultsFG/OUT_MOD.txt", header = TRUE, sep = "\t") # number of modules: Newman metric, Fast Grid algorithm, MODULAR PROGRAMME 
+table1 <- read.table("./Outputs/07_No-of-Groups_NullModel.txt", header = TRUE, sep = "\t")
+modresults <- read.table("./Data/Null_GC_M/ResultsFG/OUT_MOD.txt", header = TRUE, sep = "\t") # number of modules: Newman metric, Fast Grid algorithm, MODULAR PROGRAMME 
 
 # fixing network ID
 modresults <- modresults %>% mutate(File = str_sub(File, start = 6, end = -5)) %>% 

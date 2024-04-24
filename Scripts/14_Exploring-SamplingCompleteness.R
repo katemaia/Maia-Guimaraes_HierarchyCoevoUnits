@@ -7,14 +7,12 @@
 
 # --------------------- Loading library, code and data --------------------
 
-setwd("C:/Users/Kate Maia/Documents/Maia-Guimaraes_HierarchyCoevoUnits")
-
 library(tidyverse)
 library(RColorBrewer)
 library(cowplot)
-#source("./Scripts/functions/zscore.R")
+source("./Scripts/functions/zscore.R")
 
-sampling <- read.table("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/TableS1_Sampling.txt", header = TRUE)
+sampling <- read.table("./Data/TableS1_Sampling.txt", header = TRUE)
 
 net_struct <- read.table("./Outputs/05_Net-Level_Struct.txt", header = T, sep = "\t")
 
@@ -130,7 +128,6 @@ pc <- zdata %>% filter(ID %in% sampled) %>% # 79
   xlab("Module-sector congruence (z-score)") + ylab("Frequecy") + theme_cowplot(); pc
 
 cowplot::plot_grid(pa, pb, pc, labels = c("a)", "b)", "c)"), nrow = 1, label_size = 12, label_fontfamily = "", label_fontface = "plain")
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_Sampling_MSCongr.svg", width = 33, height = 11, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # ------------ Fig SX: Plotting subgraphs in modules/sectors -------------- 
@@ -203,7 +200,6 @@ pf <- zdata %>% filter(ID %in% sampled) %>% # N = 79
   theme_cowplot() + theme(axis.title.x = element_text(size = 12)); pf
 
 cowplot::plot_grid(pa, pb, pc, pd, pe, pf, labels = c("a)", "b)", "c)", "d)", "e)", "f)"), nrow = 2, label_size = 14, label_fontfamily = "", label_fontface = "plain")
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_Sampling_SubgrCongr.svg", width = 33, height = 22, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # --------------- Fig SX: Subgraph-Module-Sector Congruence ---------------
@@ -236,7 +232,6 @@ pb <- data %>% filter(ID %in% sampled) %>% # N = 74 with n_m6
 pb <- pb + annotate("text", x = 1:4, y = 1.02, label = label$n); pb
 
 cowplot::plot_grid(pa, pb, labels = c("a)", "b)"), ncol = 2, label_size = 14, label_fontfamily = "", label_fontface = "plain")
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_Sampling_DoubleHier.svg.svg", width = 26, height = 13, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # -------------------------- Exploring DYNAMICS ---------------------------
@@ -259,7 +254,6 @@ partition_df %>% select(ID, Code, effmeasure, m, inMdinMt, inMdbetMt, betMdinMt,
   labs(x = "", y = "Proportion of effects") + theme_classic() +
   theme(legend.position = "none") + scale_fill_manual(values = effpal) +
   facet_grid(rows = vars(m), cols = vars(effmeasure))
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_Sampling_PartitionModSubg.svg", width = 6.2, height = 6.2)
 
 # -------------------------------------------------------------------------
 # --------- Fig SX: Plotting sector-module partition of effects -----------
@@ -276,7 +270,6 @@ partition_df %>% select(ID, Code, effmeasure, m, inSinM, inSbetM, betSinM, betSb
   labs(x = "", y = "Proportion of effects") + theme_classic() +
   theme(legend.position = "none") + scale_fill_manual(values = effpal) +
   facet_grid(rows = vars(m), cols = vars(effmeasure))
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_Sampling_PartitionSectMod.svg", width = 6.2, height = 6.2)
 
 # -------------------------------------------------------------------------
 # --------- Results on direct effects within groups across scales ---------

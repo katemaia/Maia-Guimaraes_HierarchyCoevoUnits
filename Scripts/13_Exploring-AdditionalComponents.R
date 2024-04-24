@@ -10,13 +10,11 @@
 
 # --------------------- Loading library, code and data --------------------
 
-setwd("C:/Users/Kate Maia/Documents/Maia-Guimaraes_HierarchyCoevoUnits")
-
 library(tidyverse)
 library(igraph)
 library(cowplot)
 library(scales)
-#source("./Scripts/functions/inc2adj.R")
+source("./Scripts/Functions/inc2adj.R")
 
 net_struct <- read.table("./Outputs/05_Net-Level_Struct.txt", header = TRUE, sep = "\t")
 
@@ -126,4 +124,3 @@ pc <- othercomp %>% ggplot(aes(x = CSize, y = CSizeP, color = Code)) +
   theme_cowplot() + theme(legend.position = "none", axis.title.x = element_text(size = 11.5), axis.title.y = element_text(size = 12)); pc
 
 plot_grid(pa, pb, pc, labels = c("a)", "b)", "c)"), nrow = 1, label_size = 12, label_fontfamily = "", label_fontface = "plain")
-#ggsave("./TEST.svg", width = 26, height = 8, units = "cm", bg = "white")

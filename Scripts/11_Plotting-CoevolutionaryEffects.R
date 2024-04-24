@@ -7,8 +7,6 @@
 
 # --------------------- Loading library, code and data --------------------
 
-setwd("C:/Users/Kate Maia/Documents/Maia-Guimaraes_HierarchyCoevoUnits")
-
 library(tidyverse)
 library(reshape2)
 library(cowplot)
@@ -158,11 +156,9 @@ xlab <- textGrob("Partition", gp = gpar(fontsize = 14))
 
 pa <- plot_grid(paho, phb, herp, prpr, nrow = 2, scale = 1.01)
 pa <- grid.arrange(arrangeGrob(pa, left = ylab, bottom = xlab))
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_SgMSP_Ant.svg", pa, width = 28, height = 20, units = "cm", bg = "white")
 
 pm <- plot_grid(polp, sdp, fane, antp, nrow = 2, scale = 1.01)
 pm <- grid.arrange(arrangeGrob(pm, left = ylab, bottom = xlab))
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_SgMSP_Mut.svg", pm, width = 28, height = 20, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # ---- Fig X: Sector-module partition effect as significance profiles -----
@@ -244,11 +240,9 @@ antp <- spdata %>% filter(Code == "Ant-P") %>% # 168 = 4 * 6 * 7ID
 
 pa <- plot_grid(paho, phb, herp, prpr, nrow = 2, scale = 1.01)
 pa <- grid.arrange(arrangeGrob(pa, left = ylab, bottom = xlab))
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_MScSP_Ant.svg", pa, width = 28, height = 20, units = "cm", bg = "white")
 
 pm <- plot_grid(polp, sdp, fane, antp, nrow = 2, scale = 1.01)
 pm <- grid.arrange(arrangeGrob(pm, left = ylab, bottom = xlab))
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_MScSP_Mut.svg", pm, width = 28, height = 20, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # ------------ Fig S8: Plotting effect-link ratio inside groups -----------

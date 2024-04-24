@@ -7,14 +7,12 @@
 
 # --------------------- Loading library, code and data --------------------
 
-setwd("C:/Users/Kate Maia/Documents/Maia-Guimaraes_HierarchyCoevoUnits")
-
 library(tidyverse)
 library(RColorBrewer)
 library(cowplot)
 library(reshape2)
 library(ghibli)
-#source("./Scripts/functions/zscore.R")
+source("./Scripts/Functions/zscore.R")
 
 net_struct <- read.table("./Outputs/05_Net-Level_Struct.txt", header = T, stringsAsFactors = F)
 sp_struct <- read.table("./Outputs/04_Node-Level_Struct.txt", header = T, stringsAsFactors = F)
@@ -99,7 +97,6 @@ pc <- zdata %>% ggplot() + geom_histogram(aes(x = Z_ms), alpha = 0.6) + # 366
   xlab("Module-sector congruence (z-score)") + ylab("Frequecy") + theme_cowplot(); pc
 
 cowplot::plot_grid(pa, pb, pc, labels = c("a)", "b)", "c)"), nrow = 1, label_size = 12, label_fontfamily = "", label_fontface = "plain")
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/Figure2.svg", width = 33, height = 11, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # ------------- Fig 3: Plotting subgraphs in modules/sectors -------------- 
@@ -158,7 +155,6 @@ pf <- zdata %>% ggplot() + geom_histogram(aes(x = Z_m6m), alpha = 0.6) +
   theme_cowplot() + theme(axis.title.x = element_text(size = 12)); pf
 
 cowplot::plot_grid(pa, pb, pc, pd, pe, pf, labels = c("a)", "b)", "c)", "d)", "e)", "f)"), nrow = 2, label_size = 14, label_fontfamily = "", label_fontface = "plain")
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/Figure3.svg", width = 33, height = 22, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # ----------- Fig S2: Plotting component size x no components -------------
@@ -291,7 +287,6 @@ pb <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
 pb <- pb + annotate("text", x = 1:8, y = 1.02, label = label$n); pb
 
 cowplot::plot_grid(pa, pb, labels = c("a)", "b)"), ncol = 2, label_size = 14, label_fontfamily = "", label_fontface = "plain")
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigS6_DoubleHierarchy.svg", width = 26, height = 13, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # ------------- Fig S7: Plotting proportion of in-group links -------------
@@ -323,7 +318,6 @@ pc <- zdata %>% ggplot() + geom_histogram(aes(x = NormZ_m6m), alpha = 0.6) +
   ylab("Frequecy") + theme_cowplot(); pc
 
 cowplot::plot_grid(pa, pb, pc, labels = c("a)", "b)", "c)"), nrow = 1, label_size = 14, label_fontfamily = "", label_fontface = "plain")
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_NormZ-Hist.svg", width = 30, height = 11, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # ---------------- Fig SX: Congruence Significance Profile ----------------
@@ -402,4 +396,3 @@ nM <- zdata %>% filter(Code %in% c("Pol-P", "SD-P", "F-Ane", "Ant-P")) %>%
 csp <- plot_grid(A, M, nA, nM, nrow = 2)
 title <- ggdraw() + draw_label("Congruence Significance Profile", fontface = 'bold')
 plot_grid(title, csp, ncol = 1, rel_heights = c(0.05, 1, 1))
-#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_CongruenceSignProf.svg", width = 21, height = 28, units = "cm", bg = "white")
