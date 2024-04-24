@@ -5,27 +5,26 @@
 
 # Reads data generated in previous scripts to plot manuscript figures on group structure of ecological networks and hierarchical structure. 
 
-# ESTOU USANDO O N certo em todos os plots?
-
 # --------------------- Loading library, code and data --------------------
+
+setwd("C:/Users/Kate Maia/Documents/Maia-Guimaraes_HierarchyCoevoUnits")
 
 library(tidyverse)
 library(RColorBrewer)
+library(cowplot)
 library(reshape2)
 library(ghibli)
-
-dataset <- read.table("./Data/Project_Dataset.txt", header = T, sep = "\t", stringsAsFactors = F)
+#source("./Scripts/functions/zscore.R")
 
 net_struct <- read.table("./Outputs/05_Net-Level_Struct.txt", header = T, stringsAsFactors = F)
 sp_struct <- read.table("./Outputs/04_Node-Level_Struct.txt", header = T, stringsAsFactors = F)
 
-dataset <- dataset[match(net_struct$ID, dataset$ID),]; all(dataset$ID == net_struct$ID)
-sp_struct <- sp_struct[order(sp_struct$ID),]; all(dataset$ID == levels(sp_struct$ID))
+sp_struct <- sp_struct[order(sp_struct$ID),]; all(net_struct$ID == levels(sp_struct$ID))
 
 net_struct$IntType <- factor(net_struct$IntType, levels = c("Host-Parasite", "Phage-Bacteria", "Plant-Herbivore", "Food Webs", "Pollination", "Seed Dispersal", "Anemone-Fish", "Plant-Ant"))
-net_struct$IntSign <- factor(dataset$IntSign)
-net_struct$Code <- factor(net_struct$IntType)
+net_struct$Code <- net_struct$IntSign <- net_struct$IntType
 levels(net_struct$IntType) <- c("Parasite-Host", "Phage-Bacteria", "Herbivore-Plant", "Predator-Prey", "Pollinator-Plant", "Seed Disperser-Plant", "Fish-Anemone", "Ant-Plant")
+levels(net_struct$IntSign) <- rep(c("A", "M"), each = 4)
 levels(net_struct$Code) <- c("Pa-Ho", "Ph-B", "Her-P", "Pr-Pr", "Pol-P", "SD-P", "F-Ane", "Ant-P")
 
 sp_struct$IntType <- net_struct[match(sp_struct$ID, net_struct$ID), "IntType"]
@@ -35,23 +34,56 @@ sp_struct$IntSign <- net_struct[match(sp_struct$ID, net_struct$ID), "IntSign"]
 multLC <- c("Herb_CuevasReyes", "IZ_PA_DIM100", "IZ_PA_PAcamp", "M_AF_002_02", "M_AF_002_11")
 starLC <- c("IZ_PA_DIM10", "IZ_PA_PA10", "M_AF_002_07", "M_AF_002_16", "M_PL_061_33")
 
-dim(net_struct); length(unique(sp_struct$ID))
-
 pal <- c("#D85C00", "#31489F")
+
+# -------------------------------------------------------------------------
+# --------------- Congruence: zscore and normalised zscore ----------------
+
+temp <- net_struct %>% filter(!ID %in% c(multLC, starLC)) # 366 ID to calculate zscore
+temp <- temp %>% select(ID, IntSign, Code, 15:31); head(temp); dim(temp) # facilitate visualization
+temp %>% filter(n_m6 == 0) # 21 networks with no m6
+
+# module-sector congruence
+msc <- temp %>% select(ID, Code, MS_congr, MS_mean, MS_sd); head(msc)
+msc <- zscore(msc); msc %>% filter(is.na(Z) | is.na(NormZ))
+
+temp <- temp %>% filter(n_m6 != 0); dim(temp) # if no subgraphs, we do not test for hierarchy 
+
+# subgraph-sector congruence
+m6sc <- temp %>% select(ID, Code, n_m6_sect, mean_m6_sect, sd_m6_sect); head(m6sc)
+m6sc %>% filter(sd_m6_sect == 0) # 6 0 in sd congruence
+m6sc <- zscore(m6sc); m6sc %>% filter(is.na(Z)) # 6 NaN (0/0)
+
+# subgraph-module congruence
+m6mc <- temp %>% select(ID, Code, n_m6_mod, mean_m6_mod, sd_m6_mod); head(m6mc)
+m6mc %>% filter(sd_m6_mod == 0) # 24 0 in sd congruence
+m6mc <- zscore(m6mc); m6mc %>% filter(is.na(Z)) # 24 Sd = 0
+
+# subgraph-module-sector congruence ("double hierarchy")
+m6msc <- temp %>% filter(ID != "M_PL_062") %>% # additionally removes M_PL_062 - too large
+  select(ID, Code, n_m6_ms, mean_m6_ms, sd_m6_ms); head(m6msc); dim(m6msc) # 344
+m6msc %>% filter(sd_m6_ms == 0) # 38 0 in sd congruence
+m6msc <- zscore(m6msc); m6msc %>% filter(is.na(Z)) # 36 Sd = 0
+dim(m6msc) # 2 removed due to Inf
+
+zdata <- left_join(msc, m6sc, by = c("ID", "Code"), suffix = c("_ms", "_m6s")) %>% 
+  left_join(m6mc, by = c("ID", "Code")) %>% 
+  left_join(m6msc, by = c("ID", "Code"), suffix = c("_m6m", "_m6ms")); dim(zdata)
 
 # -------------------------------------------------------------------------
 # ----------- Fig 2: Plotting module-sector congruence results ------------
 
-data <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% 
-  select(ID, IntSign, Code, MS_congr, MS_mean, MS_sd, MS_pval)
-
-pa <- data %>% ggplot(aes(x = Code, y = MS_congr, fill = IntSign)) +
+pa <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366 
+  select(ID, IntSign, Code, contains("MS_")) %>% 
+  ggplot(aes(x = Code, y = MS_congr, fill = IntSign)) +
   geom_boxplot(color = c(rep(pal[1], 4), rep(pal[2], 4)), alpha = 0.5) +
-  xlab("") + ylab("Average module-sector congruence") +
+  xlab("") + ylab("Module-sector congruence") +
   coord_cartesian(ylim = c(0.50, 1.00)) + scale_fill_manual(values = pal) + 
-  theme_classic() + theme(axis.text.x = element_text(size = 14),axis.text.y = element_text(size = 14), axis.title.y = element_text(size = 14), legend.position = "none"); pa
+  theme_classic() + theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14), legend.position = "none"); pa
 
-pb <- data %>% select(Code, MS_pval) %>% 
+label <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% group_by(Code) %>% count()
+pb <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
+  select(ID, IntSign, Code, MS_pval) %>% # N = 366 
   mutate(plogic = ifelse(MS_pval <= 0.05, TRUE, FALSE)) %>% 
   mutate(plogic = factor(plogic, levels = c(FALSE, TRUE))) %>% 
   group_by(Code, plogic) %>% summarise(count = n()) %>% 
@@ -60,55 +92,73 @@ pb <- data %>% select(Code, MS_pval) %>%
   xlab("") + ylab("Proportion of networks") + scale_alpha_manual(values = c(0.2, 0.9)) + 
   scale_fill_manual(values = c(rep(pal[1], 4), rep(pal[2], 4))) +
   ggtitle("Module-sector congruence: null model") +
-  theme_classic() + theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.x = element_text(size = 14), axis.title.y = element_text(size = 14), plot.title = element_text(size = 16), legend.position = "none")
+  theme_classic() + theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14), plot.title = element_text(size = 14), legend.position = "none")
+pb <- pb + annotate("text", x = 1:8, y = 1.02, label = label$n); pb
 
-cowplot::plot_grid(pa, pb, labels = c("a)", "b)"), nrow = 1, ncol = 2, label_size = 12, label_fontfamily = "", label_fontface = "plain")
+pc <- zdata %>% ggplot() + geom_histogram(aes(x = Z_ms), alpha = 0.6) + # 366
+  xlab("Module-sector congruence (z-score)") + ylab("Frequecy") + theme_cowplot(); pc
+
+cowplot::plot_grid(pa, pb, pc, labels = c("a)", "b)", "c)"), nrow = 1, label_size = 12, label_fontfamily = "", label_fontface = "plain")
+#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/Figure2.svg", width = 33, height = 11, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # ------------- Fig 3: Plotting subgraphs in modules/sectors -------------- 
 
-pa <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% 
+pa <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
+  filter(n_m6 != 0) %>% # N = 345 (366 - 21 with 0 m6)
   select(ID, IntSign, Code, n_m6, n_m6_sect) %>%
-  mutate(In = n_m6_sect/n_m6) %>% filter(!is.nan(In)) %>% # removes 21 with no m6
+  mutate(In = n_m6_sect/n_m6) %>%
   ggplot(aes(x = Code, y = In, col = IntSign, fill = IntSign)) + geom_boxplot(alpha = 0.5) +
   scale_color_manual(values = pal) + scale_fill_manual(values = pal) + 
-  xlab("") + ylab("Proportion of subgraphs inside sectors") +
-  theme_classic() + theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.x = element_text(size = 14), axis.title.y = element_text(size = 14), plot.title = element_text(size = 16), legend.position = "none"); pa
+  xlab("") + ylab("Subgraph-sector congruence") +
+  theme_classic() + theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14), legend.position = "none"); pa
 
-pb <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% 
-  select(ID, IntSign, Code, p_m6_sect) %>%
+label <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% filter(n_m6 != 0) %>% group_by(Code) %>% count()
+pb <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
+  filter(n_m6 != 0) %>% # N = 345 (366 - 21 with 0 m6)
   mutate(p_m6_sect = ifelse(p_m6_sect <= 0.05, TRUE, FALSE)) %>% 
   mutate(p_m6_sect = factor(p_m6_sect, levels = c(FALSE, TRUE))) %>% 
-  group_by(Code, p_m6_sect) %>% summarise(count = n()) %>% 
+  group_by(Code, p_m6_sect) %>% summarise(count = n()) %>% # 15/16 potential groups
   ggplot(aes(x = Code, y = count, fill = Code, alpha = p_m6_sect)) + 
   geom_bar(position = "fill", stat = "identity") + # position = "stack"
-  xlab("") + ylab("Proportion of networks") + ggtitle("Subgraphs inside sectors: null model") +
+  xlab("") + ylab("Proportion of networks") + ggtitle("Subgraph-sector congruence: null model") +
   scale_alpha_manual(values = c(0.2, 0.9)) + scale_fill_manual(values = rep(pal, each = 4)) +
-  theme_classic() + theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.x = element_text(size = 14), axis.title.y = element_text(size = 14), plot.title = element_text(size = 16), legend.position = "none"); pb
+  theme_classic() + theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14), plot.title = element_text(size = 14), legend.position = "none")
+pb <- pb + annotate("text", x = 1:8, y = 1.02, label = label$n); pb
 
-pc <- net_struct %>%  filter(!ID %in% c(multLC, starLC)) %>% 
-  select(ID, IntSign, Code, n_m6, n_m6_mod) %>%
-  mutate(In = n_m6_mod/n_m6) %>% filter(!is.nan(In)) %>% # NaNs are 0/0
+# 27 removed: 21 no m6 (366 - 345) + 6 sd = 0 (see above)
+pc <- zdata %>% ggplot() + geom_histogram(aes(x = Z_m6s), alpha = 0.6) + # N = 339
+  xlab("Subgraph-sector congruence (z-score)") + ylab("Frequecy") + 
+  theme_cowplot() + theme(axis.title.x = element_text(size = 12)); pc
+
+pd <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
+  filter(n_m6 != 0) %>% # N = 345 (366 - 21 with 0 m6)
+  select(ID, IntSign, Code, n_m6, n_m6_mod) %>% # N = 345 (366 - 21 with 0 m6)
+  mutate(In = n_m6_mod/n_m6) %>%
   ggplot(aes(x = Code, y = In, col = IntSign, fill = IntSign)) + geom_boxplot(alpha = 0.5) +
   scale_color_manual(values = pal) + scale_fill_manual(values = pal) + 
-  xlab("") + ylab("Proportion of subgraphs inside modules") + theme_classic() + 
-  theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.x = element_text(size = 14), axis.title.y = element_text(size = 14), plot.title = element_text(size = 16), legend.position = "none"); pc
+  xlab("") + ylab("Subgraph-module congruence") + theme_classic() + 
+  theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14), legend.position = "none"); pd
 
-pd <- net_struct %>%  filter(!ID %in% c(multLC, starLC)) %>% 
+pe <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
+  filter(n_m6 != 0) %>% # N = 345 (366 - 21 with 0 m6)
   select(ID, IntSign, Code, p_m6_mod) %>%
   mutate(p_m6_mod = ifelse(p_m6_mod <= 0.05, TRUE, FALSE)) %>% 
   mutate(p_m6_mod = factor(p_m6_mod, levels = c(FALSE, TRUE))) %>% 
   group_by(Code, p_m6_mod) %>% summarise(count = n()) %>% 
   ggplot(aes(x = Code, y = count, fill = Code, alpha = p_m6_mod)) + 
   geom_bar(position = "fill", stat = "identity") + # position = "stack"
-  xlab("") + ylab("Proportion of networks") + ggtitle("Subgraphs inside modules: null model") +
+  xlab("") + ylab("Proportion of networks") + ggtitle("Subgraph-module congruence: null model") +
   scale_alpha_manual(values = c(0.2, 0.9)) + scale_fill_manual(values = rep(pal, each = 4)) +
-  theme_classic() + theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.x = element_text(size = 14), axis.title.y = element_text(size = 14), plot.title = element_text(size = 16), legend.position = "none"); pd
+  theme_classic() + theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14), plot.title = element_text(size = 14), legend.position = "none"); pe
 
-cowplot::plot_grid(pa, pb, pc, pd, labels = c("a)", "b)", "c)", "d)"), nrow = 2, ncol = 2, label_size = 14, label_fontfamily = "", label_fontface = "plain")
+# 45 removed: 21 no m6 (366 - 345) + 24 sd = 0 (see above)
+pf <- zdata %>% ggplot() + geom_histogram(aes(x = Z_m6m), alpha = 0.6) + 
+  xlab("Subgraph-module congruence (z-score)") + ylab("Frequecy") + 
+  theme_cowplot() + theme(axis.title.x = element_text(size = 12)); pf
 
-# -------------------------------------------------------------------------
-# ------------- Fig S1: Conceptual figure (use of no data)  ---------------
+cowplot::plot_grid(pa, pb, pc, pd, pe, pf, labels = c("a)", "b)", "c)", "d)", "e)", "f)"), nrow = 2, label_size = 14, label_fontfamily = "", label_fontface = "plain")
+#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/Figure3.svg", width = 33, height = 22, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # ----------- Fig S2: Plotting component size x no components -------------
@@ -126,38 +176,28 @@ net_struct %>% select(ID, IntSign, IntType, 2:8) %>%
 ponyo <- ghibli_palette("PonyoMedium")[1:7]
 harry <- harrypotter::hp(18, house = "LunaLovegood")
 
-net_struct <- net_struct %>% filter(!ID %in% c(multLC, starLC)) 
-sp_struct <- sp_struct %>% filter(!ID %in% c(multLC, starLC)) 
-
-sector_tab <- sp_struct %>% filter(!is.na(GC_Aff)) %>% # # 28930 sp in GC1 
-  group_by(ID) %>% count(Fiedler) %>% 
-  pivot_wider(names_from = Fiedler, values_from = n) %>% 
-  mutate(Sct1 = `-1` / (`-1` + `1`), Sct2 = `1` / (`-1` + `1`))
-all(rowSums(sector_tab[,2:3]) == net_struct[!net_struct$ID %in% c(multLC, starLC), "LargeCompSize"])
-all(rowSums(sector_tab[,4:5]) == 1)
-
+sector_tab <- sp_struct %>% filter(!ID %in% c(multLC, starLC)) %>% 
+  filter(!is.na(GC_Aff)) %>% # # 28930 sp in GC1 
+  group_by(ID) %>% count(Fiedler) %>% pivot_wider(names_from = Fiedler, values_from = n) %>% 
+  mutate(Sct1 = `-1` / (`-1` + `1`), Sct2 = `1` / (`-1` + `1`)) %>% select(-c(2:3)) %>% 
+  mutate(Large = ifelse(Sct1 >= Sct2, Sct1, Sct2), Small = ifelse(Sct1 >= Sct2, Sct2, Sct1))
 sector_tab$Code <- net_struct[match(sector_tab$ID, net_struct$ID), "Code"]
 
-sector_tab <- sector_tab %>% select(-c(2:3)) %>% 
-  pivot_longer(2:3, names_to = "Sector", values_to = "Size")
-
-pa <- sector_tab %>% group_by(Code, Sector) %>% summarise(Size = mean(Size)) %>% 
+pa <- sector_tab %>% pivot_longer(4:5, names_to = "Sector", values_to = "Size") %>% 
+  group_by(Code, Sector) %>% summarise(Size = mean(Size)) %>% 
   ggplot(aes(x = Code, y = Size, fill = Sector)) +
   geom_bar(position = "fill", stat = "identity") + 
   labs(x = "", y = "Proportion of species") + 
   scale_fill_manual(values = c(ponyo[5], ponyo[6])) + theme_classic() +
   theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14)); pa
 
-data <- sector_tab %>% filter(Sector == "Sct1") %>% 
-  mutate(Size = ifelse(Size > 0.5, 1 - Size, Size)) # so all Sizes are below 0.5
-data$Balance <- ifelse(data$Size <= 0.15, "Low", data$Size)
-data$Balance <- ifelse(data$Size > 0.15 & data$Size <= 0.35, "Medium", data$Balance)
-data$Balance <- ifelse(data$Size > 0.35 & data$Size <= 0.5, "High", data$Balance)
-data <- data %>% mutate(Balance = factor(Balance, levels = c( "High", "Medium", "Low")))
-data %>% group_by(Balance) %>% summarise(min = min(Size), max = max(Size))
-data %>% group_by(Balance) %>% count() # 366 = 128 + 152 + 86
+sector_tab$Balance <- ifelse(sector_tab$Small <= 0.15, "Low", sector_tab$Small)
+sector_tab$Balance <- ifelse(sector_tab$Small > 0.15 & sector_tab$Small <= 0.35, "Medium", sector_tab$Balance)
+sector_tab$Balance <- ifelse(sector_tab$Small > 0.35 & sector_tab$Small <= 0.5, "High", sector_tab$Balance)
+sector_tab <- sector_tab %>% mutate(Balance = factor(Balance, levels = c("High", "Medium", "Low")))
+sector_tab %>% group_by(Balance) %>% summarise(min = min(Small), max = max(Small))
 
-pb <- data %>% group_by(Code, Balance) %>% count(Code) %>% 
+pb <- sector_tab %>% group_by(Code, Balance) %>% count(Code) %>% 
   ggplot(aes(x = Code, y = n, fill = Balance)) +
   geom_bar(position = "fill", stat = "identity") + 
   labs(x = "", y = "Proportion of networks") +
@@ -169,7 +209,8 @@ cowplot::plot_grid(pa, pb, labels = c("a)", "b)"), nrow = 1, label_size = 12, la
 # -------------------------------------------------------------------------
 # ------- Fig SX: Plotting correlation between modularity indexes ---------
 
-data <- net_struct %>% select(ID, SA_NMod, SA_Modularity, FG_NMod, FG_Modularity)
+data <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
+  select(ID, SA_NMod, SA_Modularity, FG_NMod, FG_Modularity)
 
 pa <- ggplot(data, aes(x = SA_Modularity, y = FG_Modularity)) + geom_jitter(alpha = 0.3) + 
   xlab(expression(paste("Simulated Annealing - ", Q[B]))) + ylab("Fast Greedy - Q") + 
@@ -186,7 +227,8 @@ cowplot::plot_grid(pa, pb, labels = c("a)", "b)"), nrow = 1, label_size = 12, la
 # -------------------------------------------------------------------------
 # ------------- Fig S4: Plotting network modularity results ---------------
 
-data <- net_struct %>% select(ID, IntSign, Code, Connectance, SA_Modularity, FG_PNull)
+data <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
+  select(ID, IntSign, Code, Connectance, SA_Modularity, FG_PNull)
 
 pa <- data %>% ggplot(aes(x = IntSign, y = SA_Modularity)) + 
   geom_violin() + geom_boxplot(width = 0.1, color = pal, fill = pal, alpha = 0.2) +
@@ -216,25 +258,27 @@ cowplot::plot_grid(pa, pb, pc, pd, labels = c("a)", "b)", "c)", "d)"), nrow = 2,
 # -------------------------------------------------------------------------
 # -------------- Fig S5: Plotting no subgraphs x net size -----------------
 
-net_struct %>% filter(n_m6 != 0) %>% # removes 21 with no m6
+net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
+  filter(n_m6 != 0) %>% # removes 21 with no m6
   ggplot(aes(x = log(NRow + NCol), y = log(n_m6), color = IntType)) + geom_point(alpha = 0.5) +
   xlab("Network size (log)") + ylab("Number of subgraphs (log)") +
   scale_color_manual(values = rep(pal, each = 4)) + theme_classic() +
   theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.x = element_text(size = 14), axis.title.y = element_text(size = 14), strip.text = element_text(size = 12), legend.position = "none") + facet_wrap(~IntType, nrow = 2)
 
 # -------------------------------------------------------------------------
-# -------------- Fig S6: Plotting no subgraphs x net size -----------------
+# --------------- Fig S6: Subgraph-Module-Sector Congruence ---------------
 
-pa <- net_struct %>% select(Code, ID, n_m6, n_m6_ms) %>% # all network types
-  filter(!is.na(n_m6_ms)) %>% filter(n_m6 != 0) %>% # removes M_PL_062, 21 no m6 (see above)
-  mutate(Sign = ifelse(Code %in% c("Pa-Ho", "Ph-B", "Her-P", "Pr-Pr"), "A", "M")) %>%
-  mutate(In = n_m6_ms/n_m6) %>% filter(!is.na(In)) %>% # not NA left to remove 
-  ggplot(aes(x = Code, y = In, col = Sign, fill = Sign)) + geom_boxplot(alpha = 0.5) +
+pa <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
+  filter(n_m6 != 0) %>% filter(ID != "M_PL_062") %>% # N = 344 (366 - 21 with 0 m6)
+  select(ID, Code, IntSign, n_m6, n_m6_ms) %>% mutate(In = n_m6_ms/n_m6) %>%
+  ggplot(aes(x = Code, y = In, col = IntSign, fill = IntSign)) + geom_boxplot(alpha = 0.5) +
   scale_color_manual(values = pal) + scale_fill_manual(values = pal) +
-  xlab("") + ylab("Proportion of subgraphs inside sectors and modules") + theme_classic() +
+  xlab("") + ylab("Subgraphs-module-sector congruence") + theme_classic() +
   theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.y = element_text(size = 12), legend.position = "none"); pa
 
-pb <- net_struct %>% filter(!is.na(p_m6_ms)) %>%  # removes M_PL_062 (see above) 
+label <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% filter(n_m6 != 0) %>% filter(ID != "M_PL_062") %>% group_by(Code) %>% count()
+pb <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
+  filter(n_m6 != 0) %>% filter(ID != "M_PL_062") %>% # N = 344 (366 - 21 with 0 m6)
   mutate(p_m6_ms = ifelse(p_m6_ms <= 0.05, TRUE, FALSE)) %>% 
   mutate(p_m6_ms = factor(p_m6_ms, levels = c(FALSE, TRUE))) %>% 
   group_by(Code, p_m6_ms) %>% summarise(count = n()) %>% 
@@ -242,22 +286,120 @@ pb <- net_struct %>% filter(!is.na(p_m6_ms)) %>%  # removes M_PL_062 (see above)
   geom_bar(position = "fill", stat = "identity") + # position = "stack"
   xlab("") + ylab("Proportion of networks") +
   scale_alpha_manual(values = c(0.2, 0.9)) + scale_fill_manual(values = rep(pal, each = 4)) +
-  ggtitle("Subgraphs inside sectors and modules: null model") + theme_classic() +
-  theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.y = element_text(size = 12), plot.title = element_text(size = 14), legend.position = "none"); pb
+  ggtitle("Subgraphs-module-sector congruence: null model") + theme_classic() +
+  theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.y = element_text(size = 12), plot.title = element_text(size = 14), legend.position = "none")
+pb <- pb + annotate("text", x = 1:8, y = 1.02, label = label$n); pb
 
 cowplot::plot_grid(pa, pb, labels = c("a)", "b)"), ncol = 2, label_size = 14, label_fontfamily = "", label_fontface = "plain")
+#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigS6_DoubleHierarchy.svg", width = 26, height = 13, units = "cm", bg = "white")
 
 # -------------------------------------------------------------------------
 # ------------- Fig S7: Plotting proportion of in-group links -------------
 
-head(net_struct)
-
-net_struct %>% select(ID, IntSign, IntType, LinkSct, LinkMod, LinkMot) %>% 
+net_struct %>% filter(!ID %in% c(multLC, starLC)) %>%
+  select(ID, IntSign, IntType, LinkSct, LinkMod, LinkMot) %>% 
   rename(Sct = LinkSct, Mod = LinkMod, Subg = LinkMot) %>% 
-  pivot_longer(4:6, names_to = "Group", values_to = "Value") %>% 
+  pivot_longer(4:6, names_to = "Group", values_to = "Value") %>% # NA for M_PL_062
   mutate(Group = factor(Group, levels = c("Subg", "Mod", "Sct"))) %>%
   ggplot(aes(x = Group, y = Value, color = IntSign, fill = IntSign)) + geom_boxplot(alpha = 0.5) +
   xlab("") + ylab("Proportion of links inside groups") +
   facet_wrap(~IntType, nrow = 2) + theme_classic() +
   scale_color_manual(values = pal) + scale_fill_manual(values = pal) + 
   theme(legend.position = "none", axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.y = element_text(size = 14), strip.text = element_text(size = 12))
+
+# -------------------------------------------------------------------------
+# ----------- Fig SX: Normalised zscore congruence histograms  ------------
+
+pa <- zdata %>% ggplot() + geom_histogram(aes(x = NormZ_ms), alpha = 0.6) + 
+  xlab("Module-sector congruence \n (normalised z-score)") + 
+  ylab("Frequecy") + theme_cowplot(); pa
+
+pb <- zdata %>% ggplot() + geom_histogram(aes(x = NormZ_m6s), alpha = 0.6) + 
+  xlab("Subgraph-sector congruence \n (normalised z-score)") + 
+  ylab("Frequecy") + theme_cowplot(); pb
+
+pc <- zdata %>% ggplot() + geom_histogram(aes(x = NormZ_m6m), alpha = 0.6) + 
+  xlab("Subgraph-module congruence \n (normalised z-score)") + 
+  ylab("Frequecy") + theme_cowplot(); pc
+
+cowplot::plot_grid(pa, pb, pc, labels = c("a)", "b)", "c)"), nrow = 1, label_size = 14, label_fontfamily = "", label_fontface = "plain")
+#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_NormZ-Hist.svg", width = 30, height = 11, units = "cm", bg = "white")
+
+# -------------------------------------------------------------------------
+# ---------------- Fig SX: Congruence Significance Profile ----------------
+
+# data to explore missing values
+miss <- zdata %>% mutate(Z_ms = is.na(Z_ms), NormZ_ms = is.na(NormZ_ms), Z_m6s = is.na(Z_m6s), NormZ_m6s = is.na(NormZ_m6s), Z_m6m = is.na(Z_m6m), NormZ_m6m = is.na(NormZ_m6m), Z_m6ms = is.na(Z_m6ms), NormZ_m6ms = is.na(NormZ_m6ms)) %>% 
+  pivot_longer(3:10, names_to = "zscore", values_to = "value") %>% 
+  group_by(Code, zscore, value) %>% count()
+
+# ----- ZSCORE ----- #
+
+A <- zdata %>% filter(Code %in% c("Pa-Ho", "Ph-B", "Her-P", "Pr-Pr")) %>%
+  select(ID, Code, !contains("Norm")) %>%
+  pivot_longer(3:6, names_to = "cngr", values_to = "value") %>% 
+  mutate(cngr = factor(cngr, levels = c("Z_ms", "Z_m6s", "Z_m6m", "Z_m6ms"))) %>% 
+  mutate(cngr = recode_factor(cngr, "Z_ms" = "1", "Z_m6s" = "2", "Z_m6m" = "3", "Z_m6ms" = "4")) %>% # trick: numeric to plot geom_line
+  mutate(cngr = as.numeric(cngr)) %>% 
+  ggplot(aes(x = cngr, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.6) + 
+  scale_color_manual(values = rep(pal[1], 154)) + 
+  scale_x_continuous(labels = c("Mod-Sct", "Subg-Sct", "Subg-Mod", "Subg-\nMod-Sct")) + 
+  xlab("") + ylab("Congruence coefficients (z-scores)") +
+  facet_wrap(~Code, nrow = 4, scales = "free_y") + theme_cowplot() + 
+  theme(legend.position = "none", plot.margin = unit(c(0,0,0,0), "cm")); A
+
+miss %>% filter(Code %in% c("Pa-Ho", "Ph-B", "Her-P", "Pr-Pr")) %>% 
+  filter(zscore %in% c("Z_ms", "Z_m6s", "Z_m6m", "Z_m6ms")) %>% 
+  filter(value == T) %>% ungroup() %>% select(n) %>% sum()
+
+M <- zdata %>% filter(Code %in% c("Pol-P", "SD-P", "F-Ane", "Ant-P")) %>%
+  select(ID, Code, !contains("Norm")) %>%
+  pivot_longer(3:6, names_to = "cngr", values_to = "value") %>% 
+  mutate(cngr = factor(cngr, levels = c("Z_ms", "Z_m6s", "Z_m6m", "Z_m6ms"))) %>% 
+  mutate(cngr = recode_factor(cngr, "Z_ms" = "1", "Z_m6s" = "2", "Z_m6m" = "3", "Z_m6ms" = "4")) %>% # trick: numeric to plot geom_line
+  mutate(cngr = as.numeric(cngr)) %>% 
+  ggplot(aes(x = cngr, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.6) + 
+  scale_color_manual(values = rep(pal[2], 212)) + 
+  scale_x_continuous(labels = c("Mod-Sct", "Subg-Sct", "Subg-Mod", "Subg-\nMod-Sct")) + 
+  xlab("") + ylab("") + facet_wrap(~Code, nrow = 4, scales = "free_y") + theme_cowplot() + 
+  theme(legend.position = "none", plot.margin = unit(c(0,0.5,0,0), "cm")); M
+
+miss %>% filter(Code %in% c("Pol-P", "SD-P", "F-Ane", "Ant-P")) %>% 
+  filter(zscore %in% c("Z_ms", "Z_m6s", "Z_m6m", "Z_m6ms")) %>% 
+  filter(value == T) %>% ungroup() %>% select(n) %>% sum()
+
+# ----- NORMALISED ZSCORE ----- #
+
+nA <- zdata %>% filter(Code %in% c("Pa-Ho", "Ph-B", "Her-P", "Pr-Pr")) %>%
+  select(ID, Code, contains("Norm")) %>%
+  pivot_longer(3:6, names_to = "cngr", values_to = "value") %>% 
+  mutate(cngr = factor(cngr, levels = c("NormZ_ms", "NormZ_m6s", "NormZ_m6m", "NormZ_m6ms"))) %>% 
+  mutate(cngr = recode_factor(cngr, "NormZ_ms" = "1", "NormZ_m6s" = "2", "NormZ_m6m" = "3", "NormZ_m6ms" = "4")) %>% # trick: numeric to plot geom_line
+  mutate(cngr = as.numeric(cngr)) %>% 
+  ggplot(aes(x = cngr, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.6) + 
+  scale_color_manual(values = rep(pal[1], 154)) + 
+  scale_x_continuous(labels = c("Mod-Sct", "Subg-Sct", "Subg-Mod", "Subg-\nMod-Sct")) + 
+  xlab("") + ylab("Congruence coefficients (normalised z-scores)") +
+  facet_wrap(~Code, nrow = 4, scales = "free_y") + theme_cowplot() + 
+  theme(legend.position = "none", plot.margin = unit(c(0,0.5,0,0), "cm")); nA
+
+nM <- zdata %>% filter(Code %in% c("Pol-P", "SD-P", "F-Ane", "Ant-P")) %>%
+  select(ID, Code, contains("Norm")) %>%
+  pivot_longer(3:6, names_to = "cngr", values_to = "value") %>% 
+  mutate(cngr = factor(cngr, levels = c("NormZ_ms", "NormZ_m6s", "NormZ_m6m", "NormZ_m6ms"))) %>% 
+  mutate(cngr = recode_factor(cngr, "NormZ_ms" = "1", "NormZ_m6s" = "2", "NormZ_m6m" = "3", "NormZ_m6ms" = "4")) %>% # trick: numeric to plot geom_line
+  mutate(cngr = as.numeric(cngr)) %>% 
+  ggplot(aes(x = cngr, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.6) + 
+  scale_color_manual(values = rep(pal[2], 212)) + 
+  scale_x_continuous(labels = c("Mod-Sct", "Subg-Sct", "Subg-Mod", "Subg-\nMod-Sct")) + 
+  xlab("") + ylab("") + facet_wrap(~Code, nrow = 4, scales = "free_y") + theme_cowplot() + 
+  theme(legend.position = "none", plot.margin = unit(c(0,0.5,0,0), "cm")); nM
+
+csp <- plot_grid(A, M, nA, nM, nrow = 2)
+title <- ggdraw() + draw_label("Congruence Significance Profile", fontface = 'bold')
+plot_grid(title, csp, ncol = 1, rel_heights = c(0.05, 1, 1))
+#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_CongruenceSignProf.svg", width = 21, height = 28, units = "cm", bg = "white")

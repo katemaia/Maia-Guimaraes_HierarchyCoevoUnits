@@ -7,10 +7,15 @@
 
 # --------------------- Loading library, code and data --------------------
 
+setwd("C:/Users/Kate Maia/Documents/Maia-Guimaraes_HierarchyCoevoUnits")
+
 library(tidyverse)
 library(reshape2)
+library(cowplot)
 library(RColorBrewer)
 library(GGally)
+library(grid)
+library(gridExtra)
 source("./Scripts/Functions/lines_from_points_grp.R")
 
 net_struct <- read.table("./Outputs/05_Net-Level_Struct.txt", header = T, sep = "\t")
@@ -70,6 +75,182 @@ partition_df %>% select(ID, Code, effmeasure, m, inSinM, inSbetM, betSinM, betSb
   facet_grid(rows = vars(m), cols = vars(effmeasure))
 
 # -------------------------------------------------------------------------
+# --- Fig X: Module-subgraph partition effect as significance profiles ----
+
+spdata <- partition_df %>% select(ID, Code, effmeasure, m, contains("Mt")) %>%
+  mutate(tot = inMdinMt + inMdbetMt + betMdinMt + betMdbetMt) %>% 
+  filter(!is.na(tot)) %>% # removes 2 large ID (Herb_Pearse&Alterm, M_PL_062)
+  mutate(inMdinMt = inMdinMt/tot, inMdbetMt = inMdbetMt/tot, betMdinMt = betMdinMt/tot, betMdbetMt = betMdbetMt/tot) %>% select(-tot) %>% 
+  mutate(effmeasure = recode(effmeasure, deff = "Direct", ieff = "Indirect")) %>%
+  pivot_longer(cols = 5:8, names_to = "Partition", values_to = "value") %>% 
+  mutate(Partition = factor(Partition, levels = c("inMdinMt", "inMdbetMt", "betMdinMt", "betMdbetMt"))) %>%
+  mutate(Partition = recode_factor(Partition, "inMdinMt" = "1", "inMdbetMt" = "2", "betMdinMt" = "3", "betMdbetMt" = "4")) %>% # trick: numeric to plot geom_line
+  mutate(Partition = as.numeric(Partition))
+
+lab <- c( "inSg\ninM", "betSg\ninM", "inSg\nbetM", "betSg\nbetM")
+
+paho <- spdata %>% filter(Code == "Pa-Ho") %>% # 1944 = 4 * 6 * 81ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#d94801", 81)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Parasite-Host") + 
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); paho
+  
+phb <- spdata %>% filter(Code == "Ph-B") %>% # 912 = 4 * 6 * 38ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#d94801", 38)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Phage-Bacteria") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); phb
+  
+herp <- spdata %>% filter(Code == "Her-P") %>% # 744 = 4 * 6 * 31ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#d94801", 32)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Herbivore-Plant") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); herp
+
+prpr <- spdata %>% filter(Code == "Pr-Pr") %>% # 72 = 4 * 6 * 3ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#d94801", 3)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Predator-Prey") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); prpr
+
+polp <- spdata %>% filter(Code == "Pol-P") %>% # 3648 = 4 * 6 * 152ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#2171b5", 152)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Pollinator-Plant") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); polp
+
+sdp <- spdata %>% filter(Code == "SD-P") %>% # 936 = 4 * 6 * 39ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#2171b5", 39)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Seed Disperser-Plant") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); sdp
+
+fane <- spdata %>% filter(Code == "F-Ane") %>% # 312 = 4 * 6 * 13ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#2171b5", 13)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Fish-Anemone") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); fane
+
+antp <- spdata %>% filter(Code == "Ant-P") %>% # 168 = 4 * 6 * 7ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#2171b5", 7)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Ant-Plant") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); antp
+
+ylab <- textGrob("Proportion of effects", gp = gpar(fontsize = 14), rot = 90)
+xlab <- textGrob("Partition", gp = gpar(fontsize = 14))
+
+pa <- plot_grid(paho, phb, herp, prpr, nrow = 2, scale = 1.01)
+pa <- grid.arrange(arrangeGrob(pa, left = ylab, bottom = xlab))
+#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_SgMSP_Ant.svg", pa, width = 28, height = 20, units = "cm", bg = "white")
+
+pm <- plot_grid(polp, sdp, fane, antp, nrow = 2, scale = 1.01)
+pm <- grid.arrange(arrangeGrob(pm, left = ylab, bottom = xlab))
+#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_SgMSP_Mut.svg", pm, width = 28, height = 20, units = "cm", bg = "white")
+
+# -------------------------------------------------------------------------
+# ---- Fig X: Sector-module partition effect as significance profiles -----
+
+spdata <- partition_df %>% select(ID, Code, effmeasure, m, contains("S")) %>%
+  mutate(tot = inSinM + inSbetM + betSinM + betSbetM) %>% 
+  mutate(inSinM = inSinM/tot, inSbetM = inSbetM/tot, betSinM = betSinM/tot, betSbetM = betSbetM/tot) %>% 
+  select(-tot) %>% mutate(effmeasure = recode(effmeasure, deff = "Direct", ieff = "Indirect")) %>%
+  pivot_longer(cols = 5:8, names_to = "Partition", values_to = "value") %>% 
+  mutate(Partition = factor(Partition, levels = c("inSinM", "inSbetM", "betSinM", "betSbetM"))) %>%
+  mutate(Partition = recode_factor(Partition, "inSinM" = "1", "inSbetM" = "2", "betSinM" = "3", "betSbetM" = "4")) %>% # trick: numeric to plot geom_line
+  mutate(Partition = as.numeric(Partition))
+
+lab <- c( "inM\ninSc", "betM\ninSc", "inM\nbetSc", "betM\nbetSc")
+
+paho <- spdata %>% filter(Code == "Pa-Ho") %>% # 1944 = 4 * 6 * 81ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#d94801", 81)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Parasite-Host") + 
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); paho
+
+phb <- spdata %>% filter(Code == "Ph-B") %>% # 912 = 4 * 6 * 38ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#d94801", 38)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Phage-Bacteria") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); phb
+
+herp <- spdata %>% filter(Code == "Her-P") %>% # 768 = 4 * 6 * 32ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#d94801", 32)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Herbivore-Plant") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); herp
+
+prpr <- spdata %>% filter(Code == "Pr-Pr") %>% # 72 = 4 * 6 * 3ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#d94801", 3)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Predator-Prey") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); prpr
+
+polp <- spdata %>% filter(Code == "Pol-P") %>% # 3672 = 4 * 6 * 153ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#2171b5", 153)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Pollinator-Plant") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); polp
+
+sdp <- spdata %>% filter(Code == "SD-P") %>% # 936 = 4 * 6 * 39ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#2171b5", 39)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Seed Disperser-Plant") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); sdp
+
+fane <- spdata %>% filter(Code == "F-Ane") %>% # 312 = 4 * 6 * 13ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#2171b5", 13)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Fish-Anemone") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); fane
+
+antp <- spdata %>% filter(Code == "Ant-P") %>% # 168 = 4 * 6 * 7ID
+  ggplot(aes(x = Partition, y = value, color = ID)) + 
+  geom_line(alpha = 0.2) + geom_point(alpha = 0.2) + xlab("") + ylab("") + 
+  scale_color_manual(values = rep("#2171b5", 7)) + 
+  scale_x_continuous(labels = lab) + scale_y_continuous(limits = c(0, 1)) + 
+  theme_classic() + theme(legend.position = "none") + ggtitle("Ant-Plant") +
+  facet_grid(rows = vars(m), cols = vars(effmeasure)); antp
+
+pa <- plot_grid(paho, phb, herp, prpr, nrow = 2, scale = 1.01)
+pa <- grid.arrange(arrangeGrob(pa, left = ylab, bottom = xlab))
+#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_MScSP_Ant.svg", pa, width = 28, height = 20, units = "cm", bg = "white")
+
+pm <- plot_grid(polp, sdp, fane, antp, nrow = 2, scale = 1.01)
+pm <- grid.arrange(arrangeGrob(pm, left = ylab, bottom = xlab))
+#ggsave("../../Dropbox/Kate_Manuscripts/Hierarchical Structure/EL_Submission2/FigSI_MScSP_Mut.svg", pm, width = 28, height = 20, units = "cm", bg = "white")
+
+# -------------------------------------------------------------------------
 # ------------ Fig S8: Plotting effect-link ratio inside groups -----------
 
 points <- partition_df %>% # Summary of eff/int plot
@@ -102,7 +283,8 @@ ggplot(points, aes(x = group, y = value)) + geom_point(aes(color = effmeasure, a
 # -------------------------------------------------------------------------
 # ------ Fig S9: Plotting relative strength of direct x indirect eff ------
 
-partition_df %>% select(ID, IntType, Code, effmeasure, m, sum) %>% 
+partition_df %>% mutate(sum = inSinM + inSbetM + betSinM + betSbetM) %>% 
+  select(ID, IntType, Code, effmeasure, m, sum) %>% 
   pivot_wider(names_from = effmeasure, values_from = sum) %>%
   mutate(Direct = deff/(deff + ieff), Indirect = ieff/(deff + ieff)) %>% # proportion 
   group_by(Code, m) %>% summarise(Direct = mean(Direct), Indirect = mean(Indirect)) %>% # 8Code*3m
