@@ -23,7 +23,7 @@ prf.long.f <- function(prf){
 }
 
 aux1_m6counter <- function(x, prf.long){
-  nodepair_match <- suppressMessages(match_df(prf.long, data.frame(t(x))))
+  nodepair_match <- suppressMessages(plyr::match_df(prf.long, data.frame(t(x))))
   m6count <- nrow(nodepair_match)
   return(m6count)
 }
