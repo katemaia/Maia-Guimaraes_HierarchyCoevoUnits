@@ -226,18 +226,20 @@ cowplot::plot_grid(pa, pb, labels = c("a)", "b)"), nrow = 1, label_size = 12, la
 data <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
   select(ID, IntSign, Code, Connectance, SA_Modularity, FG_PNull)
 
-pa <- data %>% ggplot(aes(x = IntSign, y = SA_Modularity)) + 
+pa <- data %>% mutate(IntSign = recode_factor(IntSign, A = "Antagonistic", M = "Mutualistic")) %>% 
+  ggplot(aes(x = IntSign, y = SA_Modularity)) + 
   geom_violin() + geom_boxplot(width = 0.1, color = pal, fill = pal, alpha = 0.2) +
-  xlab("") + theme_classic() + 
+  xlab("") + ylab("Modularity") + theme_classic() + 
   theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.y = element_text(size = 14)); pa
 
 pb <- data %>% ggplot(aes(x = Connectance, y = SA_Modularity, col = IntSign)) +
-  geom_point(alpha = 0.5) + scale_color_manual(values = pal) + theme_classic() + 
+  geom_point(alpha = 0.5) + scale_color_manual(values = pal) + 
+  ylab("Modularity") + theme_classic() + 
   theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.y = element_text(size = 14), axis.title.x = element_text(size = 14), legend.position = "none"); pb
 
 pc <- data %>% ggplot(aes(x = Code, y = SA_Modularity)) + 
   geom_boxplot(colour = c(rep(pal[1], 4), rep(pal[2], 4)), fill = c(rep(pal[1], 4), rep(pal[2], 4)), alpha = 0.5) +
-  xlab("") + theme_classic() +
+  xlab("") + ylab("Modularity") + theme_classic() +
   theme(axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.y = element_text(size = 14)); pc
 
 pd <- data %>% mutate(FG_PNull = ifelse(FG_PNull <= 0.05, TRUE, FALSE)) %>% 

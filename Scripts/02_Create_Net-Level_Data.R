@@ -26,7 +26,8 @@ sp_struct <- read.table("./Outputs/01_Node-Level_Struct.txt", header = TRUE, sep
 
 # modularity results calculated with MODULAR
 SA <- read.table("./Modularity/Matrices/SimulatedAnnealing/OUT_MOD.txt", header = TRUE) # no null model
-FG <- read.table("./Modularity/Matrices/FastGrid/OUT_MOD.txt", header = TRUE) # with null model
+FG <- read.table("./Modularity/Matrices/FastGrid/OUT_MOD.txt", header = TRUE)
+FGNull <- read.table("./Modularity/Null_Matrices/FastGrid/OUT_MOD.txt", header = TRUE) # null networks
 
 path <- "./Data/Matrices/"; net_names <- dir(path) # matrices
 net_list <- lapply(paste(path, net_names, sep = ""), read.table, header = TRUE, sep = "\t", check.names = FALSE)
@@ -65,16 +66,27 @@ ID_order <- net_struct[!net_struct$ID %in% c(multLC, starLC), "ID"]
 
 SA$File <- str_sub(SA$File, start = 3, end = -9) # cropping net ID to match net_struct
 FG$File <- str_sub(FG$File, start = 3, end = -9) 
-
 SA <- SA[match(ID_order, SA$File),]; FG <- FG[match(ID_order, FG$File),]
 
+FGNull$File <- str_sub(FGNull$File, start = 3, end = -5) 
+FGNull$File <- unlist(lapply(str_split(FGNull$File, "_GC1"), function(x) x[1]))
+all(unique(FGNull$File) %in% SA$File); all(SA$File %in% unique(FGNull$File))
+
+# Calculating FG null model results
+FGNull <- lapply(split(FGNull, f = FGNull$File), function(x) x$Modularity)
+FGEmp <- lapply(split(FG, f = FG$File), function(x) x$Modularity)
+all(names(FGNull) == names(FGEmp))
+FG_PNull <- mapply(function(X, Y) {sum(Y >= X)}, X = FGEmp, Y = FGNull) / 100
+
 # Adding modularity results to net_struct
-colnames(SA)[-4] <- colnames(FG)[-4] <- c("ID", "NMod", "Modularity", "PNull")
-colnames(SA)[-1] <- paste0("SA_", colnames(SA)[-1])
-colnames(FG)[-1] <- paste0("FG_", colnames(FG)[-1])
+colnames(SA)[1:3] <- colnames(FG)[1:3] <- c("ID", "NMod", "Modularity")
+colnames(SA)[2:3] <- paste0("SA_", colnames(SA)[2:3])
+colnames(FG)[2:3] <- paste0("FG_", colnames(FG)[2:3])
 
 net_struct <- left_join(net_struct, SA[,1:3], by = "ID")
-net_struct <- left_join(net_struct, FG[,c(1:3,5)], by = "ID")
+net_struct <- left_join(net_struct, FG[,1:3], by = "ID")
+net_struct$FG_PNull <- NA
+net_struct$FG_PNull <- FG_PNull[match(net_struct$ID, names(FG_PNull))]
 
 head(net_struct); dim(net_struct)
 
