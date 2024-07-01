@@ -77,7 +77,7 @@ data <- data %>% filter(n_m6 != 0); dim(data) # if no subgraphs, no point in tes
 
 # subgraph-sector congruence
 m6sc <- data %>% select(ID, Code, n_m6_sect, mean_m6_sect, sd_m6_sect); head(m6sc)
-m6sc <- zscore(m6sc); m6sc %>% filter(is.na(Z)) %>% count() # 6 NaN (0/0)
+m6sc <- zscore(m6sc); m6sc %>% filter(is.na(Z)) # 6 NaN (0/0)
 dim(m6sc) # 0 removed due to Inf: Sd 0 become Inf: 0/0 is Nan; 1/0 is Inf
 
 # subgraph-module congruence
@@ -108,7 +108,7 @@ pa <- msdata %>% select(ID, IntSign, Code, contains("MS_")) %>% # N = 79
   ggplot(aes(x = Code, y = MS_congr, fill = IntSign)) +
   geom_boxplot(color = c(rep(strpal[1], 1), rep(strpal[2], 3)), alpha = 0.5) +
   xlab("") + ylab("Module-sector congruence") +
-  coord_cartesian(ylim = c(0.50, 1.00)) + scale_fill_manual(values = strpal) + 
+  coord_cartesian(ylim = c(0.00, 1.00)) + scale_fill_manual(values = strpal) + 
   theme_classic() + theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14), legend.position = "none"); pa
 
 pb <- msdata %>% select(ID, IntSign, Code, MS_pval) %>% # N = 79 
