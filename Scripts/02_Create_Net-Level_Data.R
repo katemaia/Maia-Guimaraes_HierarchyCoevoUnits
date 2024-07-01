@@ -9,13 +9,13 @@
 # SECTORS IN LARGEST COMPONENTS
 # MODULES IN LARGEST COMPONENTS
 # MODULE-SECTOR CONGRUENCE
-# SUBGRAPHS IN LARGEST COMPONENTS
 
 # output: df with network ID, number of rows, columns and links (NRow, NCol, NLinks), connectance, number of components (NComp), size of the largest component in number of species (LargeCompSize), number of largest components, number of modules (_NMod), modularity (_Modularity) and null model results of modularity analysis ran with Simulated Annealing (SA) and Fast Grid (FG) algorithms, and module-sector (MS) observed congruence (congr), and mean, standard deviation (sd) and p-value (pval) of null model.
 
 # --------------------- Loading library, code and data --------------------
 
 library(tidyverse)
+library(GoodmanKruskal)
 source("./Scripts/functions/component_net.R")
 source("./Scripts/functions/modsect_nm.R")
 
@@ -95,35 +95,30 @@ head(net_struct); dim(net_struct)
 sp_struct <- sp_struct[!sp_struct$ID %in% c(multLC, starLC),]; length(unique(sp_struct$ID))
 sp_struct <- sp_struct[!is.na(sp_struct$Mod_Aff),] # only sp in LC
 
-# Btw 0.5 (all modules perfectly split) and 1 (all modules fully contained in dominant sector).
-congr_df <- sp_struct
-congr_df <- unique(congr_df[, c("ID", "GC_Aff")]); dim(unique(congr_df))
-congr_df$congr <- NA
+sp_list <- split(sp_struct, f = sp_struct$ID) # Empirical mod-sect congruence
+sp_list <- lapply(sp_list, function(x) x[, c("Fiedler", "Mod_Aff")]) # sp aff to sector and module
+congr <- do.call(rbind, lapply(sp_list, function(x) GKtau(x$Mod_Aff, x$Fiedler)))
 
-NM <- matrix(NA, nrow(congr_df), 1000); congr_df <- cbind(congr_df, NM) # Adding null model
+NM <- matrix(NA, nrow(congr), 1000) # Adding null model; stores emp value in col 1
+congr_df <- cbind(congr$tauxy, NM); rownames(congr_df) <- rownames(congr)
 
-for (i in 1:nrow(congr_df)) { # around 10'
+for (i in 1:nrow(congr_df)) { # aprox 5'
   
   print(i)
-  sp_M <- sp_struct[sp_struct$ID == congr_df$ID[i] & sp_struct$GC_Aff == congr_df$GC_Aff[i],] # comppnent sp 
-  if (any(is.na(sp_M))) {print("ERROR IN sp_M")}
-  df <- as.data.frame.matrix(table(sp_M$Mod_Aff, sp_M$Fiedler)) # N sp in [module, sector]
-  df <- apply(df/rowSums(df), 1, max) # max congruence with sector (in %) per module
-  congr_df[i, "congr"] <- mean(df)
-
+  sp_M <- sp_struct[sp_struct$ID == rownames(congr_df)[i],] # component sp 
+  if (any(is.na(sp_M)) | any(sp_M$GC_Aff != 1)) {print("ERROR IN sp_M")}
+  
   for (j in 1:1000) { # null model
     
     sp_M$Fiedler <- unlist(tapply(sp_M$Fiedler, sp_M$MDim, sample))
-    df <- as.data.frame.matrix(table(sp_M$Mod_Aff, sp_M$Fiedler)) # N sp in [module, sector]
-    df <- apply(df/rowSums(df), 1, max) # max congruence with sector (in %) per module
-    congr_df[i, which(colnames(congr_df) == j)] <- mean(df)
+    tau <- GKtau(sp_M$Mod_Aff, sp_M$Fiedler)
+    congr_df[i, j + 1] <- tau$tauxy
     
   }
 } 
 
-congr_df <- modsect_nm(congr_df); head(congr_df) # summary NM results
-colnames(congr_df)[3:6] <- paste0("MS_", colnames(congr_df)[3:6])
+congr_df <- modsect_nm(congr_df); colnames(congr_df)[-1] <- paste0("MS_", colnames(congr_df)[-1])
 
-net_struct <- left_join(net_struct, congr_df[,-2], by = "ID")
+net_struct <- left_join(net_struct, congr_df, by = "ID")
 head(net_struct); dim(net_struct)
-#write.table(net_struct, "./Outputs/02_Net-Level_Struct.txt", sep = "\t", row.names = FALSE)
+#write.table(net_struct, "./Outputs/02_Net-Level_Struct.txt", sep = "\t")

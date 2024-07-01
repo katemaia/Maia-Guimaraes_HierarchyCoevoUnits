@@ -76,7 +76,7 @@ pa <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
   ggplot(aes(x = Code, y = MS_congr, fill = IntSign)) +
   geom_boxplot(color = c(rep(pal[1], 4), rep(pal[2], 4)), alpha = 0.5) +
   xlab("") + ylab("Module-sector congruence") +
-  coord_cartesian(ylim = c(0.50, 1.00)) + scale_fill_manual(values = pal) + 
+  coord_cartesian(ylim = c(0.00, 1.00)) + scale_fill_manual(values = pal) + 
   theme_classic() + theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14), legend.position = "none"); pa
 
 label <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% group_by(Code) %>% count()

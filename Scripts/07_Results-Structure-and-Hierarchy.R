@@ -121,6 +121,9 @@ anova(lm(n_m6 ~ IntSign, data = net_struct))
 net_struct %>% group_by(IntType) %>% # Module-sector congruence
   summarise(mean = mean(MS_congr), sd = sd(MS_congr), min = min(MS_congr), max = max(MS_congr))
 
+net_struct %>% mutate(MS_pval = MS_pval <= 0.05) %>% 
+  group_by(IntType, MS_pval) %>% count() %>% arrange(MS_pval)
+
 # -------------------------------------------------------------------------
 # ------------ Results on subgraph and module/sector congruence -----------
 
