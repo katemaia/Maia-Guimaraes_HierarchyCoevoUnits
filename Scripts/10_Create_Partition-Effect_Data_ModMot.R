@@ -3,8 +3,8 @@
 # Author: Kate P Maia
 # Checked: 12/2023
 
-# Partitions three effect measures (total, direct and indirect effects)  - per network and per m value - in four groups: effects inside modules and inside motifs (inMdinMt), inside modules but between motifs (inMdbetMt), between modules but inside motifs (betMdinMt) and between modules and between motifs  (betMdbetMt). It needs to be run in parts as it takes a long time to run.
-# Prints partition_df with the four partitions per network (ID), interaction type (IntType), effect measure (teff, deff or ieff), and m (0.1, 0.5 or 0.9). 
+# Partitions effect measures (direct and indirect effects)  - per network and per m value - in four groups: effects inside modules and inside motifs (inMdinMt), inside modules but between motifs (inMdbetMt), between modules but inside motifs (betMdinMt) and between modules and between motifs  (betMdbetMt). It needs to be run in parts as it takes a long time to run.
+# Prints partition_df with the four partitions per network (ID), interaction type (IntType), effect measure (deff or ieff), and m (0.1, 0.5 or 0.9). 
 
 # --------------------- Loading library, code and data --------------------
 

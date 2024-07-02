@@ -157,7 +157,7 @@ pf <- zdata %>% ggplot() + geom_histogram(aes(x = Z_m6m), alpha = 0.6) +
 cowplot::plot_grid(pa, pb, pc, pd, pe, pf, labels = c("a)", "b)", "c)", "d)", "e)", "f)"), nrow = 2, label_size = 14, label_fontfamily = "", label_fontface = "plain")
 
 # -------------------------------------------------------------------------
-# ----------- Fig S2: Plotting component size x no components -------------
+# ---------------- Plotting component size x no components ----------------
 
 net_struct %>% select(ID, IntSign, IntType, 2:8) %>% 
   mutate(PropLarge = LargeCompSize/(NRow + NCol)) %>% 
@@ -167,7 +167,7 @@ net_struct %>% select(ID, IntSign, IntType, 2:8) %>%
   scale_colour_manual(values = pal) + facet_wrap(~IntType, nrow = 2)
 
 # -------------------------------------------------------------------------
-# --------------- Fig S3: Plotting balance in sector size -----------------
+# -------------------- Plotting balance in sector size --------------------
 
 ponyo <- ghibli_palette("PonyoMedium")[1:7]
 harry <- harrypotter::hp(18, house = "LunaLovegood")
@@ -203,7 +203,7 @@ pb <- sector_tab %>% group_by(Code, Balance) %>% count(Code) %>%
 cowplot::plot_grid(pa, pb, labels = c("a)", "b)"), nrow = 1, label_size = 12, label_fontfamily = "", label_fontface = "plain")
 
 # -------------------------------------------------------------------------
-# ------- Fig SX: Plotting correlation between modularity indexes ---------
+# ------------ Plotting correlation between modularity indexes ------------
 
 data <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
   select(ID, SA_NMod, SA_Modularity, FG_NMod, FG_Modularity)
@@ -221,7 +221,7 @@ pb <- ggplot(data, aes(x = SA_NMod, y = FG_NMod)) + geom_jitter(alpha = 0.3) +
 cowplot::plot_grid(pa, pb, labels = c("a)", "b)"), nrow = 1, label_size = 12, label_fontfamily = "", label_fontface = "plain")
 
 # -------------------------------------------------------------------------
-# ------------- Fig S4: Plotting network modularity results ---------------
+# ------------------ Plotting network modularity results ------------------
 
 data <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
   select(ID, IntSign, Code, Connectance, SA_Modularity, FG_PNull)
@@ -254,7 +254,7 @@ pd <- data %>% mutate(FG_PNull = ifelse(FG_PNull <= 0.05, TRUE, FALSE)) %>%
 cowplot::plot_grid(pa, pb, pc, pd, labels = c("a)", "b)", "c)", "d)"), nrow = 2, label_size = 12, label_fontfamily = "", label_fontface = "plain")
 
 # -------------------------------------------------------------------------
-# -------------- Fig S5: Plotting no subgraphs x net size -----------------
+# ------------------- Plotting no subgraphs x net size --------------------
 
 net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
   filter(n_m6 != 0) %>% # removes 21 with no m6
@@ -264,7 +264,7 @@ net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
   theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.x = element_text(size = 14), axis.title.y = element_text(size = 14), strip.text = element_text(size = 12), legend.position = "none") + facet_wrap(~IntType, nrow = 2)
 
 # -------------------------------------------------------------------------
-# --------------- Fig S6: Subgraph-Module-Sector Congruence ---------------
+# ------------------- Subgraph-Module-Sector Congruence -------------------
 
 pa <- net_struct %>% filter(!ID %in% c(multLC, starLC)) %>% # N = 366
   filter(n_m6 != 0) %>% filter(ID != "M_PL_062") %>% # N = 344 (366 - 21 with 0 m6)
@@ -291,7 +291,7 @@ pb <- pb + annotate("text", x = 1:8, y = 1.02, label = label$n); pb
 cowplot::plot_grid(pa, pb, labels = c("a)", "b)"), ncol = 2, label_size = 14, label_fontfamily = "", label_fontface = "plain")
 
 # -------------------------------------------------------------------------
-# ------------- Fig S7: Plotting proportion of in-group links -------------
+# ----------------- Plotting proportion of in-group links -----------------
 
 net_struct %>% filter(!ID %in% c(multLC, starLC)) %>%
   select(ID, IntSign, IntType, LinkSct, LinkMod, LinkMot) %>% 
@@ -305,7 +305,7 @@ net_struct %>% filter(!ID %in% c(multLC, starLC)) %>%
   theme(legend.position = "none", axis.text.x = element_text(size = 14), axis.text.y = element_text(size = 14), axis.title.y = element_text(size = 14), strip.text = element_text(size = 12))
 
 # -------------------------------------------------------------------------
-# ----------- Fig SX: Normalised zscore congruence histograms  ------------
+# --------------- Normalised zscore congruence histograms  ----------------
 
 pa <- zdata %>% ggplot() + geom_histogram(aes(x = NormZ_ms), alpha = 0.6) + 
   xlab("Module-sector congruence \n (normalised z-score)") + 
@@ -322,7 +322,7 @@ pc <- zdata %>% ggplot() + geom_histogram(aes(x = NormZ_m6m), alpha = 0.6) +
 cowplot::plot_grid(pa, pb, pc, labels = c("a)", "b)", "c)"), nrow = 1, label_size = 14, label_fontfamily = "", label_fontface = "plain")
 
 # -------------------------------------------------------------------------
-# ---------------- Fig SX: Congruence Significance Profile ----------------
+# -------------------- Congruence Significance Profile --------------------
 
 # data to explore missing values
 miss <- zdata %>% mutate(Z_ms = is.na(Z_ms), NormZ_ms = is.na(NormZ_ms), Z_m6s = is.na(Z_m6s), NormZ_m6s = is.na(NormZ_m6s), Z_m6m = is.na(Z_m6m), NormZ_m6m = is.na(NormZ_m6m), Z_m6ms = is.na(Z_m6ms), NormZ_m6ms = is.na(NormZ_m6ms)) %>% 

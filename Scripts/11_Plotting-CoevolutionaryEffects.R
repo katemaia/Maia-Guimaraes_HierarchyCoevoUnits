@@ -73,7 +73,7 @@ partition_df %>% select(ID, Code, effmeasure, m, inSinM, inSbetM, betSinM, betSb
   facet_grid(rows = vars(m), cols = vars(effmeasure))
 
 # -------------------------------------------------------------------------
-# --- Fig X: Module-subgraph partition effect as significance profiles ----
+# ------- Module-subgraph partition effect as significance profiles -------
 
 spdata <- partition_df %>% select(ID, Code, effmeasure, m, contains("Mt")) %>%
   mutate(tot = inMdinMt + inMdbetMt + betMdinMt + betMdbetMt) %>% 
@@ -161,7 +161,7 @@ pm <- plot_grid(polp, sdp, fane, antp, nrow = 2, scale = 1.01)
 pm <- grid.arrange(arrangeGrob(pm, left = ylab, bottom = xlab))
 
 # -------------------------------------------------------------------------
-# ---- Fig X: Sector-module partition effect as significance profiles -----
+# -------- Sector-module partition effect as significance profiles --------
 
 spdata <- partition_df %>% select(ID, Code, effmeasure, m, contains("S")) %>%
   mutate(tot = inSinM + inSbetM + betSinM + betSbetM) %>% 
@@ -245,7 +245,7 @@ pm <- plot_grid(polp, sdp, fane, antp, nrow = 2, scale = 1.01)
 pm <- grid.arrange(arrangeGrob(pm, left = ylab, bottom = xlab))
 
 # -------------------------------------------------------------------------
-# ------------ Fig S8: Plotting effect-link ratio inside groups -----------
+# ---------------- Plotting effect-link ratio inside groups ---------------
 
 points <- partition_df %>% # Summary of eff/int plot
   mutate(m = factor(m, levels = c("0.9", "0.5", "0.1"))) %>% 
@@ -275,7 +275,7 @@ ggplot(points, aes(x = group, y = value)) + geom_point(aes(color = effmeasure, a
   theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14), axis.title.x = element_text(size = 14), strip.text = element_text(size = 12)) + scale_color_manual(values = c("#00BFC4", "#F8766D"))
 
 # -------------------------------------------------------------------------
-# ------ Fig S9: Plotting relative strength of direct x indirect eff ------
+# ---------- Plotting relative strength of direct x indirect eff ----------
 
 partition_df %>% mutate(sum = inSinM + inSbetM + betSinM + betSbetM) %>% 
   select(ID, IntType, Code, effmeasure, m, sum) %>% 
