@@ -2,6 +2,7 @@
 ##----- Maia and Guimaraes ------
 
 ###--- The hierarchical coevolutionary units of ecological networks ---
+[![DOI](https://zenodo.org/badge/738971666.svg)](https://zenodo.org/doi/10.5281/zenodo.12628129)
 
 Repository of data and scripts of manuscript entitled "The hierarchical coevolutionary units of ecological networks" of Kate Pereira Maia and Paulo Roberto Guimaraes Jr. 
 
