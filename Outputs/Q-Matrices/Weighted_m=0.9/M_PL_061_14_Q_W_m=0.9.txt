@@ -1,0 +1,18 @@
+"Phoenicophorium_borsigianum"	"Nephrosperma_vanhoutteanum"	"Erythroxylum_sechellarum"	"Memecylon_eleagni"	"Canthium_bibracteatum"	"Alstonia_macrophylla"	"Lasioglossum_mahense"	"Rhiparida_seychellensis"	"Apis_mellifera"	"Phelsuma_sp1_M_PL_097"	"Unidentified_sp1_M_PL_097"	"Cratopus_aurostriatus"	"Eagris_sabadius"	"Hemipyrellia_germana"	"Hemipyrellia_sp1_M_PL_097"	"Neophyllomyza_approximatonervis"	"Rhynchium_brunneum"
+"Phoenicophorium_borsigianum"	0	0	0	0	0	0	0.16027397260274	0.715068493150685	0	0	0	0.0123287671232877	0	0	0.0123287671232877	0	0
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0.682258064516129	0	0.159677419354839	0.0435483870967742	0	0	0	0.0145161290322581	0	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0.559459459459459	0	0.267567567567568	0	0.072972972972973	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0.525	0	0.3	0	0	0.075	0	0	0	0	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0.3	0	0	0	0	0	0	0	0	0.3	0.3
+"Alstonia_macrophylla"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0
+"Lasioglossum_mahense"	0.128571428571429	0.464835164835165	0.227472527472527	0.0692307692307692	0.00989010989010989	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0	0.380769230769231	0.380769230769231	0.138461538461538	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_097"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_097"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0.45	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eagris_sabadius"	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_097"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhynchium_brunneum"	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0

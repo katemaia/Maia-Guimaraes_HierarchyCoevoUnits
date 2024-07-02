@@ -1,0 +1,26 @@
+"Nephrosperma_vanhoutteanum"	"Memecylon_eleagni"	"Dillenia_suffruticosa"	"Chrysobalanus_icaco"	"Nepenthes_pervillei"	"Roscheria_melanochaetes"	"Cinnamomum_verum"	"Mimusops_sechellarum"	"Canthium_bibracteatum"	"Apis_mellifera"	"Lasioglossum_mahense"	"Unidentified_sp1_M_PL_126"	"Xylocopa_caffra"	"Lygistorrhina_sp1_M_PL_126"	"Unidentified_sp2_M_PL_126"	"Hemipyrellia_germana"	"Unidentified_sp3_M_PL_126"	"Unidentified_sp4_M_PL_126"	"Chalcidoma_disjunctum"	"Hemipyrellia_sp1_M_PL_126"	"Neavella_albipectus"	"Nectarinia_dussumieri"	"Parasarcophaga_hirticeps"	"Polistes_olivaceus"	"Unidentified_sp5_M_PL_126"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0	0	0.373846153846154	0.276923076923077	0.193846153846154	0	0.0138461538461538	0.0415384615384615	0	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0	0.7875	0.075	0	0	0	0	0	0	0	0.0375	0	0	0	0	0	0
+"Dillenia_suffruticosa"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Chrysobalanus_icaco"	0	0	0	0	0	0	0	0	0	0.72	0	0	0	0	0	0	0	0	0	0	0	0.09	0	0.09	0
+"Nepenthes_pervillei"	0	0	0	0	0	0	0	0	0	0.6	0	0	0	0	0	0.2	0	0	0	0	0	0	0.1	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0	0	0	0	0	0	0.3	0	0	0	0	0.2	0.2	0	0	0.1	0	0	0	0.1
+"Cinnamomum_verum"	0	0	0	0	0	0	0	0	0	0.7875	0	0	0	0	0	0	0	0	0	0.1125	0	0	0	0	0
+"Mimusops_sechellarum"	0	0	0	0	0	0	0	0	0	0	0.128571428571429	0.514285714285714	0	0.257142857142857	0	0	0	0	0	0	0	0	0	0	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.3375	0.2625	0	0.1	0.075	0	0.0875	0	0.0375	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.782608695652174	0.0782608695652174	0	0	0	0	0	0.0391304347826087	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_126"	0.6	0	0	0	0	0.128571428571429	0	0.171428571428571	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Xylocopa_caffra"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_126"	0.3	0	0	0	0	0	0	0.6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_126"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_126"	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_126"	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Chalcidoma_disjunctum"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_126"	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neavella_albipectus"	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Parasarcophaga_hirticeps"	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Polistes_olivaceus"	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp5_M_PL_126"	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

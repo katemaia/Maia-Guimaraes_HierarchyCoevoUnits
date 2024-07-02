@@ -1,0 +1,20 @@
+"Nephrosperma_vanhoutteanum"	"Psychotria_pervillei"	"Phoenicophorium_borsigianum"	"Canthium_bibracteatum"	"Dillenia_ferruginea"	"Memecylon_eleagni"	"Psidium_cattleianum"	"Lasioglossum_mahense"	"Apis_mellifera"	"Unidentified_sp2_M_PL_095"	"Hemipyrellia_sp1_M_PL_095"	"Ornidia_obesa"	"Nectarinia_dussumieri"	"Rhiparida_seychellensis"	"Unidentified_sp3_M_PL_095"	"Eristalinus_vicarians"	"Hemipyrellia_germana"	"Parasarcophaga_hirticeps"	"Unidentified_sp1_M_PL_095"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0.272727272727273	0.121212121212121	0.0606060606060606	0	0	0	0.0303030303030303	0	0	0	0	0.0151515151515152
+"Psychotria_pervillei"	0	0	0	0	0	0	0	0.203125	0.28125	0	0	0	0.015625	0	0	0	0	0	0
+"Phoenicophorium_borsigianum"	0	0	0	0	0	0	0	0.36	0.08	0	0	0.02	0	0	0.04	0	0	0	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0	0.233333333333333	0.166666666666667	0	0.1	0	0	0	0	0	0	0	0
+"Dillenia_ferruginea"	0	0	0	0	0	0	0	0.222222222222222	0.111111111111111	0	0	0	0.0555555555555556	0	0	0	0.0555555555555556	0.0555555555555556	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0
+"Psidium_cattleianum"	0	0	0	0	0	0	0	0	0.25	0	0	0.166666666666667	0	0	0	0.0833333333333333	0	0	0
+"Lasioglossum_mahense"	0.15	0.108333333333333	0.15	0.0583333333333333	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0833333333333333	0.1875	0.0416666666666667	0.0520833333333333	0.0208333333333333	0.0833333333333333	0.03125	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_095"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_095"	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0	0.166666666666667	0	0	0	0.333333333333333	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0.25	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_095"	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eristalinus_vicarians"	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Parasarcophaga_hirticeps"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_095"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

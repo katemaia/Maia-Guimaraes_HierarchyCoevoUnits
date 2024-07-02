@@ -1,0 +1,25 @@
+"Nephrosperma_vanhoutteanum"	"Canthium_bibracteatum"	"Erythroxylum_sechellarum"	"Paragenipa_wrightii"	"Premna_serratifolia"	"Ochna_kirkii"	"Lasioglossum_mahense"	"Apis_mellifera"	"Rhiparida_seychellensis"	"Megachile_seychellensis"	"Rhynchium_brunneum"	"Neophyllomyza_approximatonervis"	"Unidentified_sp1_M_PL_115"	"Unidentified_sp2_M_PL_115"	"Ceratina_tabescens"	"Hemipyrellia_sp1_M_PL_115"	"Lygistorrhina_sp1_M_PL_115"	"Tricimba_seychellensis"	"Unidentified_sp4_M_PL_115"	"Xylocopa_caffra"	"Hemipyrellia_germana"	"Ornidia_obesa"	"Phelsuma_sp1_M_PL_115"	"Unidentified_sp3_M_PL_115"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0.164893617021277	0.154255319148936	0.111702127659574	0	0	0.0212765957446809	0	0.0159574468085106	0	0	0.00531914893617021	0.0106382978723404	0.0106382978723404	0	0	0	0.00531914893617021	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0.153846153846154	0.141025641025641	0	0.128205128205128	0	0	0	0	0.0256410256410256	0.0256410256410256	0	0	0	0	0.0128205128205128	0.0128205128205128	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0.293103448275862	0.155172413793103	0	0	0	0	0.0344827586206897	0	0	0	0.0172413793103448	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	0	0	0	0	0	0	0.30952380952381	0.142857142857143	0	0	0	0	0.0238095238095238	0	0	0	0	0	0	0	0	0	0	0.0238095238095238
+"Premna_serratifolia"	0	0	0	0	0	0	0.1	0	0	0.05	0.35	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ochna_kirkii"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0
+"Lasioglossum_mahense"	0.206666666666667	0.08	0.113333333333333	0.0866666666666667	0.0133333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.263636363636364	0.1	0.0818181818181818	0.0545454545454545	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0	0.454545454545455	0	0	0.0454545454545455	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhynchium_brunneum"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_115"	0	0	0.333333333333333	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_115"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratina_tabescens"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_115"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_115"	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tricimba_seychellensis"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_115"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Xylocopa_caffra"	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_115"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_115"	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

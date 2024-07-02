@@ -1,0 +1,26 @@
+"Clethrionomys_rutilus"	"Spermophilus_undulatus"	"Microtus_gregalis"	"Tamias_sibiricus"	"Microtus_oeconomus"	"Myopus_schisticolor"	"Sorex_araneus"	"Sciurus_vulgaris"	"Citellophilus_tesquorum"	"Megabothris_advenarius"	"Catallagia_ioffi"	"Amphipsylla_primaris"	"Catallagia_dacenkoi"	"Frontopsylla_luculenta"	"Amalaraeus_penicilliger"	"Megabothris_calcarifer"	"Ceratophyllus_indages"	"Corrodopsylla_birulai"	"Megabothris_rectangulatus"	"Oropsylla_alaskensis"	"Ceratophyllus_paradoxus"	"Amphipsylla_marikovskii"	"Neopsylla_mana"	"Rhadinopsylla_dahurica"	"Rhadinopsylla_pseudodahurica"
+"Clethrionomys_rutilus"	0	0	0	0	0	0	0	0	0	0.2525	0.2375	0.06	0.175	0.005	0.0875	0	0.005	0.0175	0.02	0	0.0225	0.0075	0	0.005	0.005
+"Spermophilus_undulatus"	0	0	0	0	0	0	0	0	0.644711538461539	0	0	0	0	0.164423076923077	0	0	0	0.0259615384615385	0.00865384615384615	0.05625	0	0	0	0	0
+"Microtus_gregalis"	0	0	0	0	0	0	0	0	0	0.158108108108108	0.0668918918918919	0.297972972972973	0	0.0972972972972973	0.0547297297297297	0.127702702702703	0	0	0.0790540540540541	0	0	0	0.0182432432432432	0	0
+"Tamias_sibiricus"	0	0	0	0	0	0	0	0	0	0	0.0382978723404255	0	0	0	0	0.0574468085106383	0.651063829787234	0.114893617021277	0.0382978723404255	0	0	0	0	0	0
+"Microtus_oeconomus"	0	0	0	0	0	0	0	0	0	0.189473684210526	0.0473684210526316	0.0947368421052632	0	0	0.0947368421052632	0.426315789473684	0	0	0.0473684210526316	0	0	0	0	0	0
+"Myopus_schisticolor"	0	0	0	0	0	0	0	0	0	0	0	0	0.45	0	0	0	0	0.45	0	0	0	0	0	0	0
+"Sorex_araneus"	0	0	0	0	0	0	0	0	0.36	0	0	0	0	0	0	0	0	0.27	0	0.27	0	0	0	0	0
+"Sciurus_vulgaris"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0
+"Citellophilus_tesquorum"	0	0.876470588235294	0	0	0	0	0.0235294117647059	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_advenarius"	0.673333333333333	0	0.173333333333333	0	0.0533333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Catallagia_ioffi"	0.777272727272727	0	0.09	0.0163636363636364	0.0163636363636364	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_primaris"	0.280519480519481	0	0.572727272727273	0	0.0467532467532468	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Catallagia_dacenkoi"	0.84	0	0	0	0	0.06	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Frontopsylla_luculenta"	0.0321428571428571	0.610714285714286	0.257142857142857	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amalaraeus_penicilliger"	0.65625	0	0.16875	0	0.075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_calcarifer"	0	0	0.45	0.0642857142857143	0.385714285714286	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratophyllus_indages"	0.0473684210526316	0	0	0.805263157894737	0	0	0	0.0473684210526316	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Corrodopsylla_birulai"	0.233333333333333	0.2	0	0.2	0	0.166666666666667	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_rectangulatus"	0.266666666666667	0.0666666666666667	0.433333333333333	0.0666666666666667	0.0666666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Oropsylla_alaskensis"	0	0.73125	0	0	0	0	0.16875	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratophyllus_paradoxus"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_marikovskii"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_mana"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_dahurica"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_pseudodahurica"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

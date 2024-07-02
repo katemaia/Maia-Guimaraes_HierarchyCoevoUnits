@@ -1,0 +1,22 @@
+"Microtus_maximowiczii"	"Clethrionomys_rutilus"	"Microtus_oeconomus"	"Spermophilus_undulatus"	"Clethrionomys_rufocanus"	"Cricetulus_barabensis"	"Micromys_minutus"	"Apodemus_peninsulae"	"Amalaraeus_penicilliger"	"Megabothris_calcarifer"	"Ctenophthalmus_assimilis"	"Frontopsylla_luculenta"	"Catallagia_dacenkoi"	"Oropsylla_alaskensis"	"Megabothris_rectangulatus"	"Neopsylla_bidentatiformis"	"Amphipsylla_vinogradovi"	"Peromyscopsylla_ostsibirica"	"Amphipsylla_sibirica"	"Leptopsylla_segnis"	"Rhadinopsylla_rothschildi"
+"Microtus_maximowiczii"	0	0	0	0	0	0	0	0	0.29302987197724	0.172119487908962	0.0248933143669986	0	0.00995732574679943	0	0	0	0	0	0	0	0
+"Clethrionomys_rutilus"	0	0	0	0	0	0	0	0	0.381773399014778	0.0443349753694581	0.0270935960591133	0.00738916256157635	0.0197044334975369	0	0.0147783251231527	0	0	0	0	0	0.00492610837438424
+"Microtus_oeconomus"	0	0	0	0	0	0	0	0	0.0660377358490566	0.386792452830189	0	0	0	0	0.0283018867924528	0	0	0.0188679245283019	0	0	0
+"Spermophilus_undulatus"	0	0	0	0	0	0	0	0	0	0	0	0.275	0	0.175	0	0.05	0	0	0	0	0
+"Clethrionomys_rufocanus"	0	0	0	0	0	0	0	0	0.09375	0	0.0625	0	0.09375	0	0.0625	0	0	0.0625	0.0625	0.0625	0
+"Cricetulus_barabensis"	0	0	0	0	0	0	0	0	0	0	0	0.0909090909090909	0	0	0	0.181818181818182	0.227272727272727	0	0	0	0
+"Micromys_minutus"	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0
+"Apodemus_peninsulae"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0
+"Amalaraeus_penicilliger"	0.357019064124783	0.134315424610052	0.00606585788561525	0	0.00259965337954939	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_calcarifer"	0.39413680781759	0.0293159609120521	0.0667752442996743	0	0	0	0.00977198697068404	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ctenophthalmus_assimilis"	0.364583333333333	0.114583333333333	0	0	0.0208333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Frontopsylla_luculenta"	0	0.0555555555555556	0	0.407407407407407	0	0.037037037037037	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Catallagia_dacenkoi"	0.28	0.16	0	0	0.06	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Oropsylla_alaskensis"	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megabothris_rectangulatus"	0	0.272727272727273	0.136363636363636	0	0.0909090909090909	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_bidentatiformis"	0	0	0	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_vinogradovi"	0	0	0	0	0	0.357142857142857	0	0.142857142857143	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Peromyscopsylla_ostsibirica"	0	0	0.25	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amphipsylla_sibirica"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Leptopsylla_segnis"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_rothschildi"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

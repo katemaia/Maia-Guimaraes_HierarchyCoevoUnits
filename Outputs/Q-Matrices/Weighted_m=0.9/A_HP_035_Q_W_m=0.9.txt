@@ -1,0 +1,14 @@
+"Microtus_agrestis"	"Apodemus_sylvaticus"	"Sorex_araneus"	"Clethrionomys_glareolus"	"Neomys_fodiens"	"Sorex_minutus"	"Ctenophthalmus_nobilis"	"Megabothris_walkeri"	"Palaeopsylla_soricis"	"Amalaraeus_penicilliger"	"Ctenophthalmus_bisoctodentatus"	"Doratopsylla_dasycnema"	"Hystrichopsylla_talpae"
+"Microtus_agrestis"	0	0	0	0	0	0	0.616666666666667	0.208333333333333	0.0166666666666667	0.0416666666666667	0.0166666666666667	0	0
+"Apodemus_sylvaticus"	0	0	0	0	0	0	0.825	0.075	0	0	0	0	0
+"Sorex_araneus"	0	0	0	0	0	0	0	0	0.6	0	0.1	0.1	0.1
+"Clethrionomys_glareolus"	0	0	0	0	0	0	0.6	0	0.3	0	0	0	0
+"Neomys_fodiens"	0	0	0	0	0	0	0.9	0	0	0	0	0	0
+"Sorex_minutus"	0	0	0	0	0	0	0.9	0	0	0	0	0	0
+"Ctenophthalmus_nobilis"	0.628301886792453	0.186792452830189	0	0.0339622641509434	0.0339622641509434	0.0169811320754717	0	0	0	0	0	0	0
+"Megabothris_walkeri"	0.833333333333333	0.0666666666666667	0	0	0	0	0	0	0	0	0	0	0
+"Palaeopsylla_soricis"	0.1125	0	0.675	0.1125	0	0	0	0	0	0	0	0	0
+"Amalaraeus_penicilliger"	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Ctenophthalmus_bisoctodentatus"	0.45	0	0.45	0	0	0	0	0	0	0	0	0	0
+"Doratopsylla_dasycnema"	0	0	0.9	0	0	0	0	0	0	0	0	0	0
+"Hystrichopsylla_talpae"	0	0	0.9	0	0	0	0	0	0	0	0	0	0

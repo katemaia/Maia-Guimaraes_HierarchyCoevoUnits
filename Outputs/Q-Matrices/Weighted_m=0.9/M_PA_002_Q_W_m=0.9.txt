@@ -1,0 +1,11 @@
+"Cecropia_membranacea"	"Cecropia_tessmannii"	"Cecropia_ficifolia"	"Cecropia_sp1_M_PA_002"	"Cecropia_polystachya"	"Cecropia_engleriana"	"Azteca_xanthochroa"	"Azteca_ovaticeps"	"Camponotus_balzani"	"Pachycondyla_luteola"
+"Cecropia_membranacea"	0	0	0	0	0	0	0.186792452830189	0.441509433962264	0.271698113207547	0
+"Cecropia_tessmannii"	0	0	0	0	0	0	0	0	0.0870967741935484	0.812903225806452
+"Cecropia_ficifolia"	0	0	0	0	0	0	0.45	0	0.45	0
+"Cecropia_sp1_M_PA_002"	0	0	0	0	0	0	0.9	0	0	0
+"Cecropia_polystachya"	0	0	0	0	0	0	0.257142857142857	0.514285714285714	0.128571428571429	0
+"Cecropia_engleriana"	0	0	0	0	0	0	0.15	0.75	0	0
+"Azteca_xanthochroa"	0.230232558139535	0	0.251162790697674	0.355813953488372	0.0418604651162791	0.0209302325581395	0	0	0	0
+"Azteca_ovaticeps"	0.668571428571429	0	0	0	0.102857142857143	0.128571428571429	0	0	0	0
+"Camponotus_balzani"	0.45	0.084375	0.3375	0	0.028125	0	0	0	0	0
+"Pachycondyla_luteola"	0	0.9	0	0	0	0	0	0	0	0

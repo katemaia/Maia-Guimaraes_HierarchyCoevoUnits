@@ -1,0 +1,27 @@
+"Rhombomys_opimus"	"Meriones_libycus"	"Meriones_tamariscinus"	"Meriones_meridianus"	"Cricetulus_migratorius"	"Spermophilus_erythrogenys"	"Apodemus_uralensis"	"Allactaga_elater"	"Xenopsylla_gerbilli"	"Paradoxopsyllus_repandus"	"Echidnophaga_oschanini"	"Coptopsylla_lamellifer"	"Nosopsyllus_laeviceps"	"Xenopsylla_conformis"	"Ctenophthalmus_dolichus"	"Rhadinopsylla_cedestis"	"Xenopsylla_hirtipes"	"Stenoponia_conspecta"	"Stenoponia_vlasovi"	"Paradoxopsyllus_teretifrons"	"Neopsylla_teratura"	"Nosopsyllus_tersus"	"Pectinoctenus_lauta"	"Neopsylla_setosa"	"Neopsylla_mana"	"Mesopsylla_hebes"
+"Rhombomys_opimus"	0	0	0	0	0	0	0	0	0.769381860196418	0.0435297515886771	0.0351242056614674	0.0235124205661467	0.0148469093009821	0.000317735413056037	0.00459272097053726	0.00213749277874061	0.00167533217793183	0.00155979202772964	0.00150202195262854	0.000953206239168111	0.000404390525707683	0.000404390525707683	0	0	5.77700751010976e-05	0
+"Meriones_libycus"	0	0	0	0	0	0	0	0	0.0911894273127753	0	0.0356828193832599	0	0.281497797356828	0.483700440528634	0	0	0	0	0	0.0079295154185022	0	0	0	0	0	0
+"Meriones_tamariscinus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Meriones_meridianus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Cricetulus_migratorius"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.225	0	0.675	0	0	0
+"Spermophilus_erythrogenys"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0
+"Apodemus_uralensis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.54	0	0.36	0
+"Allactaga_elater"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9
+"Xenopsylla_gerbilli"	0.899223526763945	0.000776473236055366	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paradoxopsyllus_repandus"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Echidnophaga_oschanini"	0.893387755102041	0.00661224489795918	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Coptopsylla_lamellifer"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nosopsyllus_laeviceps"	0.790769230769231	0.109230769230769	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Xenopsylla_conformis"	0.0485294117647059	0.538235294117647	0.255882352941176	0.0573529411764706	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ctenophthalmus_dolichus"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_cedestis"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Xenopsylla_hirtipes"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Stenoponia_conspecta"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Stenoponia_vlasovi"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Paradoxopsyllus_teretifrons"	0.848571428571429	0.0514285714285714	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_teratura"	0.741176470588235	0	0	0	0.158823529411765	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nosopsyllus_tersus"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pectinoctenus_lauta"	0	0	0	0	0.675	0	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_setosa"	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_mana"	0.45	0	0	0	0	0	0.45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mesopsylla_hebes"	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

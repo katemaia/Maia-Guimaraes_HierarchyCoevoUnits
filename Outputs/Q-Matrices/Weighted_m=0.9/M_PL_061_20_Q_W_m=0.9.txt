@@ -1,0 +1,26 @@
+"Gastonia_crassa"	"Craterispermum_microdon"	"Roscheria_melanochaetes"	"Nephrosperma_vanhoutteanum"	"Psychotria_pervillei"	"Erythroxylum_sechellarum"	"Glionnetia_sericea"	"Memecylon_eleagni"	"Dillenia_ferruginea"	"Aphloia_theiformis"	"Paragenipa_wrightii"	"Apis_mellifera"	"Lasioglossum_mahense"	"Nectarinia_dussumieri"	"Unidentified_sp2_M_PL_103"	"Phelsuma_sp1_M_PL_103"	"Agrius_convolvuli"	"Forcipomyia_sp1_M_PL_103"	"Lygistorrhina_sp1_M_PL_103"	"Hemipyrellia_germana"	"Ornidia_obesa"	"Pachycerina_seychellensis"	"Physiphoa_azurea"	"Unidentified_sp1_M_PL_103"	"Unidentified_sp3_M_PL_103"
+"Gastonia_crassa"	0	0	0	0	0	0	0	0	0	0	0	0.0375	0.1125	0.45	0	0.1875	0	0	0	0.075	0	0	0.0375	0	0
+"Craterispermum_microdon"	0	0	0	0	0	0	0	0	0	0	0	0.6	0.3	0	0	0	0	0	0	0	0	0	0	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.370588235294118	0.0529411764705882	0	0.211764705882353	0.211764705882353	0	0	0	0	0.0529411764705882	0
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0	0	0	0	0.05625	0.84375	0	0	0	0	0	0	0	0	0	0	0	0
+"Psychotria_pervillei"	0	0	0	0	0	0	0	0	0	0	0	0.78	0	0.12	0	0	0	0	0	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Glionnetia_sericea"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Dillenia_ferruginea"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.3	0.3	0	0	0.3
+"Aphloia_theiformis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0
+"Paragenipa_wrightii"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0272727272727273	0.327272727272727	0	0.0272727272727273	0.354545454545455	0.163636363636364	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.0931034482758621	0.186206896551724	0	0.46551724137931	0	0	0	0.124137931034483	0	0	0.0310344827586207	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0.771428571428571	0	0	0	0.128571428571429	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_103"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_103"	0.75	0	0.15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Agrius_convolvuli"	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Forcipomyia_sp1_M_PL_103"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_103"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.6	0	0	0	0	0	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pachycerina_seychellensis"	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Physiphoa_azurea"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_103"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_103"	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

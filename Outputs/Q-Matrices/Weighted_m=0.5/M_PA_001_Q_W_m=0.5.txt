@@ -1,0 +1,25 @@
+"Allomerus_demararae"	"Pseudomyrmex_dendroicus"	"Pachychondyla_luteola"	"Crematogaster_victima"	"Pheidole_minutula"	"Azteca_sp8_M_PA_001"	"Myrmelachista_sp1_M_PA_001"	"Azteca_sp7_M_PA_001"	"Azteca_sp9_M_PA_001"	"Camponotus_balzani"	"Azteca_sp12_M_PA_001"	"Azteca_sp11_M_PA_001"	"Crematogaster_limata"	"Azteca_sp10_M_PA_001"	"Azteca_sp13_M_PA_001"	"Gnamptogenys_pleurodon"	"Cordia_nodosa"	"Triplaris_americana"	"Cecropia_sp1_M_PA_001"	"Clidemia_heterophylla"	"Pleurothyrium_sp1_M_PA_001"	"Triplaris_poeppigiana"	"Maieta_guianensis"	"Tococa_sp1_M_PA_001"
+"Allomerus_demararae"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0
+"Pseudomyrmex_dendroicus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0
+"Pachychondyla_luteola"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0
+"Crematogaster_victima"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.269230769230769	0	0	0.230769230769231	0
+"Pheidole_minutula"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.307692307692308	0	0	0.192307692307692	0
+"Azteca_sp8_M_PA_001"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0
+"Myrmelachista_sp1_M_PA_001"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0
+"Azteca_sp7_M_PA_001"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.333333333333333	0	0	0	0	0	0	0.166666666666667
+"Azteca_sp9_M_PA_001"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5
+"Camponotus_balzani"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0
+"Azteca_sp12_M_PA_001"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0
+"Azteca_sp11_M_PA_001"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0
+"Crematogaster_limata"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0
+"Azteca_sp10_M_PA_001"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5
+"Azteca_sp13_M_PA_001"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0
+"Gnamptogenys_pleurodon"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0
+"Cordia_nodosa"	0.406976744186047	0	0	0	0	0	0	0.0465116279069767	0	0	0	0	0.0232558139534884	0	0.0116279069767442	0.0116279069767442	0	0	0	0	0	0	0	0
+"Triplaris_americana"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cecropia_sp1_M_PA_001"	0	0	0.395833333333333	0	0	0	0	0	0	0.104166666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Clidemia_heterophylla"	0	0	0	0.233333333333333	0.266666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pleurothyrium_sp1_M_PA_001"	0	0	0	0	0	0	0.357142857142857	0	0	0	0.142857142857143	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Triplaris_poeppigiana"	0	0	0	0	0	0.428571428571429	0	0	0	0	0	0.0714285714285714	0	0	0	0	0	0	0	0	0	0	0	0
+"Maieta_guianensis"	0	0	0	0.272727272727273	0.227272727272727	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tococa_sp1_M_PA_001"	0	0	0	0	0	0	0	0.125	0.3125	0	0	0	0	0.0625	0	0	0	0	0	0	0	0	0	0

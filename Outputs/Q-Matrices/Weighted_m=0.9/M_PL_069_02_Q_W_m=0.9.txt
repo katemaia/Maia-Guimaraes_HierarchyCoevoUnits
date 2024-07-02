@@ -1,0 +1,15 @@
+"Fuchsia_regia"	"Spirotheca_rivieri"	"Inga_sp1_M_PL_069_02"	"Aegiphila_obducta"	"Nematanthus_australis"	"Justicia_carnea"	"Vriesea_altodaserrae"	"Vriesea_incurvata"	"Heliconia_farinosa"	"Nidularium_inocentii"	"Clytolaema_rubricauda"	"Thalurania_glaucopis"	"Phaethornis_eurynome"	"Amazilia_versicolor"
+"Fuchsia_regia"	0	0	0	0	0	0	0	0	0	0	0.594849785407725	0.305150214592275	0	0
+"Spirotheca_rivieri"	0	0	0	0	0	0	0	0	0	0	0.879310344827586	0.0206896551724138	0	0
+"Inga_sp1_M_PL_069_02"	0	0	0	0	0	0	0	0	0	0	0.807692307692308	0.0923076923076923	0	0
+"Aegiphila_obducta"	0	0	0	0	0	0	0	0	0	0	0	0.53265306122449	0.36734693877551	0
+"Nematanthus_australis"	0	0	0	0	0	0	0	0	0	0	0.3375	0.5625	0	0
+"Justicia_carnea"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0
+"Vriesea_altodaserrae"	0	0	0	0	0	0	0	0	0	0	0.54	0	0	0.36
+"Vriesea_incurvata"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0
+"Heliconia_farinosa"	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0
+"Nidularium_inocentii"	0	0	0	0	0	0	0	0	0	0	0	0	0.9	0
+"Clytolaema_rubricauda"	0.35584082156611	0.294608472400514	0.242618741976893	0	0.00346598202824134	0	0.00346598202824134	0	0	0	0	0	0	0
+"Thalurania_glaucopis"	0.632	0.024	0.096	0.116	0.02	0	0	0	0.012	0	0	0	0	0
+"Phaethornis_eurynome"	0	0	0	0.545454545454546	0	0.163636363636364	0	0.136363636363636	0	0.0545454545454545	0	0	0	0
+"Amazilia_versicolor"	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0

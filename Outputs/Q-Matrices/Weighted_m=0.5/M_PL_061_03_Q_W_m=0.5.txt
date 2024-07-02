@@ -1,0 +1,21 @@
+"Nephrosperma_vanhoutteanum"	"Memecylon_eleagni"	"Cinnamomum_verum"	"Canthium_bibracteatum"	"Paragenipa_wrightii"	"Erythroxylum_sechellarum"	"Apis_mellifera"	"Lasioglossum_mahense"	"Unidentified_sp2_M_PL_086"	"Phelsuma_sp1_M_PL_086"	"Megachile_seychellensis"	"Hemipyrellia_sp1_M_PL_086"	"Plagiostenopterina_cyanosoma"	"Unidentified_sp1_M_PL_086"	"Lygistorrhina_sp1_M_PL_086"	"Unidentified_sp4_M_PL_086"	"Musca_domestica"	"Nectarinia_dussumieri"	"Physiphoa_azurea"	"Unidentified_sp3_M_PL_086"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0.191588785046729	0.14018691588785	0.088785046728972	0.0373831775700935	0.0233644859813084	0	0	0.00934579439252336	0	0	0	0	0.00467289719626168	0.00467289719626168
+"Memecylon_eleagni"	0	0	0	0	0	0	0.478260869565217	0	0	0	0	0	0	0.0217391304347826	0	0	0	0	0	0
+"Cinnamomum_verum"	0	0	0	0	0	0	0.25	0.107142857142857	0	0	0	0.107142857142857	0	0	0	0	0.0357142857142857	0	0	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0.423076923076923	0	0	0	0.0384615384615385	0.0384615384615385	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	0	0	0	0	0	0	0.166666666666667	0	0	0	0	0	0.166666666666667	0	0	0.111111111111111	0	0.0555555555555556	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0.25	0	0	0.0833333333333333	0	0	0	0.166666666666667	0	0	0	0	0
+"Apis_mellifera"	0.244047619047619	0.130952380952381	0.0416666666666667	0.0654761904761905	0.0178571428571429	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.416666666666667	0	0.0416666666666667	0	0	0.0416666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_086"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_086"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0.357142857142857	0	0	0.0714285714285714	0	0.0714285714285714	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_086"	0	0	0.375	0.125	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Plagiostenopterina_cyanosoma"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_086"	0.333333333333333	0.166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_086"	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_086"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Musca_domestica"	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Physiphoa_azurea"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_086"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

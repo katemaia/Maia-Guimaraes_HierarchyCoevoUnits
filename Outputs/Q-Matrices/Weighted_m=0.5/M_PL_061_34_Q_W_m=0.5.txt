@@ -1,0 +1,11 @@
+"Chrysobalanus_icaco"	"Dillenia_ferruginea"	"Nepenthes_pervillei"	"Apis_mellifera"	"Hemipyrellia_sp1_M_PL_117"	"Lasioglossum_mahense"	"Eristalinus_vicarians"	"Hemipyrellia_germana"	"Ornidia_obesa"	"Rhiparida_seychellensis"
+"Chrysobalanus_icaco"	0	0	0	0.482758620689655	0	0	0.0172413793103448	0	0	0
+"Dillenia_ferruginea"	0	0	0	0.307692307692308	0	0.0769230769230769	0	0.0384615384615385	0.0384615384615385	0.0384615384615385
+"Nepenthes_pervillei"	0	0	0	0.25	0.25	0	0	0	0	0
+"Apis_mellifera"	0.368421052631579	0.105263157894737	0.0263157894736842	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_117"	0	0	0.5	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0	0.5	0	0	0	0	0	0	0	0
+"Eristalinus_vicarians"	0.5	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0	0.5	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0.5	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0	0.5	0	0	0	0	0	0	0	0

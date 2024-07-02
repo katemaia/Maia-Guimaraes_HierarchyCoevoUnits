@@ -1,0 +1,18 @@
+"Nephrosperma_vanhoutteanum"	"Chrysobalanus_icaco"	"Mimusops_sechellarum"	"Memecylon_eleagni"	"Dillenia_suffruticosa"	"Excoecaria_benthiamiana"	"Apis_mellifera"	"Lasioglossum_mahense"	"Unidentified_sp1_M_PL_125"	"Lygistorrhina_sp1_M_PL_125"	"Ornidia_obesa"	"Xylocopa_caffra"	"Nectarinia_dussumieri"	"Rhynchium_brunneum"	"Unidentified_sp2_M_PL_125"	"Unidentified_sp3_M_PL_125"	"Unidentified_sp4_M_PL_125"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0.324	0.456	0.096	0	0	0	0	0	0.012	0.012	0
+"Chrysobalanus_icaco"	0	0	0	0	0	0	0.759375	0	0.05625	0	0.05625	0	0	0.028125	0	0	0
+"Mimusops_sechellarum"	0	0	0	0	0	0	0.1125	0.1125	0	0.5625	0	0	0.1125	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0
+"Dillenia_suffruticosa"	0	0	0	0	0	0	0	0	0	0	0	0.9	0	0	0	0	0
+"Excoecaria_benthiamiana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.9
+"Apis_mellifera"	0.418965517241379	0.418965517241379	0.0155172413793103	0.046551724137931	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.876923076923077	0	0.0230769230769231	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_125"	0.72	0.18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_125"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Xylocopa_caffra"	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhynchium_brunneum"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_125"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_125"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_125"	0	0	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0

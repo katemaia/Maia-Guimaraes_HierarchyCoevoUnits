@@ -1,0 +1,24 @@
+"Miconia_argentea"	"Miconia_lacera"	"Miconia_minutiflora"	"Miconia_impetiolaris"	"Pipra_mentalis"	"Pipra_coronata"	"Catharus_ustulatus"	"Tachyphonus_luctuosus"	"Eucometis_penicillata"	"Euphonia_fulvicrissa"	"Manacus_vitellinus"	"Mionectes_oleagineus"	"Catharus_minimus"	"Dendroica_pensylvanica"	"Catharus_fuscescens"	"Dendroica_striata"	"Empidonax_virescens"	"Habia_fuscicauda"	"Leptotila_cassinii"	"Oryzoborus_angolensis"	"Ramphocelus_dimidiatus"	"Schiffornis_turdinus"	"Seiurus_aurocapillus"
+"Miconia_argentea"	0	0	0	0	0.284210526315789	0.0592105263157895	0.165789473684211	0.153947368421053	0.118421052631579	0	0.0236842105263158	0.0118421052631579	0	0.0236842105263158	0	0.0118421052631579	0	0.0118421052631579	0.0118421052631579	0.0118421052631579	0.0118421052631579	0	0
+"Miconia_lacera"	0	0	0	0	0.293877551020408	0.312244897959184	0.0551020408163265	0	0	0.110204081632653	0.036734693877551	0	0.036734693877551	0	0.0183673469387755	0	0.0183673469387755	0	0	0	0	0	0.0183673469387755
+"Miconia_minutiflora"	0	0	0	0	0.364285714285714	0.342857142857143	0.128571428571429	0	0	0	0	0.0428571428571429	0.0214285714285714	0	0	0	0	0	0	0	0	0	0
+"Miconia_impetiolaris"	0	0	0	0	0.327272727272727	0.436363636363636	0	0	0.0272727272727273	0	0.0545454545454545	0.0272727272727273	0	0	0	0	0	0	0	0	0	0.0272727272727273	0
+"Pipra_mentalis"	0.31304347826087	0.208695652173913	0.221739130434783	0.156521739130435	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pipra_coronata"	0.0833333333333333	0.283333333333333	0.266666666666667	0.266666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Catharus_ustulatus"	0.547826086956522	0.117391304347826	0.234782608695652	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tachyphonus_luctuosus"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eucometis_penicillata"	0.818181818181818	0	0	0.0818181818181818	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Euphonia_fulvicrissa"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Manacus_vitellinus"	0.3	0.3	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Mionectes_oleagineus"	0.225	0	0.45	0.225	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Catharus_minimus"	0	0.6	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dendroica_pensylvanica"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Catharus_fuscescens"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dendroica_striata"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Empidonax_virescens"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Habia_fuscicauda"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Leptotila_cassinii"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Oryzoborus_angolensis"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ramphocelus_dimidiatus"	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Schiffornis_turdinus"	0	0	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Seiurus_aurocapillus"	0	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

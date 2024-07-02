@@ -1,0 +1,23 @@
+"Cinnamomum_verum"	"Nephrosperma_vanhoutteanum"	"Memecylon_eleagni"	"Chrysobalanus_icaco"	"Roscheria_melanochaetes"	"Erythroxylum_sechellarum"	"Nepenthes_pervillei"	"Mimusops_sechellarum"	"Timonius_sechellensis"	"Apis_mellifera"	"Neophyllomyza_approximatonervis"	"Lygistorrhina_sp1_M_PL_118"	"Unidentified_sp2_M_PL_118"	"Lasioglossum_mahense"	"Nectarinia_dussumieri"	"Unidentified_sp1_M_PL_118"	"Hemipyrellia_sp1_M_PL_118"	"Leptotes_pirithous"	"Ornidia_obesa"	"Lampides_boeticus"	"Megachile_seychellensis"	"Phelsuma_sp1_M_PL_118"
+"Cinnamomum_verum"	0	0	0	0	0	0	0	0	0	0.407407407407407	0	0	0	0.0185185185185185	0	0	0.0185185185185185	0	0.037037037037037	0	0.0185185185185185	0
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0	0	0	0.108695652173913	0.195652173913043	0.108695652173913	0	0	0	0.0869565217391304	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0
+"Chrysobalanus_icaco"	0	0	0	0	0	0	0	0	0	0.166666666666667	0	0	0	0	0.222222222222222	0	0	0.111111111111111	0	0	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0
+"Nepenthes_pervillei"	0	0	0	0	0	0	0	0	0	0.166666666666667	0	0	0	0	0	0	0.333333333333333	0	0	0	0	0
+"Mimusops_sechellarum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5
+"Timonius_sechellensis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5	0	0
+"Apis_mellifera"	0.268292682926829	0.0609756097560976	0.121951219512195	0.0365853658536585	0	0	0.0121951219512195	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_118"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_118"	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.125	0	0	0	0	0.375	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_118"	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_118"	0.166666666666667	0	0	0	0	0	0.333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Leptotes_pirithous"	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lampides_boeticus"	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_118"	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0
