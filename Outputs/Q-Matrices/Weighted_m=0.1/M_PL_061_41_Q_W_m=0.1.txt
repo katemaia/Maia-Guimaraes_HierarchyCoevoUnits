@@ -1,0 +1,14 @@
+"Memecylon_eleagni"	"Mimusops_sechellarum"	"Roscheria_melanochaetes"	"Excoecaria_benthiamiana"	"Apis_mellifera"	"Unidentified_sp1_M_PL_124"	"Unidentified_sp2_M_PL_124"	"Unidentified_sp4_M_PL_124"	"Cratopus_aurostriatus"	"Lasioglossum_mahense"	"Lygistorrhina_sp1_M_PL_124"	"Simosyrphus_aegyptius"	"Unidentified_sp3_M_PL_124"
+"Memecylon_eleagni"	0	0	0	0	0.09	0	0	0	0	0.005	0	0.005	0
+"Mimusops_sechellarum"	0	0	0	0	0.025	0.025	0	0	0.025	0	0.025	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0.05	0.05	0	0	0	0	0	0
+"Excoecaria_benthiamiana"	0	0	0	0	0	0	0	0.0666666666666667	0	0	0	0	0.0333333333333333
+"Apis_mellifera"	0.0947368421052632	0.00526315789473684	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_124"	0	0.0333333333333333	0.0666666666666667	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_124"	0	0	0.1	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_124"	0	0	0	0.1	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0	0.1	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.1	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_124"	0	0.1	0	0	0	0	0	0	0	0	0	0	0
+"Simosyrphus_aegyptius"	0.1	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_124"	0	0	0	0.1	0	0	0	0	0	0	0	0	0

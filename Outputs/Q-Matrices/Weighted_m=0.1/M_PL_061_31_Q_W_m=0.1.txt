@@ -1,0 +1,25 @@
+"Canthium_bibracteatum"	"Phoenicophorium_borsigianum"	"Deckenia_nobilis"	"Nephrosperma_vanhoutteanum"	"Chrysobalanus_icaco"	"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_germana"	"Rhiparida_seychellensis"	"Unidentified_sp2_M_PL_114"	"Megachile_seychellensis"	"Neophyllomyza_approximatonervis"	"Hemipyrellia_sp1_M_PL_114"	"Ceratina_tabescens"	"Ornidia_obesa"	"Phelsuma_sp1_M_PL_114"	"Unidentified_sp1_M_PL_114"	"Melanostoma_annulipes"	"Rhynchium_brunneum"	"Lygistorrhina_sp1_M_PL_114"	"Polistes_olivaceus"	"Unidentified_sp3_M_PL_114"	"Unidentified_sp4_M_PL_114"	"Unidentified_sp5_M_PL_114"
+"Canthium_bibracteatum"	0	0	0	0	0	0.0473118279569893	0.0172043010752688	0.00967741935483871	0	0	0.010752688172043	0	0.00537634408602151	0.00430107526881721	0.00430107526881721	0	0	0	0.0010752688172043	0	0	0	0	0
+"Phoenicophorium_borsigianum"	0	0	0	0	0	0.00571428571428571	0.0314285714285714	0.0157142857142857	0.0371428571428571	0	0	0	0	0	0	0.00142857142857143	0.00285714285714286	0.00285714285714286	0	0	0	0.00142857142857143	0.00142857142857143	0
+"Deckenia_nobilis"	0	0	0	0	0	0.0555555555555556	0.0244444444444444	0.00888888888888889	0	0	0	0.00444444444444444	0	0	0	0.00666666666666667	0	0	0	0	0	0	0	0
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0.005	0.035	0.01	0.0025	0.0275	0	0.01	0	0	0	0	0.005	0	0	0.0025	0	0	0	0.0025
+"Chrysobalanus_icaco"	0	0	0	0	0	0.08	0.01	0	0	0	0	0	0	0	0	0	0	0	0.005	0	0.005	0	0	0
+"Apis_mellifera"	0.0483516483516484	0.0043956043956044	0.0274725274725275	0.0021978021978022	0.0175824175824176	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.0246153846153846	0.0338461538461539	0.0169230769230769	0.0215384615384615	0.00307692307692308	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.0321428571428571	0.0392857142857143	0.0142857142857143	0.0142857142857143	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0	0.0962962962962963	0	0.0037037037037037	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_114"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0	0	0.0333333333333333	0.0666666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_114"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratina_tabescens"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_114"	0	0.025	0.075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_114"	0	0.05	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Melanostoma_annulipes"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhynchium_brunneum"	0.05	0	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_114"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Polistes_olivaceus"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_114"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_114"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp5_M_PL_114"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

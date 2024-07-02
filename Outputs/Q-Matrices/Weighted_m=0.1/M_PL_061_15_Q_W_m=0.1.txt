@@ -1,0 +1,25 @@
+"Canthium_bibracteatum"	"Nephrosperma_vanhoutteanum"	"Dillenia_ferruginea"	"Roscheria_melanochaetes"	"Soulamea_terminaloides"	"Excoecaria_benthiamiana"	"Apis_mellifera"	"Lasioglossum_mahense"	"Hemipyrellia_germana"	"Neophyllomyza_approximatonervis"	"Unidentified_sp7_M_PL_098"	"Ornidia_obesa"	"Rhiparida_seychellensis"	"Unidentified_sp1_M_PL_098"	"Forcipomyia_sp1_M_PL_098"	"Melanostoma_annulipes"	"Lygistorrhina_sp1_M_PL_098"	"Phelsuma_sp1_M_PL_098"	"Unidentified_sp2_M_PL_098"	"Unidentified_sp3_M_PL_098"	"Unidentified_sp6_M_PL_098"	"Hemipyrellia_sp1_M_PL_098"	"Unidentified_sp4_M_PL_098"	"Unidentified_sp5_M_PL_098"
+"Canthium_bibracteatum"	0	0	0	0	0	0	0.0518518518518519	0.0320987654320988	0.00864197530864197	0	0	0.00617283950617284	0	0	0	0	0	0	0	0	0	0.00123456790123457	0	0
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0.0333333333333333	0.0416666666666667	0.00416666666666667	0.00555555555555556	0	0	0.00277777777777778	0.00555555555555556	0	0.00416666666666667	0	0.00277777777777778	0	0	0	0	0	0
+"Dillenia_ferruginea"	0	0	0	0	0	0	0.0472222222222222	0.0388888888888889	0.00555555555555556	0	0	0	0.00833333333333333	0	0	0	0	0	0	0	0	0	0	0
+"Roscheria_melanochaetes"	0	0	0	0	0	0	0	0.00555555555555556	0	0.0166666666666667	0.0277777777777778	0	0	0	0.0166666666666667	0	0	0	0.00555555555555556	0.0111111111111111	0.00555555555555556	0	0.00555555555555556	0.00555555555555556
+"Soulamea_terminaloides"	0	0	0	0	0	0	0	0	0.0333333333333333	0	0	0	0	0	0	0	0.0333333333333333	0	0.0166666666666667	0	0.0166666666666667	0	0	0
+"Excoecaria_benthiamiana"	0	0	0	0	0	0	0.06	0	0.02	0	0.02	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0488372093023256	0.027906976744186	0.0197674418604651	0	0	0.00348837209302326	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.0366197183098592	0.0422535211267606	0.0197183098591549	0.00140845070422535	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.0466666666666667	0.02	0.0133333333333333	0	0.0133333333333333	0.00666666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0	0.0571428571428571	0	0.0428571428571429	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp7_M_PL_098"	0	0	0	0.0833333333333333	0	0.0166666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0	0.04	0.06	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_098"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Forcipomyia_sp1_M_PL_098"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Melanostoma_annulipes"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_098"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_098"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_098"	0	0	0	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_098"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp6_M_PL_098"	0	0	0	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_098"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_098"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp5_M_PL_098"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

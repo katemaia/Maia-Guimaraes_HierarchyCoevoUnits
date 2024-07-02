@@ -1,0 +1,15 @@
+"Apodemus_agrarius"	"Microtus_fortis"	"Apodemus_peninsulae"	"Crocidura_suaveolens"	"Tamias_sibiricus"	"Megabothris_calcarifer"	"Ctenophthalmus_congeneroides"	"Neopsylla_bidentatiformis"	"Stenoponia_sidimi"	"Nosopsyllus_fasciatus"	"Ceratophyllus_anisus"	"Rhadinopsylla_insolita"	"Peromyscopsylla_ostsibirica"	"Hystrichopsylla_microti"
+"Apodemus_agrarius"	0	0	0	0	0	0.0502951593860685	0.0247933884297521	0.0180637544273908	0.00247933884297521	0.00212514757969303	0.00141676505312869	0.000236127508854782	0.000354191263282172	0.000236127508854782
+"Microtus_fortis"	0	0	0	0	0	0.067965367965368	0.0233766233766234	0.00779220779220779	0	0	0	0.000865800865800866	0	0
+"Apodemus_peninsulae"	0	0	0	0	0	0.0222222222222222	0.0333333333333333	0.0222222222222222	0	0.0222222222222222	0	0	0	0
+"Crocidura_suaveolens"	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0
+"Tamias_sibiricus"	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0
+"Megabothris_calcarifer"	0.0723259762308998	0.0266553480475382	0.00033955857385399	0.00033955857385399	0.00033955857385399	0	0	0	0	0	0	0	0	0
+"Ctenophthalmus_congeneroides"	0.0786516853932584	0.0202247191011236	0.00112359550561798	0	0	0	0	0	0	0	0	0	0	0
+"Neopsylla_bidentatiformis"	0.0884393063583815	0.0104046242774566	0.00115606936416185	0	0	0	0	0	0	0	0	0	0	0
+"Stenoponia_sidimi"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nosopsyllus_fasciatus"	0.09	0	0.01	0	0	0	0	0	0	0	0	0	0	0
+"Ceratophyllus_anisus"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhadinopsylla_insolita"	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0
+"Peromyscopsylla_ostsibirica"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hystrichopsylla_microti"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0

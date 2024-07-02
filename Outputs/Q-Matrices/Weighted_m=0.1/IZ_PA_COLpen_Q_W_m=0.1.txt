@@ -1,0 +1,12 @@
+"Cordia_nodosa"	"Hirtella_myrmecophila"	"Maieta_guianensis"	"Myrcia_madida"	"Hirtella_physophora"	"Azteca_r.am.1"	"Allomerus_octoarticulatus"	"Pheidole_minutula"	"Myrcidris_sp."	"Allomerus_septemarticulatus"	"Pheidole_sp2"
+"Cordia_nodosa"	0	0	0	0	0	0.08	0	0	0	0	0.02
+"Hirtella_myrmecophila"	0	0	0	0	0	0	0.08	0	0	0.02	0
+"Maieta_guianensis"	0	0	0	0	0	0	0	0.1	0	0	0
+"Myrcia_madida"	0	0	0	0	0	0	0	0	0.1	0	0
+"Hirtella_physophora"	0	0	0	0	0	0	0.1	0	0	0	0
+"Azteca_r.am.1"	0.1	0	0	0	0	0	0	0	0	0	0
+"Allomerus_octoarticulatus"	0	0.0888888888888889	0	0	0.0111111111111111	0	0	0	0	0	0
+"Pheidole_minutula"	0	0	0.1	0	0	0	0	0	0	0	0
+"Myrcidris_sp."	0	0	0	0.1	0	0	0	0	0	0	0
+"Allomerus_septemarticulatus"	0	0.1	0	0	0	0	0	0	0	0	0
+"Pheidole_sp2"	0.1	0	0	0	0	0	0	0	0	0	0

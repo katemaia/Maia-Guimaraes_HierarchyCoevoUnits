@@ -1,0 +1,23 @@
+"Dillenia_ferruginea"	"Erythroxylum_sechellarum"	"Campnosperma_seychellarum"	"Craterispermum_microdon"	"Soulamea_terminaloides"	"Excoecaria_benthiamiana"	"Memecylon_eleagni"	"Colea_seychellarum"	"Cinnamomum_verum"	"Lasioglossum_mahense"	"Apis_mellifera"	"Unidentified_sp1_M_PL_100"	"Lygistorrhina_sp1_M_PL_100"	"Scaptodrosophila_sp1_M_PL_100"	"Eristalinus_vicarians"	"Nectarinia_dussumieri"	"Parasarcophaga_hirticeps"	"Phelsuma_sp1_M_PL_100"	"Rhiparida_seychellensis"	"Cratopus_aurostriatus"	"Unidentified_sp2_M_PL_100"	"Unidentified_sp3_M_PL_100"
+"Dillenia_ferruginea"	0	0	0	0	0	0	0	0	0	0.0375	0.04375	0	0	0	0	0	0	0.0125	0	0.00625	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0	0	0.06875	0.01875	0	0	0	0	0	0	0	0	0	0.00625	0.00625
+"Campnosperma_seychellarum"	0	0	0	0	0	0	0	0	0	0	0	0.075	0	0	0	0	0	0	0.025	0	0	0
+"Craterispermum_microdon"	0	0	0	0	0	0	0	0	0	0	0.05	0	0	0.05	0	0	0	0	0	0	0	0
+"Soulamea_terminaloides"	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0	0.0333333333333333	0	0.0333333333333333	0	0	0	0	0
+"Excoecaria_benthiamiana"	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0
+"Colea_seychellarum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0
+"Cinnamomum_verum"	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.0285714285714286	0.0523809523809524	0	0	0	0	0.0142857142857143	0	0.00476190476190476	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0538461538461538	0.0230769230769231	0	0.0230769230769231	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_100"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_100"	0	0	0	0	0.04	0.06	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Scaptodrosophila_sp1_M_PL_100"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Eristalinus_vicarians"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Nectarinia_dussumieri"	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Parasarcophaga_hirticeps"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_100"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_100"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_100"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

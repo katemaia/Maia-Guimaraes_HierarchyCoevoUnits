@@ -1,0 +1,26 @@
+"Nephrosperma_vanhoutteanum"	"Phoenicophorium_borsigianum"	"Erythroxylum_sechellarum"	"Memecylon_eleagni"	"Canthium_bibracteatum"	"Paragenipa_wrightii"	"Apis_mellifera"	"Lasioglossum_mahense"	"Megachile_seychellensis"	"Chalcidoma_disjunctum"	"Unidentified_sp3_M_PL_091"	"Cratopus_aurostriatus"	"Hemipyrellia_germana"	"Ceratina_tabescens"	"Neophyllomyza_approximatonervis"	"Phelsuma_sp1_M_PL_091"	"Tricimba_seychellensis"	"Polistes_olivaceus"	"Rhiparida_seychellensis"	"Unidentified_sp1_M_PL_091"	"Unidentified_sp4_M_PL_091"	"Geron_seychellarum"	"Lygistorrhina_sp1_M_PL_091"	"Melanostoma_annulipes"	"Unidentified_sp2_M_PL_091"
+"Nephrosperma_vanhoutteanum"	0	0	0	0	0	0	0.0490909090909091	0.0290909090909091	0.00181818181818182	0	0	0	0.00545454545454545	0	0.00181818181818182	0.00181818181818182	0	0	0.00181818181818182	0	0.00363636363636364	0.00181818181818182	0	0.00181818181818182	0.00181818181818182
+"Phoenicophorium_borsigianum"	0	0	0	0	0	0	0.0146341463414634	0.0219512195121951	0	0	0.0195121951219512	0.0146341463414634	0.00487804878048781	0	0.00731707317073171	0.00731707317073171	0.0024390243902439	0.00487804878048781	0.0024390243902439	0	0	0	0	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0.053125	0.034375	0	0	0	0	0	0	0	0	0.00625	0	0	0.003125	0	0	0.003125	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0.0473684210526316	0.0105263157894737	0	0.0421052631578947	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Canthium_bibracteatum"	0	0	0	0	0	0	0.00625	0	0.06875	0	0	0	0	0.025	0	0	0	0	0	0	0	0	0	0	0
+"Paragenipa_wrightii"	0	0	0	0	0	0	0.0363636363636364	0.0545454545454545	0	0	0	0	0	0	0	0	0	0	0	0.00909090909090909	0	0	0	0	0
+"Apis_mellifera"	0.0421875	0.009375	0.0265625	0.0140625	0.0015625	0.00625	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lasioglossum_mahense"	0.0363636363636364	0.0204545454545455	0.025	0.00454545454545455	0	0.0136363636363636	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Megachile_seychellensis"	0.00833333333333333	0	0	0	0.0916666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Chalcidoma_disjunctum"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp3_M_PL_091"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cratopus_aurostriatus"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.06	0.04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ceratina_tabescens"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Neophyllomyza_approximatonervis"	0.025	0.075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phelsuma_sp1_M_PL_091"	0.025	0.075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Tricimba_seychellensis"	0	0.0333333333333333	0.0666666666666667	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Polistes_olivaceus"	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Rhiparida_seychellensis"	0.05	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_091"	0	0	0.05	0	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp4_M_PL_091"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Geron_seychellarum"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_091"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Melanostoma_annulipes"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp2_M_PL_091"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

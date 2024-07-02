@@ -1,0 +1,23 @@
+"Geissomeria_schottiana"	"Justicia_scheidweileri"	"Ruellia_brevifolia"	"Passiflora_speciosa"	"Mendoncia_velloziana"	"Fridericia_speciosa"	"Corymborkis_flava"	"Heliconia_simulans"	"Mutisia_speciosa"	"Lantana_camara"	"Rubus_rosaefolius"	"Passiflora_kermesina"	"Hyptis_asperrima"	"Ruellia_subsessilis"	"Thalurania_glucopis"	"Phaethornis_squalidus"	"Phaethornis_ruber"	"Calliphlox_amethystina"	"Chlorostilbon_aureoventris"	"Phaethornis_pretrei"	"Amazilia_fimbriata"	"Amazilia_lactea"
+"Geissomeria_schottiana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0648148148148148	0.0259259259259259	0.00555555555555556	0	0	0.00185185185185185	0.00185185185185185	0
+"Justicia_scheidweileri"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0515151515151515	0.0121212121212121	0.0363636363636364	0	0	0	0	0
+"Ruellia_brevifolia"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.06	0.035	0	0	0.005	0	0
+"Passiflora_speciosa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0
+"Mendoncia_velloziana"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.08	0	0.01	0	0	0	0	0.01
+"Fridericia_speciosa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0333333333333333	0	0.0444444444444444	0.0222222222222222	0	0	0
+"Corymborkis_flava"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.075	0	0	0.025	0	0	0
+"Heliconia_simulans"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.025	0.0125	0.0625	0	0	0	0	0
+"Mutisia_speciosa"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Lantana_camara"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.06	0.04	0	0	0	0	0
+"Rubus_rosaefolius"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.02	0.08	0	0	0	0	0
+"Passiflora_kermesina"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Hyptis_asperrima"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.05	0.05	0	0	0
+"Ruellia_subsessilis"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0
+"Thalurania_glucopis"	0.0564516129032258	0.0274193548387097	0	0	0.0129032258064516	0	0	0.0032258064516129	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Phaethornis_squalidus"	0.0254545454545455	0.00727272727272727	0.0218181818181818	0.02	0	0.00545454545454545	0.0109090909090909	0.00181818181818182	0	0.00545454545454545	0.00181818181818182	0	0	0	0	0	0	0	0	0	0	0
+"Phaethornis_ruber"	0.00638297872340425	0.025531914893617	0.0148936170212766	0	0.00212765957446809	0	0	0.0106382978723404	0.0148936170212766	0.00425531914893617	0.00851063829787234	0.00851063829787234	0	0.00425531914893617	0	0	0	0	0	0	0	0
+"Calliphlox_amethystina"	0	0	0	0	0	0.08	0	0	0	0	0	0	0.02	0	0	0	0	0	0	0	0	0
+"Chlorostilbon_aureoventris"	0	0	0	0	0	0.04	0.04	0	0	0	0	0	0.02	0	0	0	0	0	0	0	0	0
+"Phaethornis_pretrei"	0.05	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amazilia_fimbriata"	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Amazilia_lactea"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

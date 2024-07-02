@@ -1,0 +1,21 @@
+"Canthium_bibracteatum"	"Psidium_cattleianum"	"Premna_serratifolia"	"Erythroxylum_sechellarum"	"Cinnamomum_verum"	"Ochna_kirkii"	"Memecylon_eleagni"	"Lasioglossum_mahense"	"Apis_mellifera"	"Ornidia_obesa"	"Parasarcophaga_hirticeps"	"Unidentified_sp1_M_PL_109"	"Xylocopa_caffra"	"Hemipyrellia_germana"	"Pachycerina_seychellensis"	"Dichaetomyia_fasciculifera"	"Hemipyrellia_sp1_M_PL_109"	"Lygistorrhina_sp1_M_PL_109"	"Plagiostenopterina_cyanosoma"	"Simosyrphus_aegyptius"
+"Canthium_bibracteatum"	0	0	0	0	0	0	0	0.0545454545454545	0.0272727272727273	0.00606060606060606	0	0	0	0.0121212121212121	0	0	0	0	0	0
+"Psidium_cattleianum"	0	0	0	0	0	0	0	0	0.0689655172413793	0.0103448275862069	0.0172413793103448	0	0.00344827586206897	0	0	0	0	0	0	0
+"Premna_serratifolia"	0	0	0	0	0	0	0	0.0173913043478261	0	0.0173913043478261	0.0130434782608696	0.0260869565217391	0	0.00434782608695652	0.00869565217391304	0.00869565217391304	0.00434782608695652	0	0	0
+"Erythroxylum_sechellarum"	0	0	0	0	0	0	0	0.068421052631579	0.0157894736842105	0	0	0	0	0	0.00526315789473684	0	0	0.0105263157894737	0	0
+"Cinnamomum_verum"	0	0	0	0	0	0	0	0.0722222222222222	0	0.00555555555555556	0.00555555555555556	0	0	0	0	0	0.00555555555555556	0	0.0111111111111111	0
+"Ochna_kirkii"	0	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0
+"Memecylon_eleagni"	0	0	0	0	0	0	0	0	0.0666666666666667	0	0	0	0	0	0	0	0	0	0	0.0333333333333333
+"Lasioglossum_mahense"	0.0375	0	0.00833333333333333	0.0270833333333333	0.0270833333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Apis_mellifera"	0.0264705882352941	0.0588235294117647	0	0.00882352941176471	0	0	0.00588235294117647	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Ornidia_obesa"	0.02	0.03	0.04	0	0.01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Parasarcophaga_hirticeps"	0	0.0555555555555556	0.0333333333333333	0	0.0111111111111111	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Unidentified_sp1_M_PL_109"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Xylocopa_caffra"	0	0.0166666666666667	0	0	0	0.0833333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_germana"	0.08	0	0.02	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Pachycerina_seychellensis"	0	0	0.0666666666666667	0.0333333333333333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Dichaetomyia_fasciculifera"	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Hemipyrellia_sp1_M_PL_109"	0	0	0.05	0	0.05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Lygistorrhina_sp1_M_PL_109"	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Plagiostenopterina_cyanosoma"	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Simosyrphus_aegyptius"	0	0	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	0	0	0
