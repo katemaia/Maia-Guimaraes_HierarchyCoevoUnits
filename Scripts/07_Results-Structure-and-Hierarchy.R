@@ -161,7 +161,7 @@ net_struct %>% filter(n_m6 != 0) %>% # 345 remaining as NaNs are 0/0 (21 had non
 # -------------- PART 2: Complementing Table 1 with z-scores --------------
 
 # Author: Kate P Maia
-# Checked: 04/2024
+# Checked: 08/2024
 
 # --------------------- Loading library, code and data --------------------
 
@@ -244,11 +244,11 @@ for (i in 1:length(net_names)) { # for each network
 # ------------------- computing zscore values for Table1 ------------------
 
 table1 <- read.table("./Outputs/07_No-of-Groups_NullModel.txt", header = TRUE, sep = "\t")
-modresults <- read.table("./Modularity/Null_Matrices/FastGrid/OUT_MOD.txt", header = TRUE, sep = "\t") # number of modules: Newman metric, Fast Grid algorithm, MODULAR PROGRAMME 
+modresults <- read.table("./Outputs/Null_GC_M/ResultsFG/OUT_MOD.txt", header = TRUE, sep = "\t") # number of modules: Newman metric, Fast Grid algorithm, MODULAR PROGRAMME 
 
 # fixing network ID
-modresults <- modresults %>% mutate(File = str_sub(File, start = 3, end = -5)) %>% 
-  mutate(File = gsub(paste(paste0("_GC1_", 1:100), collapse = "|"), "", File)) %>% 
+modresults <- modresults %>% mutate(File = str_sub(File, start = 6, end = -5)) %>% 
+  mutate(File = gsub(paste(paste0("_N", 1:100), collapse = "|"), "", File)) %>% 
   select(File, N.modules) %>% rename(ID = File, NMod = N.modules) %>% 
   group_by(ID) %>% summarise(MNM = mean(NMod), SDNM = sd(NMod))
 
@@ -272,8 +272,8 @@ table1 %>% filter(SDNC) %>% # 245 = 376 - 131
   group_by(IntType) %>% summarise(N = sum(SDNC), Mean = mean(ZComp), SD = sd(ZComp))
 
 # Number of Modules  
-table1 %>% filter(!SDNM) # 6 with sd = 0
-table1 %>% filter(SDNM) %>% # 335 = 376 - 10 - 6 (10 starLC and multLC)
+table1 %>% filter(!SDNM) # 31 with sd = 0
+table1 %>% filter(SDNM) %>% # 335 = 376 - 10 - 31 (10 starLC and multLC)
   group_by(IntType) %>% summarise(N = sum(SDNM), Mean = mean(ZMod), SD = sd(ZMod))
 
 # Number of Subgraphs  
