@@ -1,7 +1,7 @@
 # -------------------------- Node-Level Structure -------------------------
 
 # Author: Kate P Maia
-# Checked: 12/2023
+# Checked: 08/2024
 
 # Creates sp_struct dataframe containing information on the role of each species to the cohesive groups across ecological network scales, and prints matrices of networks' largest components for modularity analysis. Divided in:
 # Loading library, code and data
