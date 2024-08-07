@@ -1,7 +1,7 @@
 # --------------- Exploring networks' additional components ---------------
 
 # Author: Kate P Maia
-# Checked: 02/2024
+# Checked: 08/2024
 
 # Explores networks' additional components, those which are not the largest. Code is divided in:
 # Loading library, code and data

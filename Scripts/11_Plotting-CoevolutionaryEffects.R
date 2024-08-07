@@ -1,7 +1,7 @@
 # -------------- Manuscript figures: coevolutionary effects ---------------
 
 # Author: Kate P Maia
-# Checked: 12/2023
+# Checked: 08/2024
 
 # Reads data generated in previous scripts to plot manuscript figures on coevolutionary effects across groups and the hierarchical structure of ecological networks. 
 
@@ -269,7 +269,7 @@ lines <- lines_from_points_grp(points)
 
 ggplot(points, aes(x = group, y = value)) + geom_point(aes(color = effmeasure, alpha = m)) +
   geom_segment(data = lines, aes(x = x, y = y, xend = xend, yend = yend, color = effmeasure, alpha = m)) +
-  geom_hline(yintercept = 1, size = .5, colour = "grey30", alpha = 0.3) +
+  geom_hline(yintercept = 1, linewidth = .5, colour = "grey30", alpha = 0.3) +
   xlab("") + ylab("Effect-link ratio inside groups") +
   facet_wrap(~IntType, nrow = 2) + theme_classic() +
   theme(axis.text.x = element_text(size = 12), axis.text.y = element_text(size = 12), axis.title.y = element_text(size = 14), axis.title.x = element_text(size = 14), strip.text = element_text(size = 12)) + scale_color_manual(values = c("#00BFC4", "#F8766D"))

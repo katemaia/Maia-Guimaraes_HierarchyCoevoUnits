@@ -1,7 +1,7 @@
 # --------------- Manuscript figures: groups and hierarchy ----------------
 
 # Author: Kate P Maia
-# Checked: 12/2023
+# Checked: 08/2024
 
 # Reads data generated in previous scripts to plot manuscript figures on group structure of ecological networks and hierarchical structure. 
 

@@ -1,7 +1,7 @@
 # ---------------------------- Subgraph profile ---------------------------
 
 # Author: Kate P Maia
-# Checked: 12/2023
+# Checked: 08/2024
 
 # Creates and prints the profile of motif-6 within network's largest components. Motif-6 (Simmons et al. 2019) corresponds to the subgraph selected to represent the smallest cohesive group in ecological networks.
 

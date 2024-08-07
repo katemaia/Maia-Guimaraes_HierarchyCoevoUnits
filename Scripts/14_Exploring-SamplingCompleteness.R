@@ -1,7 +1,7 @@
 # -------------- Manuscript figures: coevolutionary effects ---------------
 
 # Author: Kate P Maia
-# Checked: 04/2024
+# Checked: 08/2024
 
 # Explores main structural and dynamics results on cropped dataset: only including networks which attempted to quantify sampling completeness. 
 

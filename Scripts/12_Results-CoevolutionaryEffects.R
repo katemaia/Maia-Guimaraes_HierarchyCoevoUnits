@@ -1,7 +1,7 @@
 # -------------- Manuscript results: coevolutionary effects ---------------
 
 # Author: Kate P Maia
-# Checked: 12/2023
+# Checked: 08/2024
 
 # Reads data generated in previous scripts to generate manuscript results on coevolutionary effects across groups and the hierarchical structure of ecological networks. 
 

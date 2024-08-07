@@ -1,7 +1,7 @@
 # ------------------------ Network-Level Structure ------------------------
 
 # Author: Kate P Maia
-# Checked: 12/2023
+# Checked: 08/2024
 
 # Creates net_struct dataframe containing information on the structure of cohesive species groups across ecological network scales. Divided in:
 # Loading library, code and data

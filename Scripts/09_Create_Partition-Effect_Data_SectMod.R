@@ -1,7 +1,7 @@
 # ------ Partition effects within largest components (sector/module) ------
 
 # Author: Kate P Maia
-# Checked: 12/2023
+# Checked: 08/2024
 
 # Partitions effect measures (direct and indirect effects)  - per network and per m value - in four groups: effects inside sectors and inside modules (inSinM), inside sectors but between modules (inSbetM), between sectors but inside modules (betSinM) and between sectors and between modules (betSbetM). Prints partition_df with the four partitions per network (ID), interaction type (IntType), effect measure (deff or ieff), and m (0.1, 0.5 or 0.9).
 

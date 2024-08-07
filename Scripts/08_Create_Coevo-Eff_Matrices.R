@@ -1,7 +1,7 @@
 # --------- T-matrix (total effects) and Q-matrix (direct effects) --------
 
 # Author: Kate P Maia
-# Checked: 12/2023
+# Checked: 08/2024
 
 # Computes and prints T and Q - the matrices of total (direct and indirect) and direct effects, using three values of the strength of interactions as a source of selective pressure (m). 
 

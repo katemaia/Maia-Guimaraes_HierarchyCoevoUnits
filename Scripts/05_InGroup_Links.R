@@ -1,7 +1,7 @@
 # --------- Net-level data: adds proportion of links inside groups --------
 
 # Author: Kate P Maia
-# Checked: 12/2023
+# Checked: 08/2024
 
 # Calculates the proportion of links within (exchanged by species in the same) and between (exchanged by species in distinct) groups, for groups across network scales (sectors, modules and motifs). Adds results to net-level data. 
 
