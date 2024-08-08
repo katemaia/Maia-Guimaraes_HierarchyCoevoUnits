@@ -22,7 +22,7 @@ fiedler_vec <- function(M) {
   rownames(A) <- c(rownames(M), colnames(M))
   if (any(rownames(A) != colnames(A))) {print("ERROR IN FIEDLER_GC: 1")}
   
-  g <- graph_from_adjacency_matrix(A, "undirected")
+  g <- igraph::graph_from_adjacency_matrix(A, "undirected")
   clu <- igraph::components(g)
   largclu <- which(clu$csize == max(clu$csize)) # largest component(s)
   comp.sp <- groups(clu) # species affiliation to each component
@@ -31,9 +31,9 @@ fiedler_vec <- function(M) {
   for (i in 1:length(largclu)) { # foor networks with multiple largest components
     lc <- largclu[i] 
     lcsp <- comp.sp[[lc]]
-    glc <- induced_subgraph(g, lcsp)
+    glc <- igraph::induced_subgraph(g, lcsp)
     if (any(V(glc)$name != lcsp)) {print("ERROR in glc graph")}
-    laplaglc <- graph.laplacian(glc)
+    laplaglc <- igraph::graph.laplacian(glc)
     eigen <- eigen(laplaglc)
     fied_position <- order(eigen$values)[2]
     fiedler <- eigen$vectors[, fied_position]
