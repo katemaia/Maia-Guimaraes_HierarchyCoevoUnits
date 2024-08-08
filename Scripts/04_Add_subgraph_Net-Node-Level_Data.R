@@ -9,7 +9,7 @@
 # --------------------- Loading library, code and data --------------------
 
 library(stringr)
-library(bmotif)
+library(bmotif) # package available at https://github.com/SimmonsBI/bmotif
 
 dataset <- read.table("./Data/Project_Dataset.txt", header = T, sep = "\t", stringsAsFactors = F)
 

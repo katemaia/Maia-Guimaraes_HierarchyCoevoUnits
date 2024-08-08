@@ -168,7 +168,7 @@ net_struct %>% filter(n_m6 != 0) %>% # 345 remaining as NaNs are 0/0 (21 had non
 library(tidyverse)
 library(bipartite)
 library(igraph)
-library(bmotif)
+library(bmotif) # package available at https://github.com/SimmonsBI/bmotif 
 source("./Scripts/functions/inc2adj.R")
 
 net_struct <- read.table("./Outputs/05_Net-Level_Struct.txt", header = T, sep = "\t")
