@@ -13,6 +13,8 @@
 # --------------------- Loading library, code and data --------------------
 
 library(tidyverse)
+library(igraph)
+
 source("./Scripts/functions/component_sp.R")
 
 dataset <- read.table("./Data/Project_Dataset.txt", header = TRUE, sep = "\t", stringsAsFactors = FALSE) # dataset to provide interaction type

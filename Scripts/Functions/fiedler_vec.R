@@ -6,8 +6,6 @@
 # fiedler_vec: calculates the fiedler vector of networks' largest components. 
 # output: list with one df for each largest component; with the name of each compoentn node (sp) and its fiedler value.
 
-library(igraph)
-
 # --------------------------------------------------------------
 
 fiedler_vec <- function(M) {
@@ -25,14 +23,14 @@ fiedler_vec <- function(M) {
   g <- igraph::graph_from_adjacency_matrix(A, "undirected")
   clu <- igraph::components(g)
   largclu <- which(clu$csize == max(clu$csize)) # largest component(s)
-  comp.sp <- groups(clu) # species affiliation to each component
+  comp.sp <- igraph::groups(clu) # species affiliation to each component
   
   fiedler_GC <- list()
   for (i in 1:length(largclu)) { # foor networks with multiple largest components
     lc <- largclu[i] 
     lcsp <- comp.sp[[lc]]
     glc <- igraph::induced_subgraph(g, lcsp)
-    if (any(V(glc)$name != lcsp)) {print("ERROR in glc graph")}
+    if (any(igraph::V(glc)$name != lcsp)) {print("ERROR in glc graph")}
     laplaglc <- igraph::graph.laplacian(glc)
     eigen <- eigen(laplaglc)
     fied_position <- order(eigen$values)[2]
