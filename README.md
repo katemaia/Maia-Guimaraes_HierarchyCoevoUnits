@@ -5,7 +5,7 @@
 
 Repository of data and scripts of manuscript entitled "The hierarchical coevolutionary units of ecological networks" of Kate Pereira Maia and Paulo Roberto Guimaraes Jr. 
 
-REPO DOI: DOI: 10.5281/zenodo.13305891
+REPO DOI: 10.5281/zenodo.13305891
 
 The repository is divided in the following four folders:
 
