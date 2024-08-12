@@ -1,7 +1,7 @@
 # --------- fiedler_vec - species affiliation to sector --------
 
 # Author: Kate P Maia
-# Checked: 12/2023
+# Checked: 08/2024
 
 # fiedler_vec: calculates the fiedler vector of networks' largest components. 
 # output: list with one df for each largest component; with the name of each compoentn node (sp) and its fiedler value.
@@ -31,7 +31,7 @@ fiedler_vec <- function(M) {
     lcsp <- comp.sp[[lc]]
     glc <- igraph::induced_subgraph(g, lcsp)
     if (any(igraph::V(glc)$name != lcsp)) {print("ERROR in glc graph")}
-    laplaglc <- igraph::graph.laplacian(glc)
+    laplaglc <- igraph::laplacian_matrix(glc)
     eigen <- eigen(laplaglc)
     fied_position <- order(eigen$values)[2]
     fiedler <- eigen$vectors[, fied_position]

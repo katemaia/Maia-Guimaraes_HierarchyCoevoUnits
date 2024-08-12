@@ -10,6 +10,8 @@
 
 # output: df with network network ID, species' name, species' MDim (matrix dimension to identify whether a consumer or resource species), species' degree, largest component affiliation (GC_Aff), sector affiliation (Fiedler), and module affiliation (Mod_Aff).
 
+# We replaced an igraph function which was deprecated in the auxiliary function fiedler_vec. The new function equally splits species in sectors, but inverts the sign of sector tags for some networks. We emphasize that the sign is completely arbitrary, therefore, not affecting paper results. To produce sector affiliation tags with equal signs as the ones used in the paper, uncomment lines 35 and 48 of this script.   
+
 # --------------------- Loading library, code and data --------------------
 
 library(tidyverse)
@@ -29,8 +31,12 @@ sp_struct <- data.frame(ID = character(0), Species = character(0), MDim = numeri
 
 # --------------- NODE AFFILIATION TO COMPONENTS AND SECTORS -------------- 
 
+# position and ID of inverted networks
+#invposit <- c(1,3,10,11,23,35,51,52,53,61,72,79,84,93,97,99,105,107,108,137,158,165,168,172,178,180,181,183,184,189,191,194,198,214,219,221,224,229,230,233,234,242,252,257,258,262,266,267,273,274,289,292,294,295,297,301,305,322,323,324,327,331,332,346,353,360,362,365,369,370); invID <- dataset$ID[invposit]
+
 for (i in 1:length(net_names)) {
 
+  ID <- dataset[i, "ID"]
   IntType <- dataset[i, "IntType"]
   M <- net_list[[i]]; M[M > 0] <- 1
   
@@ -39,6 +45,7 @@ for (i in 1:length(net_names)) {
   MDim <- c(rep(1, dim(M)[1]), rep(2, dim(M)[2]))
   Degree <- c(rowSums(M), colSums(M))
   fiedler <- component_sp(M) # returns the 
+  #if(ID %in% invID) {fiedler$Fiedler <- -fiedler$Fiedler}
   
   # Creates matrices of networks' largest components for modularity analysis
   lcs <- unique(na.omit(fiedler$GC_aff)) # largest net components
